@@ -1,4 +1,4 @@
-# 업종별 템플릿
+# 페이지 기능-업종별 템플릿
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**템플릿 페이지란?**
 

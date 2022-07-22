@@ -1,4 +1,4 @@
-# HTML에디터 페이지
+# 페이지 기능-HTML에디터 페이지
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **HTML 에디터페이지란?**
 

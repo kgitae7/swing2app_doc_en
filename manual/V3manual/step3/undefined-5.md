@@ -1,4 +1,4 @@
-# 이미지 페이지
+# 페이지 기능-이미지 페이지
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**이미지페이지란?**
 
