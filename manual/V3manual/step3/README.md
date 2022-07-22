@@ -12,7 +12,7 @@
 
 홈화면을 적용하는 방법과 메인 메뉴를 적용하는 방법을 알려드리겠습니다.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.홈화면 적용 방법**
 
@@ -60,7 +60,7 @@
 
 
 
-![](../../.gitbook/assets/구분선.PNG)
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 메뉴 관리**
 
