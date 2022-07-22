@@ -1,6 +1,8 @@
 # App Store TestFlight
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/testflight.png)**How to launch an app store TestFlight app?**
+![](https://support.swing2app.com/wp-content/uploads/2020/05/testflight.png)
+
+**How to launch an app store TestFlight app?**
 
 App Store **TestFlight** Launch Manual for iPhone Internal Use
 
@@ -11,6 +13,8 @@ In other words, you can only launch apps available to all users to the App Store
 Therefore, if you create an app that is only available to employees within the company, it will not be released on the App Store, which may make it difficult for iPhone users to use.
 
 **The only way to do this is to use test-flight without officially distributing it to the App Store so that only users who have been added can use the app.**
+
+****
 
 **What is test-flight?**
 
@@ -23,10 +27,9 @@ Therefore, it can be used inside the company or when only authorized iPhone user
 
 ***
 
-**1.How to use**
+### <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to use**</mark>
 
-It is the same as using the paid app.\
-
+It is the same as using the paid app.
 
 **1)After completing the app production, please purchase a swing paid app pass and app store upload ticket.**
 
@@ -40,17 +43,21 @@ Therefore, you must fill in all items listed in the upload request form and appl
 
 \*Please write- **TestFlight release in the upload request form.**&#x20;
 
-**☞**[ **\[Check the App Store Upload Instruction Manual\]**](https://support.swing2app.com/documentation/appmanage/version/appstore-upload/)
+**☞**[ **\[Check the App Store Upload Instruction Manual\]**](../../manual/appmanage/version/appstore-upload.md)
+
+
 
 **3) After completing the upload request, please send an e-mail to the App Store TestFlight request to help@swing2app.com.**
 
-**=Please collect and send all Apple accounts (email addresses) of users who will use the iPhone app.**
+<mark style="color:green;">**=Please collect and send all Apple accounts (email addresses) of users who will use the iPhone app.**</mark>
 
 For the iPhone account, you can check the Apple-ID by entering the settings menu on the iPhone.
 
 \*Users’ Apple Accounts must be collected and sent to the end.
 
 \*If you add more later, you must purchase and apply for an upload ticket again, so it is recommended to collect and send email accounts of all iPhone users.
+
+
 
 **4)App Store TestFlight App release takes about 3-5 days.**
 
@@ -62,7 +69,7 @@ It is sooner than the release of the app rather than the distribution by the off
 
 ***
 
-**2. Precautions**
+### <mark style="color:blue;">**2. Precautions**</mark>
 
 **1) The TestFlight app is released for 90 days.**
 
@@ -86,21 +93,23 @@ After that, every time you invite a user account, you have to re-apply for uploa
 
 Please note that even if you use an iPhone, you won’t be able to install a test app unless you have an Apple ID set on that iPhone!
 
-**For TestFlight related inquiries, please leave an inquiry email: help@swing2app.com and we will help you.**&#x20;
+
+
+**For TestFlight related inquiries, please leave an inquiry email: **<mark style="color:blue;">**help@swing2app.com**</mark>** and we will help you.**&#x20;
 
 ***
 
-**3. How to install the app after the launch of TestFlight**
+### <mark style="color:blue;">**3. How to install the app after the launch of TestFlight**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/05/TF4@3x.png)
 
 **When the TestFlight app launch is complete, an invitation email for app installation is sent to the registered user’s Apple ID.**
 
-Select the **\[View in TestFlight]** button in the mail.
+Select the <mark style="color:blue;">**\[View in TestFlight]**</mark> button in the mail.
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/05/TF2@3x.png)
 
-★Important: Those who do not have the TestFlight app installed should search for the TestFlight app in the App Store and install it first.
+<mark style="color:red;">★Important: Those who do not have the TestFlight app installed should search for the TestFlight app in the App Store and install it first.</mark>
 
 If you are using TestFlight for the first time, the Terms of Use page will appear first.
 
@@ -133,5 +142,3 @@ You can run the app by pressing the \[Open] button.
 **-The test version has the same function and operation as the officially released app.**
 
 **-E-mail can only be set with your Apple ID.**
-
-***

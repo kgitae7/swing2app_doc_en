@@ -56,7 +56,7 @@ Enter the URL here.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2298.png)
 
-&#x20;**Move to** [**Swing2app Manager page → Services → Subscription Settings → Add subscription policy page.**](https://support.swing2app.com/view/app\_setting)
+&#x20;**Move to** [**Swing2app Manager page → Services → Subscription Settings → Add subscription policy page.**](https://www.swing2app.com/view/app\_setting)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2300.png)
 
@@ -64,33 +64,39 @@ You can check the \[Terms of Service] and \[Privacy Policy] on the app subscript
 
 **You can apply these terms to the privacy policy URL described above.**
 
-**\*\* Please correct the terms and conditions.**
+<mark style="color:red;">**\*\* Please correct the terms and conditions.**</mark>
 
 **Since the default setting with our company name and service name, users must directly use their service name and company name, you need to make corrections.**
 
 The contents of the Terms and Conditions can be edited, so please change the company name and brand name.
 
-**​\*Once the terms and conditions, the contents of the personal information processing rules and modifications are completed, please select the \[Save] button at the bottom to save it.**
+**​\*Once the terms and conditions, the contents of the personal information processing rules and modifications are completed, please select the **<mark style="color:blue;">**\[Save]**</mark>** button at the bottom to save it.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2299.png)You can preview the full terms by clicking the \[View Terms of Service URL] button.
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2299.png)
+
+You can preview the full terms by clicking the \[View Terms of Service URL] button.
 
 Then, copy the URL and paste it into the Privacy Policy URL.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2301.png)If you preview, you can check the terms of service.
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2301.png)
+
+If you preview, you can check the terms of service.
 
 You can copy the URL listed in the upper site address column and paste it into the Privacy Policy URL field.
 
 ***
 
-**STEP.2 For WebViews and Push apps, please provide the website privacy policy.**
+### <mark style="color:blue;">**STEP.2 For WebViews and Push apps, please provide the website privacy policy.**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2302.png)(This image is on the Swing2App site’s privacy policy page!)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2302.png)
 
-For web view and push (web apps created by linking the website to the app as it is), you can insert the link to the privacy policy of the linked website.
+(This image is on the Swing2App site’s privacy policy page!)
 
-Please enter the URL of the personal information processing policy page registered on the operating homepage site in the personal information handling policy.
+<mark style="color:purple;">For web view and push (web apps created by linking the website to the app as it is), you can insert the link to the privacy policy of the linked website.</mark>
+
+<mark style="color:purple;">Please enter the URL of the personal information processing policy page registered on the operating homepage site in the personal information handling policy.</mark>
 
 If you look at the operating homepage, there is usually a privacy policy page.
 
@@ -100,7 +106,7 @@ Then, you can easily modify the privacy policy you have already created without 
 
 ***
 
-**STEP3. Entering the Privacy Policy URL in the Play Store**
+### <mark style="color:blue;">**STEP3. Entering the Privacy Policy URL in the Play Store**</mark>
 
 **If you’ve confirmed how to get the privacy policy link above!**
 
@@ -110,7 +116,9 @@ Then, you can easily modify the privacy policy you have already created without 
 
 &#x20;Please access the ​[**Google Play developer console site** ](https://play.google.com/apps/publish)**and select the registered application.**
 
-[![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2303.png)https://play.google.com/console/developers](https://play.google.com/console/developers) Connect to Google Developer Console and select ->\[Create App].
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2303.png)
+
+[https://play.google.com/console/developers](https://play.google.com/console/developers) Connect to Google Developer Console and select ->\[Create App].
 
 (If the application is already registered, please select the application)
 
@@ -120,7 +128,9 @@ You can check the **\[Privacy Policy]** item on the page, and select the \[Start
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-11-04-at-10.30.44-PM.png)Enter the URL copied above in the Privacy Policy URL field ^^
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-11-04-at-10.30.44-PM.png)
+
+Enter the URL copied above in the Privacy Policy URL field ^^
 
 Complete when you select the \[Save] button!
 
@@ -134,7 +144,9 @@ Apps released on the Play Store can be found in the **Developer Contact Menu-Pri
 
 If selected, the page written in the Swing2App App Subscription Policy-Terms of Use will be displayed on the screen.
 
-![▶](https://s.w.org/images/core/emoji/11/svg/25b6.svg) **How to register a link to the Play Store Privacy Policy**
+
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">**How to register a link to the Play Store Privacy Policy**</mark>
 
 1.Enter the privacy policy or copy the link
 
@@ -153,7 +165,7 @@ If selected, the page written in the Swing2App App Subscription Policy-Terms of 
 
 ***
 
-**\[Notes on policy change]**
+<mark style="color:red;">**\[Notes on policy change]**</mark>
 
 1. If you are using version 1.0, unlike version 2.0 and version 2.1, there is no URL for the app usage policy.\
    So, for those who use 1.0, I put a link to the privacy policy that I use in Swing.\

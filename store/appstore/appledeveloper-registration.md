@@ -1,7 +1,5 @@
 # App Store Apple Developer Account Registration
 
-1747 views 0 September 7, 2018 June 22, 2020 user
-
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_store.png)
 
 **How to create an Apple App Store developer account**
@@ -12,7 +10,7 @@ To register an app in the App Store, you need to create an Apple Developer accou
 
 **\*Apple registration fee is $129 per year.**
 
-**★Important Guide 2018.07 Apple Policy Update**
+<mark style="color:red;">**★Important Guide 2018.07 Apple Policy Update**</mark>
 
 The Apple Developer account can only be registered if you have an Apple-iPhone, iPad, or other devices.
 
@@ -20,18 +18,18 @@ You can register an Apple Developer account only if you have an Apple device cer
 
 ***
 
-**STEP.1  Access to Apple Developer Registration Site**
+### <mark style="color:blue;">**STEP.1  Access to Apple Developer Registration Site**</mark>
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/835ceb9e81323da7a04529178fd2ec7e.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221136225099\&redirect=Log\&widgetTypeCall=true\&topReferer=http%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25A0%25ED%2594%258C%2B%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%26x%3D0%26y%3D0\&directAccess=false)
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/835ceb9e81323da7a04529178fd2ec7e.png)
 
 Apple Developer Site: **** [**https://developer.apple.com/**](https://developer.apple.com/) **** \
 **Go to the Apple developer site and select the \[Account] button in the upper right corner.**
 
 ***
 
-**STEP.2 Access to Apple Developer Registration Site**
+### <mark style="color:blue;">**STEP.2 Access to Apple Developer Registration Site**</mark>
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/bf9f3ac7d7dd9131b7374baad5e84dc3.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221136225099\&redirect=Log\&widgetTypeCall=true\&topReferer=http%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25A0%25ED%2594%258C%2B%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%26x%3D0%26y%3D0\&directAccess=false)
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/bf9f3ac7d7dd9131b7374baad5e84dc3.png)
 
 If you have an Apple account, please enter your Apple ID and password to log in..\
 If you need to create a new account, please create an account by registering.\
@@ -39,7 +37,7 @@ I already have an account and I will log in with that account.
 
 ***
 
-**STEP.3 Accept Developer Agreement**
+### <mark style="color:blue;">**STEP.3 Accept Developer Agreement**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%901.png)
 
@@ -49,24 +47,23 @@ Check the agreement and select the \[Submit] button.
 
 ***
 
-**STEP.4 Join the Apple Developer Program**
+### <mark style="color:blue;">**STEP.4 Join the Apple Developer Program**</mark>
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e14f6bfbe5cdabad83ecc5e77ea66df0.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221136225099\&redirect=Log\&widgetTypeCall=true\&topReferer=http%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25A0%25ED%2594%258C%2B%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%26x%3D0%26y%3D0\&directAccess=false)
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/e14f6bfbe5cdabad83ecc5e77ea66df0.png)
 
 Select the **\[Join the Apple Developer Program]** area at the bottom.
 
 ***
 
-**STEP.5 Enroll for Apple Developer Program**\
+### <mark style="color:blue;">**STEP.5 Enroll for Apple Developer Program**</mark>
 
-
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a9664b9bf6b8691656a869f5e5af5ce4.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221136225099\&redirect=Log\&widgetTypeCall=true\&topReferer=http%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25A0%25ED%2594%258C%2B%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%26x%3D0%26y%3D0\&directAccess=false)
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/a9664b9bf6b8691656a869f5e5af5ce4.png)
 
 Select the **\[Enroll]** button at the top.
 
 ***
 
-**STEP.6 Confirm the procedure required for registration**
+### <mark style="color:blue;">**STEP.6 Confirm the procedure required for registration**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%902.png)
 
@@ -82,17 +79,19 @@ The D-U-N-S number will be explained again below.
 
 ***
 
-**STEP.7 Registration Type**
+### <mark style="color:blue;">**STEP.7 Registration Type**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%903.png) ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%904.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%903.png)
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%904.png)
 
 Please choose whether to register as an individual or as a company.\
 I chose to be an individual.\
 Please select **\[Continue]** at the bottom.
 
-***
 
-**STEP.8 Enter basic information**
+
+### <mark style="color:blue;">**STEP.8 Enter basic information**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%905.png)
 
@@ -114,15 +113,15 @@ Please enter English in the **\[Romanized Contact information] field.**
 
 ***
 
-**STEP.9 Apple Developer Registration Agreement**
+### <mark style="color:blue;">**STEP.9 Apple Developer Registration Agreement**</mark>
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ce99a4d91ccadcd9f7214d91f128a53d.png)](https://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221136225099\&redirect=Log\&widgetTypeCall=true\&topReferer=http%3A%2F%2Fblog.naver.com%2FPostSearchList.nhn%3FblogId%3Dswing2app%26categoryNo%3D0%26range%3Dall%26SearchText%3D%25EC%2595%25A0%25ED%2594%258C%2B%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%26x%3D0%26y%3D0\&directAccess=false)
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/ce99a4d91ccadcd9f7214d91f128a53d.png)
 
 Check your consent and select **Continue.**
 
 ***
 
-**STEP.10 Final confirmation of basic information**
+### <mark style="color:blue;">**STEP.10 Final confirmation of basic information**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%907.png)
 
@@ -132,7 +131,7 @@ If confirmed, select **Continue.**
 
 ***
 
-**STEP.11 Pay Apple Developer Registration Fee**
+### <mark style="color:blue;">**STEP.11 Pay Apple Developer Registration Fee**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%908.png)
 
@@ -148,7 +147,7 @@ Please select the **\[Purchase]** button.
 
 ***
 
-**STEP.12 Pay Apple Developer Registration Fee**
+### <mark style="color:blue;">**STEP.12 Pay Apple Developer Registration Fee**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%9011.png)
 
@@ -164,9 +163,11 @@ Therefore, the developer registration is completed only after payment is complet
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A4%841-1.png)
 
-**▶ D-U-N-S Number**
+<mark style="color:blue;">**▶ D-U-N-S Number**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%909.png) ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%9010.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%909.png)
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%9010.png)
 
 As mentioned above, when registering as a company, you need to get a DUNS number.\
 A company called D & B can be issued for a certain fee.\
@@ -183,6 +184,8 @@ Of course, it may take some time to issue.\
 > 3\. Postal address:\
 > 4\. Company contact information:\
 > 5\. Attached documents: Business registration certificate
+
+****
 
 **Request a DUNS Number**
 
@@ -203,13 +206,13 @@ As part of the verification process, your D & B representative may contact you d
 
 Please have your business registration documents ready.
 
-&#x20;**.**
 
-**TIP.** Apple renews its developer registration every year!
 
-Please note that apps released to the App Store will be deleted after some time.\
-\
+<mark style="color:red;">**TIP.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Apple renews its developer registration every year!</mark>
 
+<mark style="color:red;">Please note that apps released to the App Store will be deleted after some time.</mark>
+
+<mark style="color:red;"></mark>
 
 **The Apple App Store does not accept inquiries or consultations from swing2app.**
 
@@ -218,12 +221,3 @@ Please note that apps released to the App Store will be deleted after some time.
 [**https://developer.apple.com/contact/**](https://developer.apple.com/contact/)
 
 Please contact us by linking to us and leaving your contact details.
-
-**Related Articles**
-
-* [How to invite Swing2App account on App Store Connect and share information on App Store Upload form](https://support.swing2app.com/knowledgebase/how-to-invite-swing2app-account-on-app-store-connect-and-share-information-on-app-store-upload-form/)
-* [App Store TestFlight](https://support.swing2app.com/knowledgebase/appstore-testflight/)
-* [Delete apps from the App Store](https://support.swing2app.com/knowledgebase/appstore-delete/)
-* [Check app store app downloads](https://support.swing2app.com/knowledgebase/appstore-appdownloads/)
-* [How to use the App Store Customer Center](https://support.swing2app.com/knowledgebase/appstore-customercenter/)
-* [AppStore App Rejection Cases](https://support.swing2app.com/knowledgebase/appstore-rejectioncases/)

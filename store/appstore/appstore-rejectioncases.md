@@ -1,13 +1,17 @@
 # AppStore App Rejection Cases
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_reject.png)**App Store App Launch TIP**
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_reject.png)
+
+**App Store App Launch TIP**
 
 **App Store Review App Policy-Review Decline Case.**
 
 **Check-in advance and follow these policies well at once! Please pass the App Store screening and be released.**
 
-**1.  Metadata Policy Violation**\
-\
+****
+
+### <mark style="color:blue;">**1. Metadata Policy Violation**</mark>
+
 **★ Please check the data entered in the app.**
 
 1\) If nothing is listed in the app
@@ -18,11 +22,9 @@
 
 when the app is built, the data is well contained in the app! Please check for any violations of our policies.
 
-***
 
-\[
 
-**2.  Check for weblink errors**
+### <mark style="color:blue;">**2. Check for weblink errors**</mark>
 
 **★ Please check if the web link is properly connected.**
 
@@ -36,13 +38,13 @@ However, **if you can’t find the address because you entered the wrong web lin
 
 For example, in an app, you’ll be described as Apple, but when you go to the link, you’re going to the next →Google.
 
-4\)If you provide platform information from other third parties, not platform information operated by the app, you may be refused to review.
+3\)If you provide platform information from other third parties, not platform information operated by the app, you may be refused to review.
 
 Therefore, when creating an app, the **‘web link’** part is a must. Please check
 
 ***
 
-**3. Loading images used only on iPhone**
+### <mark style="color:blue;">**3. Loading images used only on iPhone**</mark>
 
 **★All images with Android display other than the iPhone are rejected.**
 
@@ -54,11 +56,13 @@ This is to attach the image captured by the Android phone to the App Store scree
 
 **However, the App Store will refuse to review images that are used on Android phones instead of images used on the iPhone.**
 
-**▶Top bar image is shown on Android phone**
+****
+
+<mark style="color:orange;">**▶Top bar image is shown on Android phone**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8F%B0%ED%99%94%EB%A9%B4.png)
 
-**▶Top bar image is shown on iPhone**
+<mark style="color:orange;">**▶Top bar image is shown on iPhone**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%99%94%EB%A9%B4.png)
 
@@ -68,7 +72,7 @@ As you can see from the image attached above, you can see the difference between
 
 ***
 
-**4. You can’t have poor quality images.**
+### <mark style="color:blue;">**4. You can’t have poor quality images.**</mark>
 
 **★ Please complete the app icon image, standby screen image, screenshot image, etc. with a high-quality image.**
 
@@ -90,7 +94,7 @@ All images are registered directly according to the nature of the app.
 
 ***
 
-**5.   It doesn’t even ask for personal information.**
+### <mark style="color:blue;">**5. It doesn’t even ask for personal information.**</mark>
 
 **★ Please delete the item that asks for the user’s information-phone number (contact), gender, age, etc. from the membership page within the app.**
 
@@ -109,7 +113,7 @@ In particular, there are cases where the user’s gender, age, contact informati
 
 ***
 
-**6.   Please check if you need to submit a demo account.**
+### <mark style="color:blue;">**6. Please check if you need to submit a demo account.**</mark>
 
 **★ For the private app, if you need to sign up to see the contents of the app, you must submit a demo account.**
 

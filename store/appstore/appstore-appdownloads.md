@@ -1,6 +1,8 @@
 # Check app store app downloads
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_st\_down.png)**How to check the number of app downloads (sales) released to the App Store**
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_st\_down.png)
+
+**How to check the number of app downloads (sales) released to the App Store**
 
 \+If you have an Apple developer account, you can access the iTunes Connect site to check your app download statistics.
 
@@ -10,11 +12,11 @@ This manual will show you how to check app sales (downloads) on the Apple-App St
 
 ***
 
-**STEP.1 Access to Apple iTunes Connect site**
+### <mark style="color:blue;">**STEP.1 Access to Apple iTunes Connect site**</mark>
 
 **▶ You can create an Apple Developer account at the ☞** [ **Apple developer site**](https://developer.apple.com/)**.**
 
-**Please refer to swing2app post for developer registration   ☞**[**\[Go to Apple Developer Registration Account\]**](https://support.swing2app.com/knowledgebase/appledeveloper-registration/)
+**Please refer to swing2app post for developer registration   ☞**[**\[Go to Apple Developer Registration Account\]**](appledeveloper-registration.md)
 
 **▶The registration fee is 129,000 won (renewed every year). If you have an account, you can launch and use the app on the App Store without any limit.**
 
@@ -26,11 +28,11 @@ This manual will show you how to check app sales (downloads) on the Apple-App St
 
 ***
 
-**STEP.2 Sales and Trends page**
+### <mark style="color:blue;">**STEP.2 Sales and Trends page**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad57-e1588680223743.png)
 
-**★ App Store displays the app ‘downloads’ = ‘sales’. It is used in the same way, please see the same.** \
+<mark style="color:orange;">**★ App Store displays the app ‘downloads’ = ‘sales’. It is used in the same way, please see the same.**</mark> \
 You can see the app sales volume (number of downloads) on the page.\
 This account is our swing2app (HYUSTAY corporation) account, so we see a lot of apps together.\
 If you have multiple apps registered in one account, you’ll see all the apps registered in the app list.\
@@ -43,7 +45,7 @@ If you have multiple apps registered in one account, you’ll see all the apps r
 
 ***
 
-**STEP.3 Check downloads by period**
+### <mark style="color:blue;">**STEP.3 Check downloads by period**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad59.png)
 
@@ -54,9 +56,7 @@ Then you can check the number of app downloads by period.\
 
 ***
 
-.
-
-**STEP.4 Download sales statistics**
+### <mark style="color:blue;">**STEP.4 Download sales statistics**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad60.png)
 
@@ -76,21 +76,19 @@ When you open an Excel file, you can see the statistics of app sales for the wee
 
 ***
 
-### .
 
-**STEP.5 iTunes Site – Go to \[My Apps] Page**
+
+### <mark style="color:blue;">**STEP.5 iTunes Site – Go to \[My Apps] Page**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad61.png)
 
 Select **\[My Apps]** at the top left of the screen → select **\[Sales and Trends]** to move to the sales volume page.
 
-***
 
-.\
-**★ Instructions**\
+
+\
+<mark style="color:red;">**★ Instructions**</mark>\
 1\. If you have an Apple Developer account, you can access iTunes Connect and see app sales statistics.\
 (Users who have registered as a swing2app account cannot check the sales volume.)\
 2\. If you have registered as a duplicate with your swing2app developer account, we will not provide app download statistics.\
 However, if you need app store app sales for a specific time period, please contact us separately since we will not be able to provide you with statistics every week.
-
-***

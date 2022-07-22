@@ -467,4 +467,4 @@ Please refer to the manual below for how to apply for Play Store upload.
 
 **★ If you need to update the Play Store app, please check the link below!**
 
-**☞** [**\[ Go to Play Store App Update\]**](update-the-play-store-app.md)
+**☞** [**\[ Go to Play Store App Update\]**](update-playstore-1.md)
