@@ -67,7 +67,7 @@ From November 2, 2020, according to the changed Google Play console policy, when
 
 If you change the developer name and do not proceed to the next step, please check the Google developer page input method below and enter the contents.
 
-[https://support.swing2app.com/knowledgebase/playstore-developer-page/](play-store-developer-page.md)
+[https://support.swing2app.com/knowledgebase/playstore-developer-page/](playstore-developer-page.md)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 

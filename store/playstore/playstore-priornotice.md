@@ -6,15 +6,15 @@
 
 When launching the Google Play Store app, you can submit a pre-announcement document for reference during review.
 
-**\*\*If you are releasing an app with a web view app or a push version app, you must submit a pre-notification document, so please check the posting to check the submission documents and submission method.**
+<mark style="color:purple;">**\*\*If you are releasing an app with a web view app or a push version app, you must submit a pre-notification document, so please check the posting to check the submission documents and submission method.**</mark>
 
-![▶](https://s.w.org/images/core/emoji/11/svg/25b6.svg) **What is an advance notice document?**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**What is an advance notice document?**</mark>
 
 When registering an app on the Play Store, **you are submitting documents proving that the app is not an item that may violate Google policy.**
 
 **Therefore, the advance notice document is to prove that the app does not have any problems by submitting the documents in advance to app review so that the app can be released normally.**
 
-![▶](https://s.w.org/images/core/emoji/11/svg/25b6.svg) **Scenarios for prior notice**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**Scenarios for prior notice**</mark>
 
 \-If the app has the right to use third-party intellectual property rights (brand name, website, logo, image, etc.)
 
@@ -24,7 +24,7 @@ When registering an app on the Play Store, **you are submitting documents provin
 
 **If you have created an app that corresponds to the above scenario, you must submit the supporting documents as a pre-notification document when submitting the Play Store app to launch the app normally.**
 
-![▶](https://s.w.org/images/core/emoji/11/svg/25b6.svg) **WebView app and Push version app must submit a pre-notification document together.**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**WebView app and Push version app must submit a pre-notification document together.**</mark>
 
 Among those who have created an app with Swing2App, users who have created a **\*webview app or a push version app (a web browser app that connects the website to the app as it is)** must submit the above notice when registering the Play Store app.
 
@@ -34,29 +34,37 @@ The reason is that according to Google’s webview spam policy, **the owner of t
 
 ***
 
-**STEP.1 Store listing-subject to prior notice**
+### <mark style="color:blue;">**STEP.1 Store listing-subject to prior notice**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2392.png)**Advance notice documents can be submitted in Google Play Console> Default Store Listing.**
+<mark style="color:blue;">****</mark>
+
+![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2392.png)
+
+**Advance notice documents can be submitted in Google Play Console> Default Store Listing.**
 
 [https://play.google.com/console/developers](https://play.google.com/console/developers) Please log in to the console and register the app.
 
 App information on the left → Go to the default store listing page.
 
-Under \[App Details], click the blue**‘Pre-Notification Target’**.
+Under \[App Details], click the blue<mark style="color:blue;">**‘Pre-Notification Target’**</mark><mark style="color:blue;">.</mark>
 
 ***
 
-**STEP.2 Providing advance notice to the Google app review team**
+### <mark style="color:blue;">**STEP.2 Providing advance notice to the Google app review team**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2393.png)Go to the Play Console Help Center page.
+![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2393.png)
 
-After checking the contents of the body, click the **\[Submit Document]** button below.
+Go to the Play Console Help Center page.
+
+After checking the contents of the body, click the ** **<mark style="color:blue;">**\[Submit Document]**</mark> button below.
 
 ***
 
-**STEP.3 Entering the content of advance notice**
+### <mark style="color:blue;">**STEP.3 Entering the content of advance notice**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2394.png)**If you are logged in to your account, your first name, last name, and email address are automatically entered, so you do not need to enter them.**
+![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2394.png)
+
+**If you are logged in to your account, your first name, last name, and email address are automatically entered, so you do not need to enter them.**
 
 \*For e-mail, if you want to receive the result by another e-mail, please enter your e-mail address again.
 
@@ -68,9 +76,9 @@ Submit the package name of the app you want to submit. (I will explain the packa
 
 Selecting’Choose one’ will open the item view window for selection below. Please choose the right item.
 
-\*Submission of web views and push apps corresponds to the first content,’Intellectual Property Rights License Documents’.
+<mark style="color:red;">\*Submission of web views and push apps corresponds to the first content,’Intellectual Property Rights License Documents’.</mark>
 
-\*If you submit a scenario other than the web view app, you can select the required scenario among the items.
+<mark style="color:red;">\*If you submit a scenario other than the web view app, you can select the required scenario among the items.</mark>
 
 **3) Attach documents: You must submit documents that can prove.**
 
@@ -78,19 +86,19 @@ A webview app created by applying your website (homepage) to the app must be abl
 
 Therefore, you must submit the following documents.
 
-\-Submission of web domain registration confirmation: Domain name, registrant, business information, etc.
+<mark style="color:purple;">-Submission of web domain registration confirmation: Domain name, registrant, business information, etc.</mark>
 
-\-Submission of business registration card: Must match business registration card and business owner information on the website.
+<mark style="color:purple;">-Submission of business registration card: Must match business registration card and business owner information on the website.</mark>
 
 \*If you are not registered as a business, you only need to submit the website domain registration information.
 
-\*What is website domain registration information?
+<mark style="color:red;">\*What is website domain registration information?</mark>
 
 It is a document that proves the owner of the web domain and can be issued by the hosting and domain company that created the website.
 
 **4) Additional information related to this notice: Enter an additional explanation, that is, appropriate content, for the relevant notice.**
 
-> **★Content example**
+> <mark style="color:purple;">**★Content example**</mark>
 >
 > Proof that the app is a website created by us, link our web to the app and submit it to the Play Store as a web view app.\
 > Submit proof of business registration and website domain registration information.
@@ -104,17 +112,19 @@ It is a document that proves the owner of the web domain and can be issued by th
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-**★ Where can I check the app package name (name)?**
+<mark style="color:purple;">**★ Where can I check the app package name (name)?**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2395.png)**Swing2App Maker(V2) page → Advanced  → Settings: App creation settings → Android package ID If you press the \[EDIT] button, you can check the full ID.**
+![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2395.png)
 
-The value starting with com.hustay.\~ is the package ID. Copy the ID and paste it into the package name above.
+**Swing2App Maker(V2) page → Advanced  → Settings: App creation settings → Android package ID If you press the \[EDIT] button, you can check the full ID.**
+
+<mark style="color:purple;">The value starting with com.hustay.\~ is the package ID. Copy the ID and paste it into the package name above.</mark>
 
 The package ID is used as the app package name.
 
 ***
 
-**STEP.4 Completion of submission and approval of documents**
+### <mark style="color:blue;">**STEP.4 Completion of submission and approval of documents**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0\_%EC%98%81%EB%AC%B84.png)
 
@@ -130,9 +140,13 @@ Approval will be sent to you by email within 2 days.
 
 If you receive the e-mail, the documents submitted to the app review will be reflected together.
 
+
+
 As mentioned above, we have shown you how to submit a pre-notification document that must be registered when submitting a web view app to the Google Play Store in Swing2App.
 
-**— Precautions —**
+
+
+<mark style="color:red;">**— Precautions —**</mark>
 
 1. Advance notice documents must be submitted at the time of registering the Play Store app (initial registration) so that you can refer to the app (web view app, push app) linked with the web browser as it is.
 2. **For apps created by web view or push, you must submit a prior notice document when reviewing the Play Store app. (Required)\_2020.11 Policy Change**\
@@ -144,5 +158,3 @@ As mentioned above, we have shown you how to submit a pre-notification document 
 5. For those who entrusted the play store upload agency with Swing2App, if your app is a WebView app or a Push version app, please submit your business registration certificate and website domain registration information file separately via Swing2App email.\
    \*If you have applied for upload, the person in charge will send you an upload guide email and guide you to submit the above documents. Then you can reply by e-mail.
 6. Even if it is not a web view app or a push version app, if there is any content that corresponds to the above scenario among apps made with a general prototype, you must submit a notice in advance. (E.g., proof of use of third-party intellectual property rights, etc.)
-
-***

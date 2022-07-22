@@ -188,7 +188,7 @@ Just input that you would like to submit your business registration certificate 
 
 \*Please check the link below for how to submit the Google Play Store advance notice document!!
 
-**☞** [**Go to Google Play’s advance notice document submission method**](play-store-prior-notice.md)
+**☞** [**Go to Google Play’s advance notice document submission method**](playstore-priornotice.md)
 
 &#x20;
 

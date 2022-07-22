@@ -1,8 +1,10 @@
 # Linking Play Store Privacy Links
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/privacy\_pol.png)When registering a Play Store app – you will learn how to enter the ‘Privacy Policy’ in the Store Listing menu.
+![](https://support.swing2app.com/wp-content/uploads/2018/09/privacy\_pol.png)
 
-**▶ What is the Privacy Policy?**
+When registering a Play Store app – you will learn how to enter the ‘Privacy Policy’ in the Store Listing menu.
+
+<mark style="color:blue;">**▶ What is the Privacy Policy?**</mark>
 
 **The privacy policy provides information on what is required and how to use it.**
 
@@ -12,13 +14,13 @@
 
 **In general, the app asks the user for basic information or uses a camera, contact, phone, etc., so the app should provide a reasonable usage policy for the user’s personal information.**
 
-**-Therefore, those who have linked the homepage to the app can register the URL of the privacy policy on the homepage.**&#x20;
+<mark style="color:red;">**-Therefore, those who have linked the homepage to the app can register the URL of the privacy policy on the homepage.**</mark>&#x20;
 
-**-If you do not have a policy, you can register the URL by modifying the Terms of Service on the swing2app homepage.**
+<mark style="color:red;">**-If you do not have a policy, you can register the URL by modifying the Terms of Service on the swing2app homepage.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-**\*\*Precautions\*\***
+<mark style="color:red;">**\*\*Precautions\*\***</mark>
 
 The terms and conditions provided by Swing2App are services provided to users who create apps with Swing\~!
 
@@ -32,13 +34,13 @@ Therefore, those who continuously filter and retrieve our unique usage policy UR
 
 Please note that the app may be deleted once it is submitted to Google.
 
-![▶](https://s.w.org/images/core/emoji/11/svg/25b6.svg) **Where to enter the privacy policy URL when registering for the Play Store app?**&#x20;
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Where to enter the privacy policy URL when registering for the Play Store app?**</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2080.png)
 
 When you select an app on the Google Play console, the first step of initial setup comes out.
 
-When you finish entering the content rating, you can check the **\[Privacy Policy]** section.
+When you finish entering the content rating, you can check the <mark style="color:blue;">**\[Privacy Policy]**</mark> section.
 
 Enter the URL here.
 
@@ -46,11 +48,15 @@ Enter the URL here.
 
 **Instead, it would be most important to get the link that corresponds to the privacy policy, right**
 
-ㅔ
+**We will explain below.**&#x20;
 
-**STEP.1 Copy the link after editing the personal information item in the app subscription policy**
+****
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2298.png)‘
+### <mark style="color:blue;">**STEP.1 Copy the link after editing the personal information item in the app subscription policy**</mark>
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2298.png)
+
+&#x20;**Move to** [**Swing2app Manager page → Services → Subscription Settings → Add subscription policy page.**](https://support.swing2app.com/view/app\_setting)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2300.png)
 
