@@ -26,7 +26,15 @@ After logging in to the admob, if you look at the main dashboard, can you see th
 
 Please enter the **\[Add payment information]** menu.
 
+### [https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png](https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png)
+
 ![](https://support.swing2app.com/wp-content/uploads/2020/01/ad3-1.png)
+
+### [https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png](https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png)
+
+### [https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png](https://support.swing2app.com/wp-content/uploads/2020/01/ad3.png)
+
+### [https://support.swing2app.com/wp-content/uploads/2020/01/ad2.png](https://support.swing2app.com/wp-content/uploads/2020/01/ad2.png)
 
 The payment information entry page will add your payment profile.
 
@@ -51,6 +59,8 @@ Your account information has been verified so your ads will be displayed.
 Once you’ve entered your payment information, make sure there’s no un-reviewed ads are in Block Management so that your ads can be published.
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/01/ad4-1.png)
+
+### [https://support.swing2app.com/wp-content/uploads/2020/01/ad4.png](https://support.swing2app.com/wp-content/uploads/2020/01/ad4.png)
 
 From the left menu, go to the \[Manage Block] menu.
 
