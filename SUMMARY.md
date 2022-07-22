@@ -1,8 +1,26 @@
 # Table of contents
 
+* [자주 묻는 질문 FAQ](README.md)
+  * [가장 많이 묻는 질문 FAQ](faq/faq.md)
+  * [앱제작 FAQ](faq/faq-1.md)
+  * [앱운영 및 기능 FAQ](faq/faq-2.md)
+  * [앱 설치 및 다운로드 FAQ](faq/faq-3.md)
+  * [회원가입 및 로그인 FAQ](faq/faq-4.md)
+  * [앱 미리보기 FAQ](faq/faq-5.md)
+  * [스윙샵(스윙쇼핑몰) FAQ](faq/faq-6.md)
+  * [결제 관련 FAQ](faq/faq-7.md)
+  * [유료이용 및 스토어업로드 FAQ](faq/faq-8.md)
+  * [유료앱 이용권 및 티켓 FAQ](faq/faq-9.md)
+  * [무제한이용권 및 패키지상품 FAQ](faq/faq-10.md)
+  * [플레이스토어 FAQ](faq/faq-11.md)
+  * [앱스토어 FAQ](faq/faq-12.md)
+  * [애드몹 FAQ](faq/faq-13.md)
+  * [제휴프로그램 FAQ](faq/faq-14.md)
+  * [커스터마이징 관련 FAQ](faq/faq-15.md)
+
 ## Swing2App Manual <a href="#manual" id="manual"></a>
 
-* [Quick Tutorial](README.md)
+* [Quick Tutorial](<README (1).md>)
   * [How To Create App With Swing2App](manual/quick-tutorial/how-to-create-app.md)
   * [How To Customize App With Page Menu](manual/quick-tutorial/menu-page-customization.md)
   * [How To Customize App With Users Page](manual/quick-tutorial/how-to-customize-page-with-menu-types.md)
@@ -311,7 +329,3 @@
   * [AdMob Plug-in check](store/admob/admob-plugin-check.md)
   * [What is AdMob plugin setting?](store/admob/admob-pluginsettings.md)
   * [How to join AdMobs, create an Ad Unit ID](store/admob/admob-register.md)
-
-***
-
-* [Page 1](page-1.md)
