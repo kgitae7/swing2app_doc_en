@@ -42,6 +42,7 @@
   * [V3 앱제작 마법사 시작](manual/V3manual/start.md)
   * [v3버전 앱제작 방법 매뉴얼](manual/V3manual/manual.md)
   * [STEP1 기본정보](manual/V3manual/step1.md)
+  * [STEP2 디자인](manual/V3manual/step2.md)
   * [웹뷰앱&푸시앱](manual/V3manual/webapp/README.md)
     * [웹뷰앱 제작방법](manual/V3manual/webapp/webview.md)
     * [pushapp manual](manual/V3manual/webapp/pushapp-manual.md)
