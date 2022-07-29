@@ -1,118 +1,120 @@
-# V3 앱제작 마법사 시작
+# Start with the MakerV3 App Creatio Screen
 
-**V3버전 앱제작 마법사 - 앱제작 방식 선택하기**
+MakerV3 App Creation Screen - Choose app type that you wish to create
 
-앱을 제작하기 전 어떤 스타일, 유형의 앱을 제작할지 제작 방식을 먼저 선택하고 앱을 제작하게 됩니다.
+Before you build an app, you first choose what style and type of app you want to build, and then you build the app.
 
-앱제작 마법사라고 부르며, 제작방법은 3가지로 제공이 됩니다.
+It's called the App Creation Wizard, and there are 3 ways to create it.
 
-### ****![](broken-reference)**제작방법**
+### ****![](broken-reference)How to make it
 
-\-템플릿을 이용하여 디자인이 모두 입혀진 앱제작(일반 프로토타입)
+\-Create an app with all the designs on it using a template (normal prototype)
 
-\-웹사이트를 연동한 웹뷰, 푸시앱 제작
+\-Web view linked to the website, push app creation
 
-\-메뉴 및 페이지를 모두 직접 구성하는 앱제작 (일반 프로토타입)
-
-
-
-앱제작 마법사는 새 앱을 제작하거나, 앱을 새로 추가 제작할 때 뜨는 화면이에요.
-
-제작 중에는 뜨지 않습니다.
-
-각 방법 중 하나를 선택하고 앱에 들어가는 기초 정보 입력 후 본격적인 앱제작 메이커 화면이 열립니다.
-
-메뉴얼을 통해서 각 유형별 제작방법 특징을 확인해주세요.
+\-Writing an app that organizes both menus and pages directly (normal prototype)
 
 
 
-## 방법1. 빠른 앱제작
+The App Creation Wizard is the screen that pops up when you create a new app or add a new app.
+
+It does not float during production.
+
+After selecting one of the methods and entering the basic information that goes into the app, the full-fledged App Creation Maker screen opens.
+
+Check the manual to see the manufacturing method features for each type.
+
+
+
+## Method 1. Faster app creation
 
 ![](broken-reference)
 
-템플릿을 이용한 앱제작 이구요. 일반 프로토타입으로 제작합니다.&#x20;
+It's about building an app using a template. Build it as a regular prototype.&#x20;
 
-**<빠른 앱제작>을 선택하면 다음 단계에서 사용할 템플릿 유형을 고르게 되구요.**
+**If you choose , the next step will be to choose the type of template you want to use.**
 
-**다음 단계에서 앱이름, 아이콘 이미지, 대기화면 이미지를 등록하면 기초 설계 끝!**&#x20;
+**In the next step, register the app name, icon image, and standby image and you're done with the basic design!**
 
-**앱제작 메이커에서 본격적인 앱제작을 시작합니다.**&#x20;
+**Start building a full-fledged app in the App Maker maker.**
 
 
 
-각 페이지별 디자인 및 메뉴 구성이 어려울 경우 업종별 디자인이 모두 입혀진 템플릿을 선택하여  쉽게 앱을 만들 수 있다는 장점이 있습니다.
+If you struggle with each page-specific design and menu configuration, the advantage is that you can easily create an app by choosing a template with all the industry-specific designs.
 
-디자인이 모두 입혀진 페이지에 이미지, 제목 및 본문 등의 텍스트, 링크/ 배너 연결 등의 기능만 수정하여 제작할 수 있습니다.
+Pages with all designs can be created by modifying only the text such as images, titles, and bodies, and features such as linking/banner linking.
 
-만들고자 하는 앱의 스타일을 잘 생각하여 선택해서 제작해주세요.&#x20;
+Think about the style of the app you want to create, so choose and build it.
 
 <mark style="color:red;"></mark>
 
-<mark style="color:green;">\*템플릿에 구성된 디자인 UI 툴 자체는 수정이 안되요.</mark>&#x20;
+<mark style="color:green;">**\*The design UI tool configured in the template itself cannot be modified.**</mark>
 
-모든 UI화면을 각각 구성하고 싶을 경우 앱제작 메이커에서 페이지에서 제공하는 메뉴들을 확인하여 각각의 메뉴를 구성하여 넣어주세요.&#x20;
+If you want to configure all the UI screens individually, please check the menus provided by the page in the App Creation Maker and configure and insert each menu.
 
-<mark style="color:green;">\*다시 앱을 제작하지 않아도 됩니다.</mark>&#x20;
+<mark style="color:green;">**\*You don't have to build the app again.**</mark>
 
-만든 앱 위에 수정하여 업데이트할 수 있기 때문에 템플릿으로 작업했다가 일반 메뉴로 변경하는 등 자유롭게 수정하여 제작해주세요.&#x20;
-
-
+Since you can modify and update the app you created, feel free to modify and create it by working with the template and changing it to the regular menu.
 
 
 
-## 방법2. 웹사이트 기반한 웹
+
+
+## Method 2. Web Based on Website
 
 ![](broken-reference)
 
-두번째 방법은 웹앱 제작 스타일입니다.
+The second method is the web app authoring style.
 
-웹사이트를 앱에 바로 적용해서 만드는 웹앱으로 - 웹뷰, 푸시앱을 제작할 수 있는 유형입니다.
+A web app that creates a website by applying it directly to the app - this is the type of web view or push app that you can create.
 
-웹뷰, 푸시 앱을 제작한다면 두번째 방법을 선택해서 제작해주세요.
+If you're building a webview or push app, choose the second method to create it.
 
-**웹앱 선택 후에는 웹앱에 필요한 기본 정보 - 웹사이트 주소, 푸시 사용 여부를 선택해주시구요.**
+**After selecting a web app, you can select the basic information required for the web app - the website address, and whether to use push.**
 
-**마지막 단계에서 앱이름, 아이콘 이미지, 대기화면 이미지를 등록하면 기초 설계 끝!**
+**In the last step, register the app name, icon image, and standby image and you're done with the basic design!**
 
 **​**
 
-<mark style="color:green;">**\*푸시 기능 사용시 - 푸시앱으로 제작이되며, 미사용으로 체크시 웹뷰앱으로 제작됩니다.**</mark>
+<mark style="color:green;">**\*When using the push function - It is made as a push app, and it is made into a webview app when checking it without use.**</mark>
 
-<mark style="color:green;">**푸시 사용 여부는 앱제작 메이커에서도 자유롭게 수정 가능합니다.**</mark>
+<mark style="color:green;">**Push usage is also freely modifiable in the app creation maker.**</mark>
 
-<mark style="color:green;">**\*그 외에 웹앱에 제공되는 메뉴들 역시 제작 메이커에서 선택해서 앱제작을 완료할 수 있습니다.**</mark>
+<mark style="color:green;">**\*In addition, the menus provided in the web app can also be selected from the creation maker to complete the creation of the app.**</mark>
 
 
 
-## 방법3. 처음부터 시작하기
+## Method 3. Start from scratch
 
 ![](broken-reference)
 
-세번째 방법은 일반 프로토타입 앱제작으로 모든 메뉴 및 페이지를 직접 구성하여 제작하는 방법입니다.
+The third way is to build a generic prototype app, organizing and building all the menus and pages yourself.
 
-원하는 디자인이 없거나, UI 구성을 직접 다 꾸미고 싶다면 세번째 방법을 선택해서 제작해주세요!
+If you don't have the design you want, or if you want to customize the UI configuration yourself, choose the third method and create it!
 
 ​
 
-**<처음부터 시작하기>를 선택하면 다음 단계에서 프로토타입 스타일 선택, 앱 색상(컬러)를 선택하게 되구요.**
+**If you choose , the next step is to choose a prototype style, and choose the color of your app.**
 
-**다음 단계에서 앱이름, 아이콘 이미지, 대기화면 이미지를 등록하면 기초 설계 끝!**
+**In the next step, register the app name, icon image, and standby image and you're done with the basic design!**
 
-**앱제작 메이커에서 본격적인 앱제작을 시작합니다.**
+**Start building a full-fledged app in the App Maker maker.**&#x20;
 
-**​**
-
-<mark style="color:green;">**\*앱제작 메이커에서 얼마든지 수정하고, 업데이트할 수 있으니 처음에 고른걸 바꾸고 싶다면 기존 앱에 덮어서 수정해주시면 됩니다.**</mark>
-
-<mark style="color:green;">**\*<처음부터 시작하기>를 선택해도, 페이지 단계에서 템플릿을 선택할 수 있어요.**</mark>
-
-<mark style="color:green;">**따라서 일반 앱 제작 스타일 +템플릿 스타일 등 자유롭게 접목하여 제작할 수 있습니다.**</mark>
+&#x20;&#x20;
 
 **​**
 
-앱제작 마법사에서 원하는 앱제작 유형을 선택하여 앱을 제작해주세요.
+<mark style="color:green;">**\*You can modify and update any number of times in the App Creation Maker, so if you want to change what you chose initially, you can modify it by overwriting it with an existing app.**</mark>
 
-일반 앱제작 전체과정 매뉴얼은 아래 링크로 확인해주세요.&#x20;
+<mark style="color:green;">**\*you can still choose a template at the page level.**</mark>
 
-[V3앱제작 매뉴얼 확인하기](broken-reference)
+<mark style="color:green;">**Therefore, you can freely combine and create regular app creation styles + template styles, etc.**</mark>
+
+**​**
+
+In the App Creation Wizard, select the type of app you want to create and create your app.
+
+For a general app creation manual, please visit the link below.
+
+[Check out the V3 App Authoring Manual](https://krc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?new=1\&ui=en%2DGB\&rs=en%2DGB\&wdorigin=OFFICECOM-WEB.START.NEW-INSTANT\&wdenableroaming=1\&mscc=1\&wdodb=1\&hid=F79555A0-90A7-1000-775E-1B682496F2E4\&wopisrc=https%3A%2F%2Fswing2app-my.sharepoint.com%2Fpersonal%2Fharshajad05538\_swing2app\_com%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F161f872f3e6f43f4b55a9a5eabfb50bc\&wdhostclicktime=1659051877156\&jsapi=1\&jsapiver=v1\&newsession=1\&corrid=1635197a-0e34-4970-974e-224dfa517a9b\&usid=1635197a-0e34-4970-974e-224dfa517a9b\&sftc=1\&cac=1\&mtf=1\&sfp=1\&wdredirectionreason=Unified\_SingleFlush\&rct=Medium\&ctp=LeastProtected)&#x20;
 
