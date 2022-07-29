@@ -1,55 +1,55 @@
-# v3버전 앱제작 방법 매뉴얼
+# Manual on How to Create an App In MakerV3
 
-**V3 앱제작 가이드 매뉴얼**
+**V3 App Creation Guide Manual**
 
 ****
 
-> ### **STEP1 기본정보**
+> ### STEP1 Basic Information
 
-**1단계\[기본정보]는 앱제작에 필요한 기본 정보를 입력하는 단계로 앱이름, 아이콘 이미지, 대기화면 이미지 등을 등록하는 단계입니다.**
+**Step 1 \[Basic Information] is the step of entering the basic information required to create the app, and the step is to register the app name, icon image, standby screen image, etc.**
 
-앱제작으로 들어오면 아래와 같은 페이지가 열립니다.
-
-![](broken-reference)
-
-1\. 앱 이름: 앱 이름을 기재합니다 .
-
-2\. 앱 아이디 : 제작한 앱에 고유 아이디를 적용합니다. 입력 후 중복확인 체크!!
-
-3\. 앱 아이콘: 앱 아이콘 이미지를 등록합니다.
-
-4\. 대기화면: 앱 실행시 1\~2초 정도 보여지는 대기화면 이미지를 등록합니다.
-
-5\. 저장 : 작업이 완료될 때마다 \[저장] 버튼을 선택해서, 작업 내용을 저장해주세요.
+When you enter the app creation, the page below will open.
 
 ![](broken-reference)
 
-### **앱 아이콘, 대기화면 이미지 등록**
+1\. App Name: Enter your app name.
 
-**\*앱 아이콘, 대기화면 이미지 첨부 버튼을 선택하면 파일 첨부 창이 뜹니다.**
+2\. App ID: Apply a unique ID to the app you created. After entering, check for duplicate confirmation!!
 
-**이미지 업로드 버튼을 선택해서, 원하는 이미지를 등록해주세요.**
+3\. App icon: Register the app icon image
+
+4\. Standby screen: Register a standby image that will be displayed for 1-2 seconds when the app is launched.
+
+5\. Save: Whenever the task is completed, select the \[Save] button to save the work
+
+![](broken-reference)
+
+### App icon, standby image registration
+
+**\*Select the app icon, Attach Standby Screen Image button, and the Attach File window will pop up.**
+
+**Select the Upload Image button and register the image you want.**
 
 **​**
 
-**1)아이콘 업로드**
+**1)Upload icon**
 
 ![](broken-reference)
 
-**아이콘 이미지 사이즈: 1024px\*1024px**
+Icon image size: **1024px\*1024px**
 
-(1)아이콘 업로드 버튼 선택
+(1)Select Upload Icon Button
 
-(2)파일첨부 창에서 이미지 업로드 버튼을 선택합니다.
+(2)Select the Upload Image button in the file attachment window.
 
-(3)아이콘으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.\
+(3)After registering the image to be used as an icon, select the Apply button.\
 
 
-**2)대기화면 업로드**
+**2)Upload the waiting screen**
 
 ![](broken-reference)
 
-**대기화면 이미지 사이즈 : 2282px\*2282px**
+Icon image size: **1024px\*1024px**
 
 (1)대기화면 업로드 버튼 선택
 

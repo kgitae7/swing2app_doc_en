@@ -58,7 +58,7 @@
   * [Use of calendar to show exams date with syllabus for school and doctors’ availability in hospital ap](manual/feature-use-cases-in-actual-business/use-of-calendar-to-show-exams-date-with-syllabus-for-school-and-doctors-availability-in-hospital-apps.md)
 * [App production manual (V3)](manual/V3manual/README.md)
   * [Start with the MakerV3 App Creatio Screen](manual/V3manual/start.md)
-  * [v3버전 앱제작 방법 매뉴얼](manual/V3manual/manual.md)
+  * [Manual on How to Create an App In MakerV3](manual/V3manual/manual.md)
   * [STEP1 기본정보](manual/V3manual/step1.md)
   * [STEP2 디자인](manual/V3manual/step2.md)
   * [STEP3 페이지](manual/V3manual/step3.md)
