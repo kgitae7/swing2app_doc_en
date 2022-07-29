@@ -66,6 +66,7 @@
     * [메뉴 아이콘 이미지 등록하기](manual/V3manual/step3/undefined-1.md)
     * [앱 메뉴 비활성화 이용방법](manual/V3manual/step3/undefined-2.md)
     * [메뉴 권한 설정: 접근 권한](manual/V3manual/step3/undefined-3.md)
+    * [페이지 기능-UI KIT](manual/V3manual/step3/ui-kit.md)
     * [페이지 기능-쇼핑몰 페이지](manual/V3manual/step3/undefined-4.md)
     * [페이지 기능-쇼핑몰 상품](manual/V3manual/step3/undefined-5.md)
     * [페이지 기능-상품 카테고리](manual/V3manual/step3/undefined-6.md)
