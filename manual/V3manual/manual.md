@@ -49,268 +49,270 @@ Icon image size: **1024px\*1024px**
 
 ![](broken-reference)
 
-Icon image size: **1024px\*1024px**
+Standby Screen Image Size : **2282px\*2282px**
 
-(1)대기화면 업로드 버튼 선택
+(1)Select the waiting screen upload button
 
-(2)파일첨부 창에서 이미지 업로드 버튼을 선택합니다.
+(2)Select the Upload Image button in the file attachment window.
 
-(3)대기화면으로 사용할 이미지 등록 후 적용 버튼을 선택합니다.
+(3)After registering the image to be used as the standby screen, select the Apply button.
 
 ***
 
-아이콘, 대기화면 이미지 제작 가이드를 확인해주세요.
+Check out the icons, standby screen image creation guide.
 
-일반 이미지가 아닌 앱 아이콘과 대기화면으로 사용하는 가이드가 따로 있어요!&#x20;
+There's an app icon and a guide to use as a standby screen, rather than a regular image!
 
-반드시 해당 가이드대로 이미지를 디자인 후 적용해주세요.
-
-
-
-[**아이콘 이미지 제작 가이드 보러가기**](https://blog.naver.com/swing2app/221356917617)
-
-[**대기화면 이미지 제작 가이드 보러가기**](https://blog.naver.com/swing2app/220897868824)
+Be sure to design and apply the image as per the guide.
 
 
 
-## **2.디자인**
+<mark style="color:blue;">**Go to the icon image creation guide**</mark>
 
-**\[STEP2 디자인]은 앱의 UI디자인과 컬러 등의 전체적인 디자인 및 스타일을 결정하는 단계입니다.**
+<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>
+
+
+
+## **2.**Design
+
+**\[STEP2 Design]** is the step of determining the overall design and style of the app's UI design and color.
 
 ![](broken-reference)
 
-**1. 프로토타입 선택: 앱 UI디자인을 결정하는 프로타입을 선택합니다.**
+**1. Select a prototype: Select the prototype that determines the design of your app's UI.**
 
-\*스윙투앱에서는 총 7가지의 프로토타입 디자인을 제공하고 있습니다.
+\*Swing-to-App offers a total of 7 prototype designs.
 
 **​**
 
-**2. 기본 스타일 및 옵션**
+**2. Basic styles and options**
 
-**컬러 셋트 선택: UI디자인의 스킨 컬러를 설정합니다.**
+Select Color Set: Sets the skin color of the UI design.
 
-스킨컬러는 메인 배경 색, 글자 색, 테마 색 3세트로 이루어진 색상조합을 제공하고 있어요.
+Skin Color offers a color combination consisting of 3 sets of main background colors, letter colors, and theme colors.
 
-원하는 조합을 선택하시면 가상머신을 통해서 실시간으로 색상이 바뀌는 UI를 확인할 수 있습니다.
+Once you have selected the desired combination, you can see the UI changing colors in real time through the virtual machine.
+
+
+
+**3.Advanced styles and options**
+
+This feature allows you to set additional color options and design styles that you can add to the prototype UI.
+
+This is not required, just those who want to set the options.
 
 ​
 
-**3. 고급 스타일 및 옵션**
+**4. Storage**
 
-해당 기능은 프로토타입 UI에 추가할 수 있는 색상 옵션 및 디자인 스타일을 추가로 설정할 수 있는 기능이에요.
+**​**
 
-필수 기능은 아니며, 옵션을 설정하고자 하는 분들만 입력해주세요.
+> <mark style="color:red;">What if none of the combined colors do you like? = Please use the detailed settings.</mark>
+
+![](broken-reference)
+
+If the desired color is not present, the user can select the color directly in \[Detailed Settings].
+
+In addition to the fixed color combinations, the detailed color setting is an option that allows the user to select and apply their own colors.
+
+**\*If you have applied both the prototype and the skin color during the design phase, save it and go to the next step, the page menu.**
+
+****
+
+## **STEP3 Page**
+
+**\[STEP3 PAGE] is a step to create categories and menus in the overall app tool that we created earlier to organize the content of the app in earnest.**
+
+![](broken-reference)
+
+It's the main home screen of the app, the steps to configure the menu.
+
+You can see the menus you need to apply in the Screen Settings category on the left.
+
+We'll show you how to apply the home screen and how to apply the menu.
+
+![](broken-reference)
+
+****
+
+### **1.**How to apply the home screen
+
+The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.
+
+Menus provided by the Swing-to-App – You can apply menus such as weblinks, swing pages, user pages, bulletin boards, images, and more.
+
+In this guide, we'll apply industry-specific templates.
+
+We'll show you how to apply the home screen and how to apply the menu.
+
+![](broken-reference)
+
+Select \<home> from the category on the left
+
+1\) TEnter the name that will be shown at the top of the menu name input screen.After typing, click the cursor once or press the Enter button to reflect it directly to the virtual machine
+
+2\) Page Design: Select an industry-specific template and then select the New button.
+
+\*Since you don't have any pages created, you must first go to the Page Template Creator to create a template page.
+
+****
+
+<mark style="color:green;">**\[Template Page Authoring Tool]**</mark>
+
+![](broken-reference)
+
+To learn how to create a template page, please check out the production manual below!
+
+**☞ **<mark style="color:blue;">**Find out how to create and operate a template page**</mark>
+
+
+
+![](broken-reference)
+
+**After creating the template, please return to the app creation screen.**
+
+3\)When you select the Refresh button, the template you created will pop up on the screen.
+
+4\)Hover the mouse cursor over the template to **\<preview, apply, manage>** menu will pop up
+
+If you want to check before applying the app, select 'Preview', 'Apply' to apply the app, and 'Manage' for modifications.
+
+Select the Apply menu.
+
+5\)Select the \[Save] button to check the template applied to the home screen on the virtual machine screen.
+
+
+
+### **2.**Menu Management
+
+**​**
+
+<mark style="color:green;">**1)Add and delete menus**</mark>
+
+![](broken-reference)
+
+The menus listed in the category on the left can all be modified to include the menus
+
+that you initially set in the Swing To app.
+
+Therefore, you can delete and add menus that you don't need, and organize them into the menus you want.
+
+When you hover your mouse over the menu, the trash can-shaped icon, the +shaped icon, pops up.
+
+<mark style="color:red;">**\*Delete menu: Select the trash can icon**</mark>
+
+<mark style="color:red;">**\*Add menu: + icon selection**</mark>
+
+You can easily delete and add menus.
+
+![](broken-reference)
+
+<mark style="color:green;">**2)Apply menu**</mark>
+
+![](broken-reference)
+
+(1)Add a menu.
+
+(2)Enter a menu name.
+
+(3)Menu icon: Please enter only if you apply the icon as an option. \*Not required
+
+(4)Select which menu you want to apply in the page design.
+
+\*In this guide, we have applied the 'Bulletin Board'.
+
+Select UI KIT Select Board Select the board style you want to apply and then select the Apply button.
+
+(5)Select the Save button.
+
+The virtual machine allows you to check if the bulletin board is well reflected.
+
+![](broken-reference)
+
+<mark style="color:green;">**3)Move the menu**</mark>
+
+![](broken-reference)
+
+**​**Menus can be moved by dragging with the mouse.
+
+Select the menu with your mouse, grab it, and drag it to where you want to move.
+
+The position you are dragging completes the menu movement. – Can be configured as a sub or top menu.
+
+
+
+## **STEP4** Creating an App
+
+****
+
+Once you've finished building your app, you can actually build it by selecting the Build App button.
+
+<mark style="color:red;">\*STEP step must be 100% complete before production is possible.</mark>
 
 ​
 
-**4. 저장**
+Even after the app is built, the app you create is free to modify at any time.
+
+So if you want to check with the app first, you can create it roughly, and then after verification, you can modify and update it again in the App Creation Wizard.
+
+![](broken-reference)
+
+1\)Select the Save button
+
+2\)Select the Create App button.
+
+3\)Select \[Create] in the Update Options window.
+
+<mark style="color:red;">\*Update type, display options can be made as checked.</mark>
+
+<mark style="color:red;">Since this is your first time building an app (there is nothing to update), no matter how you apply it, it won't affect your production.</mark>
+
+If you subsequently modify the app and proceed with the update, please select the form you want.
+
+
+
+## **STEP5** Complete App Creation&#x20;
+
+****
+
+![](broken-reference)
+
+If you click Create App on the App Creation page, you will be immediately taken to the App History page on the App Operations page.
+
+If you check the status of each platform, is it still marked as 'Pending Production Order'?
+
+You can check the progress of your app's creation on that screen.
+
+Please be patient because it will be made within 5 minutes after pressing the app creation request \~!
+
+****
+
+![](broken-reference)
+
+In less than 1 minute while I was waiting for the production, a \[Swing Preview] pop-up window popped up.
+
+It's a feature that allows you to preview the app through a swing preview before it is created.
+
+\*View on the web: Select the \[Watch directly on the web] button to preview apps created on virtual machines on the web.
+
+\*Preview to your phone: After downloading the official Swing-to-App app – App Preview menu – log in with your swing account or scan the QR code shown in the pop-up window and you can preview the app on your phone! (It's a preview, not a down)
+
+****
+
+![](broken-reference)
+
+After a while, the platform-specific status is "App Creation Complete!" I can see that it has been changed.
+
+With App Preview, you can download the app from your Android phone.
+
+Or, when the production is complete, the **APK file** (the file that you can download the app from) will be sent to you via Swing2App subscription email.
+
+You can also open the mailbox on your phone to download and install the **APK file** directly.
 
 **​**
 
-> <mark style="color:red;">**조합된 색상 중에서 마음에 드는 색상이 없다면? = 상세 설정을 이용해주세요.**</mark>
+\*APK The file will not be opened on your PC, so be sure to check it on your phone.
 
-![](broken-reference)
+\*APK file installation can only be installed on Android phones. (iPhones are not supported.)
 
-원하는 색상이 없을 경우 \[상세 설정]에서 사용자가 직접 색상을 선택할 수 있어요.
-
-상세색상설정에서는 고정된 색상 조합 외에, 사용자가 직접 색상을 골라서 적용할 수 있는 옵션입니다.
-
-**\*디자인 단계에서 프로토타입과 스킨컬러를 모두 적용했다면 저장하신 뒤 다음단계인 페이지메뉴로 이동합니다.**
-
-****
-
-## **STEP3 페이지**
-
-**\[STEP3 페이지]는 앞서 만들어놓은 전체적인 앱 툴에 카테고리와 메뉴를 만들어서 본격적으로 앱 내용을 구성하는 단계입니다.**
-
-![](broken-reference)
-
-앱 메인 홈화면, 메뉴를 구성하는 단계에요.
-
-왼쪽의 화면 설정 카테고리에서 적용해야 하는 메뉴들을 확인할 수 있구요.
-
-홈화면을 적용하는 방법과 메뉴를 적용하는 방법을 알려드리겠습니다.
-
-![](broken-reference)
-
-****
-
-### **1.홈화면 적용 방법**
-
-**홈화면은 앱을 실행하면 보이는 메인화면으로, 사용자가 직접 메인화면을 어떻게 보여지게 할지 구성할 수 있어요.**
-
-**스윙투앱에서 제공하는 메뉴 – 웹링크, 스윙페이지, 사용자페이지, 게시판, 이미지 등의 메뉴를 적용할 수 있습니다.**
-
-**해당 가이드에서는 업종별 템플릿을 적용해보겠습니다.**
-
-![](broken-reference)
-
-왼쪽 카테고리에서 \<HOME> 선택
-
-1\) 메뉴 이름 입력 화면 상단에 보여질 이름을 입력합니다.
-
-입력 후 커서를 한번 클릭하거나 엔터 버튼을 누르면 가상머신으로 바로 반영됩니다.
-
-2\) 페이지 디자인: 업종별 템플릿 선택 후 \[새로 만들기] 버튼을 선택합니다.
-
-\*만들어놓은 페이지가 없기 때문에 먼저 페이지 템플릿 제작도구로 이동하여, 템플릿 페이지를 제작해야 합니다.
-
-****
-
-<mark style="color:green;">**\[템플릿 페이지 제작도구 화면]**</mark>
-
-![](broken-reference)
-
-템플릿 페이지 제작방법은 아래 제작 매뉴얼을 확인하여 참고해주세요!
-
-**☞** [**템플릿 페이지 제작 및 운영방법 확인하기**](https://blog.naver.com/swing2app/221640758394)
-
-
-
-![](broken-reference)
-
-**템플릿 제작 후 다시 앱제작 화면으로 돌아와주세요.**
-
-3\)새로고침 버튼을 선택하면, 만들어놓은 템플릿이 화면이 뜨게 됩니다.
-
-4\)마우스 커서를 템플릿에 가져다 대면 **<미리보기, 적용하기, 관리하기>** 메뉴가 뜹니다.
-
-앱 적용 전 미리 확인하고 싶다면, '미리보기' 선택, 앱 적용은 '적용하기', 수정 작업은 '관리하기'를 선택해주세요.
-
-'적용하기' 메뉴를 선택합니다.
-
-5\)\[저장] 버튼을 선택하면 홈화면에 적용된 템플릿을 가상머신 화면으로 확인할 수 있습니다.
-
-
-
-### **2. 메뉴 관리**
-
-**​**
-
-<mark style="color:green;">**1)메뉴 추가 및 삭제**</mark>
-
-![](broken-reference)
-
-왼쪽 카테고리에 기재된 메뉴들은 스윙투앱에서 초기 셋팅한 메뉴들로 모두 수정하여 사용할 수 있습니다.
-
-따라서 필요 없는 메뉴는 삭제하고, 추가하여 원하는 메뉴들로 구성할 수 있습니다.
-
-메뉴에 마우스를 가져다 되면 휴지통 모양 아이콘, +모양 아이콘이 뜹니다.
-
-<mark style="color:red;">**\*메뉴 삭제: 휴지통 아이콘 선택**</mark>
-
-<mark style="color:red;">**\*메뉴 추가: + 아이콘 선택**</mark>
-
-쉽게 메뉴를 삭제하고, 추가할 수 있습니다.
-
-![](broken-reference)
-
-<mark style="color:green;">**2)메뉴 적용**</mark>
-
-![](broken-reference)
-
-(1)메뉴를 추가해주세요.
-
-(2)메뉴 이름을 입력합니다.
-
-(3)메뉴 아이콘: 선택사항으로 아이콘을 적용하실 경우만 입력해주세요. \*필수 아님
-
-(4)페이지 디자인에서 어떤 메뉴를 적용할 것인지 선택해주세요.
-
-\*해당 가이드에서는 '게시판'을 적용해보았습니다.
-
-UI KIT 선택 게시판 선택 적용하고자 하는 게시판 스타일 선택 후 적용하기 버튼 선택
-
-(5)저장 버튼을 선택합니다.
-
-가상머신을 통해 게시판이 잘 반영되었는지 확인할 수 있습니다.
-
-![](broken-reference)
-
-<mark style="color:green;">**3)메뉴 이동**</mark>
-
-![](broken-reference)
-
-**​**메뉴는 마우스로 끌어서 이동시킬 수 있습니다.
-
-마우스로 메뉴를 선택하고 잡아서, 이동할 위치로 드래그 해주세요.
-
-드래그하는 위치로 메뉴 이동이 완료됩니다. – 하위 혹은 상위 메뉴로 구성할 수 있습니다.
-
-
-
-## **STEP4 앱제작하기**
-
-****
-
-앱제작이 어느 정도 완료되면, 앱제작하기 버튼을 선택해서 앱을 실제로 제작할 수 있습니다.
-
-<mark style="color:red;">\*STEP단계가 100%가 완료되어야 제작이 가능합니다.</mark>
-
-​
-
-앱 제작 후에도 만들어놓은 앱은 언제든지 자유롭게 수정이 가능해요.
-
-따라서 먼저 앱으로 확인하고 싶다면 대략적으로 제작해놓은 다음 확인 후, 다시 앱제작 마법사에서 수정하고 업데이트 하실 수 있습니다.
-
-![](broken-reference)
-
-1\)저장 버튼 선택
-
-2\)앱제작하기 버튼을 선택해주세요.
-
-3\)업데이트 옵션 창에서 \[제작하기]를 선택해주세요.
-
-<mark style="color:red;">\*업데이트 유형, 표시옵션은 체크가 된 그대로 제작해주시면 됩니다.</mark>
-
-<mark style="color:red;">처음으로 앱을 제작하는 것이기 때문에(업데이트 할 내용이 없음) 어떻게 적용해도, 제작에는 영향을 주지 않습니다.</mark>
-
-이후 앱을 수정 후 업데이트를 진행할 경우 사용자가 원하는 형태로 선택해주세요.
-
-
-
-## **STEP5 앱제작 완료**
-
-****
-
-![](broken-reference)
-
-앱제작 페이지에서 앱제작하기를 누르면, 바로 앱운영 페이지의 앱 작업이력 페이지로 이동합니다.
-
-플랫폼별 상태를 확인해보면 아직 ‘제작순서 대기중’으로 표시가 되어 있죠?
-
-해당 화면에서 앱 제작 진행상태를 확인할 수 있구요.
-
-앱제작요청을 누른 뒤 5분 이내로 제작이 되기 때문에 조금만 기다려주세요 \~!
-
-****
-
-![](broken-reference)
-
-제작을 기다리는 중에 1분도 안되서 \[스윙 미리보기] 팝업창이 뜨는데요.
-
-앱이 제작되기 전 스윙 미리보기를 통해서 앱을 미리볼 수 있는 기능이에요.
-
-\*웹에서 보기: \[웹에서 바로보기] 버튼을 선택하면 웹에서 가상머신으로 제작한 앱을 미리볼 수 있습니다.
-
-\*핸드폰으로 미리보기: 스윙투앱 공식앱을 다운 받은 뒤 – 앱 미리보기 메뉴 – 스윙계정으로 로그인하거나 or 팝업창에 보여지는 QR코드를 스캔하면 핸드폰에서도 앱을 미리보기로 확인할 수 있어요!(다운이 아닌 미리보기입니다)
-
-****
-
-![](broken-reference)
-
-잠시 뒤 플랫폼별 상태가 ‘앱제작 완료!’라고 바뀐 것을 확인할 수 있어요.
-
-앱 미리보기를 이용하면, 안드로이드폰에서 앱을 다운 받을 수 있습니다.
-
-**혹은 제작이 완료되면 APK파일(앱을 다운 받을 수 있는 파일)이 스윙투앱 가입 메일로 발송됩니다.**
-
-**핸드폰으로 메일함을 열어서 직접 APK파일을 다운받아 설치할 수도 있습니다.**
-
-**​**
-
-\*APK해당 파일은 PC에서 열리지 않으니 꼭 핸드폰에서 확인해주세요.
-
-\*APK파일 설치는 안드로이드폰에서만 설치가 가능합니다. (아이폰은 지원이 안됩니다.)
-
-[**앱 미리보기를 이용하여 제작한 앱을 핸드폰에 설치하는 방법 보러가기**](https://blog.naver.com/swing2app/221096712823)
+<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>
