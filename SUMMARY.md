@@ -60,7 +60,7 @@
   * [Start with the MakerV3 App Creatio Screen](manual/V3manual/start.md)
   * [Manual on How to Create an App In MakerV3](manual/V3manual/manual.md)
   * [STEP1 Basic Information](manual/V3manual/step1-basic-information.md)
-  * [STEP2 디자인](manual/V3manual/step2.md)
+  * [STEP2 Design](manual/V3manual/step2-design.md)
   * [STEP3 페이지](manual/V3manual/step3.md)
     * [앱 홈화면 제작방법](manual/V3manual/step3/undefined.md)
     * [메뉴 아이콘 이미지 등록하기](manual/V3manual/step3/undefined-1.md)
