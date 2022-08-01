@@ -1,96 +1,94 @@
-# 푸시 아이콘 이미지 등록하기
+# Registering a push icon image
 
-**안드로이드폰 푸시 아이콘 이미지를 적용하는 방법**
+**How to Apply AndroidPhone Push Icon Image**
 
-안드로이드폰에서 푸시 아이콘 이미지를 등록하는 방법을 알려드리겠습니다.
+We're going to show you how to register a push icon image on your Android phone.
 
 
 
-> ### **푸시란? 푸시 아이콘 이미지란?**
+> ### What is a push? What is a push icon image?
 
-푸시는 일반 프로토타입 앱, 푸시전용 앱에서 이용할 수 있는 기능이구요.
+Push is a feature available in regular prototype apps, push-only apps.
 
-앱을 설치한 사용자들에게 공지, 업데이트 등의 알림이 있을 경우 앱 내에서 메시지를 보내는 것을 ‘푸시’ 라고 합니다.
+When users who have installed an app receive notifications, updates, etc., sending a message from within the app is called a 'push'.
 
-그리고 푸시가 발송되면 제목과 메시지 옆에 보여지는 이미지를 푸시 아이콘이라고 합니다.
+And when a push is sent, the image that appears next to the subject and message is called the push icon.
 
-이때 푸시 발송시 보여지는 아이콘은 앱 아이콘 이미지로 자동 셋팅되어 발송되는데요.
+At this time, the icon that is displayed when sending the push is automatically set to an image of the app icon and sent out.
 
-새로 추가된 <안드로이드 푸시 아이콘> 기능을 이용하면, 등록한 이미지로 푸시가 아이콘이 발송됩니다.
+When you use the newly added \<Android push icon> function, a push icon is sent to the registered image.
 
-해당 매뉴얼을 통해서 푸시 아이콘 이미지를 등록하는 방법을 확인해주세요\~!
+Please check the manual to see how to register a push icon image\~!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 아이콘 이미지**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Push icon image
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9A%A9-%ED%91%B8%EC%8B%9C.png)
 
-앱 실행화면에서 보시는 것처럼, 하나의 어플에서 푸시 메시지마다 다른 아이콘 이미지가 적용된 것을 확인할 수 있습니다.
+As you can see on the app launch screen, you can see that in one application, a different icon image is applied for each push message.
 
-**푸시 아이콘 이미지를 등록하면 푸시 알림 메시지 마다 다른 푸시 아이콘을 등록하여 발송할 수 있구요.**
+**When you register a push icon image, you can register and send a different push icon for each push notification message.**
 
-**안드로이드폰에서 아이콘 이미지가 뜨지 않는 오류를 해결할 수 있습니다.**
+**You can fix the error of icon image not popping up on Android phones.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-\* 푸시 아이폰 이미지는 안드로이드폰에서만 적용이 가능합니다. \_아이폰 적용 불가
+**\* Push iPhone images are only applicable to Android phones. \_Not applicable to iPhone**
 
-\*푸시 아이콘을 별도 설정하지 않으면, 앱 아이콘 이미지로 자동 발송됩니다. \_안드로이드, 아이폰 동일
+**\*If you don't set a push icon separately, it will be automatically sent as an app icon image. \_Same as Android, iPhone**
 
 ​
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 아이콘 이미지 설정하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Setting up a push icon image
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98\_886.png)
 
-1\)앱제작 이동
+1\) Move app creation
 
-2\)\[고급설정] 선택
+2\)Select \[Advanced Settings]
 
-3\)설정: 앱제작 설정 선택
+3\)Settings: Select App Authoring Settings
 
-4\)안드로이드 푸시 아이콘 \[EDIT] 버튼 선택
+4\)Android Push Icon \[EDIT] button selection
 
-5\)설정 값에서 푸시 아이콘으로 등록할 이미지 첨부 \_이미지 사이즈 확인 (128X128)
+5\)Image attachment to register as push icon in setting value \_Check image size (128X128)
 
-6\)\[UPDATE] 버튼 선택
+6\)Select \[UPDATE] button
 
-7\)\[저장] 선택
+7\)Select \[Save]
 
-8\)\[앱 업데이트] or \[앱제작하기] 선택
+8\)Select \[Update App] or \[Create App]
 
-\*앱을 제작하지 않은 경우는 앱제작하기 버튼이 생성되며, 앱 제작이 되어 있는 상태는 앱 업데이트 버튼이 생성됩니다.
+\*If the app has not been created, a button will be created to build the app, and an app update button will be created when the app is created.
 
-해당 화면은 앱제작V3버전이며, V2버전 이용시에도 아이콘 이미지 적용방법은 동일합니다.
+The screen is the V3 version of the app creation, and the icon image application method is the same when using the V2 version.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-\-업데이트는 하드 업데이트 진행을 권장드립니다.
+\- The update is recommended to proceed with a hard update.
 
-\-새 버전으로 업데이트 받은 뒤, 푸시 발송하기를 진행하면 변경된 푸시 아이콘 이미지로 발송됩니다.
+\-After receiving the update to the new version, proceed to send the push and it will be sent as a changed push icon image.
 
-\-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 플레이스토어에 업데이트를 다시 해주셔야 합니다.
-
-​
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **안내사항**
+\-Apps released on the Play Store will need to be updated to the Play Store again with a newly created version of the app.
 
 ​
 
-1\)해당 기능은 안드로이드폰에서만 적용됩니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Instructions
 
-\*아이폰은 플랫폼 특성상 푸시 아이콘 이미지를 지정할 수 없습니다.
+1\)This feature only applies to Android phones.
 
-2\)푸시 아이콘은 일반 프로토타입 앱, 푸시전용 앱에서 설정 가능합니다.
+\*The iPhone cannot specify a push icon image due to the nature of the platform.
 
-웹뷰앱은 푸시 발송 기능이 없기 때문에, 이용할 수 없습니다.
+2\)The push icon can be set in the general prototype app, the push-only app.
 
-3\)해당 기능 이용은 앱제작을 다시 해주셔야 앱에 반영됩니다. (앱 업데이트 필요)
+The webview app is not available because it does not have a push sending function.
 
-푸시 아이콘 이미지 설정 후 앱제작하기(앱 업데이트) 한 뒤 새 버전으로 앱 확인해야 업데이트 기능이 반영됩니다.
+3\) The use of this function will be reflected in the app only if the app is created again. (App update required)
 
-플레이스토어에 출시된 앱은, 새로 제작된 버전의 앱으로 업데이트 다시 해주셔야 합니다.
+After setting up the push icon image, create the app (update the app) and check the app with the new version to reflect the update functionality.
+
+Apps released on the Play Store will need to be updated to a newly created version of the app.
 
