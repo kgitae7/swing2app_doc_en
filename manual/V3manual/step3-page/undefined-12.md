@@ -6,7 +6,7 @@ Survey management is a feature that allows you to conduct surveys of users who u
 
 Objective surveys can be conducted with feedback from users, and surveys can be conducted for various purposes, such as satisfaction surveys, promotional surveys, etc.
 
-The Swing-to-App provides a tool for surveying, so you can create a questionnaire simply by entering the question and answer questions.
+The Swing-to-App provides a tool for surveying, so you can create a questionnaire simply by entering the question and answer questions..
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Create a survey
 
