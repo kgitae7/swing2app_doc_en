@@ -1,76 +1,73 @@
-# Page Feature - Product Category
+# 페이지 기능-관심글 보기
 
-**How to use the product category**
+스윙투앱에서 제공하는 ‘관심글보기’ 이용방법에 대해서 알려드리겠습니다.
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+**관심글보기는 – 게시물 ‘좋아요’한 글을 모두 모아 보여주는 북마크 기능이에요.**
 
-Please see how to apply the product category to the app and the app launch screen with the page applied.
+**사용자가 ‘좋아요’ 버튼을 누르면, 관심글보기 게시판에서 좋아요 누른 글을 모두 확인할 수 있습니다.**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
+매뉴얼을 통해서 – 앱에 관심글기능을 적용하고, 이용하는 방법을 확인해주세요!
 
-The product category page is available in the app creation STEP3 page step - shopping mall function.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 관심글보기란?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
+**사용자가 앱 게시물의 ‘좋아요’버튼을 누른 글을 모두 모아서 보여주는 기능입니다.**
 
-1\)STEP3 Page Selection
+일반적인 북마크 기능인데요.
 
-2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
+게시물 중에서 나중에 다시 보고 싶은 글, 저장하고 싶은 글이 있다면 ‘좋아요’ 버튼을 눌러주구요.
 
-3\) The menu name does not need to be changed.
+관심글보기에서 모두 볼 수 있습니다
 
-\*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 관심글보기 앱 적용방법**
 
-4\) Select \[Shopping Mall Features] from the page design
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
-5\) Please select \[Product Category].
+앱제작 화면 이동
 
-\*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
+1\)STEP3 페이지 단계로 이동합니다.
 
-6\) Find the category you want to apply and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
 
-7\) Press the \[Save] button at the top of the screen to apply it to the app.
+3\) 메뉴 이름 입력
 
-{% hint style="info" %}
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+
+5\) ‘관심글보기’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
 \*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*적용 후에도 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
+‘좋아요’ 체크를 한 뒤 관심글보기 게시판으로 이동하면, 방금 좋아요에 체크한 글들을 모두 모아서 볼 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
+\*관심글보기 게시판은 타임라인 UI스타일로 보여집니다.
 
-**After applying for the swing shop,**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png)
 
-You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
+‘좋아요’ 한 글이 없다면, 게시물이 없다고 표시되구요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
+‘좋아요’를 누른 사용자와 다른 사용자가 로그인 할 경우도, 좋아요 한 글을 보이지 않습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 안내사항**
 
-This is the screen where the 'Product Category' menu is applied to the app.
+1\) ‘관심글보기’를 이용하기 위해서는, 앱 재제작하셔서 새 버전에서 이용해주셔야 합니다.(앱제작시 소프트 업데이트 가능)
 
-A product category shows all the products registered in that category.
+\*업데이트 기준 2019.1.7 이후 앱을 신규 제작하거나, 업데이트 하신 분들은 ‘관심글보기’ 적용 후 저장만 해주시면 됩니다.
 
-{% hint style="danger" %}
-<mark style="color:red;">**Precautions for using product categories**</mark>
+2\) 게시물 ‘좋아요’ 체크는 앱에서 회원가입 후 로그인 된 사용자만 이용가능합니다.
 
-When applying a product category to a menu **– it is only available in the physical and digital product categories.**
+따라서 관심글보기 역시 사용자만 이용가능하며 손님은 이용할 수 없습니다.
 
-Since the calendar (screen where you can select the reservation date) screen appears first, the product screen does not appear when you apply the product category.
+3\) 로그인 된 사용자 계정을 확인해주세요.
 
-Please refer to the use!
-{% endhint %}
+좋아요를 누른 사용자가 동일한 사용자로 로그인이 되어 있어야 관심글보기에서 좋아요 글목록을 확인할 수 있습니다.
 
-**Related Articles**
+4\) 관심글보기는 앱 – 홈화면에는 적용할 수 없습니다. 메뉴에만 적용 가능합니다.
 
-* [페이지 기능 – 쇼핑몰 기능 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
-* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
-* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
-* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
-* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
-* [페이지 기능 – 업종별 템플릿](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/template-page/)
+5\) ‘좋아요’ 한 글 목록은 – 게시물이 등록된 등록일시 순서대로 표시가 됩니다.

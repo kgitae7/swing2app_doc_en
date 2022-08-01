@@ -1,90 +1,102 @@
-# Page Feature - Store Deals
+# 페이지 기능-게시물 검색
 
-**Shopping mall function – how to use the product**
+스윙투앱에서는 다양한 게시판 스타일을 제공하고 있으며, 사용자분들은 자유롭게 게시판을 만들어서 게시물을 작성할 수 있어요\~!
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and you can apply the registered products to the app.
+이때 원하는 검색어를 찾아주는 게시물 검색 기능 역시 유용하게 사용하실 수 있습니다.
 
-Please check how to apply the product page to the app and the app launch screen with the page applied.
+스윙투앱은 2가지 게시물 검색 기능을 제공하고 있는데요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply products to the app
+**1. 통합 게시판 검색: 앱에 적용된 모든 게시판에 검색어를 필터링하여 검색해줍니다.**
 
-The product page is available in the app creation STEP3 page step - shopping mall function.
+**2. 개별 게시물 검색: 개별 게시판에서 게시물 검색**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1.png)
+**예) 공지사항 게시판에서 게시물 검색, 자유게시판에서 게시물 검색**
 
-1\)STEP3 Page Selection
+–아래 매뉴얼을 통해서 게시물 검색 이용 및 적용방법을 확인해주세요.
 
-2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 게시물 검색 기능**
 
-3\) Enter a menu name.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
 
-4\) Select \[Shopping Mall Features] from the page design
+게시물 검색은 게시판 목록화면 상단에 검색어 입력 창이 뜨구요.
 
-5\) Please select \[Product].
+검색할 단어를 입력한 뒤 오른쪽 상단에 ‘돋보기’ 모양의 아이콘을 누르면 검색어를 필터링하여 보여줍니다.
 
-<mark style="color:red;">\*Please register your product in the swing shop first. If the product doesn't exist, it can't be applied to the app.</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[게시물 검색] 앱에 적용하기**
 
-6\) After confirming the product to be applied, select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89.png)
 
-7\) Press the \[Save] button at the top of the screen to apply it to the app.
+앱제작 화면 이동
 
-{% hint style="info" %}
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+1\)STEP3 페이지 단계로 이동합니다.
 
-\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
 
-\*Menu icon during the production phase, menu settings are not required.
+3\) 메뉴 이름 입력
 
-In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+
+5\) ‘게시물 검색’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+
+\*적용 후에도 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
+
+만들어놓은 \[게시물 검색] 메뉴를 선택하면 위의 이미지처럼 앱에 적용된 모든 게시판의 게시물 목록이 나열되어서 보입니다.
+
+상단에 검색어 입력 란이 보이구요.
+
+검색어를 입력하시면 해당 검색어를 필터링해서 보여줍니다.
+
+1\) 통합 게시물 검색
+
+모든 게시판의 게시물에서 내용을 검색할 경우 – 스윙페이지에서 제공하는 \[게시물 검색] 기능을 적용해주세요!
+
+2\) 개별 게시물 검색
+
+다른 기능을 추가하지 않아도 게시판을 적용하시면, 게시판 내에 검색어 입력 창이 기본 셋팅되어서 제공됩니다.
+
+{% hint style="success" %}
+<mark style="color:green;">**★ 게시물 검색 정리 TIP**</mark>
+
+1\) 통합 게시물 검색
+
+모든 게시판의 게시물에서 내용을 검색할 경우 – 스윙페이지에서 제공하는 \[게시물 검색] 기능을 적용해주세요!
+
+2\) 개별 게시물 검색
+
+다른 기능을 추가하지 않아도 게시판을 적용하시면, 게시판 내에 검색어 입력 창이 기본 셋팅되어서 제공됩니다.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register my products?
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3-1.png)
+{% hint style="info" %}
+<mark style="color:blue;">**개별 게시물 검색**</mark>
 
-**After applying for the swing shop,**
+게시판에는 검색창이 기본 셋팅되어서 제작이 되요.
 
-App Operation → Swing Shop - Product Management → You can register products from the product registration screen.
+따라서 특정 게시판에서 게시물을 검색하는 기능은 별도 추가하지 않아도 게시판마다 자동으로 제공이 되구요.
 
-Products can be registered by selecting physical, digital, and reservation systems by type.
+게시판 목록화면 오른쪽 상단에 ‘돋보기’ 모양의 아이콘을 누르면 검색어를 입력할 수 있는 창이 뜹니다.
+{% endhint %}
 
-**If you modify a registered product,**
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951-1.png)
+***
 
-1\) Swing Shop - Product Management Selection
-
-2\) Select \[Product Lookup] from the left menu.
-
-3\) Select the product name you want to edit from the product inquiry list.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%952-1.png)
-
-You will be taken to the Edit Product Registration screen.
-
-The product registration screen and the edit screen work on the same page.
-
-It becomes the registration screen when registering a new product, and switches to the edit screen when modifying an already registered product.
-
-Therefore, **after you modify what you want to edit on that page, select the \[Edit] button at the bottom of the screen to take effect.**
-
-Instead of needing a separate app update, just select Modify and the fix will be automatically reflected in the app.
-
-If you exit the app and relaunch it, you can see the modifications.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product application screen
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2.png)
-
-This is the screen where the 'Product Category' menu is applied to the app.
-
-A product category shows all the products registered in that category.
+***
 
 **Related Articles**
 
-* [페이지 기능 – 상품카테고리](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/product-category/)
-* [페이지 기능 – 쇼핑몰 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
-* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
-* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
-* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
-* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
+* [페이지 기본기능-회원가입, 로그인, 설정](https://wp.swing2app.co.kr/documentation/v3manual/join-login/)
+* [푸시, 웹뷰앱 초간단 앱제작방법](https://wp.swing2app.co.kr/documentation/v3manual/push-webview/)
+* [업데이트 유형별 앱 실행화면](https://wp.swing2app.co.kr/documentation/v3manual/update-type/)
+* [앱 업데이트 방법](https://wp.swing2app.co.kr/documentation/v3manual/app-update/)
+* [STEP4 앱제작하기](https://wp.swing2app.co.kr/documentation/v3manual/appcreation/)
+* [앱 추가 제작](https://wp.swing2app.co.kr/documentation/v3manual/app-add/)

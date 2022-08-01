@@ -1,389 +1,127 @@
-# Page Feature - Image Page
+# 페이지 기능-앱공유하기
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**What is an image page?**
+**앱 공유하기란?**
 
-Image pages are user-editor authoring tools that you create yourself.
+앱 공유는 스윙투앱으로 제작한 앱을 다양한 어플리케이션으로 공유할 수 있는 기능입니다.
 
-You can edit an image to apply a link to it, and apply a tooltip.
+제작한 앱을 다른 사용자에게 공유할 때 이용할 수 있구요.
 
-The ability to apply a variety of links to images can be useful when building apps.
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Leverage TIP**
-
-1\. When you need to apply multiple web links to an image, ex) You can apply multiple links instead of just one, such as going to the homepage, going to the blog, etc.
-
-2\. When applying multiple bulletin board links to an image, ex) Multiple bulletin board links such as announcement board, free bulletin board, etc. can be applied
-
-3\. If you want to provide a more detailed description on top of the image, you can apply the 'tooltip' to get the message
-
-4\. Banner work – Create an image in banner style, specify the appropriate area and apply a link
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **If you want to put an image full on your home screen when creating an image page, you can work with the mobile screen resolution standard of 1080px horizontally and 1980-2200px vertically.**
-
-**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
-
-**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
-
-Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
-
-**Please refer to it when using it\~**
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page Steps
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page app launchscreen
-
-***
-
-**\***Swing-to-App Official App – Image Page Application Screen
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW9.png)
-
-\*This is the image page screen applied to the official Swing to App app.
-
-​
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_04\_18\_25\_45\_117.gif)
-
-\- I selected an area above the image and linked the page to each of the banner areas.
-
-\-When launching the app, you can select a specific banner in the image and make it go to the linked page.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
-
-***
-
-**User App) Example App Image Page Application Screen**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_10\_23\_12\_00\_46\_924.gif)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1.** Create an image page
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
-
-You can create a page template in App Authoring.
-
-1\)STEP3 Page Step by Step
-
-2\)Select Page Design \[Image Map]
-
-3\) Select \[+New].
-
-Clicking \[+New] opens the Image Page Authoring Tool screen.
-
-Below we'll show you how to create an image page and how to apply that page to your app after it's built.
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2.** Creating an Image Page
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
-
-The authoring tool screen opens where you can create an image page.
-
-**1.Register an image**
-
-Be the first to register your image.
-
-**Select the \[Upload Image] button or the \[New] button to select the image you want to register.**
-
-\*Since the image page is a function to put a banner such as a link on top of the designed image, you need to upload it as a finished image!
-
-{% hint style="success" %}
-If this is the first time you are working, please select the \[New] button to do the work.
-
-If you need to re-upload a modified image in addition to what you have already done, you may want to use the \[Upload Image] button!
-{% endhint %}
-
-***
-
-**2. Create an image page**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
-
-Working with image pages
-
-**All you need to do is check the 'Shape Tool' which sets the banner area on top of the image, the 'Link Action' which allows you to link to the area, and the 'Default Style' which sets the area style.**
-
-{% hint style="success" %}
-★Default style
-
-\-Background Color: You can color the area you set with the tool.
-
-\-Background Opacity: You can specify the transparency of the area set by the tool.
-
-If you don't want the tool to be visible when you select the mouse, you can set the transparency to '0'\*\*.\*\*
-{% endhint %}
-
-***
-
-**3. Shape Tools – Check your style**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png)
-
-**Tool shapes are available in dot shapes, squares, ellipses, and polygons.**
-
-\- When using a dot shape, clicking the mouse cursor over the image creates a point.
-
-\-When using a rectangular or oval shape, simply place the mouse cursor over the image and drag it from the left to create an area.
-
-\- For polygons, dotting multiple areas, and then dotting back to where you originally dotted creates a polygon area.
-
-**▶ Please check how to set the area through the image that you are receiving.**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
-
-***
-
-**4. Apply the link**
-
-Once you've set up a zone, let's see how to apply a link inside the zone you set.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%806.18.09.png)
-
-**For links, please select \[Link Action] on the right and apply them.**
-
-1\) Mouseover Fix: This is a menu that applies how it works when you touch the mouse.
-
-Select \[Do nothing] because you will only apply the \[View: Do Nothing, Show Tooltips] link.
-
-2\) Click Action: This is a menu that applies how it works when the mouse is clicked.
-
-Select \[Move Link] because you need to go to the link when selecting \[View: Do Nothing, Show Tooltip, Move Link].
-
-3\) Link Wizard: A tool that allows you to select the app menu, web link, etc. page to be linked.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%808.18.09.png)
-
-When you select the Link Wizard button, the 'Link Wizard' window will pop up as shown in the image above.
-
-Here, when you have selected the banner, you can select the menu you want to move.
-
-In the manual, we chose the introductory banner for the image, so we'll choose the 'Introduction to Swing Cafe' template that we've worked on beforehand.
-
-You can select \[Reflect].
+카카오톡, 메시지, 이메일 등 사용자의 핸드폰에 설치된 다양한 어플리케이션 경로로 앱을 공유할 수 있습니다.
 
 {% hint style="danger" %}
-<mark style="color:red;">**\*Precautions**</mark>
+<mark style="color:red;">**\*주의사항**</mark>
 
-The menus and content within the app need to be completed.
+\-무료버전 앱은 안드로이드폰에서만 공유가 가능해요! (아이폰은 무료버전앱 공유 X)
 
-If you don't have a bulletin board or user page at all, you won't have a menu to choose from in the Link Wizard, right?
+\-아이폰은 무료버전앱 공유를 할 수 없으며, 앱스토어에 출시된 앱만 공유가 가능합니다.
 
-So, when you're done creating all the content that will go into your app, use the Link Wizard on the Images page.
-{% endhint %}
+\-앱 공유시 앱스토어, 플레이스토어에 앱이 출시된 경우 해당 스토어 출시 링크(URL)로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%809.18.09.png)
+공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
 
-Of course\~ in the Link Wizard, you can apply it to all other menus in addition to the above menus.
-
-For example, **if you select a banner and you want it to go to your blog, you can select \[Link Wizard] and then in \[Weblink] – enter the blog site address URL and reflect it**
-
-***
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with a flinch**
-
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b824e2f0d6ea8e64bc29df25fd9d65b8.gif)
-
-**You can use the mouseover style to color the Background Color.**
-
-**If you set it to '0' in Background Opacity, you can also set the banner to be transparent.**
-
-***
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Creating Image Pages TIP**
-
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/159009ee19bc2784599d2211fabc309b.gif)
-
-Let me give you a TIP.
-
-If you use the **\*\*\[Duplicate Style button]\*\* in the list, you can get the same area style and the default style as is.**
-
-All you have to do is change the link settings, which makes it a little easier!
-
-**5. Fabrication Completed**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%8010.18.09.png)
-
-The image page has been applied
-
-Finally, please enter the page name. (When applied to the app, the page name will appear in the menu.)
-
-Press the Save button and you're done.
-
-So let's go back to the app creation page and apply that image page to the app!!
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying an Image Page to Your App
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
-
-Move the app creation screen
-
-1\)STEP3 Go to the page step.
-
-2\)Home Screen – Select HOME
-
-3\)You do not need to change the menu name.
-
-\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
-
-4\) Select \[Image Map] from the page design.
-
-5\)Select the 'Refresh' button on the right to see the template you have created.
-
-6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
-
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
-
-{% hint style="info" %}
-\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
-
-\*Select the Preview button to see how the page will look with a web preview (virtual machine).
-
-\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
-
-\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
 {% endhint %}
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4** Image Page Creator – Applying the Tooltip
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱공유하기] 적용하기**
 
-In addition to linking a link banner to an image page, I'll also show you how to apply the tooltip.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-1.png)
 
-What is a tooltip?
+앱제작 화면 이동
 
-T**he tooltip is used as a way to attach a message window-shaped icon above the image and provide an additional description.**
+1\)STEP3 페이지 단계로 이동합니다.
 
-**Example of applying tooltips)**
+2\)새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+3\) 메뉴 이름 입력
 
-**1. Image Page - How to Apply Tooltips**
+4\) 페이지 디자인에서 \[기본 기능] -\[기능]을 선택해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW11.png)
+5\) ‘앱 공유하기’ 메뉴 \[적용하기] 버튼을 선택해주세요.
 
-Select the \[New] button in the Image Page Creation Tool and import the image.
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-**1)Select the area where you want to apply the tooltip over the image by dragging the area to the tool menu.**
+\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-—Let me explain the medues to use in the right menu bar—
+\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
-**2) Link Action**
+해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 
-The link action is a menu that applies how the area to which you applied the tooltip will look.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱공유하기**
 
-(1) Mouseover action: This is a menu that applies how it works when the mouse is pressed. Select \[Do nothing].
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B02.png)
 
-(2) Click Action: This is a menu that applies how it works when the mouse is clicked.
+메뉴에 적용한 \[앱 공유하기]를 선택하면 공유가 가능한 어플 목록이 열립니다.
 
-Since the tooltip should be shown when touched, select \[Show tooltip] from the click action.
+<mark style="color:green;">\*어플 목록은 모든 핸드폰에 동일하게 보여지는 것이 아니라 사용자의 핸드폰 기기, 기종에 따라 다르게 표시됩니다.</mark>
 
-**\*Utilize TIP. You can create using both the tooltip menu and the 2 weblink menus.**
+<mark style="color:green;">\*처음 열리는 창에는 대표 어플리케이션이 표시되고, \[기타 공유하기]를 선택하면 그 외 다른 어플리케이션을 선택할 수 있어요.</mark>
 
-**3)Basic style**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B04.png)
 
-It's a tool area style. Check the options only for background color, background transparency.
+\[기타 공유하기]를 선택하면 다양한 어플 목록을 확인할 수 있습니다.
 
-If you want the tooltip to show the area where it will be shown, please add color and transparency.
+**1)카카오톡으로 앱 공유 – 공유된 앱 설치하기**
 
-If you want to make the area invisible, set the Background Opacity to '0'.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%95%B1%EA%B3%B5%EC%9C%A0.png)
 
-**4) Tooltip style**
+카카오톡으로 앱 공유시, 채팅창에서 \[자세히보기]버튼을 선택해주세요.
 
-It's a menu where you enter the tooltip style. - > box area design with message visible
+창이 새로 뜨면서 앱 실행 및 앱 다운을 선택하게 됩니다.
 
-You can modify the horizontal and vertical size, set the color, tooltip position, transparency, and degree of area rounding.
+앱이 이미 핸드폰에 설치가 되어 있다면 \[앱 실행하기] 버튼을 누르면 바로 해당 어플로 이동하구요.
 
-\*Caution\* When modifying the size, please make sure that the horizontal length does not exceed 330. (up to 330px)
+<mark style="color:green;">**\***</mark><mark style="color:green;">앱 설치가 안된 사용자에게 공유를 하면 해당 사용자는 \[앱(APK) 다운로드] 버튼을 눌러서 앱을 다운받아 설치해주시면 됩니다.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW12.png)
+<mark style="color:green;">\*플레이스토어에 앱이 출시되어있다면 \[어플 설치 및 실행하기] 버튼을 눌러주세요. 플레이스토어 출시 링크로 이동합니다.</mark>
 
-**5) Text Style**
+**2)이메일 앱공유**
 
-Text Style is a menu where you can modify the text color, font size, tooltip box size, etc. created in the tooltip.
+카톡 공유 외에도 이메일로도 공유가 가능하구요.
 
-You can edit it by dividing the title area and the body area.
+받는 사람 이메일로 접속하면 받은메일함에 앱 공유메일이 발송되어 있구요.
 
-**6) Tooltip content**
+링크를 선택하면, 위의 이미지처럼 앱 설치창으로 이동합니다.
 
-Enter what you want to enter in the tooltip box. The tooltip is divided into a title (title) and a text (body) to create the content.
+앱 실행 및 앱 설치 방법은 위에서 설명드린 카카오톡 공유 방법과 동일하게 사용자의 앱 설치 유무에 따라 앱 실행 및 앱 다운로드를 해주시면 됩니다.
 
-**7) Enter the page name** \*Enter the page name after saving all the contents.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 설정 메뉴: 앱 공유하기**
 
-**8) After completion, press the \[Save] button.**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B03.png)
 
-​
+앱 공유는 스윙페이지의 앱공유하기 기능을 이용하지 않아도, 앱 내에 기본 셋팅된 설정 메뉴에서도 이용이 가능해요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW13.png)
+앱 실행 후 → 설정 메뉴에서 앱 공유하기 기능을 이용할 수 있어요.
 
-**9)** **Select \[Preview]** to see the tooltip box applied over the image.
+설정은 앱 기본정보, 알림설정, 회원가입을 할 수 있는 페이지이며, 설정 메뉴는 앱 제작시 기본 셋팅이 되어 제작되어요.
 
-**2. Apply the tooltip to the Image Page app**
+따라서 설정 메뉴에서도 앱 공유하기 기능을 기본 기능으로 이용할 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B54.png)
+**그리고 앱 공유 외에도 게시판, 게시물 , 이미지 공유가 가능합니다.**
 
-Image pages created with the tooltip can also be applied to your app.
+### **\[앱 공유 안내사항- 앱공유, 게시판, 게시물 공유 포함]**
 
-The method for applying it to your app is the same as the one we showed you above.
+<mark style="color:blue;">▶</mark><mark style="color:blue;"><mark style="color:green;">안드로이드폰<mark style="color:green;"></mark>
 
-Move the app creation screen
+무료 버전으로 제작한 앱은 안드로이드 폰에서만 공유할 수 있습니다. (안드로이드폰 ↔ 안드로이드폰)
 
-1\)STEP3 Go to the page step.
+\-앱 설치가 안된 사용자에게 공유를 하면, 앱(APK)다운로드 버튼을 눌러서 앱을 다운 받은 뒤 설치할 수 있습니다.
 
-2\)Home Screen – Select HOME
+\-앱 설치가 된 사용자에게 공유를 하면 앱 실행하기 버튼만 누르면 바로 해당 어플로 이동합니다.
 
-3\)You do not need to change the menu name.
+\-앱이 플레이스토어에 출시되어 있다면 플레이스토어로 이동하여 앱을 다운 받을 수 있습니다.
 
-\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
+<mark style="color:blue;">▶아이폰</mark>
 
-4\) Select \[Image Map] from the page design.
+무료버전으로 제작한 앱은 아이폰에서 공유 지원이 안됩니다.
 
-5\)Select the 'Refresh' button on the right to see the template you have created.
+앱이 앱스토어에 출시 되어 있다면, 아이폰 사용자도 공유가 가능합니다. (공유시 앱스토어로 이동하여 앱 다운을 받을 수 있어요)
 
-6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
+**★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 매뉴얼 확인해주세요\~!**
 
-{% hint style="info" %}
-\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
 
-\*Select the Preview button to see how the page will look with a web preview (virtual machine).
-
-\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
-
-\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
-{% endhint %}
-
-​
-
-**3. App launch screen) Image Page Tooltip**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
-
-**The same modifications can be made by going to the App Creation Maker – Image page \[Modify] and covering it over the page you created.**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
-
-When you hover the mouse cursor over the image page, there is an Manage button.
-
-Select the \[Manage] button and then select the \[Modify] button →.
-
-Go to the Image Page Authoring Tool screen.
-
-Modifying the image page doesn't mean you have a separate page.
-
-You can update it by going in the same way as the creation page, overwriting it on top of the existing page and making corrections.
+**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/board-share/)
