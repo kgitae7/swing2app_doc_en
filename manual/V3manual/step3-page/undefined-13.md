@@ -1,73 +1,71 @@
-# 페이지 기능-나의 글 보기
+# Page Features - View My Posts
 
-**나의 글 보기란?**
+**What is View My Writing?**
 
-\[나의 글 보기] 기능은 앱에서 내가 쓴 게시물을 보여주는 기능으로, 나의 글(게시물) 목록을 한 번에 확인할 수 있는 페이지입니다.
+The View My Posts feature shows you the posts you've written in the app, a page where you can see your list of posts at once.
 
-페이지 기본기능에서 제공하는 ‘나의 글 보기’ 이용방법에 대해서 알려드리겠습니다.
+We will tell you how to use the 'View My Article' provided by the basic function of the page.
 
-나의 글 보기 기능을 앱에 어떻게 적용하고, 앱에서는 어떻게 보여지는지 이용방법 매뉴얼을 확인해주세요
+Check out the how-to manual on how to apply the View My Posts feature to your app and how it will look in the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 나의 글 보기 앱 적용방법**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the My Posts app
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
-앱제작 화면 이동
+Move the app creation screen
 
-1\)STEP3 페이지 단계로 이동합니다.
+1\)STEP3 Go to the page step.
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름 입력
+3\) Enter the menu name
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-5\) ‘나의 글 보기’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+5\) Find the 'View My Articles' page and select the \[Apply] button.
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+(Hover the mouse cursor over the page and the Apply button opens)
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 
-\*2019.11.30 이전에 앱을 제작한 분들은 새 버전으로 앱을 먼저 재제작 해주세요!(업데이트 필수)
+\*If you created your app before 2019.11.30, please recreate your app with the new version first! (Update required)
 
-이전 버전에서는 \[나의 글 보기] 기능이 보이지 않아요. 따라서 새로 제작 후, 앱제작 페이지에서 나의 글 보기 기능을 적용해주세요.
-
-***
+In previous versions, I don't see the View My Posts feature. So, after you create a new one, please apply the View My Posts feature on the app creation page.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen
 
-앱에 적용된 \[나의 글 보기] 메뉴로 이동하면 내가 작성한 게시물을 모두 모아서 볼 수 있어요.
+Go to the View My Posts menu applied to the app and you'll be able to see all the posts you've written.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
 
-글을 쓴 사용자로 로그인이 되어 있어야 하구요. 손님은 이용할 수 없습니다.
+You must be logged in as the user who wrote the article. Not available to guests.
 
-앱에 적용된 \[나의 글 보기]를 선택하면, 해당 사용자가 앱에서 작성한 글을 모두 볼 수 있어요.
+If you select View My Posts applied to your app, you can see all the posts that the user has written in the app.
 
 {% hint style="danger" %}
-<mark style="color:red;">**안내사항**</mark>
+<mark style="color:red;">**Instructions**</mark>
 
-1\) 나의 글 보기는 앱에서 회원가입 후 로그인 된 사용자만 이용가능합니다. (손님은 이용할 수 없습니다.)
+1\) View My Posts is only available to users who are logged in after registering for membership in the app. (Not available to guests.)
 
-2\) 로그인 된 사용자 계정을 확인해주세요. 동일한 사용자로 로그인이 되어 있어야 내가 쓴 글 목록을 확인할 수 있습니다.
+2\) Please check the logged in user account. You must be logged in as the same user to see the list of articles you've written.
 
-3\) 나의 글 보기는 앱 홈화면에는 적용할 수 없습니다. 메뉴에만 적용 가능합니다.
+3\) View My Posts is not applicable to the app home screen. Applicable to menus only.
 
-4\) 나의 글보기 게시판은 타임라인 UI스타일로 보여집니다. 표시되는 스타일(UI)은 수정이 불가합니다.
+4\) The View My Posts board is displayed in the Timeline UI style. The style (UI) displayed cannot be modified.
 
-5\) 2019.11.30 이전에 앱을 제작한 분들은 해당 기능을 이용하시기 위해서는 앱 업데이트가 꼭 필요합니다.
+5\) If you have created an app before 2019.11.30, an app update is required to use the feature.
 {% endhint %}
 
 ***
