@@ -1,423 +1,415 @@
-# 푸시앱, 웹뷰앱 초간단 제작방법
+# How to create a push app, webview app easily
 
-**운영중인 홈페이지(웹사이트)가 있다면,**&#x20;
+**If you have a running homepage (website),**
 
-**웹 사이트 URL 링크를 그대로 앱에 연동하여 앱을 제작할 수 있어요.**&#x20;
+**You can create an app by linking the website URL link to the app as it is.**
 
 
 
-스윙투앱에서 제공하는 프로토타입 중 ‘푸시’ or ‘웹뷰’ UI스타일을 이용하시면 단 5분 안에 모바일 앱을 제작할 수 있어요.&#x20;
+If you use the 'push' or 'webview' UI style of any of the prototypes provided by the Swing-to-App app, you can create a mobile app in just 5 minutes.
 
-사용자의 웹사이트를 그대로 앱에 연동해서 제작할 수 있습니다. \
-\
-**앱제작마법사에서 3단계 과정만 완료하면 웹사이트가 그대로 연동된 웹앱을 확인할 수 있습니다.**&#x20;
+**You can create your website as it is East Sea the app. In the App Creation Wizard, you only need to complete the 3-step process to see the web app with the website working together.**
 
-**푸시전용앱, 웹뷰전용 앱을 제작하는 방법을 알려드리겠습니다.**
+**We'll show you how to build a push-only app, a webview-only app.**
 
-## <mark style="color:blue;">**푸시전용앱 제작 방법**</mark>
+## <mark style="color:blue;">How to create a push-only app</mark>
 
 ****
 
 {% hint style="info" %}
-**푸시 앱이란?**
+**What is a push app?**
 
-**‘푸시’ 전용은 다른 제작 기능 없이 사용자의 홈페이지 URL만 입력해주시면, 해당 웹사이트가 앱에 그대로 연동되어서 제작이 됩니다.**&#x20;
+**‘For 'push' only, just enter the URL of the user's homepage without any other creation functions, and the website will be created by integrating it to the app as it is.**
 
-**푸시 알림 기능**을 이용할 수 있기 때문에 사용자들에게 이벤트, 광고, 홍보성 메시지를 보낼 수 있습니다.
+**With push notifications available,** you can send events, ads, and promotional messages to your users. ****&#x20;
 {% endhint %}
 
-신규 앱제작 혹은 앱 추가 제작시 대시보드 화면에 앱제작 마법사 팝업창이 먼저뜹니다.
+When you create a new app or add an app, the App Creation Wizard pop-up window will appear first on the dashboard screen.
 
-앱제작 마법사에서 단계별 정보를 입력하면 간단하게 푸시전용앱을 제작할 수 있습니다!
+Simply enter the step-by-step information in the App Creation Wizard to create a push-only app!
 
 ****
 
-**1.앱제작마법사 시작하기 팝업에서 – 웹사이트를 기반한 웹앱 스타일을 선택하고 \[다음] 버튼을 선택해주세요.**
+**1.In the Start App Creation Wizard pop-up – Select a web app style based on the website and select the \[Next] button**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A81.png)
 
-**2.웹앱 기본 정보를 입력해주세요.**&#x20;
+**2.Enter the web app basic information.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A82.png)
 
-**1)웹사이트 주소**
+**1)Website address**
 
-앱에 적용할 사이트 링크이며, http:// 하이퍼링크를 반드시 넣어주세요.
+This is the site link you want to apply to your app, and be sure to include a hyperlink http://.
 
-링크 주소 입력 후 마우스 커서를 빈 공간에 한번 클릭하면 반영됩니다.&#x20;
+After entering the link address, a single click on the mouse cursor in the empty space will be reflected.
 
-오른쪽 가상머신(미리보기)화면으로 적용된 사이트가 잘 뜨는지 확인할 수 있습니다.
+You can check if the applied site is popping up well with the virtual machine (preview) screen on the right.
 
-**2)푸시 기능 사용여부 체크**
+**2) Check whether the push function is enabled**
 
-푸시는 앱을 설치한 사용자들에게 앱에서 알림이나 공지, 홍보 관련 알림 메시지를 보낼 수 있는 기능이에요.
+Push is a feature that allows users who have installed an app to send notifications, announcements, and promotional reminders from the app.
 
-**푸시앱으로 제작할 것이기 때문에 ‘사용’으로 체크해주세요.**&#x20;
+**Since we will be creating it as a push app, please check 'Enabled'.**
 
-**3)툴바 사용하기**
+**3)Using the toolbar**
 
-툴바 사용 여부는 툴바 ‘사용’으로 체크할 경우 툴바가 앱 화면 하단에 보여지게 되며, ‘미사용’으로 체크할 경우 툴바 영역이 앱에서 보여지지 않게 됩니다.
+If you check whether to use the toolbar or not, the toolbar will be visible at the bottom of the app screen, and if you check 'Unused', the toolbar area will not be visible in the app.
 
-따라서 앱 스타일에 맞게 설정해주세요. 기본 셋팅된 ‘사용’으로 체크할게요.&#x20;
+So make sure you set it to match your app's style. I'll check the default setting of 'Enabled'.
 
-4\)\[다음] 버튼 선택해주세요.&#x20;
+**4)Select the \[Next] button.**
 
-\-웹사이트 주소 및 푸시 기능, 툴바 기능은 제작 메이커에서 다시 수정가능합니다.
+\-Website address, push function, toolbar function can be modified again in the authoring maker.
 
 
 
-**3.앱이름, 아이콘, 대기화면 이미지를 등록합니다.**&#x20;
+**3.Register the app name, icon, and standby image.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A83.png)
 
-1\)앱 이름 입력
+1\)Enter the app name
 
-2\)앱 아이콘 이미지 등록
+2\)App icon image registration
 
-3\)대기화면 이미지 등록
+3\)Standby screen image registration
 
-\-앱 이름, 아이콘 이미지, 대기화면 이미지 역시 제작 메이커에서 다시 수정가능합니다.
+\-App name, icon image, and standby screen image can also be modified again in the creation maker.
 
 
 
-<mark style="color:green;">**–> 아이콘, 대기화면 이미지 등록방법**</mark>
+<mark style="color:green;">**–> Icon, how to register standby screen image**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EC%95%B14.png)
 
-앱 아이콘, 대기화면은 \[등록] 버튼을 선택하면 파일 첨부 창이 열리구요.
+On the app icon, the standby screen, select the \[Register] button and the file attachment window will open.
 
-여기서 이미지를 업로드하여 적용해주시면 됩니다.
+You can upload an image here and apply it.
 
-**-아이콘 이미지 사이즈: 1024px\*1024px**
+**- Icon image size: 1024px\*1024px**
 
-**-대기화면 이미지 사이즈 : 2282px\*2282px**
+**-Standby screen image size: 2282px\*2282px**
 
-등록이 완료되면 \[완료] 버튼을 선택해주세요.
+When the registration is complete, select the \[Done] button.
 
 
 
-**4.푸시앱에 들어갈 기본 정보 등록이 완료되었습니다.**&#x20;
+**4.The registration of the basic information to enter the push app is completed.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A85.png)
 
-완료 버튼을 선택하면  앱제작 메이커 화면이 열립니다.
+Selecting the Done button opens the App Authoring Maker screen.
 
 
 
-### **\[앱제작 메이커]**
+### \[App Creation Maker]
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A86.png)
 
-왼쪽 앱제작 과정을 보시면 STEP1기본정보, STEP2 디자인, STEP페이지 단계를 확인할 수 있구요.
+If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP Page.
 
-제작 메이커에서는 STEP1기본정보에서 앱 아이디만 입력해주시면 됩니다.
+In the production maker, you only need to enter the app ID in the STEP1 Basic Information.
 
-앱 아이디는 영문+숫자 포함 6자 이상으로 기재해주셔야 하며 중복확인 버튼을 선택해주세요.&#x20;
+The app ID must be at least 6 characters long, including English + numbers, and select the Check for Duplicate button.
 
-<mark style="color:red;">\*앱 아이디는 앱의 고유 식별자이며 설정 후에는 변경할 수 없습니다.</mark>
+<mark style="color:red;">\*The app ID is the unique identifier of the app and cannot be changed after setting.</mark>
 
 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A87.png)
 
-단계별로 내용을 입력하면 완료됩니다.
+Step by step, enter your content and you're done.
 
-\*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.
+\*When the STEP progress reaches 100%, all step inputs are complete.
 
-1\)저장 버튼 선택 →2)앱제작하기 버튼을 선택해주세요.
+1\)Select the Save button →2)Select the Create App button.
 
 {% hint style="danger" %}
-**\*안내**
+**\*Information**
 
-앱 제작 후, STEP1 기본정보 메뉴를 다시 수정하게 된다면 앱 업데이트를 다시 해주셔야 변경된 내용이 앱에 반영됩니다.
+If you modify the STEP1 Basic Information menu again after the app is created, you will need to update the app again before the app will reflect the changes.
 
-예를들어, 앱 이름을 변경했다면 변경 후 → 저장 → 앱 업데이트 버튼을 눌러서 새 버전으로 재제작해주세요.
+For example, if you changed the name of your app, save → after the change → press the Update App button to recreate it as a new version.
 
-앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
+If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 {% endhint %}
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**푸시앱 특징**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)PushApp Features
 
-\-푸시로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+\- When you create an app with a push, you only need to include the web link URL address to create the app.
 
-\-스윙투앱에서 제공하는 푸시 발송 기능을 이용할 수 있어요.
+\-You can use the push sending function provided by the Swing to App app.
 
-**-앱 제작시 앱 화면 하단에 푸시툴바가 생성됩니다.**
+**- When you create an app, a push toolbar is created at the bottom of the app screen.**
 
-**-다양한 스타일의 툴바를 직접 구성할 수 있습니다.** \
-
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
-
-앱에 적용된 웹링크 주소를 변경하는 것도 제작 방법과 동일합니다.
-
-페이지 메뉴  **\[HOME] 버튼 선택 → 웹사이트 주소란에 URL주소 입력 → \[저장] 버튼 선택**
-
-\*웹링크 주소 수정은 저장 버튼만 누르면 앱에 자동 반영됩니다.
-
-\*앱 종료후 재실행하시면 바뀐 웹사이트로 적용됩니다.
+**- You can configure the toolbar in different styles yourself.**\
 
 
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** How do I change the weblink address after creating a push app?
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**푸시 앱) 앱 실행화면**
+Changing the weblink address applied to your app is the same as the authoring method.
+
+**Select the \[HOME] button in the page menu → Enter the URL address in the website address field → select the \[Save] button**
+
+\*Modifying the web link address is automatically reflected in the app by simply pressing the Save button.
+
+\*If you exit the app and relaunch it, it will be applied to the changed website.
+
+
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Push App) App Launchscreen
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png)
 
-스윙투앱 홈페이지(웹사이트) 웹링크를 앱에 그대로 적용해서 제작된 푸시버전 앱입니다.
+It is a push-version app created by applying the swing-to-app homepage (website) weblink to the app as it is.
 
-푸시 버전앱은 앱 화면 아래에 \[푸시 툴바]가 생성됩니다.
+Push Version The app creates a \[Push Toolbar] below the app screen.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 발송하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Sending a push
 
-푸시버전으로 앱제작 후 푸시 알림을 발송할 수 있어요.
+With the push version, you can send push notifications after building your app.
 
-앱운영 페이지 → 푸시&회원 → 푸시 발송하기 메뉴에서 메시지 제목, 내용을 입력한 후 연동할 웹링크를 선택해서 발송해주세요.&#x20;
+On the app operation page, → Push & Member → Push Send menu, enter the message title, content, and select the web link you want to link to and send it.
 
-푸시앱에서 푸시를 발송하는 방법은 아래 매뉴얼을 확인해주세요.
+To learn how to send a push from the Push app, please check the manual below.
 
-[\[푸시버전앱에서 푸시 발송하기 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/pushapp-push/)
+<mark style="color:blue;">\[Go to see Sending Push in the Push Version app]</mark>
 
 ***
 
 ****
 
-## <mark style="color:blue;">**웹뷰 앱제작하기**</mark>
+## <mark style="color:blue;">**Creating a WebView App**</mark>
 
 ****
 
 {% hint style="info" %}
-**웹뷰 앱이란?**
+**What is a webview app?**
 
-**다른 제작 기능 없이 사용자의 홈페이지 URL만 입력해주시면, 해당 웹사이트가 앱에 그대로 연동되어서 제작이 됩니다.**&#x20;
+**If you enter the URL of the user's homepage without any other creation functions, the website will be created by integrating it to the app.**
 
-\*푸시앱과 다른 점은 웹뷰앱은  푸시 발송이 불가하며, 앱의 다른 기능은 모두 이용할 수 없습니다.&#x20;
+\*The difference from the push app is that the webview app cannot send pushes, and all other functions of the app cannot be used.
 {% endhint %}
 
-신규 앱제작 혹은 앱 추가 제작시 대시보드 화면에 앱제작 마법사 팝업창이 먼저뜹니다.
+When you create a new app or add an app, the App Creation Wizard pop-up window will appear first on the dashboard screen.
 
-앱제작 마법사에서 단계별 정보를 입력하면 간단하게 푸시전용앱을 제작할 수 있습니다!
+Simply enter the step-by-step information in the App Creation Wizard to create a push-only app!
 
 
 
-**1.앱제작 마법사 시작하기 팝업에서 – 웹사이트를 기반한 웹앱 스타일을 선택하고 \[다음] 버튼을 선택해주세요.**
+**1.In the Start App Creation Wizard pop-up – Select a web app style based on the website and select the \[Next] button.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A81.png)
 
-**2.웹앱 기본 정보를 입력해주세요.**&#x20;
+**2.Enter the web app basic information.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A81.png)
 
-**1)웹사이트 주소**
+**1)Website address**
 
-앱에 적용할 사이트 링크이며, http:// 하이퍼링크를 반드시 넣어주세요.
+This is the site link you want to apply to your app, and be sure to include a hyperlink http://.
 
-링크 주소 입력 후 마우스 커서를 빈 공간에 한번 클릭하면 반영됩니다.&#x20;
+After entering the link address, a single click on the mouse cursor in the empty space will be reflected.
 
-오른쪽 가상머신(미리보기)화면으로 적용된 사이트가 잘 뜨는지 확인할 수 있습니다.
+You can check if the applied site is popping up well with the virtual machine (preview) screen on the right.
 
-**2)푸시 기능 사용여부 체크**
+**2) Check whether the push function is enabled**
 
-웹뷰앱으로 제작할 것이기 때문에 푸시 기능은 ‘미사용’으로 체크해주세요.
+Since we will be creating it as a webview app, please check the push function as 'Unused'.
 
-**3)\[다음] 버튼을 선택합니다.**&#x20;
+3\)Select the \[Next] button.
 
-<mark style="color:red;">-웹사이트 주소 및 푸시 기능, 툴바 기능은 제작 메이커에서 다시 수정가능합니다.</mark>
+<mark style="color:red;">-Website address, push function, toolbar function can be modified again in the authoring maker.</mark>
 
-
-
-**3.앱이름, 아이콘, 대기화면 이미지를 등록합니다.**&#x20;
+**3.Register the app name, icon, and standby image.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A82.png)
 
-1\)앱 이름 입력
+1\)Enter the app name
 
-2\)앱 아이콘 이미지 등록
+2\)App icon image registration
 
-3\)대기화면 이미지 등록
+3\)Standby screen image registration
 
-<mark style="color:red;">-앱 이름, 아이콘 이미지, 대기화면 이미지 역시 제작 메이커에서 다시 수정가능합니다.</mark>
+<mark style="color:red;">-App name, icon image, and standby screen image can also be modified again in the creation maker.</mark>
 
 
 
-<mark style="color:green;">**–> 아이콘, 대기화면 이미지 등록방법**</mark>
+<mark style="color:green;">**–> Icon, how to register standby screen image**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%95%B13.png)
 
-앱 아이콘, 대기화면은 \[등록] 버튼을 선택하면 파일 첨부 창이 열리구요.
+On the app icon, the standby screen, select the \[Register] button and the file attachment window will open.
 
-여기서 이미지를 업로드하여 적용해주시면 됩니다.
+You can upload an image here and apply it.
 
-**-아이콘 이미지 사이즈: 1024px\*1024px**
+**- Icon image size: 1024px\*1024px**
 
-**-대기화면 이미지 사이즈 : 2282px\*2282px**
+**-Standby screen image size: 2282px\*2282px**
 
-등록이 완료되면 \[완료] 버튼을 선택해주세요.
+When the registration is complete, select the \[Done] button.
 
 
 
-**4.웹뷰앱에 들어갈 기본 정보 등록이 완료되었습니다.**&#x20;
+**4.The registration of basic information for the webview app has been completed.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A85.png)
 
-완료 버튼을 선택하면  앱제작 메이커 화면이 열립니다.
+Selecting the Done button opens the App Authoring Maker screen.
 
 
 
-### **\[앱제작 메이커]**
+### **\[**App Creation Maker]
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A84.png)
 
-왼쪽 앱제작 과정을 보시면 STEP1기본정보, STEP2 디자인, STEP페이지 단계를 확인할 수 있구요.
+If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP Page.
 
-제작 메이커에서는 STEP1기본정보에서 앱 아이디만 입력해주시면 됩니다.
+In the production maker, you only need to enter the app ID in the STEP1 Basic Information.
 
-앱 아이디는 영문+숫자 포함 6자 이상으로 기재해주셔야 하며 중복확인 버튼을 선택해주세요.
+The app ID must be at least 6 characters long, including English + numbers, and select the Check for Duplicate button.
 
-<mark style="color:red;">\*앱 아이디는 앱의 고유 식별자이며 설정 후에는 변경할 수 없습니다.</mark>
+<mark style="color:red;">\*The app ID is the unique identifier of the app and cannot be changed after setting.</mark>
 
 <mark style="color:red;"></mark>
 
-단계별로 내용을 입력하면 완료됩니다.
+Step by step, enter your content and you're done.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A86.png)
 
-\*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.
+\*When the STEP progress reaches 100%, all step inputs are complete.
 
-1\)저장 버튼 선택 →2)앱제작하기 버튼을 선택해주세요.
+1\)Select the Save button →2)Select the Create App button.
 
 {% hint style="danger" %}
-**\*안내**
+**\*Information**
 
-앱 제작 후, STEP1 기본정보 메뉴를 다시 수정하게 된다면 앱 업데이트를 다시 해주셔야 변경된 내용이 앱에 반영됩니다.
+If you modify the STEP1 Basic Information menu again after the app is created, you will need to update the app again before the app will reflect the changes.
 
-예를들어, 앱 이름을 변경했다면 변경 후 → 저장 → 앱 업데이트 버튼을 눌러서 새 버전으로 재제작해주세요.
+For example, if you changed the name of your app, save → after the change → press the Update App button to recreate it as a new version.
 
-앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
+If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 {% endhint %}
 
 ****
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**웹뷰앱 특징**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)WebViewApp Features
 
-\-웹뷰로 앱 제작시 웹링크 URL주소만 넣으면 앱을 제작할 수 있어요.
+\-When creating an app with a webview, you can create an app by simply including the web link URL address.
 
-\-웹사이트만 그대로 연동한 스타일이기 때문에 스윙투앱에서 제공하는 다른 앱 메뉴들은 사용할 수 없어요. (푸시 기능 이용불가)
+\-Since the website is the same style as it is, you cannot use other app menus provided by the Swing-to-App app. (Push function is not available)
 
-\-푸시 알림을 보내고 싶다면 프로토타입: 푸시 전용을 선택하여야 합니다.&#x20;
-
-
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **웹뷰앱 제작 후 웹링크 주소는 어떻게 변경하나요?**
-
-앱에 적용된 웹링크 주소를 변경하는 것도 동일합니다.
-
-페이지 메뉴 – 1)**\[홈화면] 버튼 선택 → 2)메뉴 유형: 웹링크 선택 → 3)웹링크 란에 URL주소 입력 → 4)적용 버튼 → 5)저장 버튼 선택**
-
-\*웹링크 주소 수정은 저장 버튼만 누르면 앱에 자동 반영됩니다.
-
-\*앱 종료후 재실행하시면 바뀐 웹사이트로 적용됩니다.
-
-\*중요\* 웹뷰 무제한 플러그인 상품을 이용중인 앱에서는 웹링크 주소 변경이 불가합니다.
-
-결제 및 상세 페이지에 해당 내용 기재되어 있으며,  안내드리고 있으니 참고해주세요!
-
-일반 이용권 이용중에는 변경 가능합니다.
+\-If you want to send push notifications, you need to select Prototype: Push Only.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **웹뷰앱) 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** How do I change the weblink address after creating the webview app?
+
+The same goes for changing the weblink address applied to your app.
+
+**Page Menu – 1)Select \[Homescreen] Button → 2)Menu Type: Select Web Link → 3)Enter the URL Address in the WebLink → 4)Apply Button → 5)Select Save Button**
+
+\*Modifying the web link address is automatically reflected in the app by simply pressing the Save button.
+
+\*If you exit the app and relaunch it, it will be applied to the changed website.
+
+\*Important\* Apps that use the WebView Unlimited plugin product will not be able to change the web link address.
+
+The details are listed on the Payment and Details page, and we will guide you, so please refer to it!
+
+It can be changed during the general subscription.
+
+
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **W**ebview app) app launch screen
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png)
 
-웹뷰 버전 역시 모바일 웹사이트를 앱에 그대로 적용해서 제작하는 앱 플랫폼이에요.
+The WebView version is also an app platform that creates mobile websites by applying them exactly to the app.
 
-다른 앱 기능을 이용하지 않고, 웹사이트 링크만 걸어서 제작하는 앱 스타일이기 때문에 푸시버전과 달리 ‘푸시 메시지’는 보낼 수 없습니다.
+Unlike the push version, you can't send a "push message" because it's an app style that doesn't use other app features and only creates by clicking a link to a website.
 
-이미지에서 보듯이 모바일웹과 만들어놓은 웹뷰 앱은 차이 없이 동일합니다.
+As you can see in the image, the mobile web and the webview app you create are the same without any difference.
 
 ![](broken-reference)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시앱, 웹뷰앱 제작 안내사항**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Push App, Webview App Creation Guide
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B05.png)
 
-웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
+When creating a webview app or push app, after entering the website address, you can see that the virtual machine (preview screen) displays the message "Please check after installing the app on your mobile phone" or "Refused to connect".
 
-**연결한 웹사이트 내에서 외부 연결을 막아놓는 즉, 외부공유 및 퍼가기 금지 보안이 설정되어 있을 경우 해당 메시지가 보여집니다.**
+**If the security that prevents external connections within the website you connected to, that is, the prohibition of external sharing and embedding, is enabled, you will see the message.**
 
-따라서 이렇게 보안설정이 되어 있는 웹사이트 링크를 연결하면 웹 미리보기 화면에서 연결 거부 메시지가 보이게 됩니다.
+Therefore, when you link to a website that has this security setting, you will see a message that says Deny Connection on the web preview screen.
 
-이러한 메시지가 뜨셔도 **앱제작이 안되는 것은 아니구요.**
+Even if you get these messages, it **doesn't mean you can't build an app.**
 
-**단순히 웹에서만 보안상 화면 표시가 안되는 것으로 앱으로 확인하시면 보다 정확히 확인 가능합니다.**
+**You can check more accurately by simply checking with the app that the screen cannot be displayed on the web for security reasons.**
 
-**따라서 저장 후 \[앱제작하기] 하신 뒤 앱으로 다운받아 확인해주시기 바랍니다.**
+**Therefore, please save and \[Create App] and download it to the app to confirm.**
 
-앱으로 보시면 사이트가 정상적으로 앱으로 연동되어 작동되는 것을 확인할 수 있습니다.
+If you look at it as an app, you can see that the site works normally with the app.
 
-만약 앱에서도 연결이 거부된다면 문의게시판으로 문의주시기 바랍니다.
+If the app also refuses to connect, please contact the inquiry board.
 
-\*단, 내부 사용 목적의 URL 및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며, 웹앱으로 제작이 불가합니다.
+\*However, the URL for internal use and the site address used by the company's internal server cannot be connected and cannot be created as a web app.
 
-제작한 앱을 다운(설치)받는 방법은 아래 매뉴얼에서 확인해주시기 바랍니다.
+To learn how to download (install) your app, please check the manual below.
 
-**☞** [**핸드폰에 앱 설치하는 방법 보러가기**](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
+**☞ **<mark style="color:blue;">**See how to install the app on your phone**</mark>
 
 ![](broken-reference)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **푸시 및 웹뷰앱 제작시 주의해주세요.**&#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Please be careful when creating push and webview apps.
 
-**1) 웹링크 중에서  앱과 연동이 되지 않는, 즉  퍼가기를 금지해 놓은 사이트가 있어요.**
+**1) There is a web link that does not work with the app, that is, there is a site that prohibits embedding.**
 
-\*네이버, 다음 등의 포털 사이트와 해당 포털에서 제공하는 사이트(modoo,스토어팜 웹 등), 유튜브, SNS 사이트(인스타그램, 카카오톡, 페이스북) 등이 퍼가기를 금지해놓은 대표적인 사이트에요!
+\*Naver, the following portal sites, and the sites provided by the portal (modoo, storefarm web, etc.), YouTube, social media sites (Instagram, KakaoTalk, Facebook), etc. are the representative sites that have been banned from embedding!
 
-따라서 **도메인 등록 정보로 내가 만든 사이트 임을 입증할 수 있는 홈페이지, 회사에서 만든다면 사업자등록증으로 증명할 수 있는 웹사이트(홈페이지)를 적용해주셔야 합니다.**
+Therefore, you **need to apply a homepage that can prove that you created it with domain registration information, and a website (homepage) that can be verified by a business registration certificate if it is created by the company.**
 
-자신이 운영하는 네이버 블로그 혹은 다음 카페 등을 웹뷰나 푸시로 연동하려는 사용자분들이 많은데요.
+There are many users who want to link their Naver blog or the next café with a webview or push.
 
-이러한 사이트는 앱에 연동하실 경우 에러가 나거나 제대로 동작이 되지 않습니다.
+These sites will error or will not function properly if you link them to the app.
 
-**\* 이러한 앱은 플레이스토어, 앱스토어 출시 안됩니다.**
+**\* These apps should not be released on the Play Store or the App Store.**
 
-따라서 위의 링크들은 웹뷰 앱, 푸시 앱에는 적용하지 않도록 해주세요.
+Therefore, please do not apply the above links to webview apps, push apps.
 
-다른 프로토타입에서 외부 메뉴로 해당 링크를 넣는 것은 괜찮지만, 앱 연동 링크 자체가 위의 사이트 주소로 사용되지 않도록 해주세요.
+It's okay to put that link in an external menu from another prototype, but make sure that the app link itself doesn't use the above site address.
 
+**2) Do not change from a push-version or webview-version prototype to another prototype.**
 
+After being built as a webview-based (push, webview) prototype, → cannot be changed to a generic prototype (slide,
 
-**2) 푸시버전 혹은 웹뷰버전 프로토타입에서 다른 프로타입으로는 변경 안되요.**
+\*If you need to change from a webview-based prototype to a different prototype, you'll need to create a new app.
 
-웹뷰 기반(푸시, 웹뷰) 프로토타입으로 제작 후 → 일반 프로토타입(슬라이드, 탑, 푸터, 드롭다운 리스트, 드롭다운 박스)으로 변경할 수 없습니다.
+**3) If your goal is to commercialize the app (launch the store), please use the paid version.**
 
-**\*웹뷰 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.**
+**Push or webview apps also need to be purchased and used as a paid version of the Swing Paid App in order to launch the app on the Play Store or App Store.**
 
-****
+**TIP. If you launch the store with a webview or a push app, you can purchase an unlimited subscription and you will have unlimited access to the app for a fee with no limit on the duration of the service.**
 
-**3) 앱 상용화(스토어 출시)가 목적이라면 반드시 유료버전으로 이용해주세요.**
+<mark style="color:blue;">**☞**</mark>**  **<mark style="color:blue;">**Go to WebView Unlimited Paid App Products**</mark>
 
-**푸시 혹은 웹뷰 앱도 플레이스토어, 앱스토어에 앱을 출시하기 위해서는 스윙 유료앱 이용권을 구매하여 유료버전으로 이용해주셔야 합니다.**&#x20;
-
-**TIP. 웹뷰, 푸시앱으로 스토어 출시할 경우 무제한 이용권을 구매하시면 이용기간 제한없이 앱을 유료로 무제한 이용할 수 있어요.**&#x20;
-
-**☞** [**웹뷰 무제한 유료앱 상품 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/pay/webveiw-unlimited/)
-
-[**☞ 푸시 무제한 유료앱 상품 보러가기**](https://wp.swing2app.co.kr/documentation/appmanage/pay/push-unlimited/)
+[**☞** ](https://wp.swing2app.co.kr/documentation/appmanage/pay/push-unlimited/)<mark style="color:blue;">**Go to Push Unlimited Paid App Products**</mark>
 
 
 
-**4) 푸시 앱, 웹뷰앱 이용시 적용된 웹링크(사이트 URL)은 이용 중에도 변경할 수 있습니다. (앱제작 필요 없이 저장만 누르면 자동 반영)**
+**4) The web link (site URL) applied when using the push app and the webview app can be changed while using it. (No need to create an app, just press Save to automatically reflect)**
 
-처음 앱제작과 동일하구요.
+It's the same as building the first app.
 
-앱제작 페이지 →페이지 메뉴 단계에서 → HOME 버튼 → 웹사이트 주소란에서 URL을 수정 한 뒤 저장해주시면 됩니다.
+In the menu step of the → page of the app creation page, you can modify the URL in the website address field → the → HOME button and save it.
 
-앱을 종료하고 재실행하시면 변경된 웹사이트로 적용되어 보여집니다.
+Exit and relaunch the app and it will be applied to the changed website.
 
-\*단, 푸시 무제한 유료앱 이용권 사용자분들은 저장 후 앱제작 다시 해주셔야 합니다. 새 버전으로 업데이트해야 반영됩니다.
+\*However, users of Push Unlimited Paid App Subscription will need to save and re-create the app. You will need to update to the new version to be reflected.
 

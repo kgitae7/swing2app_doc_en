@@ -1,87 +1,83 @@
-# 웹뷰,푸시앱-최초 실행 주소 이용방법
+# How to use a webview, push app - first run address
 
-**웹앱(웹뷰,푸시앱)기능-최초 실행 주소 기능 이용방법**
+**Web App (Web View, Push App) Function - How to Use the First Run Address Function**
 
-\*해당 기능은 앱제작v3 버전에서 이용 가능합니다.
+\*This function is available in the App Creation v3 version.
 
-이전 버전을 사용하고 있다면 v3 버전 전환 후 이용해주시기 바랍니다.
+If you are using an older version, please switch to v3 and use it.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **최초 실행 주소란?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** What is the first-run address?
 
-최초 실행 주소란, 앱에 연결한 웹사이트 외에 앱을 설치하고 처음에만 보여지는 웹페이지를 별도 적용하는 것을 말합니다.
+The first launch address is the installation of the app in addition to the website associated with the app and the separate application of the web page that is only shown the first time.
 
-웹뷰, 푸시앱 등 웹사이트를 연결한 웹앱에 적용할 수 있구요.
+You can apply it to web apps that connect websites, such as webviews, push apps, etc.
 
-해당 페이지는 앱을 실행한 최초에만 보여지고, 앱 종료 후 이후 앱을 다시 실행할 때는 보여지지 않습니다. (원래 연결된 웹사이트로 보여짐)
+The page is only visible the first time the app is launched, and not when the app is relaunched after the app exits. (Originally shown as a linked website)
 
-​
+The first-launch address is a common feature in web apps.
 
-최초 실행 주소는 일반적으로 웹앱에서 많이 사용되는 기능이구요.
+You can use a separate page to promote your use of the app a lot and a reminder before you launch the app.
 
-본 앱을 시작하기 전 안내 문구, 앱을 많이 사용해달라는 홍보용으로 페이지를 별도 구성하여 이용할 수 있습니다.
-
-혹은 앱 설치시 중요 안내 및 꼭 봐야할 내용 등이 있다면 링크 등을 연결하여 사용자들에게 보여줄 수 있습니다.
+Or, if you have important instructions and must-see things to do when installing the app, you can show it to users by linking links, etc.
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**최초 실행 주소 이용방법**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)How to use the first run address
 
 ![](broken-reference)
 
-최초 실행 주소는 웹뷰앱, 푸시앱에서만 이용 가능하구요**.**
+The first launch address is only available in the webview app and the push app.
 
-**STEP3 페이지 단계에서 최초 실행 주소 설정 옵션을 확인할 수 있습니다.**
+**You can check the Set First Run Address option in the STEP3 page step.**
 
-**“예”로 체크 후, 주소란에 웹사이트 링크 주소(URL)를 입력해주세요.**
+**After checking "Yes", enter the address (URL) of the website link in the address field.**
 
-해당 메뉴 까지 입력 후 \[저장] – \[앱제작하기] 선택해주세요.
+Enter the appropriate menu and select \[Save] – \[Create App].
 
-​
-
-최초 실행 주소란에 스윙투앱 블로그 ‘앱제작 매뉴얼 가이드’ URL을 적용해서 제작했습니다.
+We created it by applying the Swing-to-App blog 'App Creation Manual Guide' URL to the first run address field.
 
 [https://blog.naver.com/swing2app/222771424263](https://blog.naver.com/swing2app/222771424263)
 
 ​
 
-<mark style="color:red;">**\*중요 안내**</mark>
+<mark style="color:red;">**\*Important Information**</mark>
 
-**설치 후 처음에만 보여지는 화면이기 때문에 앱을 이미 제작한 사용자분들 중 새로 최초 실행 주소를 넣거나, 주소를 변경하는 경우 반드시 앱제작을 다시 해주셔야 합니다. \_ 업데이트 필수!!**
+**Because this is the screen that is only visible the first time after installation, users who have already created the app must re-create the app if they add a new first launch address or change the address. \_ Update required!!**
 
-저장만 하면 반영이 되지 않아요.
+Just save it and it won't be reflected.
 
-새 버전으로 앱을 재설치(업데이트)한 뒤 앱을 실행해야, 최초 실행 주소로 넣은 웹사이트(웹페이지)로 변경되어 보여집니다.
+After reinstalling (updating) the app to the new version, you need to launch the app, which will change to the website (webpage) that you put in the first launch address and it will be displayed.
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**앱 확인\_ 최초 실행 주소 움짤 영상 확인하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Check the app\_ Check the video of the first launch address
 
 &#x20;![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94\_2022\_06\_16\_15\_52\_04\_616.gif)
 
-최초 실행 주소를 적용한 뒤 앱을 설치 후 실행한 화면입니다.
+This is the screen where you applied the first launch address and then launched the app after installation.
 
-앱 실행시 주소란에 입력했던 스윙투앱 블로그 – v3앱제작 매뉴얼 포스팅 링크 화면이 열리는 것을 확인할 수 있습니다.
+When you launch the app, you will notice that the Swing-to-App Blog – v3 App Creation Manual Posting link screen that you entered in the address field opens.
 
 ​
 
-### <mark style="color:blue;">**-앱 종료 후, 재실행한 화면**</mark>
+### <mark style="color:blue;">**-**</mark><mark style="color:blue;">After exiting the app, relaunched screen</mark>
 
 ![](https://postfiles.pstatic.net/MjAyMjA2MTZfMjQ0/MDAxNjU1MzYzNDY0NDcy.9iV6jt5XJj-dhzmQJ5VvLFBabTUOyRYp9qtnkWLoByMg.i5w5w9p64enW7uUegmJfrxN9zYLTSylJu8RxZ6F961Eg.GIF.swing2app/%EB%85%B9%ED%99%94\_2022\_06\_16\_16\_10\_48\_11.gif?type=w966)![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EB%85%B9%ED%99%94\_2022\_06\_16\_16\_10\_48\_11.gif)
 
-그리고 앱 종료 후 다시 앱을 실행하면, 원래 웹뷰앱에 적용한 웹사이트이죠,
+And when you exit the app and launch the app again, it's the website you originally applied to the webview app.
 
-스윙투앱 홈페이지로 바로 연결되어 보여집니다.
+You'll be shown a direct link to the Swing-to-App homepage.
 
 ​
 
 ![](broken-reference)
 
-소개해드린 매뉴얼에서는 블로그 링크를 넣었지만 소개용 페이지를 별도 제작했다면 해당 페이지 링크를 입력해주시는 것이 좋습니다.
+In the manual I introduced, I put a link to my blog, but if you have created a separate page for introduction, we recommend that you enter a link to that page.
 
-최초 실행 주소를 사용하지 않거나, 링크 주소를 변경할 경우는 수정 후 반드시 앱 업데이트를 해주셔야 합니다.
+If you don't use the first-launch address or change the link address, you must update the app after modifying it.
 
-스토어에 출시하지 않은 분들은 앱 삭제 후 다시 앱을 설치받아 확인해주시구요.
+If you haven't released it to the Store, please uninstall the app and install it again to confirm.
 
-앱스토어, 플레이스토어에 출시된 앱은 새로 제작된 버전의 앱으로 업데이트 제출해주셔야 합니다.
+Apps released on the App Store or Play Store must be updated with a newly created version of the app.
