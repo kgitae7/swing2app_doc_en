@@ -95,7 +95,7 @@
     * [Push-app toolbar](manual/V3manual/webapp/push-app-toolbar.md)
     * [How to create a push app, webview app easily](manual/V3manual/webapp/push-webview.md)
     * [How to use a webview, push app - first run address](manual/V3manual/webapp/firstrun-url.md)
-    * [웹뷰앱 기본 설정, 고급 설정 옵션](manual/V3manual/webapp/webviewapp-options.md)
+    * [WebviewApp preferences, advanced setting options](manual/V3manual/webapp/webviewapp-options.md)
     * [푸시앱 툴바-이용방법 및 기능 소개](manual/V3manual/webapp/pushapp-toolbar.md)
     * [푸시 아이콘 이미지 등록하기](manual/V3manual/webapp/push-icon.md)
   * [Product Modification - Modify a registered product](manual/V3manual/product-modification-modify-a-registered-product.md)
