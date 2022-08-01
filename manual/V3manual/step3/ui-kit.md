@@ -1,242 +1,242 @@
-# 페이지 기능-UI KIT
+# Page Feature - UI KIT
 
-**UI KIT란?**
+**What is UI KIT?**
 
-스윙투앱에서 제공하는 **게시판 유형의 기능**을 모아놓은 키트입니다.
+This is a kit that brings together the bulletin board type features provided by the Swing2App app.
 
-일반 게시판 UI와 위치등록(지도)게시판, 그룹채팅, 캘린더, 스탬프 게시판 기능을 해당 메뉴에서 확인하고 앱에 적용할 수 있습니다.
+You can view the general board UI and location registration (map)board board, group chat, calendar, and stamp board functions from their menus and apply them to your app.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/UI%ED%82%A4%ED%8A%B8.png)
 
-아래에서 각 게시판 UI를 앱에 적용하는 방법을 알려드리겠습니다.
+Below, we'll show you how to apply each bulletin board UI to your app.
 
 ![](../../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **게시판**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Bulletin board
 
-게시판은 앱 내 커뮤니티 용도로 관리자가 글을 쓸 수 있고, 앱을 이용하는 사용자들도 글을 등록할 수 있는 기능입니다.
+The bulletin board is a feature that allows administrators to write for in-app community use, and users who use the app can also register their posts.
 
-스윙투앱에서는 다양한 게시판 스타일 UI 를 제공하고 있습니다.
+The Swing-to-App provides a variety of bulletin board style UI.
 
-각 UI별 스타일에 맞게 게시판을 생성하고 앱에 게시판을 적용하여 이용할 수 있습니다.
+You can create a board for each UI-specific style and apply it to your app to make use of it.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app creation screen STEP3 page
 
-2\)메뉴 선택
+2\)Select menu
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If this is before you create a menu, please create a new one. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] from the page design
 
-5\)\[게시판]을 선택해주세요.
+5\) Please select \[Bulletin Board].
 
-6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the board you want to register and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-<mark style="color:red;">\*게시판은 내가 만들어놓지 않았는데 게시판이 있는 것을 확인할 수 있어요.</mark>
+<mark style="color:red;">\*I haven't created a bulletin board, but I can see that there is a bulletin board.</mark>
 
-<mark style="color:red;">스윙투앱에서 샘플로 기본 제공해드리는 게시판이에요.</mark>
+<mark style="color:red;">It's a built-in bulletin board as a sample in the Swing-to-App app.</mark>
 
-<mark style="color:red;">따라서 게시판을 이용하기 전에는 \*앱운영-서비스관리- 게시판관리에서 사용할 게시판만 만들어주시고 사용하지 않는 게시판은 삭제해주세요.</mark>
+<mark style="color:red;">Therefore, before using the bulletin board, please create only the bulletin board to be used in \*App Operation - Service Management - Bulletin Board Management, and delete the unused bulletin board.</mark>
 
-<mark style="color:red;">게시판 운영 정리를 모두 한 뒤 앱에 적용할 게시판을 등록해주세요.</mark>
+<mark style="color:red;">After you have cleaned up the operation of the board, please register the board to apply to the app.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+If you select the Preview button, you can see how the page will look in a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-게시판을 만들고 앱에 적용하는 방법 상세 매뉴얼을 확인해주세요.
+Check out the detailed manual on how to create a bulletin board and apply it to your app.
 
-☞ [게시판 만들기 매뉴얼](https://wp.swing2app.co.kr/documentation/appmanage/board/boardeditor/)
+☞ <mark style="color:blue;">Create a board manual</mark>
 
 ![](../../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **위치등록**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Location Registration
 
-위치등록은 지도게시판으로, 앱 내에 주소를 넣어야 할 때\~!! 고객들에게 지도 및 오시는 길 안내를 해야 할 때 사용할 수 있는 위치등록 기능이구요.
+Location registration is a map board, when you need to put an address in the app \~!! It's a location registration feature that you can use when you need to map your customers and give them directions to get there.
 
-지도 기능은 카카오맵과 연동하여 제공하고 있습니다.
+The map function is provided in conjunction with Kakao Map.
 
-지도 게시판은 지도map 제공 뿐만 아니라 업체의 주소, 업체 설명, 길 찾기, 홈페이지, 전화걸기, 사진(이미지) 등 다양한 상세 정보를 입력할 수 있습니다.
+In addition to providing a map map, the map board allows you to enter a variety of details, such as a business address, business description, directions, homepage, phone call, photo (image), and more.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D.png)
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app creation screen STEP3 page
 
-2\)메뉴 선택
+2\)Select menu
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If this is before you create a menu, please create a new one. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] from the page design
 
-5\)\[위치등록]을 선택해주세요.
+5\) Select \[Register Location].
 
-6\) 만들어놓은 위치등록 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the location registration board you have created and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-<mark style="color:red;">\*위치등록게시판을 먼저 만들어주세요. 만들어놓은 위치등록 게시판이 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>
+<mark style="color:red;">\*Please create a location registration board first. If you don't have a location registration board that you created, it won't appear on the screen and won't be applicable to your app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-**위치등록(지도) 게시판 이용방법 상세 매뉴얼을 확인해주세요.**
+**Please check the detailed manual on how to use the location registration (map) bulletin board.**
 
-**☞** [**위치등록(지도)게시판 매뉴얼**](https://wp.swing2app.co.kr/documentation/appmanage/board/map-board/)
+**☞** <mark style="color:blue;">**Location Registration (Map) Bulletin Board Manual**</mark>
 
 ![](../../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **그룹채팅**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) GroupChat
 
-앱 내에서 여러명의 사용자가 동시에 채팅을 진행할 수 있고, 관리자와 다수의 사용자의 채팅도 가능합니다.
+Within the app, multiple users can chat at the same time, and you can also chat with administrators and multiple users.
 
-또한 회원 그룹별로 채팅방 권한을 설정할 수 있으며, 비밀번호를 입력해야 입장이 가능한 비밀채팅방을 설정할 수도 있습니다.
+You can also set chat room permissions for each group of members, and you can also set up a secret chat room where you can enter a password.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%85.png)
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app creation screen STEP3 page
 
-2\)메뉴 선택
+2\)Select menu
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If this is before you create a menu, please create a new one. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] from the page design
 
-5\)\[채팅]을 선택해주세요.
+5\) Select \[Chat].
 
-6\) 만들어놓은 채팅방을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the chat room you have created and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-<mark style="color:red;">\*그룹채팅게시판을 먼저 만들어주세요. 만들어놓은 그룹채팅 게시판이 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>
+<mark style="color:red;">\*Please create a group chat board first. If you don't have a group chat board that you've created, it won't appear on the screen and won't be applicable to your app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-그룹채팅방을 만드는 방법, 채팅방 이용 방법 상세 내용은 아래 매뉴얼을 참고해주세요
+For details on how to create a group chat room and how to use it, please refer to the manual below.
 
-☞[그룹채팅방 매뉴얼](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)
+☞<mark style="color:blue;">Group Chat Room Manual</mark>
 
 ![](../../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **캘린더**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Calendar
 
-캘린더에 주요 일정을 간편하게 등록할 수 있고, 예약 관리가 필요한 업체에서는 날짜, 시간별로 예약현황을 기록할 수 있어요.
+You can easily register key events in your calendar, and businesses that need to manage your bookings can record their reservation status by date and time.
 
-또한 중요한 소식, 공지사항을 기재할 수 있습니다.
+You can also keep important news and announcements.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BA%98%EB%A6%B0%EB%8D%94.png)
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app creation screen STEP3 page
 
-2\)메뉴 선택
+2\)Select menu
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If this is before you create a menu, please create a new one. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] from the page design
 
-5\)\[캘린더]를 선택해주세요.
+5\) Select \[Calendar].
 
-6\) 만들어놓은 캘린더를 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the calendar you have created and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-<mark style="color:red;">\*캘린더게시판을 먼저 만들어주세요. 만들어놓은 스탬프가 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>
+<mark style="color:red;">\*Please create a calendar board first. If you don't have a stamp that you created, it won't appear on the screen and can't be applied to your app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-캘린더 이용방법 상세 매뉴얼은 아래 매뉴얼을 확인해주세요.
+For a detailed manual on how to use a calendar, please check the manual below.
 
-☞ [캘린더 이용방법 매뉴얼](https://wp.swing2app.co.kr/documentation/appmanage/board/calander/)
+☞ <mark style="color:blue;">Calendar How-to Manual</mark>
 
 ![](../../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **스탬프**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Stamp
 
-스탬프는 모바일 쿠폰으로 관리자가 사용자의 앱으로 스탬프(도장)를 추가할 수 있는 기능입니다.
+Stamps are mobile coupons that allow administrators to add stamps to a user's app.
 
-쿠폰과 연결해서 사용할 수 있구요.
+You can use it in conjunction with a coupon.
 
-스탬프 게시판 등록시 자동으로 생성되는 QR코드와 회원번호로 스탬프를 추가할 수 있습니다.
+When you register for the stamp board, you can add a stamp with the QR code and membership number that are automatically generated.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/UI%ED%82%A4%ED%8A%B8-%EC%8A%A4%ED%83%AC%ED%94%84.png)
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app creation screen STEP3 page
 
-2\)메뉴 선택
+2\)Select menu
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If this is before you create a menu, please create a new one. (+ Select the shape button to add a menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] from the page design
 
-5\)\[스탬프]를 선택해주세요.
+5\) Select \[Stamp].
 
-6\) 만들어놓은 스탬프를 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the stamp you have created and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-<mark style="color:red;">\*스탬프 게시판을 먼저 만들어주세요. 만들어놓은 스탬프가 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>
+<mark style="color:red;">\*Please create a stamp board first. If you don't have a stamp that you created, it won't appear on the screen and can't be applied to your app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-스탬프 게시판 등록 및 스탬프 이용방법 상세 매뉴얼은 아래 매뉴얼을 참고해주세요.
+For a detailed manual on how to register a stamp board and use the stamp, please refer to the manual below.
 
-☞ [스탬프 이용 및 등록방법 매뉴얼](https://wp.swing2app.co.kr/documentation/appmanage/board/stamp/)
+☞ <mark style="color:blue;">Stamp Use and Registration Method Manual</mark>
 
