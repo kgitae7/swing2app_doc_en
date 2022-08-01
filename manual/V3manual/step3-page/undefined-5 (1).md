@@ -1,278 +1,102 @@
-# 페이지 기능-링크
+# Page Features - Search for Posts
 
-**링크마법사: 인터넷 주소, 전화번호, 문자, 이메일주소 적용방법**
+The Swing To App offers a variety of board styles, and users are free to create a board and write a post\~!
 
-스윙투앱에서 제공하는 링크 기능에서는 일반 웹사이트 URL과 전화번호, 문자메시지 번호, 메일 주소를 적용할 수 있습니다.
+The post search function, which finds the search terms you want, can also be useful.
 
-앱제작 – STEP3 페이지 단계에서 – 페이지 기능: 링크를 이용하는 방법을 알려드릴게
+The Swing-to-App offers 2 different post search functions.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.인터넷주소(사이트 URL) 링크 적용하기**
+**1. Integrated board search: Filter search terms across all boards applied to your app.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png)
+**2. Search for individual posts: Search for posts on individual bulletin boards**
 
-앱제작 화면 이동
+**e.g. Search for posts on the announcement board, search for posts on the free bulletin board**
 
-1\)STEP3 페이지 단계로 이동합니다.
+–Please check the manual below to find out how to use and apply the post search.
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Post Search Function
 
-3\)메뉴 이름 입력
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
 
-4\)페이지 디자인에서 \[링크]를 선택해주세요.
+To search for a post, a search term input window will appear at the top of the bulletin board list.
 
-5\)\[인터넷 주소]를 선택합니다.
+After typing in the word you want to search, click the "magnifying glass" icon in the upper-right corner to filter the search terms to show them.
 
-6\)창열림 선택 : \*\*‘새창으로 열기’\*\*를 선택해주세요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply it to the \[Search Post] app
 
-7\)웹사이트 주소: URL주소를 입력해주세요. 하이퍼링크 포함해주세요(http://)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89.png)
 
-8\)\[URL 적용하기] 버튼을 선택해주세요.
+Move the app creation screen
 
-9\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+1\)STEP3 Go to the page step.
+
+2\)Create a new menu. (+ Select the shape button to add a menu)
+
+3\) Enter the menu name
+
+4\) Select \[Basic Functions] - \[Page] in the page design.
+
+5\) Find the 'Search Posts' page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
+
+If you select the Search Posts menu that you have created, you will see a list of posts from all the boards applied to the app, as shown in the image above.
+
+You'll see a search terms field at the top.
+
+When you enter a search term, it is filtered to show it.
+
+1\) Integrated Post Search
+
+If you are searching for content in posts on all bulletin boards – please apply the \[Search Posts] function provided by the swing page!
+
+2\) Search for individual posts
+
+If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
+
+{% hint style="success" %}
+<mark style="color:green;">**★**</mark>** **<mark style="color:green;">**Post Search Cleanup TIP**</mark>
+
+1\) Integrated Post Search
+
+If you are searching for content in posts on all bulletin boards – please apply the \[Search Posts] function provided by the swing page!
+
+2\) Search for individual posts
+
+If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
+{% endhint %}
+
+***
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+<mark style="color:blue;">**Search individual posts**</mark>
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+On the board, the search box is created with the default settings.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+So the ability to search for posts on a specific board is automatically provided on each board without having to add anything else.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-* [x] <mark style="color:blue;">**\[새창으로 열기], \[새 앱으로 열기]는 무엇이며 왜 필요한가요?**</mark>
-
-웹사이트는 사이트마다 보안이 설정되어 있어서 외부에서 웹링크를 불러오지 못하게 설정되어 있는 경우가 있습니다.
-
-퍼가기를 금지해놓은 사이트는 링크를 입력해도 앱에서 연결이 거부되거나, 에러가 발생되기도 합니다.
-
-**☞ 이러한 문제를 해결하기 위해 제공되는 옵션 기능이 바로 ‘새 창으로 열기’ 입니다.**
-
-**앱 안에서 링크를 여는 스타일이 아니라, 앱에 새로운 창을 띄어서 해당 사이트가 문제 없이 열릴 수 있도록 하는 것이죠!!**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B82.png)
-
-새 앱으로 열기도 동일한데요. 새창으로 보기와 다른 점은 어플이 실행되어 링크가 열리는 구조입니다.
-
-**어플로 구동이 되는 링크들이 있죠. 예를 들어 인스타그램, 페이스북, 유튜브, 카카오 등**
-
-이렇게 링크 주소는 생성이 되지만 본래 어플을 이용하여 열리는 웹주소는 “새 앱으로 열기”를 선택해주세요
-
-**\*중요\*** 유튜브 영상 및 채널 링크를 연결할 때는 반드시 ‘외부앱으로 열기’를 선택해주셔야 합니다. \_ 구글 정책 내용
-
-**따라서 웹링크 이용시 반드시 ‘새창으로 보기(popup)’에 체크해주세요.**
-
-**보안설정이 안된 웹사이트라도 새창으로 보기로 선택해주셔야 앱에서 보다 안정적으로 이용을 할 수 있습니다.**
-
-***
-
-#### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **앱 실행화면- 인터넷 주소 적용화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew3.png)
-
-링크마법사에서 ‘인터넷 주소’를 연결한 뒤 앱을 실행했구요.
-
-웹링크 메뉴 선택시 적용된 웹사이트 페이지로 이동합니다.
-
-***
-
-**앱을 실행하여 새창으로보기와 외부앱으로 보기가 어떻게 다른지 확인할게요!**
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **새창으로 열기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_15\_59\_42\_883.gif)
-
-홈페이지 URL을 연결해놓았구요.
-
-메뉴를 선택하면 새 웹 페이지로 이동하여 사이트가 실행됩니다. 인터넷 창이 새로 열리는 개념이구요.
-
-화면 X버튼이나, 뒤로가기(백버튼)를 누르면 다시 앱으로 돌아옵니다.
-
-***
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **새 앱으로 열기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_16\_02\_05\_720.gif)
-
-유튜브 링크는 ‘외부 앱으로 보기’로 연결했구요.
-
-유튜브 어플이 실행되면서 연결된 영상 링크로 이동합니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 전화번호 적용하기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%A0%84%ED%99%94%EA%B1%B8%EA%B8%B0.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\)메뉴 이름 입력
-
-4\)페이지 디자인에서 \[링크]를 선택해주세요.
-
-5\)\[전화번호 걸기]를 선택합니다.
-
-6\)수신자 전화번호를 입력해주세요.
-
-<mark style="color:red;">\*실제 전화로 연결되는 번호를 입력합니다.</mark>
-
-<mark style="color:red;">\*번호만 입력해주세요 ‘ – ‘ 특순문자는 입력하지 않도록 해주세요!!</mark>
-
-7\)\[URL 적용하기] 버튼을 선택해주세요.
-
-8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **앱 실행화면- 전화번호 적용화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew2.png)
-
-링크마법사에서 ‘전화번호’를 연결한 뒤 앱을 실행했구요.
-
-전화걸기 메뉴 선택시 적용해놓은 번호로 전화가 연결됩니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 문자메시지 번호 적용하기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EB%AC%B8%EC%9E%90%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\)메뉴 이름 입력
-
-4\)페이지 디자인에서 \[링크]를 선택해주세요.
-
-5\)\[문자메시지 발송]을 선택합니다.
-
-6\)SMS 발신 전화번호를 입력합니다.
-
-<mark style="color:red;">\*실제 문자메시지를 받을 수 있는 번호를 입력합니다.</mark>
-
-<mark style="color:red;">\*번호만 입력해주세요 ‘ – ‘ 특순문자는 입력하지 않도록 해주세요!!</mark>
-
-<mark style="color:red;">\*SMS 내용 입력은 선택사항입니다.</mark>
-
-7\)\[URL 적용하기] 버튼을 선택해주세요.
-
-8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **앱 실행화면- 문자메시지 번호 적용화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew4.png)
-
-링크마법사에서 ‘문자메시지 번호’를 연결한 뒤 앱을 실행했구요.
-
-문자 보내기 메뉴 선택시 적용된 번호로 문자 메시지를 보낼 수 있습니다.
-
-번호는 실제 문자를 받을 수 있는 핸드폰 번호를 입력해주세요!
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 이메일주소 적용하기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\)메뉴 이름 입력
-
-4\)페이지 디자인에서 \[링크]를 선택해주세요.
-
-5\)\[이메일 발송]을 선택합니다.
-
-6\)수신자 이메일 주소를 입력합니다.
-
-<mark style="color:red;">\*제목, 내용은 선택사항입니다.</mark>
-
-7\)\[URL 적용하기] 버튼을 선택해주세요.
-
-8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-\
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**앱 실행화면- 이메일 주소 적용화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew5.png)
-
-링크마법사에서 ‘이메일 주소’를 연결한 뒤 앱을 실행했구요.
-
-이메일 발송 메뉴 선택시 적용된 이메일로 메일을 보낼 수 있습니다.
-
-**\*사용자의 폰에서는 해당 폰에서 연결된 메일 어플이 실행되어 메일을 보낼 수 있습니다.**
-
-예) 구글 메일이 연동되었을 경우 gmail 어플 실행 후 발송 / 아웃룩 연동시 outlook 메일 실행 후 발송 등
-
-사용자의 폰마다 설정된 메일에서 발송되요.
-
-***
-
-{% hint style="danger" %}
-<mark style="color:red;">**\*링크 기능 중요 안내​**</mark>
-
-<mark style="color:red;">\*\*\*\*</mark>
-
-1.홈화면에는(HOME 메뉴) 링크 기능을 적용할 수 없습니다.
-
-**링크 기능은 메뉴 에만 적용해주세요.**
-
-홈화면은 웹링크 **‘새창으로 보기’가 적용되지 않기 때문에 권장드리지 않습니다.**
-
-새 창에서 열리지 않기 때문에 앞서 안내드린것처럼 보안이 걸려있는 경우 해결할 수 없구요.
-
-결제 등 보안 프로그램이 구동이 될 경우 앱 내에서 정상적으로 이용이 불가합니다.
-
-따라서 홈화면에는 웹링크를 이용하지 않도록 해주세요!
-
-홈화면을 제외한 앱 내 카테고리에서는 새창으로 보기, 외부앱으로 보기를 실행할 수 있습니다.
-
-2.그외 웹링크를 적용해도 메뉴에 정상적으로 적용이 안되거나, 사이트 연결이 제대로 안되는 링크가 있습니다.
-
-**1)특정 권한만 이용가능한 구글 드라이브에서 제공하는 공유 웹링크**
-
-**2)특정 회사 내에서만 이용 가능한 웹링크(외부 웹서버 보호막 적용된 링크)**
-
-**3)그외 외부 퍼가기를 금지한 프라이버시 웹사이트**
-
-이러한 사이트는 앱에 연동하실 경우 에러가 나거나, 표시가 되더라도 제대로 동작이 되지 않습니다.
-
-이용에 참고해주세요.
+Board List Click the icon in the shape of a 'magnifying glass' in the upper-right corner of the screen to open a window where you can enter a search term.
 {% endhint %}
 
 ***
 
 ***
+
+***
+
+**Related Articles**
+
+* [페이지 기본기능-회원가입, 로그인, 설정](https://wp.swing2app.co.kr/documentation/v3manual/join-login/)
+* [푸시, 웹뷰앱 초간단 앱제작방법](https://wp.swing2app.co.kr/documentation/v3manual/push-webview/)
+* [업데이트 유형별 앱 실행화면](https://wp.swing2app.co.kr/documentation/v3manual/update-type/)
+* [앱 업데이트 방법](https://wp.swing2app.co.kr/documentation/v3manual/app-update/)
+* [STEP4 앱제작하기](https://wp.swing2app.co.kr/documentation/v3manual/appcreation/)
+* [앱 추가 제작](https://wp.swing2app.co.kr/documentation/v3manual/app-add/)
