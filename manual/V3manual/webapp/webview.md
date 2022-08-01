@@ -1,532 +1,496 @@
-# 웹뷰앱 제작방법
+# How to create a webview app
 
-**앱제작 V3버전 – 웹뷰앱 제작방법 매뉴얼**
+**App Authoring V3 Version – Webview App Creation Manual**
 
 ****
 
-> **웹뷰앱이란?**
+> **What is a webview app?**
 >
-> **웹뷰 앱은 홈페이지 등의 모바일웹 URL 링크를 걸어서 제작한 웹앱 제작 플랫폼이구요**.
+> **The webview app is a web app creation platform created by hanging a link to a mobile web URL such as a homepage.**
 >
-> 웹사이트가 앱에 그대로 연동되기 때문에 웹과 동일한 앱을 제작할 수 있습니다.
+> Because the website works with the app as it is, you can create the same app as the web.
 
 ![](broken-reference)
 
 ****
 
-## **Start. 앱제작 마법사 시작하기**
+## **Start.** Get started with the App Creation Wizard
 
 **​**
 
-**스윙투앱에서 처음 앱을 제작하거나, 앱 추가 제작을 시작할 때 앱제작 마법사 시작 화면(팝업창)이 먼저 뜹니다.**
+**When you first create an app in a swing-to-app or start building additional apps, the App Authoring Wizard splash screen (a pop-up window) pops up first.**
 
-**여기서 어떤 유형의 앱을 제작할지 선택한 뒤, 기본 정보를 입력하면 제작 메이커로 넘어갑니다.**
+**Here, you choose what type of app you want to build, then enter the basic information and you'll be taken to the authoring maker.**
 
 **​**
 
-<mark style="color:blue;">**1.제작형태: 웹사이트를 기반한 웹앱 선택**</mark>
+<mark style="color:blue;">**1.Form of Creation: Select a web app based on the website**</mark>
 
 ![](broken-reference)
 
-웹뷰앱은 2번째 제작방법인 ‘웹사이트를 기반한 웹앱’을 선택해주세요.
+For a webview app, please select the 2nd method of creation, "Web App Based on Website".
 
-웹사이트를 그대로 앱에 적용해서 만드는 스타일입니다.
+This is a style that creates a website by applying it to the app as it is.
 
-\[다음] 버튼 선택해주세요.
-
-**​**
+Select the \[Next] button.
 
 **​**
 
-<mark style="color:blue;">**2.웹앱 기본 정보 입력**</mark>
+**​**
 
-다음 단계는 기본 정보 입력단계로 웹앱 제작에 필요한 기본적인 내용을 입력합니다.
+<mark style="color:blue;">**2.Enter web app basic information**</mark>
+
+The next step is to enter the basic information, where you enter the basics needed to build a web app.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B0%EC%95%B11.png)
 
-**1)웹사이트주소(URL)를 입력해주세요.**
+**1) Enter the website address (URL).**
 
-앱에 적용할 사이트 링크이며, http:// 하이퍼링크를 반드시 넣어주세요.
+This is the site link you want to apply to your app, and be sure to include a hyperlink Error! Hyperlink reference not valid..
 
-링크 주소 입력 후 마우스 커서를 빈 공간에 한번 클릭하면 반영됩니다.&#x20;
+After entering the link address, a single click on the mouse cursor in the empty space will be reflected.
 
-오른쪽 가상머신(미리보기)화면으로 적용된 사이트가 잘 뜨는지 확인할 수 있습니다.
+You can check if the applied site is popping up well with the virtual machine (preview) screen on the right.
 
-**2)푸시 기능 사용여부 체크**
+**2) Check whether the push function is enabled**
 
-푸시는 앱을 설치한 사용자들에게 앱에서 알림이나 공지, 홍보 관련 알림 메시지를 보낼 수 있는 기능이에요.
+Push is a feature that allows users who have installed an app to send notifications, announcements, and promotional reminders from the app.
 
-아무 기능이 없는 웹뷰앱을 제작할 것이기 때문에 푸시 기능은 ‘미사용’으로 체크해주세요.
+Since we are going to create a webview app with no functionality, please check the push function as 'Unused'.
 
-추가 기능은 앱제작 메이커에서 다시 수정할 수 있으니, 여기서 미사용으로 체크해도 나중에 다시 변경할 수 있어요!
+Add-ons can be modified again in the App Creation Maker, so you can check for unused here, and change them again later!
 
-\[다음] 버튼 선택해주세요.
-
-
+Select the \[Next] button.
 
 
 
-​
-
-<mark style="color:blue;">**3.앱이름, 아이콘, 대기화면 이미지 등록**</mark>
+<mark style="color:blue;">**3.App name, icon, standby screen image registration**</mark>
 
 ![](broken-reference)
 
-마지막 단계에서는 **앱이름 입력, 앱 아이콘, 대기화면 이미지를 등록합니다.**
+The final step is to **register the app name input, app icon, and standby image.**
 
-앱이름, 아이콘, 대기화면 이미지 모두 제작 메이커에서 다시 수정이 가능하구요.
+App names, icons, and standby screen images can all be modified again in the creation maker.
 
-아직 이미지가 준비 안되었다면, 앱이름만 입력하고 완료버튼을 눌러도 됩니다.
+If the image isn't ready yet, you can just enter the app name and press the Done button.
 
-아이콘과 대기화면에 들어갈 이미지는 제작 메이커에서 다시 적용하실 수 있어요.
+Icons and images that will fit on the standby screen can be reapplied in the production maker.
 
 ​
 
-<mark style="color:green;">**–> 아이콘, 대기화면 이미지 등록방법**</mark>
+<mark style="color:green;">**–> Icon, how to register standby screen image**</mark>
 
 ![](broken-reference)
 
-앱 아이콘, 대기화면은 \[등록] 버튼을 선택하면 파일 첨부 창이 열리구요.
+On the app icon, the standby screen, select the \[Register] button and the file attachment window will open.
 
-여기서 이미지를 업로드하여 적용해주시면 됩니다.
+You can upload an image here and apply it.
 
-**-아이콘 이미지 사이즈: 1024px\*1024px**
+**- Icon image size: 1024px\*1024px**
 
-**-대기화면 이미지 사이즈 : 2282px\*2282px**
+**-Standby screen image size: 2282px\*2282px**
 
-등록이 완료되면 \[완료] 버튼을 선택해주세요.
+When the registration is complete, select the \[Done] button.
 
-앱제작 마법사 등록이 완료되면, 앱제작 메이커 화면이 열립니다.
+When the App Authoring Wizard registration is complete, the App Authoring Maker screen opens.
 
-왼쪽 앱제작 과정을 보시면 STEP1기본정보, STEP2 디자인, STEP페이지 단계를 확인할 수 있구요.
+If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP Page.
 
-단계별로 내용을 입력하면 완료됩니다.
+Step by step, enter your content and you're done.
 
-<mark style="color:red;">\*STEP 진행상태가 100%가 되면 모든 단계 입력이 완료된 것입니다.</mark>
+<mark style="color:red;">**\*When the STEP progress reaches 100%, all step inputs are complete.**</mark>
 
 **​**
 
-## **STEP1 기본정보**
+## **STEP1** Basic Information
 
 ![](broken-reference)
 
-**STEP1 기본정보에 있는 내용은 앱 아이디를 제외하고 앱제작 마법사에서 이미 다 등록한 내용입니다.**
+**STEP1 The contents in the basic information have already been registered in the App Creation Wizard except for the app ID.**
 
-만약 앱이름을 수정할 때 다시 입력할 수 있구요.
+If you modify the app name, you can re-enter it.
 
-앱 아이콘, 대기화면 이미지를 수정하거나 새로 등록할 경우 해당 화면에서 등록을 완료해주시면 됩니다.
+If you modify the app icon, standby screen image, or register a new one, you can complete the registration on that screen.
 
-​
+1\) Enter App ID <mark style="color:red;">**\*The app ID is the unique identifier of the app and cannot be changed after setting.**</mark>
 
-1\) 앱 아이디 입력 <mark style="color:red;">\*앱 아이디는 앱의 고유 식별자이며 설정 후에는 변경할 수 없습니다.</mark>
+2\) Enter the app name
 
-2\) 앱 이름 입력
+3\) App icon image **(1024px\*1024px)**
 
-3\) 앱 아이콘 이미지 (**1024px\*1024px)**
+4\) App standby image registration **(2282px\*2282px)**
 
-4\) 앱 대기화면 이미지 등록 (**2282px\*2282px)**
-
-5\) \[저장]버튼 선택
+5\) Select \[Save] button
 
 **​**
 
-**\*앱 아이콘이미지, 대기화면 이미지는 화면에 기재된 사이즈대로 이미지를 먼저 만들어주신뒤 등록해주세요.**
+**\*App icon image, standby screen image Please create an image according to the size listed on the screen first, and then register.**
 
-**아이콘과 대기화면은 먼저 제작 가이드라인 매뉴얼을 보시고 만들어주시기 바랍니다!**
+**For icons and standby screens, please first look at the Production Guidelines Manual and create them!**
 
-**​**[**아이콘 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/appicon/)
+**​**<mark style="color:blue;">**Go to the icon image creation guide**</mark>
 
-[**대기화면 이미지 제작 가이드 보러가기**](https://wp.swing2app.co.kr/documentation/maual/appbasic/apploading/)
-
-
-
-**\*앱 아이디를 제외한 앱이름, 아이콘, 대기화면 이미지는 제한없이 수정 가능하며 업데이트가 가능합니다.**
-
-**앱 기본정보 수정시 \[앱 업데이트]버튼을 눌러서 새 버전으로 업데이트 해주셔야 반영됩니다.**
-
-**​**
-
-<mark style="color:red;">**\*안내**</mark>
-
-앱 제작 후, STEP1 기본정보 메뉴를 다시 수정하게 된다면 앱 업데이트를 다시 해주셔야 변경된 내용이 앱에 반영됩니다.
-
-예를들어, 앱 이름을 변경했다면 변경 후 → 저장 → 앱 업데이트 버튼을 눌러서 새 버전으로 재제작해주세요.
-
-앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
+<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>
 
 
 
-## STEP2 디자인&#x20;
+**\*App name, icon, and standby screen images, except for the app ID, can be modified and updated without limitation.**
+
+**When modifying the app basic information, you need to press the \[Update App] button to update to the new version.**
+
+<mark style="color:red;">**\*Information**</mark>
+
+If you modify the STEP1 Basic Information menu again after the app is created, you will need to update the app again before the app will reflect the changes.
+
+For example, if you changed the name of your app, save → after the change → press the Update App button to recreate it as a new version.
+
+If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
+
+
+
+## STEP2 Design
 
 ![](broken-reference)
 
-STEP2 디자인 단계 – 프로토타입 및 기본옵션, 고급 옵션을 설정합니다.
+STEP2 Design Phase – Set the prototype, basic options, and advanced options.
 
-프로토타입도 이미 앱제작 마법사에서 선택했기 때문에 넘어가면 되구요.
+The prototype has already been selected in the App Creation Wizard, so you can move on.
 
-웹뷰에서 – 푸시 프로토타입으로 수정한다면 변경해서 업데이트 해주시면 됩니다.
+In Webview – If you modify it as a push prototype, you can change it and update it.
 
-**​**
+1.Select Prototype: It is selected as 'WebView Only'.
 
-1.프로토타입 선택 : ‘웹뷰전용’으로 선택되어 있습니다.
+2\. Basic Options
 
-​
+1\) Pull and refresh: This is a function that refreshes when the screen is pulled and released.
 
-2.기본옵션
+2\)Placement of the top button at the bottom of the screen: When the screen is moved down by scrolling, selecting the top button is the function to move to the top of the screen.
 
-1\)당겨서 새로고침 : 화면을 당겼다가 놓으면 새로고침이 되는 기능입니다.
-
-2\)화면 하단 탑 버튼 배치 : 스크롤하여 화면이 아래로 이동했을 때, 탑 버튼 선택하면 화면 가장 위로 이동하는 기능입니다.
-
-<mark style="color:red;">\*앱에 적용할 웹사이트 내에 탑 버튼이 이미 있다면 ‘미사용’으로 체크해주시고, 없다면 ‘사용’으로 체크해주시는 것을 권장드립니다.</mark>
+<mark style="color:red;">**\*If there is already a top button in the website to be applied to the app, we recommend that you check it as 'Unused' and if not, check it as 'Enabled'.**</mark>
 
 ​
 
-3.고급 옵션
+3.Advanced options
 
-시스템 폰트 사용 여부를 체크할 수 있습니다.
+You can check whether the system font is being used.
 
-<mark style="color:red;">\*시스템 폰트는 핸드폰에 설정된 폰트(글자 크기 등)이며, 옵션에서 기본 설정은 “예”에 체크되어 있습니다.</mark>
+<mark style="color:red;">**\*The system font is the font set on the phone (text size, etc.), and the default setting in the options is checked in "Yes".**</mark>
 
-**예를 들어 시스템 폰트 사용을 예로 체크할 경우,**
+**For example, if you check the system font usage as an example:**
 
-**사용자 폰에서 글자 크기를 크게 키워놨다면→ 앱에 보여지는 글자도 핸드폰에 설정된 글자 크기대로 보이게 됩니다.**
+**If you increase the text size on your phone significantly→ the text displayed in the app will also appear at the text size set on the phone.**
 
-**시스템 폰트를 사용하지 않는다면, 앱 내 기본 폰트로 자동 셋팅되기 때문에 사용자 핸드폰 설정과는 무관하게 보여집니다.**
+**If you don't use the system font, it will be automatically set to the default in-app font, so it will look independent of your phone's settings.**
 
-따라서 특별한 이유를 제외하고는 <mark style="color:red;">기본설정(시스템 폰트 사용 :예)대로 사용하시는 것을 권장드립니다.</mark>
-
-​
-
-4\)저장 버튼 선택
+Therefore, except for special reasons, <mark style="color:red;">**we recommend that you use it according to the default settings (use system fonts: yes).**</mark>
 
 ​
 
-<mark style="color:red;">**\*안내**</mark>
+4\)Select the Save button
 
-앱 제작 후, STEP2 디자인 메뉴를 다시 수정하게 된다면 앱 업데이트를 다시 해주셔야 변경된 내용이 앱에 반영됩니다.
+​
 
-예를들어, 툴바 배경 색상을 변경했다면 변경 후 → 저장 → 앱 업데이트 버튼을 눌러서 새 버전으로 재제작해주세요.
+<mark style="color:red;">**\*Information**</mark>
 
-앱스토어, 플레이스토어에 출시되었다면 업데이트 버전앱으로 해당 스토어에도 다시 업데이트 제출해주셔야 합니다.
+If you modify the STEP2 design menu again after the app is created, you will need to update the app again before the app can reflect the changes.
+
+For example, if you changed the toolbar background color, save → after the change → press the Update App button to recreate the new version.
+
+If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 
 
 
-## STEP3 페이지
+## STEP3 Page
 
 ![](broken-reference)
 
-STEP3 페이지 단계는 앱에 적용할 웹사이트 링크를 입력하게 되는데 해당 내용도 이미 앱제작 마법사에서 등록을 했어요.
+The STEP3 page step will enter a link to the website that applies to your app, which you have already registered in the App Creation Wizard.
 
-사이트 주소를 수정을 원한다면 해당 단계에서 다시 입력해주시구요. 수정할 사항이 없다면 저장만 해주세요.
+If you want to edit the site address, please re-enter it in the appropriate step. If you don't have anything to modify, just save it.
 
-​
+1\)Enter your website address
 
-1\)웹사이트 주소 입력
+2\) Address setting: Choose whether to set the first run address
 
-2\)주소설정 : 최초실행 주소 설정 여부 선택
+**\*First Run Address Line In addition to the website associated with the app, you can install the app and apply a separate web page that is only visible the first time.**
 
-<mark style="color:red;">\*최초 실행 주소란 앱에 연결한 웹사이트 외에 앱을 설치하고 처음에만 보여지는 별도 웹페이지를 적용할 수 있습니다.</mark>
+Check 'No' if you don't use it, or 'Yes' if you don't use it. Please include Error! Hyperlink reference not valid. when entering your site address.
 
-사용하지 않을 경우 ‘아니오’에 체크, 사용할 경우 ‘예’에 체크해주세요. 사이트 주소 입력시 http:// 포함 입력해주세요.
-
-3\)저장 버튼 선택
-
-​
-
-<mark style="color:red;">**\*안내**</mark>
-
-STEP3 페이지 메뉴는 수정 후 저장만 하시면 앱에 자동 반영됩니다.앱 업데이트(앱재제작)을 하지 않아도 됩니다.
+3\)Select the Save button
 
 
 
-## **STEP4 앱제작하기**
+<mark style="color:red;">**\*Information**</mark>
+
+The STEP3 page menu is automatically reflected in the app by simply modifying and saving it. You don't need to update the app (recreate the app)
+
+
+
+## **STEP4 Complete App Creation**
 
 ![](broken-reference)
 
-모든 단계 입력이 완료되었습니다. 앱을 제작할 수 있구요.
+All steps have been entered. You can build apps.
 
-1\)앱제작하기 버튼 선택
+1\)Select the Create App button
 
-2\)앱제작 팝업창에서 \[제작하기] 버튼을 선택해주세요.’
+2\) Select the \[Create] button in the App Creation pop-up window.'
 
-업데이트 표시 옵션은 어떤 것을 선택해도 제작에 영향을 주지 않구요. **웹뷰앱이기 때문에 업데이트 창이 앱에서는 표시되지 않아요.**
+The Show Updates option doesn't affect your production by choosing anything. **Because it's a webview app, the update window doesn't appear in the app.**
 
-따라서 체크된 대로 제작해주시면 됩니다.
+So you just have to make it as checked.
 
-\*웹뷰앱 업데이트는 플레이스토어/ 앱스토어 등에 앱이 출시되어 있다면 새 버전 앱을 올려서 스토어를 통해 앱 업데이트를 받아야 하구요.
+\*WebView App Update If your app is released on the Play Store/App Store, etc., you will need to upload a new version of the app to get the app updated through the Store.
 
-출시가 안된 개인 용도의 앱이라면 기존 앱 삭제 후 업데이트 버전으로 앱을 다시 설치받아야 합니다.
+If your app is for personal use that hasn't been released, you'll need to delete the existing app and reinstall it as an updated version.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-웹뷰앱은 10분 내로 제작이 완료되구요.
+The webview app is built in less than 10 minutes.
 
-제작 완료된 앱은 스윙투앱 공식앱 \[앱미리보기]를 이용하거나 메일로 발송된 APK파일을 안드로이드 폰에서 다운받아 확인할 수 있어요.
+The finished app can be viewed by using the official Swing-to-App app \[App Preview] or by downloading the e-mailed APK file from your Android phone.
 
-**\*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. \*아이폰은 확인할 수 없어요**
+**\*Webview and apps made with push can only be viewed on Android phones. \*I can't check my iPhone**
 
-앱제작은 간단하기 때문에 매뉴얼 보시면 쉽게 따라 하실 수 있구요.
+Creating an app is simple, so you can easily follow it by looking at the manual.
 
-제작은 별도 비용이 없이 무료로 이용이 가능합니다.
+The production is free of charge at no extra charge.
 
 ​
 
-## **STEP5 핸드폰에 앱 다운받아 확인하기**
+## **STEP5** Download the app to your phone to confirm
 
 **​**
 
-\*웹뷰, 푸시로 제작된 앱은 안드로이드폰에서만 확인 가능합니다. (아이폰은 확인할 수 없어요)
+\*Webview and apps made with push can only be viewed on Android phones. (I can't check my iPhone)
 
-스윙투앱 공식앱 – \[앱 미리보기]에서 제작한 앱을 다운받아 확인해주세요.
+Swing2App Official App – Download the app created by \[App Preview] to check it out.
 
 ![](broken-reference)
 
-**1) 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.**
+**1) Download the official 'Swing to App' app from the Play Store. \*If the app is already installed, please update to the latest version.**
 
-[**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
-
-**​**
-
-**2) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙투앱 웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.**
-
-\*간편로그인 사용자: 스윙투앱 가입시 간편로그인으로 진행하셨던 분들은 네이버, 구글, 페이스북 아이콘을 선택해서 로그인을 진행해주세요.
-
-\*주의: 로그인은 반드시 스윙투앱 홈페이지 http://www.swing2app.co.kr 에서 가입한 계정을 넣어주셔야 합니다.
-
-스윙투앱 공식앱에서 가입한 계정이 아니에요\~!
+<mark style="color:blue;">**PlayStore launch link (URL)**</mark>
 
 **​**
 
-**3) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.**
+**2) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing2App website subscription account (ID, password).**
+
+\*Easy Login User: If you used to log in with Easy Login when you signed up for Swing-to-App, please select the Naver, Google, and Facebook icons to log in.
+
+\*Note: To log in, you must enter the account you signed up for in the http://www.swing2app.co.kr of the Swing-to-App homepage. http://www.swing2app.co.kr/
+
+It's not an account signed up for in the official Swing-to-App app\~!
 
 **​**
 
-**4) \[앱 다운로드] 버튼을 눌러서 핸드폰으로 앱을 설치할 수 있습니다.**
+**3) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.**
 
-**\*웹뷰앱은 안드로이드폰에서만 이용 가능해요. (아이폰은 이용불가)**
+**4) You can install the app on your phone by pressing the \[Download App] button.**
+
+**\*The webview app is only available on Android phones. (iPhone not available)**
 
 ****
 
-<mark style="color:green;">**▶ 앱 실행화면: 앱 미리보기- 앱 다운받기**</mark>
+<mark style="color:green;">**▶ App launch: App preview- Download app**</mark>
 
 ![](broken-reference)
 
-움짤 이미지를 통해서 앱미리보기에서 앱을 다운받는 과정을 확인해주세요.
+Please check the process of downloading the app from the app preview through the image that you are receiving.
 
-**앱 설치시 간혹 구글 플레이 프로텍트 차단 메시지가 뜰 수 있는데요, 무시하고 설치 선택하고 진행해주시면 됩니다.**
+**When installing the app, you may occasionally see a Google Play Protect blocking message, but you can ignore it, select Install, and proceed.**
 
-이렇게 안드로이드폰에 웹뷰앱을 설치해서 정상적으로 작동이 완료되는지 테스트를 다 하실 수 있구요.
+In this way, you can install the webview app on your Android phone and test if it works properly.
 
-문제가 없으면 스토어 출시를 준비할 수 있습니다.
+If you don't have any issues, you can prepare for the launch of your store.
 
-앱스토어, 플레이스토어 앱 출시를 하실 때는 무료버전앱에서 유료버전으로 전환해주셔야 하는데요.
+When you launch an App Store or Play Store app, you need to switch from the free version app to the paid version.
 
-유료버전 전환은 스윙투앱 유료앱 이용권을 구매해주시면 됩니다.
+To switch to the paid version, you can purchase a Swing-to-App Paid App Pass.
 
-웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤
+When creating a webview app, push app, enter the website address, and then
 
-가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
+On the virtual machine (preview screen), you will see a message that says 'Please check after installing the app on your mobile phone' or 'The connection has been refused'.
 
-**연결한 웹사이트 내에서 외부 연결을 막아놓는 즉, 외부공유 및 퍼가기 금지 보안이 설정되어 있을 경우 해당 메시지가 보여집니다.**
+**If the security that prevents external connections within the website you connected to, that is, the prohibition of external sharing and embedding, is enabled, you will see the message.**
 
-따라서 이렇게 보안설정이 되어 있는 웹사이트 링크를 연결하면 웹 미리보기 화면에서 연결 거부 메시지가 보이게 됩니다.
+Therefore, when you link to a website that has this security setting, you will see a message that says Deny Connection on the web preview screen.
 
-이러한 메시지가 뜨셔도 **앱제작이 안되는 것은 아니구요.**
+Even if you get these messages, **it doesn't mean you can't build an app.**
 
-**단순히 웹에서만 보안상 화면 표시가 안되는 것으로 앱으로 확인하시면 보다 정확히 확인 가능합니다.**
+**You can check more accurately by simply checking with the app that the screen cannot be displayed on the web for security reasons.**
 
-**따라서 저장 후 \[앱제작하기] 하신 뒤 앱으로 다운받아 확인해주시기 바랍니다.**
+**Therefore, please save and \[Create App] and download it to the app to confirm.**
 
-앱으로 보시면 사이트가 정상적으로 앱으로 연동되어 작동되는 것을 확인할 수 있습니다.
+If you look at it as an app, you can see that the site works normally with the app.
 
-만약 앱에서도 연결이 거부된다면 문의게시판으로 문의주시기 바랍니다.
+If the app also refuses to connect, please contact the inquiry board.
 
-\*단, 내부 사용 목적의 URL 및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며, 웹앱으로 제작이 불가합니다.
+**\*However, the URL for internal use and the site address used by the company's internal server cannot be connected and cannot be created as a web app.**
 
 
 
-## **웹뷰앱 제작 안내사항**
+## Webview app creation instructions
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png)
 
-웹뷰앱, 푸시앱 제작시 웹사이트주소를 입력한 뒤 **** 가상머신(미리보기 화면)에 ‘모바일폰에서 앱 설치 후 확인해주세요’ or ‘연결을 거부했습니다’ 라는 메시지가 뜨는 것을 확인할 수 있는데요.
+When creating a webview app or push app, after entering the website address, you can see that the virtual machine (preview screen) displays the message "Please check after installing the app on your mobile phone" or "Refused to connect".
 
-**연결한 웹사이트 내에서 외부 연결을 막아놓는 즉, 외부공유 및 퍼가기 금지 보안이 설정되어 있을 경우 해당 메시지가 보여집니다.**
+**If the security that prevents external connections within the website you connected to, that is, the prohibition of external sharing and embedding, is enabled, you will see the message.**
 
-따라서 이렇게 보안설정이 되어 있는 웹사이트 링크를 연결하면 웹 미리보기 화면에서 연결 거부 메시지가 보이게 됩니다.
+Therefore, when you link to a website that has this security setting, you will see a message that says Deny Connection on the web preview screen.
 
-이러한 메시지가 뜨셔도 **앱제작이 안되는 것은 아니구요.**
+Even if you get these messages, **it doesn't mean you can't build an app.**
 
-**단순히 웹에서만 보안상 화면 표시가 안되는 것으로 앱으로 확인하시면 보다 정확히 확인 가능합니다.**
+**You can check more accurately by simply checking with the app that the screen cannot be displayed on the web for security reasons.**
 
-**따라서 저장 후 \[앱제작하기] 하신 뒤 앱으로 다운받아 확인해주시기 바랍니다.**
+**Therefore, please save and \[Create App] and download it to the app to confirm.**
 
-앱으로 보시면 사이트가 정상적으로 앱으로 연동되어 작동되는 것을 확인할 수 있습니다.
+If you look at it as an app, you can see that the site works normally with the app.
 
-만약 앱에서도 연결이 거부된다면 문의게시판으로 문의주시기 바랍니다.
+If the app also refuses to connect, please contact the inquiry board.
 
-\*단, 내부 사용 목적의 URL 및 회사 내부 서버에서 이용하는 사이트 주소는 연결이 불가하며, 웹앱으로 제작이 불가합니다.
-
-​
+**\*However, the URL for internal use and the site address used by the company's internal server cannot be connected and cannot be created as a web app.**
 
 ​
 
-## **주의사항 및 웹뷰앱 제작 Q\&A**
+​
+
+## Precautions and Webview App Creation Q\&A
 
 **​**
 
-**Q.웹뷰앱은 앱스토어, 플레이스토어에 출시가 어렵다고 하는데 맞나요?**
+**Q.Is it true that the webview app is difficult to launch on the App Store and Play Store?**
 
-**–플레이스토어 —**
+**–PlayStore —**
 
-웹뷰 및 푸시버전앱(웹사이트를 연결한 웹앱)은 구글 웹뷰 정책에 따라 증빙서류(사전고지 문서)를 제출해야 합니다.
+WebView and PushVersion Apps (web apps that link to a website) are required to provide supporting documentation (advance notice documents) in accordance with Google's WebView policy.
 
-앱에 연결한 사이트가 본인 혹은 업체(회사) 소유라는 것을 증명할 수 있도록사업자등록증 혹은 웹사이트 도메인 등록 확인서등의 사전고지 문서 제출해야 합니다.
+In order to prove that the site you linked to the app belongs to you or the company (company), you will need to provide a notice document such as a business registration certificate or website domain registration confirmation.
 
-서류 제출시 플레이스토어에서 웹뷰앱도 문제 없이 출시 가능합니다.
+When you submit your documents, you can also launch a webview app on the Play Store without any problems.
 
-**–앱스토어–**
+**–App Store–**
 
-푸시앱, 웹뷰앱 등의 웹앱은 심사가 들어가봐야 출시 여부를 알 수 있습니다.
+Web apps such as push apps and webview apps need to be vetted to know if they are released.
 
-웹앱이라고 무조건 출시가 되지 않는 것은 아닙니다. 애플의 다양한 정책상의 이유가 있기 때문에 심사 피드백을 받아야 알 수 있습니다.
+A web app doesn't mean it won't be released unconditionally. There are various policy reasons for Apple, so you'll need to get screening feedback to find out.
 
-최대한 어필하여 앱스토어 출시를 도와드리오나, 저희가 사용자의 앱 출시 여부를 판단해드리지 못하는 점 양해부탁드려요 \~!
+We will appeal as much as possible to help you launch the App Store, but please understand that we cannot judge whether or not your app is released\~!
 
-스토어 출시가 거절되어도 앱스토어 등록작업을 한 앱에 대해서는 이용권 및 업로드 티켓 비용이 환불이 되지 않으니 반드시 유념해주시기 바랍니다.
+Please note that even if the Store is rejected, the cost of the subscription and upload ticket will not be refunded for the app that has been registered on the App Store.
 
-–이러한 웹앱은 출시가 어렵습니다.
+**– These web apps are difficult to release.**
 
-\*모바일웹이 아닌 PC버전 웹사이트를 연결한 앱은 거절됩니다. 웹사이트는 반드시 모바일웹으로 연결하셔야 합니다.
+\*Apps that connect to a PC version of a website other than the mobile web will be rejected. The website must be connected to the mobile web.
 
-\*웹에 단순 홍보나 마케팅용 내용만 있거나, 실질적인 컨텐츠가 없거나, 사용자들의 참여가 제한된 웹앱은 거절됩니다.
+\*Web apps that have only promotional or marketing content on the web, that have no substantive content, or that have limited user engagement will be rejected.
 
-\*쇼핑몰 웹에서 디지털상품 판매하지만, 애플 인앱(In-app)결제모듈을 사용하지 않은 웹앱은 거절됩니다. (실물상품은 해당 없음)
+\*Shopping mall sells digital products on the web, but web apps that do not use Apple's in-app payment module will be rejected. (Physical products not applicable)
 
-\*일반 로그인 외에 간편 및 소셜 로그인(카톡, 네이버 등)을 제공하고 있지만, 애플 로그인이 없는 경우 거절됩니다.
+\*In addition to the regular login, we provide simple and social login (Katok, Naver, etc.), but will be rejected if you do not have an Apple login.
 
-외부 로그인, 소셜 로그인 기능을 제공할 경우 애플 로그인 기능도 제공해야 출시 가능합니다.
+If you provide external login and social login functionality, you must also provide Apple login functionality for release.
 
-\* 그외에 웹사이트내 컨텐츠가 애플의 정책에 맞지 않을 경우도 모두 포함됩니다. (금지 컨텐츠: 성적 컨텐츠, 담배, 마약, 과도한 욕설 등)
+\* This includes all other cases where the content on the website is not in line with Apple's policies. (Prohibited content: sexual content, tobacco, drugs, excessive abusive language, etc.)
 
-​
+**Q. When creating a webview app, can I connect to any site to create it?**
 
-**Q. 웹뷰앱 제작시 아무 사이트나 연결해서 제작할 수 있나요?**
+One thing to be careful about when creating a webview app is that you shouldn't use sites from other third parties or well-known brands like you've created them!
 
-웹뷰앱을 제작할 때 반드시 주의하셔야 하는게 다른 타업체 혹은 유명 브랜드의 사이트를 내가 만든 것처럼 거져다 쓰면 안되요!
+You can only use the homepage that our company runs, the website you created (using the hosting company), etc.
 
-우리 회사에서 운영하는 홈페이지, 내가 만든 웹사이트(호스팅 업체를 이용해서) 등만 이용 가능합니다.
+There are many users who want to link their Naver blog or the next café with a webview or push.
 
-자신이 운영하는 네이버 블로그 혹은 다음 카페 등을 웹뷰나 푸시로 연동하려는 사용자분들이 많은데요.
+These sites will error or will not function properly if you link them to the app.
 
-이러한 사이트는 앱에 연동하실 경우 에러가 나거나 제대로 동작이 되지 않습니다.
+\* These apps should not be released on the Play Store or the App Store. (Copyright will be rejected on the grounds of brand imitation)
 
-\* 이러한 앱은 플레이스토어, 앱스토어 출시 안됩니다. (저작권, 브랜드 모방의 이유로 거절됩니다)
+And there's a site on the web that doesn't work with the app, i.e. prohibits embedding.
 
-그리고 웹링크 중에서 앱과 연동이 되지 않는, 즉 퍼가기를 금지해 놓은 사이트가 있어요.
+\*Naver, the following portal sites, and the sites provided by the portal (modoo, storefarm web, etc.), YouTube, social media sites (Instagram, KakaoTalk, Facebook), etc. are the representative sites that have been banned from embedding!
 
-\*네이버, 다음 등의 포털 사이트와 해당 포털에서 제공하는 사이트(modoo,스토어팜 웹 등), 유튜브, SNS 사이트(인스타그램, 카카오톡, 페이스북) 등이 퍼가기를 금지해놓은 대표적인 사이트에요!
+Therefore, you need to apply a homepage that can prove that you created it with domain registration information, and a website (homepage) that can be verified by a business registration certificate if it is created by the company.
 
-따라서 **도메인 등록 정보로 내가 만든 사이트 임을 입증할 수 있는 홈페이지, 회사에서 만든다면 사업자등록증으로 증명할 수 있는 웹사이트(홈페이지)를 적용해주셔야 합니다.**
+**Q. Can the WebView app not send pushes?**
 
-****
+Yes, the webview app cannot send a push because it cannot use other functions of the app.
 
-**Q. 웹뷰앱은 푸시는 못 보내나요?**
+If you need to send a push, you need to create it as a push version app, not a webview app.
 
-네 웹뷰앱은 앱의 다른 기능은 이용을 못하기 때문에 푸시 발송이 안됩니다.
+**Q. If it's difficult to make it yourself, but I pay for the development, can I do the above in the Swing-to-App app?**
 
-푸시 발송이 필요하면 웹뷰 앱이 아닌 푸시버전앱으로 제작해주셔야 합니다.
+If you ask us to produce it, we will do it all for you.
 
+From designing icons and standby images, to creating apps and uploading them to the store.
 
+\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom</mark>
 
-**Q. 직접 만드는게 어려운데 개발비를 낸다면, 위의 과정을 스윙투앱에서 다 대행해줄 수 있나요?**
+However, you will need to create your own Google developer account to upload to the Play Store and let us know your account.
 
-네 제작 의뢰 해주시면 저희가 모두 제작 대행해드립니다.
+The App Store requires that an Apple developer account be optional, but if you use your own account, you will need to create your own account and tell us about it.
 
-아이콘, 대기화면 이미지 디자인부터 앱제작 및 스토어 업로드까지 모두 진행해드립니다.
+Accounts are not created in the Swing-to-App app.
 
-\*스윙투앱 커스텀 패키지 상품 페이지에서 제작대행비를 확인할 수 있습니다.
+**Q. Can I switch from WebView to Push Version**&#x20;
 
-[http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom)
+Yes you can.
 
-단, 플레이스토어에 올릴 구글 개발자 계정은 직접 만들어서 계정을 알려주셔야 하구요.
+\*During the App Creation →STEP2 design step, please change the prototype to 'Push Only' and save and update the app again.
 
-앱스토어는 애플 개발자 계정은 선택사항이오나 사용자분의 계정을 쓸 경우도 마찬가지로 직접 만들어서 계정 알려주셔야 합니다.
+When updated to the new version, the prototype is changed and verifiable.
 
-계정은 스윙투앱에서 만들어드리지 않습니다.
+If your app has been released on the Play Store, App Store, etc., you can update it to the newly created version as well.
 
+However, users who use the WebView Unlimited product should not be changed.
 
+**Q. How do I change my website address after creating the WebView app?**
 
-**Q. 웹뷰에서 푸시버전으로 전환하거나, 푸시버전에서 웹뷰버전으로 업데이트 할 수 있나요?**
+The same goes for changing the weblink address applied to your app.
 
-네 가능합니다.
+**App Creation→ STEP3 Page Menu 1)Enter the URL Address in the Website Address field → 2)Select the Save button**
 
-​\*앱제작→STEP2 디자인 단계에서 프로토타입을 ‘푸시전용‘으로 변경하신 뒤 저장 및 앱 업데이트 다시 해주세요.
+\*Modifying the web link address is automatically reflected in the app by simply pressing the Save button.
 
-새 버전으로 업데이트 받으면 프로토타입 변경되어 확인 가능합니다.
+\*If you exit the app and relaunch it, it will be applied to the changed website.
 
-플레이스토어, 앱스토어 등에 앱이 출시되어 있다면 새로 제작된 버전으로 해당 스토어에도 업데이트 해주시면 됩니다.
+However, users of WebView Unlimited paid apps will need to save and re-create the app. You will need to update to the new version to be reflected.
 
-단, 웹뷰 무제한 상품을 이용하는 사용자분은 변경이 안됩니다.
+**Q. Will the WebView app change to a normal prototype?**
 
+After being built as a webview-based (push, webview) prototype, → cannot be changed to a normal prototype (slides, tops, footers, drop-down lists, drop-down boxes).
 
+\*If you need to change from a webview-based prototype to a different prototype, you'll need to create a new app.
 
-**Q. 웹뷰앱 제작 후 웹사이트 주소는 어떻게 변경하나요?**
+**Q. Can I use a basic subscription and then change it to the WebView Unlimited plugin?**
 
-앱에 적용된 웹링크 주소를 변경하는 것도 동일합니다.
+Yes you can.
 
-**앱제작→ STEP3 페이지 메뉴 1)웹사이트 주소란에 URL주소 입력 → 2)저장 버튼 선택**
+If you purchase unlimited plugins for Webmu after using the basic subscription, we will create an unlimited number of settings.
 
-\*웹링크 주소 수정은 저장 버튼만 누르면 앱에 자동 반영됩니다.
+**\*Precautions**
 
-\*앱 종료후 재실행하시면 바뀐 웹사이트로 적용됩니다.
+1\) A new version of the app created with unlimited webviews requires you to update it back to the App Store and Play Store.
 
-단, 웹뷰 무제한 유료앱 사용자분들은 저장 후 앱제작 다시 해주셔야 합니다. 새 버전으로 업데이트해야 반영됩니다.
+Since the existing subscription app and the WebViewUnlimited app are not compatible with each other, users will need to update to the new version so that users can receive the update.
 
+2\) If you purchase and use the Swing Paid App Pass, and then pay for the WebView Unlimited plugin, there will be no split refund for the remaining period.
 
+Therefore, please use the paid app subscription date and purchase unlimited tickets for WebView.
 
-**Q. 웹뷰앱에서 일반 프로토타입으로는 변경되나요?**
+**Q. Does the WebView app reflect any modifications or updates made on the website directly in the app?**
 
-웹뷰 기반(푸시, 웹뷰) 프로토타입으로 제작 후 → 일반 프로토타입(슬라이드, 탑, 푸터, 드롭다운 리스트, 드롭다운 박스)으로는 변경할 수 없습니다.
+Because your web app is a website-driven application, the screen you see on your website is reflected in the app as well.
 
-\*웹뷰 기반에서 다른 프로토타입으로 변경해야 할 경우는 앱을 새로 제작해서 만들어주셔야 합니다.
+Even if you don't have to do anything extra in the app, updates from the web are automatically reflected in the app as well.
 
+**Q. Can the functions that work normally on the mobile web not be available in the app?**
 
+If there's no problem on the web, the app won't have the problem either. However, technical errors can occur at any time.
 
-**Q. 기본형 이용권을 쓰다가 웹뷰 무제한 플러그인으로 변경할 수 있나요?**
+So, if you have anything problematic while testing your app before launch, please leave it as an inquiry board.
 
-네 가능합니다.
-
-기본형 이용권 사용 후에 웹뮤 무제한 플러그인 구매하시면, 무제한으로 셋팅하여 제작해드립니다.
-
-**\*주의사항**
-
-1\)웹뷰 무제한으로 제작된 새버전 앱으로 앱스토어, 플레이스토어에 다시 업데이트 해주셔야 합니다.
-
-기존 이용권 적용 앱과 웹뷰무제한 앱은 서로 호환이 되지 않기 때문에 새 버전으로 업데이트 하셔야 사용자들도 업데이트를 받을 수 있어요.
-
-2\)스윙 유료앱 이용권을 구매하여 이용하다가, 웹뷰 무제한 플러그인을 결제하더라도 남은 기간에 대한 분할 환불은 이루어지지 않습니다.
-
-따라서 유료앱 이용권 이용일을 다 사용하신 뒤 웹뷰 무제한 티켓을 구매하시길 바랍니다.
-
-
-
-**Q. 웹뷰앱은 웹사이트에서 수정되거나 업데이트 되는 사항이 앱에도 바로 반영되나요?**
-
-네 웹앱은 웹사이트로 구동이 되는 어플리케이션이기 때문에 웹사이트에서 보이는 화면이 앱에서도 동일하게 반영됩니다.
-
-앱에서 별도 작업을 하지 않아도 웹에서 업데이트 된 내용은 앱에도 자동으로 반영됩니다.
-
-
-
-**Q. 모바일웹에서는 정상 운영되는 기능이 앱에서는 안될 수 있나요?**
-
-웹에서 문제가 없다면 앱에서도 문제는 발생되지는 않습니다. 그러나 기술적인 에러 사항이 언제든지 발생될 수는 있습니다.
-
-따라서 앱 출시 전 테스트 하면서 문제가 되는 내용이 있다면 문의게시판으로 남겨주세요.
-
-증상을 확인하여 도움을 드리고 있습니다.
+We are here to help by identifying your symptoms.
 
 
 
