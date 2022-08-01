@@ -1,221 +1,73 @@
-# Page Features-Industry-Specific Templates
+# 페이지 기능-관심글 보기
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
+스윙투앱에서 제공하는 ‘관심글보기’ 이용방법에 대해서 알려드리겠습니다.
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+**관심글보기는 – 게시물 ‘좋아요’한 글을 모두 모아 보여주는 북마크 기능이에요.**
 
-Please see how to apply the product category to the app and the app launch screen with the page applied.
+**사용자가 ‘좋아요’ 버튼을 누르면, 관심글보기 게시판에서 좋아요 누른 글을 모두 확인할 수 있습니다.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
+매뉴얼을 통해서 – 앱에 관심글기능을 적용하고, 이용하는 방법을 확인해주세요!
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page authoring steps
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 관심글보기란?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
+**사용자가 앱 게시물의 ‘좋아요’버튼을 누른 글을 모두 모아서 보여주는 기능입니다.**
 
-**\[Creating a Template Page]**
+일반적인 북마크 기능인데요.
 
-1\) App Creation – Go to STEP3 Page
+게시물 중에서 나중에 다시 보고 싶은 글, 저장하고 싶은 글이 있다면 ‘좋아요’ 버튼을 눌러주구요.
 
-2\)Select Page Design \[Industry Specific Template]
+관심글보기에서 모두 볼 수 있습니다
 
-3\)Click \[+New] to open the Page Maker screen.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 관심글보기 앱 적용방법**
 
-4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
-**\[Apply your created template page app to]**
+앱제작 화면 이동
 
-템플릿 페이지 제작을 했다면, 앱에 적용해야 하겠죠?
+1\)STEP3 페이지 단계로 이동합니다.
 
-If you've created a template page, you'll need to apply it to your app, right?
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
 
-1\)Create App – Go to the STEP3 page step.
+3\) 메뉴 이름 입력
 
-2\)Home screen – Select HOME \*Select the submenu or select the home screen depending on where you apply the web template.
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
 
-3\)Enter the menu name
+5\) ‘관심글보기’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
 
-4\)Select \[Industry-specific template] from the page design.
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-5\)Select the 'Refresh' button on the right to see the template you have created.
+\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
 
-6\)After confirming the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+\*적용 후에도 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면**
 
-***
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launchscreen - Apply template page
+‘좋아요’ 체크를 한 뒤 관심글보기 게시판으로 이동하면, 방금 좋아요에 체크한 글들을 모두 모아서 볼 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+\*관심글보기 게시판은 타임라인 UI스타일로 보여집니다.
 
-This is the screen where I launched the Swing Hotel sample app.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png)
 
-From the home screen, each menu was all applied to the app using the Hotel03 template page provided by the web template.
+‘좋아요’ 한 글이 없다면, 게시물이 없다고 표시되구요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+‘좋아요’를 누른 사용자와 다른 사용자가 로그인 할 경우도, 좋아요 한 글을 보이지 않습니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Go to see the template styles by industry**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 안내사항**
 
-[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
+1\) ‘관심글보기’를 이용하기 위해서는, 앱 재제작하셔서 새 버전에서 이용해주셔야 합니다.(앱제작시 소프트 업데이트 가능)
 
-***
+\*업데이트 기준 2019.1.7 이후 앱을 신규 제작하거나, 업데이트 하신 분들은 ‘관심글보기’ 적용 후 저장만 해주시면 됩니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
+2\) 게시물 ‘좋아요’ 체크는 앱에서 회원가입 후 로그인 된 사용자만 이용가능합니다.
 
-You can create a page template in App Authoring.
+따라서 관심글보기 역시 사용자만 이용가능하며 손님은 이용할 수 없습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+3\) 로그인 된 사용자 계정을 확인해주세요.
 
-11\)STEP3 Page Step by Step
+좋아요를 누른 사용자가 동일한 사용자로 로그인이 되어 있어야 관심글보기에서 좋아요 글목록을 확인할 수 있습니다.
 
-2\)Select Page Design \[Industry Specific Template]
+4\) 관심글보기는 앱 – 홈화면에는 적용할 수 없습니다. 메뉴에만 적용 가능합니다.
 
-3\) Select \[+New].
-
-Click \[+New] to open the Page Authoring Tool screen.
-
-Below we'll show you how to build a template and how to apply it to your app after it's built.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2** Creating a Template Page
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
-
-Selecting the New button takes you to the -> Template Authoring Tool.
-
-You can add a template page here to create it.
-
-I'll tell you how to use it in detail below\~!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
-
-1\)Select the \[New] button on the left side of the production screen.
-
-2\) Press the page type to check various page styles.
-
-**\*The Swing To App is constantly updated and available on industry-specific pages.**
-
-**\*Users can select a page with the desired design.**
-
-***
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
-
-3\) Select the page and press the \[Add] button.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
-
-4\) You can see the template page added to the Authoring Tools screen like this.
-
-If you look at the right side of the screen, you can modify and use each of them.
-
-\*The \[Copy], \[Delete] buttons are available at the bottom left of the screen.
-
-The \*\[Default] button is a button that reverts back to the template style that was originally set.
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it with a squeak\~!**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
-
-\-The page name at the top is the page name displayed in the app, so please modify it and use it.
-
-\- Modification of anything that goes into the area is of course possible.
-
-\-Text: Both the text size and color can be specified, and the title area is provided to adjust the margins.
-
-\- Both adding and deleting buttons are possible.
-
-\- You can link to the page you want using \[Link Wizard] in each area,
-
-\- If you don't need the entry, check 'Deactivate' in Enable or Not, and the area will be deleted from the template.
-
-There's no other simple app creation like this, because you just have to modify it on top of a template that's already fully tooled, right?^^
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
-
-**\*\*\*\* Create a different style template page**
-
-5\) The templates in different styles are the same, when you select a page, it will appear on the screen.
-
-If you look at the right, you can modify and apply them one by one in the areas that can be modified.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
-
-**6) Even when you attach an image, you can register the desired image by pressing the image button.**
-
-Each template has an image size that lists the images. It's good if you fit the image according to the size.
-
-Even if the size has not been modified, pressing the Edit Image button will open the \[Image Editing Tools] window.
-
-Here you can register by adjusting it to the size of the image.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
-
-**7) The Link Wizard refers to the links that can be applied to each banner (button).**
-
-If you select the \[Link Wizard] button, you can select the page (link) you want to link with as shown in the image above.
-
-In addition to the regular website web links, the Swing-to-App app can integrate all the features used within the app.
-
-**8) When all the work is done, be sure to press the \[Save] button.**
-
-You need to press Save to save the page perfectly!!
-
-Items are reflected on the page as soon as they are modified.
-
-When all is done, press the \[Save] button and the page is finished saving as you are working.
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page app
-
-![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
-
-Applying it to the template page app
-
-Move the app creation screen
-
-1\)STEP3 Go to the page step.
-
-2\)Home Screen – Select HOME
-
-3\)Enter the menu name (the name that will be shown at the top of the home screen)
-
-4\)Select \[Industry-specific template] from the page design.
-
-5\)Select the 'Refresh' button on the right to see the template you have created.
-
-6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
-
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
-
-\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen. You can also apply a template page to a menu.
-
-\*Select the Preview button to see how the page will look with a web preview (virtual machine).
-
-\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
-
-\*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
-
-**\*\*\*\* App launchscreen) Template Page EffectScreen**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
-
-Modifying a template is the same as going to the App Creation Maker – Industry-Specific Templates page \[Modify] and overwriting it on top of the page you created.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
-
-​When you hover your mouse cursor over the template page, there is an Manage button.
-
-**Select the \[Manage] button and then select the \[Modify] button →.**
-
-Go to the Web Template Page Authoring Tool screen.
-
-Template modifications don't have a separate page.
-
-You can update it by entering the same as the creation page, overwriting it on top of an existing page and making modifications.
+5\) ‘좋아요’ 한 글 목록은 – 게시물이 등록된 등록일시 순서대로 표시가 됩니다.
