@@ -1,199 +1,389 @@
-# 페이지 기능-설문조사
+# Page Feature - Image Page
 
-**설문조사란?**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**What is an image page?**
 
-설문관리는 앱을 이용하는 사용자들에게 설문조사를 실시할 수 있는 기능입니다.
+Image pages are user-editor authoring tools that you create yourself.
 
-사용자들의 의견을 받아 객관적인 조사가 가능하며, 만족도 조사, 홍보를 위한 조사 등 다양한 목적으로 설문조사를 실시할 수 있습니다.
+You can edit an image to apply a link to it, and apply a tooltip.
 
-스윙투앱에서는 설문조사를 할 수 있는 툴을 제공하고 있기 때문에, 질문과 답변 문항만 입력해주시면 간단하게 설문지를 만들 수 있습니다.
+The ability to apply a variety of links to images can be useful when building apps.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.설문조사 만들기**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Leverage TIP**
 
-가장 먼저 앱운영페이지에서 설문조사지를 만들어주세요.
+1\. When you need to apply multiple web links to an image, ex) You can apply multiple links instead of just one, such as going to the homepage, going to the blog, etc.
+
+2\. When applying multiple bulletin board links to an image, ex) Multiple bulletin board links such as announcement board, free bulletin board, etc. can be applied
+
+3\. If you want to provide a more detailed description on top of the image, you can apply the 'tooltip' to get the message
+
+4\. Banner work – Create an image in banner style, specify the appropriate area and apply a link
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **If you want to put an image full on your home screen when creating an image page, you can work with the mobile screen resolution standard of 1080px horizontally and 1980-2200px vertically.**
+
+**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
+
+**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
+
+Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
+
+**Please refer to it when using it\~**
 
 ***
 
-**1. 설문관리 메뉴 이동**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page Steps
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
-
-1\) [**앱운영 페이지 → 서비스관리 → 설문관리**](http://www.swing2app.co.kr/view/survey) 메뉴로 이동합니다.
-
-2\) \[설문추가] 버튼을 선택합니다.
-
-**2. 기본 정보 입력**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%831.png)
-
-설문조사관리 페이지에서 설문에 필요한 기본 정보를 입력해주세요\~!!
-
-**\*** 표시로 되어 있는 항목은 필수적으로 기재해야 하는 항목입니다.
-
-**1)설문조사명**: 설문조사를 실시할 제목을 입력합니다.
-
-**2)기간설정**: 기간은 설문조사를 실시할 기간을 입력하는 것으로 시작일과 마감일을 날짜와 시간으로 지정합니다.
-
-캘린더 아이콘, 시계 아이콘을 선택해서 일정을 셋팅할 수 있어요.
-
-**3)새 설문항목 추가**: 설문 항목관리는 설문지에 들어갈 내용을 입력하는 것으로 오른쪽에 보이는 \[**새 설문항목 추가] 버튼**을 클릭해서 작업합니다.
-
-​+설문조사는 푸시로 설정할 수 있습니다
-
-\+푸시설정을 선택해서 발송대상자를 선택한 뒤 제목, 내용, 이미지를 입력하면 푸시가 발송됩니다.
-
-\+공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다.
-
-**3. 설문조사 항목 입력**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png)
-
-**1) 질문내용**: 설문지에 들어갈 질문을 입력합니다.
-
-\*HTML 에디터 or 간편 에디터 선택
-
-폰트 설정, 글자 색상, 이미지/파일/링크 첨부 등 다양한 옵션 기능을 이용할 경우 HTML에디터를 선택한 뒤 질문 내용을 입력해주세요.
-
-간편에디터는 글 작성 옵션 기능을 이용할 수 없습니다
-
-**2) 안내 페이지로 사용:** 질문에 대해 답변하는 페이지가 아닌 공지글을 작성하는 용도의 안내페이지를 사용할 수 있습니다.
-
-상세 이용방법은 아래에서 설명드릴게요
-
-**3) 필수 항목 여부**: 필수 항목 여부는 해당 질문이 필수로 답변을 해야 하는 질문인지, 답변을 안해도 되는지를 선택하는 항목입니다.
-
-따라서 필수로 답변을 해야 한다면 ‘ 필수답변 항목’에 체크해주세요.
-
-**​4) 답변유형**: 답변유형은 사용자들이 답변을 고를 때 하나만 선택가능한 **단일 선택**인지,
-
-여러개 동시 선택 가능한 **다중선택**인지,
-
-글로 입력해야 하는 **서술형 답변**인지를 선택해서 체크해놓도록 합니다.
-
-\=>답변유형별 입력방법은 아래에서 설명해드릴게요!
-
-**5) 단일선택 항목만들기**: 보기를 골라서 답변을 채우는 설문지의 경우 **‘답변항목생성’** 아이콘을 클릭해서 항목을 추가할 수 있습니다.
-
-**​6) 저장하기**: 모든 입력이 완료되면 저장하기를 눌러주세요.
-
-**4. 설문지 등록 완료**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%838.png)
-
-설문지 기본 설정 및 내용입력이 모두 완료되면 ‘저장하기‘를 눌러주세요.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%839.png)
-
-설문조사 관리 페이지에 보시면, 등록완료된 설문지를 확인할 수 있습니다\~!
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[설문조사] – 앱에 적용하기**
-
-앱운영에서 설문조사를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
-
-앱에 설문조사 메뉴를 적용하는 방법을 알려드릴게요!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\) 메뉴 이름 입력
-
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
-
-5\) ‘설문조사’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 앱 실행화면: 설문조사 페이지 확인**
-
-앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png)
-
-설문조사 입력이 완료 된 후 다시 앱을 실행하면, 입력된 설문조사가 뜨구요.
-
-해당 항목을 선택하면 설문조사지로 이동합니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4 설문조사 결과 확인 & 설문조사 관리**
-
-설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?
-
-[앱운영 페이지 → 서비스관리 → 설문관리 ](http://www.swing2app.co.kr/view/survey)메뉴로 이동합니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW.png)
-
-설문관리 메뉴에서 진행 중, 마감 된 설문조사를 관리할 수 있구요.
-
-설문에 참여한 회원 관리도 가능해요.
-
-**\*참여 인원을 선택하면 설문조사에 참여한 회원정보를 확인할 수 있으며, 회원을 선택하면 설문 결과 확인이 가능합니다.**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW4.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page app launchscreen
 
-\[download] 버튼을 선택하면 설문결과지를 엑셀 파일로도 다운이 가능합니다.
+***
+
+**\***Swing-to-App Official App – Image Page Application Screen
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW9.png)
+
+\*This is the image page screen applied to the official Swing to App app.
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW2.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_04\_18\_25\_45\_117.gif)
 
-회원을 선택하면, 해당 회원이 입력한 설문 답변리스트를 확인할 수 있습니다.
+\- I selected an area above the image and linked the page to each of the banner areas.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW3.png)
+\-When launching the app, you can select a specific banner in the image and make it go to the linked page.
 
-**새로운 설문을 추가하거나, 설문 마감 및 수정&삭제 기능을 모두 사용할 수 있습니다.**
-
-**-‘설문추가**‘ 버튼을 선택하면 기존 설문지 외에도 새로운 설문을 추가할 수 있습니다.
-
-**-‘수정’** 버튼을 선택해서 질문 내용을 수정할 수 있으며, ‘**삭제**‘ 버튼 선택하여 설문을 삭제할 수도 있습니다.
-
-<details>
-
-<summary>[설문조사 메뉴 이용방법 정리]</summary>
-
-**설문조사 만들기, 앱에서 설문 참여하기 상세 내용은 아래 매뉴얼을 꼭\~ 확인해주세요!**
-
-**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/survey/)
-
-**▶ 설문조사지 만들기**
-
-[앱운영 페이지 → 서비스관리 →설문관리](http://www.swing2app.co.kr/view/survey) → \[설문 추가] 버튼을 선택 → 설문조사명, 설문기간 설정 후 → \[새 설문항목 추가] 버튼을 눌러서 질문 및 답변 항목을 입력해주시면 됩니다.
-
-**▶설문지 앱에 적용하는 방법**
-
-만들어진 설문지는 앱에 적용해주세요.
-
-앱제작 페이지 → 페이지메뉴 → 메뉴추가 →메뉴이름 →\[스윙 페이지] 불러오기 → ‘설문조사’ 선택 적용 후 저장
-
-**▶앱에서 설문 참여하기**
-
-앱을 실행 한뒤 설문조사에 참여할 수 있습니다.
-
-적용된 메뉴를 선택한 뒤 화면을 터치하면 설문에 참여할 수 있어요.
-
-\*설문조사는 앱에 가입된 회원 – 사용자 등급부터 이용할 수 있어요. 손님은 이용할 수 없으니 이용시 참고 부탁드려요.
-
-**▶사용자들이 입력한 설문 결과 확인하기**
-
-앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
-
-</details>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
 ***
+
+**User App) Example App Image Page Application Screen**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_10\_23\_12\_00\_46\_924.gif)
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1.** Create an image page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
+
+You can create a page template in App Authoring.
+
+1\)STEP3 Page Step by Step
+
+2\)Select Page Design \[Image Map]
+
+3\) Select \[+New].
+
+Clicking \[+New] opens the Image Page Authoring Tool screen.
+
+Below we'll show you how to create an image page and how to apply that page to your app after it's built.
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2.** Creating an Image Page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
+
+The authoring tool screen opens where you can create an image page.
+
+**1.Register an image**
+
+Be the first to register your image.
+
+**Select the \[Upload Image] button or the \[New] button to select the image you want to register.**
+
+\*Since the image page is a function to put a banner such as a link on top of the designed image, you need to upload it as a finished image!
+
+{% hint style="success" %}
+If this is the first time you are working, please select the \[New] button to do the work.
+
+If you need to re-upload a modified image in addition to what you have already done, you may want to use the \[Upload Image] button!
+{% endhint %}
+
+***
+
+**2. Create an image page**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
+
+Working with image pages
+
+**All you need to do is check the 'Shape Tool' which sets the banner area on top of the image, the 'Link Action' which allows you to link to the area, and the 'Default Style' which sets the area style.**
+
+{% hint style="success" %}
+★Default style
+
+\-Background Color: You can color the area you set with the tool.
+
+\-Background Opacity: You can specify the transparency of the area set by the tool.
+
+If you don't want the tool to be visible when you select the mouse, you can set the transparency to '0'\*\*.\*\*
+{% endhint %}
+
+***
+
+**3. Shape Tools – Check your style**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png)
+
+**Tool shapes are available in dot shapes, squares, ellipses, and polygons.**
+
+\- When using a dot shape, clicking the mouse cursor over the image creates a point.
+
+\-When using a rectangular or oval shape, simply place the mouse cursor over the image and drag it from the left to create an area.
+
+\- For polygons, dotting multiple areas, and then dotting back to where you originally dotted creates a polygon area.
+
+**▶ Please check how to set the area through the image that you are receiving.**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
+
+***
+
+**4. Apply the link**
+
+Once you've set up a zone, let's see how to apply a link inside the zone you set.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%806.18.09.png)
+
+**For links, please select \[Link Action] on the right and apply them.**
+
+1\) Mouseover Fix: This is a menu that applies how it works when you touch the mouse.
+
+Select \[Do nothing] because you will only apply the \[View: Do Nothing, Show Tooltips] link.
+
+2\) Click Action: This is a menu that applies how it works when the mouse is clicked.
+
+Select \[Move Link] because you need to go to the link when selecting \[View: Do Nothing, Show Tooltip, Move Link].
+
+3\) Link Wizard: A tool that allows you to select the app menu, web link, etc. page to be linked.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%808.18.09.png)
+
+When you select the Link Wizard button, the 'Link Wizard' window will pop up as shown in the image above.
+
+Here, when you have selected the banner, you can select the menu you want to move.
+
+In the manual, we chose the introductory banner for the image, so we'll choose the 'Introduction to Swing Cafe' template that we've worked on beforehand.
+
+You can select \[Reflect].
+
+{% hint style="danger" %}
+<mark style="color:red;">**\*Precautions**</mark>
+
+The menus and content within the app need to be completed.
+
+If you don't have a bulletin board or user page at all, you won't have a menu to choose from in the Link Wizard, right?
+
+So, when you're done creating all the content that will go into your app, use the Link Wizard on the Images page.
+{% endhint %}
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%809.18.09.png)
+
+Of course\~ in the Link Wizard, you can apply it to all other menus in addition to the above menus.
+
+For example, **if you select a banner and you want it to go to your blog, you can select \[Link Wizard] and then in \[Weblink] – enter the blog site address URL and reflect it**
+
+***
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with a flinch**
+
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b824e2f0d6ea8e64bc29df25fd9d65b8.gif)
+
+**You can use the mouseover style to color the Background Color.**
+
+**If you set it to '0' in Background Opacity, you can also set the banner to be transparent.**
+
+***
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Creating Image Pages TIP**
+
+![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/159009ee19bc2784599d2211fabc309b.gif)
+
+Let me give you a TIP.
+
+If you use the **\*\*\[Duplicate Style button]\*\* in the list, you can get the same area style and the default style as is.**
+
+All you have to do is change the link settings, which makes it a little easier!
+
+**5. Fabrication Completed**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%8010.18.09.png)
+
+The image page has been applied
+
+Finally, please enter the page name. (When applied to the app, the page name will appear in the menu.)
+
+Press the Save button and you're done.
+
+So let's go back to the app creation page and apply that image page to the app!!
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying an Image Page to Your App
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Home Screen – Select HOME
+
+3\)You do not need to change the menu name.
+
+\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
+
+4\) Select \[Image Map] from the page design.
+
+5\)Select the 'Refresh' button on the right to see the template you have created.
+
+6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
+
+{% hint style="info" %}
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+
+\*Select the Preview button to see how the page will look with a web preview (virtual machine).
+
+\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+
+\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+{% endhint %}
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4** Image Page Creator – Applying the Tooltip
+
+In addition to linking a link banner to an image page, I'll also show you how to apply the tooltip.
+
+What is a tooltip?
+
+T**he tooltip is used as a way to attach a message window-shaped icon above the image and provide an additional description.**
+
+**Example of applying tooltips)**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+
+**1. Image Page - How to Apply Tooltips**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW11.png)
+
+Select the \[New] button in the Image Page Creation Tool and import the image.
+
+**1)Select the area where you want to apply the tooltip over the image by dragging the area to the tool menu.**
+
+—Let me explain the medues to use in the right menu bar—
+
+**2) Link Action**
+
+The link action is a menu that applies how the area to which you applied the tooltip will look.
+
+(1) Mouseover action: This is a menu that applies how it works when the mouse is pressed. Select \[Do nothing].
+
+(2) Click Action: This is a menu that applies how it works when the mouse is clicked.
+
+Since the tooltip should be shown when touched, select \[Show tooltip] from the click action.
+
+**\*Utilize TIP. You can create using both the tooltip menu and the 2 weblink menus.**
+
+**3)Basic style**
+
+It's a tool area style. Check the options only for background color, background transparency.
+
+If you want the tooltip to show the area where it will be shown, please add color and transparency.
+
+If you want to make the area invisible, set the Background Opacity to '0'.
+
+**4) Tooltip style**
+
+It's a menu where you enter the tooltip style. - > box area design with message visible
+
+You can modify the horizontal and vertical size, set the color, tooltip position, transparency, and degree of area rounding.
+
+\*Caution\* When modifying the size, please make sure that the horizontal length does not exceed 330. (up to 330px)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW12.png)
+
+**5) Text Style**
+
+Text Style is a menu where you can modify the text color, font size, tooltip box size, etc. created in the tooltip.
+
+You can edit it by dividing the title area and the body area.
+
+**6) Tooltip content**
+
+Enter what you want to enter in the tooltip box. The tooltip is divided into a title (title) and a text (body) to create the content.
+
+**7) Enter the page name** \*Enter the page name after saving all the contents.
+
+**8) After completion, press the \[Save] button.**
+
+​
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW13.png)
+
+**9)** **Select \[Preview]** to see the tooltip box applied over the image.
+
+**2. Apply the tooltip to the Image Page app**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B54.png)
+
+Image pages created with the tooltip can also be applied to your app.
+
+The method for applying it to your app is the same as the one we showed you above.
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Home Screen – Select HOME
+
+3\)You do not need to change the menu name.
+
+\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
+
+4\) Select \[Image Map] from the page design.
+
+5\)Select the 'Refresh' button on the right to see the template you have created.
+
+6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
+
+{% hint style="info" %}
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+
+\*Select the Preview button to see how the page will look with a web preview (virtual machine).
+
+\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+
+\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+{% endhint %}
+
+​
+
+**3. App launch screen) Image Page Tooltip**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
+
+**The same modifications can be made by going to the App Creation Maker – Image page \[Modify] and covering it over the page you created.**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
+
+When you hover the mouse cursor over the image page, there is an Manage button.
+
+Select the \[Manage] button and then select the \[Modify] button →.
+
+Go to the Image Page Authoring Tool screen.
+
+Modifying the image page doesn't mean you have a separate page.
+
+You can update it by going in the same way as the creation page, overwriting it on top of the existing page and making corrections.

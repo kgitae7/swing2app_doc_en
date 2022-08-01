@@ -1,97 +1,102 @@
-# 페이지 기능-출석체크
+# Page Features - Search for Posts
 
-**출석체크란?**
+The Swing To App offers a variety of board styles, and users are free to create a board and write a post\~!
 
-**커뮤니티 및 이벤트로 사용할 수 있는 메뉴로 게시판과 비슷하지만, 출석 댓글 기능 및 마감 기능이 있다는 점에서 차이점이 있어요!**
+The post search function, which finds the search terms you want, can also be useful.
 
-따라서 출석체크는 게시판이 아닌 서비스관리 메뉴에서 이용할 수 있구요.
+The Swing-to-App offers 2 different post search functions.
 
-다양한 출석체크 이벤트로 앱 회원들의 참여를 이끌어낼 수 있습니다.
+**1. Integrated board search: Filter search terms across all boards applied to your app.**
 
-매뉴얼을 통해서출석체크 페이지를 앱에 적용하는 방법을 확인해주세요.
+**2. Search for individual posts: Search for posts on individual bulletin boards**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.출석체크 등록하기**
+**e.g. Search for posts on the announcement board, search for posts on the free bulletin board**
 
-출석체크 등록방법은 아래 매뉴얼을 통해 확인해주세요.
+–Please check the manual below to find out how to use and apply the post search.
 
-먼저 출석체크 페이지를 만든 후, 앱에 적용할 수 있습니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Post Search Function
 
-출석체크 등록은 앱운영 – 서비스관리에서 만들 수 있으며 상세 매뉴얼을 확인해주세요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
+To search for a post, a search term input window will appear at the top of the bulletin board list.
 
-{% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
+After typing in the word you want to search, click the "magnifying glass" icon in the upper-right corner to filter the search terms to show them.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.출석체크 메뉴 앱에 적용하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply it to the \[Search Post] app
 
-출석체크 등록이 완료되면, 앱에 적용해야하겠죠?
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89.png)
 
-앱제작 – STEP3 페이지로 이동해서, 출석체크를 앱에 적용해볼게요!
+Move the app creation screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
+1\)STEP3 Go to the page step.
 
-앱제작 화면 이동
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-1\)STEP3 페이지 단계로 이동합니다.
+3\) Enter the menu name
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-3\) 메뉴 이름 입력
+5\) Find the 'Search Posts' page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-5\) ‘출석체크’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
 
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+If you select the Search Posts menu that you have created, you will see a list of posts from all the boards applied to the app, as shown in the image above.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+You'll see a search terms field at the top.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+When you enter a search term, it is filtered to show it.
+
+1\) Integrated Post Search
+
+If you are searching for content in posts on all bulletin boards – please apply the \[Search Posts] function provided by the swing page!
+
+2\) Search for individual posts
+
+If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
+
+{% hint style="success" %}
+<mark style="color:green;">**★**</mark>** **<mark style="color:green;">**Post Search Cleanup TIP**</mark>
+
+1\) Integrated Post Search
+
+If you are searching for content in posts on all bulletin boards – please apply the \[Search Posts] function provided by the swing page!
+
+2\) Search for individual posts
+
+If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
 {% endhint %}
 
-<mark style="color:red;">**\*퀵 메뉴**</mark>
+***
 
-앱제작에서 출석체크 페이지로 바로 이동 가능합니다.
+{% hint style="info" %}
+<mark style="color:blue;">**Search individual posts**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC2.png)
+On the board, the search box is created with the default settings.
 
-출석체크 페이지 \[관리하기] 버튼 선택 → \[출석체크 관리] 버튼을 선택하면 앱운영 출석체크 페이지로 이동합니다.
+So the ability to search for posts on a specific board is automatically provided on each board without having to add anything else.
 
-새로운 출석체크 등록이나, 수정이 필요할 경우 앱제작 메이커에서 바로 이동하여 관리할 수 있습니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 출석체크 확인**
-
-앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
-
-출석체크 게시물을 확인하면, 출석체크 등록시 입력했던 게시물 내용과 이미지를 확인할 수 있어요.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
-
-게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있습니다.
-
-**▶출석체크 이벤트 마감**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
-
-이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
-
-**▶ 앱 운영자 대시보드 확인**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
-
-앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
-
-\*어플리케이션 내에서 확인 X, 스윙투앱 홈페이지 내 앱운영 페이지에서 확인 가능합니다.
-
-사용자 이름을 선택하면, 해당 회원 정보를 확인할 수 있습니다.
+Board List Click the icon in the shape of a 'magnifying glass' in the upper-right corner of the screen to open a window where you can enter a search term.
+{% endhint %}
 
 ***
+
+***
+
+***
+
+**Related Articles**
+
+* [페이지 기본기능-회원가입, 로그인, 설정](https://wp.swing2app.co.kr/documentation/v3manual/join-login/)
+* [푸시, 웹뷰앱 초간단 앱제작방법](https://wp.swing2app.co.kr/documentation/v3manual/push-webview/)
+* [업데이트 유형별 앱 실행화면](https://wp.swing2app.co.kr/documentation/v3manual/update-type/)
+* [앱 업데이트 방법](https://wp.swing2app.co.kr/documentation/v3manual/app-update/)
+* [STEP4 앱제작하기](https://wp.swing2app.co.kr/documentation/v3manual/appcreation/)
+* [앱 추가 제작](https://wp.swing2app.co.kr/documentation/v3manual/app-add/)

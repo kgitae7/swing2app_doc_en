@@ -1,163 +1,97 @@
-# Page features - Register, login, setup
+# 페이지 기능-출석체크
 
-***
+**출석체크란?**
 
-**Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by the Swing-to-App app.**
+**커뮤니티 및 이벤트로 사용할 수 있는 메뉴로 게시판과 비슷하지만, 출석 댓글 기능 및 마감 기능이 있다는 점에서 차이점이 있어요!**
 
-Sign up, sign in, and set up are some of the most common app features.
+따라서 출석체크는 게시판이 아닌 서비스관리 메뉴에서 이용할 수 있구요.
 
-In addition to these functions, you can select a variety of functions from the swing page and apply them to your app.
+다양한 출석체크 이벤트로 앱 회원들의 참여를 이끌어낼 수 있습니다.
 
-We'll show you how to apply the sign-up, login, and settings pages provided by the swing page to the app and the app launch screen.
+매뉴얼을 통해서출석체크 페이지를 앱에 적용하는 방법을 확인해주세요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1.** Swing Page: Registration
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.출석체크 등록하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
+출석체크 등록방법은 아래 매뉴얼을 통해 확인해주세요.
 
-Move the app creation screen
+먼저 출석체크 페이지를 만든 후, 앱에 적용할 수 있습니다.
 
-1\)STEP3 Go to the page step.
+출석체크 등록은 앱운영 – 서비스관리에서 만들 수 있으며 상세 매뉴얼을 확인해주세요.
 
-2\)Create a new menu. (+ Select the shape button to add a menu)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
-3\) Enter the menu name
+{% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
 
-4\) Select \[Basic Functions] - \[Page] in the page design.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.출석체크 메뉴 앱에 적용하기**
 
-5\) Find the registration page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+출석체크 등록이 완료되면, 앱에 적용해야하겠죠?
 
-6\) Press the \[Save] button at the top of the screen to apply it to the app.
+앱제작 – STEP3 페이지로 이동해서, 출석체크를 앱에 적용해볼게요!
 
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
 
-\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+앱제작 화면 이동
 
-#### **▶**App launch screen) Registration
+1\)STEP3 페이지 단계로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png)
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
 
-This is the app launch screen with the registration function applied.
+3\) 메뉴 이름 입력
 
-Registration will be marked as \*\*Basic Settings Items- ID, Password, Password Confirmation, Name (Nickname)\*\* if you do not modify anything.
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
 
-The items on the registration form can be modified by the operator himself.
+5\) ‘출석체크’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
 
-\*App operation → service management → policy management → modification in the registration form
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
 
-You can find out more about how to set up the registration form by checking the manual link below.
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-**☞**<mark style="color:blue;">**Setting up the registration form**</mark>
+{% hint style="info" %}
+\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
 
-***
+\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2.** Swing Page: Login
+\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
-
-Move the app creation screen
-
-1\)STEP3 Go to the page step.
-
-2\)Create a new menu. (+ Select the shape button to add a menu)
-
-3\) Enter the menu name
-
-4\) Select \[Basic Functions] - \[Page] in the page design.
-
-5\) Find the login page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
-
-6\) Press the \[Save] button at the top of the screen to apply it to the app.
-
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
-
-\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
-
-**▶ App launchscreen) Login**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
-
-The app launch screen with the sign-in feature applied.
-
-The ID and password entry screen will be displayed.
-
-**\*In addition to the general ID, the ID field will be changed when setting the email and phone number ID.**
-
-The login screen also displays the ability to sign up.
-
-**Once the login is complete, the login menu will change to 'Log Out'.**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
-
-After registering and completing the login, the login listed in the menu name will automatically change to → logout.
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3.** Swing Page: Settings
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EC%A0%95.png)
-
-Move the app creation screen
-
-1\)STEP3 Go to the page step.
-
-2\)Create a new menu. (+ Select the shape button to add a menu)
-
-3\) Enter the menu name
-
-4\) Select \[Basic Functions] - \[Page] in the page design.
-
-5\) Find the settings page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
-
-6\) Press the \[Save] button at the top of the screen to apply it to the app.
-
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
-
-\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
-
-**▶App launchscreen) Settings**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
-
-The app launch screen with the settings feature applied.
-
-Settings include both registration and login.
-
-So it's okay not to use the sign-up or login functions, just apply the settings to the app.
-
-In addition to these features\*notifications, we also provide notification-push settings, notification list checking, app sharing, app version check, admin login, and app shutdown.
-
-Therefore, when creating an app, we recommend that you apply the setting function to the app and create it!
-
-Administrator login is a feature that allows you to log in as an administrator and operate in the app.
-
-You can check the details of how to use the function by checking the manual link below.
-
-**☞**<mark style="color:blue;">**App Manager menu to see how to use the menu**</mark>
-
-{% hint style="warning" %}
-**\*Important Information**
-
-1\)Membership registration, login, and settings provided on the swing page are not applicable to the home screen.
-
-It is only applicable to app menus (categories), so please use it only as a menu.
-
-2\) It is recommended that you apply one function of 'login' rather than using membership and login together.
-
-Or use the 'Settings' menu that comes with the registration and login menu.
-
-3\) The membership registration form can be modified in the <mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark> of the \[Registration Form Settings] page, and when the ID form is modified, it is reflected on the login screen.
-
-4\)Since the settings page is provided with a fixed content UX, the item cannot be modified like registering.
-
-Available only on the pages provided.
-
-5\) All the features (pages) provided on the swing page are only provided with a fixed design, so style modification is not possible.
-
-Depending on the prototype color change, the background color, etc., can be modified, but the design cannot be changed.
+해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 {% endhint %}
 
-***
+<mark style="color:red;">**\*퀵 메뉴**</mark>
+
+앱제작에서 출석체크 페이지로 바로 이동 가능합니다.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC2.png)
+
+출석체크 페이지 \[관리하기] 버튼 선택 → \[출석체크 관리] 버튼을 선택하면 앱운영 출석체크 페이지로 이동합니다.
+
+새로운 출석체크 등록이나, 수정이 필요할 경우 앱제작 메이커에서 바로 이동하여 관리할 수 있습니다.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 출석체크 확인**
+
+앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
+
+출석체크 게시물을 확인하면, 출석체크 등록시 입력했던 게시물 내용과 이미지를 확인할 수 있어요.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
+
+게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있습니다.
+
+**▶출석체크 이벤트 마감**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
+
+이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
+
+**▶ 앱 운영자 대시보드 확인**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
+
+앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
+
+\*어플리케이션 내에서 확인 X, 스윙투앱 홈페이지 내 앱운영 페이지에서 확인 가능합니다.
+
+사용자 이름을 선택하면, 해당 회원 정보를 확인할 수 있습니다.
 
 ***
