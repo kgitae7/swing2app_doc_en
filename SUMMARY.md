@@ -89,7 +89,7 @@
     * [How to create an additional app](manual/V3manual/step4/undefined.md)
     * [How to update an app](manual/V3manual/step4/undefined-1.md)
     * [App launch screen by update type](manual/V3manual/step4-complete-app-creation/app-launch-screen-by-update-type.md)
-  * [웹뷰앱&푸시앱](manual/V3manual/webapp/README.md)
+  * [Web View App & Push App](manual/V3manual/webapp/README.md)
     * [How to create a webview app](manual/V3manual/webapp/webview.md)
     * [pushapp manual](manual/V3manual/webapp/pushapp-manual.md)
     * [pushapp toolbar](manual/V3manual/webapp/pushapp-toolbar.md)
