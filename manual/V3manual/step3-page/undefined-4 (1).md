@@ -1,117 +1,163 @@
-# 페이지 기능-채팅목록
-
-**1:1 채팅 – 채팅목록 이용방법 매뉴얼**
-
-채팅목록은 1:1 채팅 후 사용자와 관리자가 이용할 수 있는 기능으로, 채팅한 내역을 확인할 수 있는 메뉴에요.
-
-앱의 특성상 여러 앱 관리자(부관리자)가 운영할 경우, 사용자는 여러 명의 관리자들과 채팅을 주고 받을 수 있는데요.
-
-사용자는 채팅목록에서 관리자 채팅목록을 확인하여 원하는 관리자를 선택해서 대화를 걸 수 있구요.
-
-관리자 역시 채팅을 한 사용자 목록을 확인하여 대화내역 확인 및 다시 대화를 걸 수 있습니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D-KR.png)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.채팅목록 이란?**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png)
-
-\-위의 이미지처럼 누구와 대화를 했는지 각 사용자 혹은 관리자별로 채팅목록이구분되어서 표시가 됩니다.
-
-\-따라서 사용자는 채팅을 종료한 뒤 \[채팅목록]으로 들어가면, 대화를 나눈 목록을 다시 확인할 수 있구요.
-
-\-대화를 원하는 상대를 선택해서 채팅을 할 수 있습니다.
-
-\***관리자 채팅을 적용하는 방법은 아래 매뉴얼을 확인해주세요.**
-
-**☞** [**관리자 채팅 이용방법 보러가기**](https://wp.swing2app.co.kr/documentation/maual/pagemenu/chat/)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.\[채팅목록] 앱에 적용하기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\) 메뉴 이름 입력
-
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
-
-5\) ‘채팅목록’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-
-\*2019.3.8 이전에 제작한 앱은 \[채팅목록] 메뉴가 스윙페이지에서 보이지 않습니다.반드시 업데이트 후 이용해주세요.
-{% endhint %}
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.채팅목록 앱 실행화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
-
-앱 메뉴의 – 채팅목록을 선택하면 위의 이미지처럼 사용자가 관리자와 채팅한 목록을 확인할 수 있습니다.
-
-{% hint style="success" %}
-<mark style="color:green;">**\*활용 방법**</mark>
-
-<mark style="color:green;">\*\*\*\*</mark>
-
-관리자 채팅 후 사용자는 채팅방에 다시 들어가면 채팅한 목록을 확인할 수 있는데요.
-
-채팅방은 관리자가 구분되지 않고, 통합으로 모든 관리자들이 보여졌기때문에 관리자 구분이 되지 않았어요.
-
-**\*채팅방은 관리자 공용대화목록만 보여지며, 관리자 전용 대화목록은 보여지지 않습니다.**
-
-따라서 사용자 입장에서는 어떤 관리자와 채팅을 했는지 확인도 어렵고, 채팅을 했던 관리자를 다시 선택해서 물어보고 싶은데 선택할 수가 없어서 불편함이 많았어요.
-{% endhint %}
+# Page features - Register, login, setup
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
+**Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by the Swing-to-App app.**
 
-그러나!! 이제 \[채팅목록]을 이용하시면 대화를 했던 각 관리자별 목록을 확인할 수 있습니다.
+Sign up, sign in, and set up are some of the most common app features.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_12\_17\_14\_21\_497.gif)
+In addition to these functions, you can select a variety of functions from the swing page and apply them to your app.
 
-\*채팅을 한 여러 관리자 중에서 나와 마지막에 채팅을 주고 받은 ‘김스윙’ 관리자에게 다시 문의를 하고 싶을 경우, 채팅목록에서 ‘김스윙’ 관리자를 선택해서 채팅을 시작할 수 있습니다.
+We'll show you how to apply the sign-up, login, and settings pages provided by the swing page to the app and the app launch screen.
 
-따라서 사용자가 언제든지 채팅을 원하는 관리자를 목록에서 확인하여 대화를 할 수 있습니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1.** Swing Page: Registration
 
-\* 채팅목록에서 \[통합 관리자 채팅]은 관리자가 채팅을 할 때 ‘전용 대화’가 아닌 ‘공용 대화’를 한 채팅 내역을 확인할 수 있습니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
 
-{% hint style="danger" %}
-<mark style="color:red;">**안내사항**</mark>
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Create a new menu. (+ Select the shape button to add a menu)
+
+3\) Enter the menu name
+
+4\) Select \[Basic Functions] - \[Page] in the page design.
+
+5\) Find the registration page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+
+#### **▶**App launch screen) Registration
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png)
+
+This is the app launch screen with the registration function applied.
+
+Registration will be marked as \*\*Basic Settings Items- ID, Password, Password Confirmation, Name (Nickname)\*\* if you do not modify anything.
+
+The items on the registration form can be modified by the operator himself.
+
+\*App operation → service management → policy management → modification in the registration form
+
+You can find out more about how to set up the registration form by checking the manual link below.
+
+**☞**<mark style="color:blue;">**Setting up the registration form**</mark>
 
 ***
 
-1\)채팅목록 기능은 2019년 3월 8일부터 제작한 앱부터 적용이 됩니다. (이전에 앱을 제작하신 분들에게는 채팅목록이 보이지 않습니다.)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2.** Swing Page: Login
 
-이전에 제작한 앱은 \[앱제작요청]을 눌러서 앱을 새 버전으로 업데이트 해주세요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
-업데이트 후 페이지메뉴에서- 스윙페이지를 보시면 \[채팅목록]이 추가되어 있는 것을 확인할 수 있습니다!
+Move the app creation screen
 
-2\) 채팅목록에 관리자별로 목록을 보여주길 원한다면, 관리자는 반드시 전용 채팅으로 이용해주셔야 합니다.
+1\)STEP3 Go to the page step.
 
-공용채팅으로 채팅을 할 경우 관리자가 구분되지 않고, 통합 관리자 채팅으로 함께 보여집니다.
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-3\) 그룹 채팅은 해당 사항이 없습니다. 1:1 관리자 채팅에서만 적용 가능
+3\) Enter the menu name
 
-4\)채팅목록은 관리자용 기능이 아닌, 앱을 이용하는 일반 사용자들을 위한 기능입니다.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-사용자들이 보다 쉽게 이용이 가능하도록 유용하게 활용해주시기를 바랍니다.
+5\) Find the login page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+
+**▶ App launchscreen) Login**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+
+The app launch screen with the sign-in feature applied.
+
+The ID and password entry screen will be displayed.
+
+**\*In addition to the general ID, the ID field will be changed when setting the email and phone number ID.**
+
+The login screen also displays the ability to sign up.
+
+**Once the login is complete, the login menu will change to 'Log Out'.**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
+
+After registering and completing the login, the login listed in the menu name will automatically change to → logout.
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3.** Swing Page: Settings
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EC%A0%95.png)
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Create a new menu. (+ Select the shape button to add a menu)
+
+3\) Enter the menu name
+
+4\) Select \[Basic Functions] - \[Page] in the page design.
+
+5\) Find the settings page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+
+**▶App launchscreen) Settings**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
+
+The app launch screen with the settings feature applied.
+
+Settings include both registration and login.
+
+So it's okay not to use the sign-up or login functions, just apply the settings to the app.
+
+In addition to these features\*notifications, we also provide notification-push settings, notification list checking, app sharing, app version check, admin login, and app shutdown.
+
+Therefore, when creating an app, we recommend that you apply the setting function to the app and create it!
+
+Administrator login is a feature that allows you to log in as an administrator and operate in the app.
+
+You can check the details of how to use the function by checking the manual link below.
+
+**☞**<mark style="color:blue;">**App Manager menu to see how to use the menu**</mark>
+
+{% hint style="warning" %}
+**\*Important Information**
+
+1\)Membership registration, login, and settings provided on the swing page are not applicable to the home screen.
+
+It is only applicable to app menus (categories), so please use it only as a menu.
+
+2\) It is recommended that you apply one function of 'login' rather than using membership and login together.
+
+Or use the 'Settings' menu that comes with the registration and login menu.
+
+3\) The membership registration form can be modified in the <mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark> of the \[Registration Form Settings] page, and when the ID form is modified, it is reflected on the login screen.
+
+4\)Since the settings page is provided with a fixed content UX, the item cannot be modified like registering.
+
+Available only on the pages provided.
+
+5\) All the features (pages) provided on the swing page are only provided with a fixed design, so style modification is not possible.
+
+Depending on the prototype color change, the background color, etc., can be modified, but the design cannot be changed.
 {% endhint %}
+
+***
 
 ***

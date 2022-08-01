@@ -1,127 +1,76 @@
-# 페이지 기능-앱공유하기
+# Page Feature - Product Category
 
-**앱 공유하기란?**
+**How to use the product category**
 
-앱 공유는 스윙투앱으로 제작한 앱을 다양한 어플리케이션으로 공유할 수 있는 기능입니다.
+It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
 
-제작한 앱을 다른 사용자에게 공유할 때 이용할 수 있구요.
+Please see how to apply the product category to the app and the app launch screen with the page applied.
 
-카카오톡, 메시지, 이메일 등 사용자의 핸드폰에 설치된 다양한 어플리케이션 경로로 앱을 공유할 수 있습니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
 
-{% hint style="danger" %}
-<mark style="color:red;">**\*주의사항**</mark>
+The product category page is available in the app creation STEP3 page step - shopping mall function.
 
-\-무료버전 앱은 안드로이드폰에서만 공유가 가능해요! (아이폰은 무료버전앱 공유 X)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
 
-\-아이폰은 무료버전앱 공유를 할 수 없으며, 앱스토어에 출시된 앱만 공유가 가능합니다.
+1\)STEP3 Page Selection
 
-\-앱 공유시 앱스토어, 플레이스토어에 앱이 출시된 경우 해당 스토어 출시 링크(URL)로 이동합니다.
+2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
 
-공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
+3\) The menu name does not need to be changed.
 
-**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
-{% endhint %}
+\*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
 
-***
+4\) Select \[Shopping Mall Features] from the page design
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱공유하기] 적용하기**
+5\) Please select \[Product Category].
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-1.png)
+\*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
 
-앱제작 화면 이동
+6\) Find the category you want to apply and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-1\)STEP3 페이지 단계로 이동합니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-2\)새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
-
-3\) 메뉴 이름 입력
-
-4\) 페이지 디자인에서 \[기본 기능] -\[기능]을 선택해주세요.
-
-5\) ‘앱 공유하기’ 메뉴 \[적용하기] 버튼을 선택해주세요.
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+{% hint style="info" %}
+\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
 
 \*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
 \*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+{% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱공유하기**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B02.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
 
-메뉴에 적용한 \[앱 공유하기]를 선택하면 공유가 가능한 어플 목록이 열립니다.
+**After applying for the swing shop,**
 
-<mark style="color:green;">\*어플 목록은 모든 핸드폰에 동일하게 보여지는 것이 아니라 사용자의 핸드폰 기기, 기종에 따라 다르게 표시됩니다.</mark>
+You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
 
-<mark style="color:green;">\*처음 열리는 창에는 대표 어플리케이션이 표시되고, \[기타 공유하기]를 선택하면 그 외 다른 어플리케이션을 선택할 수 있어요.</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
 
-\[기타 공유하기]를 선택하면 다양한 어플 목록을 확인할 수 있습니다.
+This is the screen where the 'Product Category' menu is applied to the app.
 
-**1)카카오톡으로 앱 공유 – 공유된 앱 설치하기**
+A product category shows all the products registered in that category.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%95%B1%EA%B3%B5%EC%9C%A0.png)
+{% hint style="danger" %}
+<mark style="color:red;">**Precautions for using product categories**</mark>
 
-카카오톡으로 앱 공유시, 채팅창에서 \[자세히보기]버튼을 선택해주세요.
+When applying a product category to a menu **– it is only available in the physical and digital product categories.**
 
-창이 새로 뜨면서 앱 실행 및 앱 다운을 선택하게 됩니다.
+Since the calendar (screen where you can select the reservation date) screen appears first, the product screen does not appear when you apply the product category.
 
-앱이 이미 핸드폰에 설치가 되어 있다면 \[앱 실행하기] 버튼을 누르면 바로 해당 어플로 이동하구요.
+Please refer to the use!
+{% endhint %}
 
-<mark style="color:green;">**\***</mark><mark style="color:green;">앱 설치가 안된 사용자에게 공유를 하면 해당 사용자는 \[앱(APK) 다운로드] 버튼을 눌러서 앱을 다운받아 설치해주시면 됩니다.</mark>
+**Related Articles**
 
-<mark style="color:green;">\*플레이스토어에 앱이 출시되어있다면 \[어플 설치 및 실행하기] 버튼을 눌러주세요. 플레이스토어 출시 링크로 이동합니다.</mark>
-
-**2)이메일 앱공유**
-
-카톡 공유 외에도 이메일로도 공유가 가능하구요.
-
-받는 사람 이메일로 접속하면 받은메일함에 앱 공유메일이 발송되어 있구요.
-
-링크를 선택하면, 위의 이미지처럼 앱 설치창으로 이동합니다.
-
-앱 실행 및 앱 설치 방법은 위에서 설명드린 카카오톡 공유 방법과 동일하게 사용자의 앱 설치 유무에 따라 앱 실행 및 앱 다운로드를 해주시면 됩니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 설정 메뉴: 앱 공유하기**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B03.png)
-
-앱 공유는 스윙페이지의 앱공유하기 기능을 이용하지 않아도, 앱 내에 기본 셋팅된 설정 메뉴에서도 이용이 가능해요.
-
-앱 실행 후 → 설정 메뉴에서 앱 공유하기 기능을 이용할 수 있어요.
-
-설정은 앱 기본정보, 알림설정, 회원가입을 할 수 있는 페이지이며, 설정 메뉴는 앱 제작시 기본 셋팅이 되어 제작되어요.
-
-따라서 설정 메뉴에서도 앱 공유하기 기능을 기본 기능으로 이용할 수 있습니다.
-
-**그리고 앱 공유 외에도 게시판, 게시물 , 이미지 공유가 가능합니다.**
-
-### **\[앱 공유 안내사항- 앱공유, 게시판, 게시물 공유 포함]**
-
-<mark style="color:blue;">▶</mark><mark style="color:blue;"><mark style="color:green;">안드로이드폰<mark style="color:green;"></mark>
-
-무료 버전으로 제작한 앱은 안드로이드 폰에서만 공유할 수 있습니다. (안드로이드폰 ↔ 안드로이드폰)
-
-\-앱 설치가 안된 사용자에게 공유를 하면, 앱(APK)다운로드 버튼을 눌러서 앱을 다운 받은 뒤 설치할 수 있습니다.
-
-\-앱 설치가 된 사용자에게 공유를 하면 앱 실행하기 버튼만 누르면 바로 해당 어플로 이동합니다.
-
-\-앱이 플레이스토어에 출시되어 있다면 플레이스토어로 이동하여 앱을 다운 받을 수 있습니다.
-
-<mark style="color:blue;">▶아이폰</mark>
-
-무료버전으로 제작한 앱은 아이폰에서 공유 지원이 안됩니다.
-
-앱이 앱스토어에 출시 되어 있다면, 아이폰 사용자도 공유가 가능합니다. (공유시 앱스토어로 이동하여 앱 다운을 받을 수 있어요)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
-
-**★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 매뉴얼 확인해주세요\~!**
-
-**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
-
-**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/board-share/)
+* [페이지 기능 – 쇼핑몰 기능 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
+* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
+* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
+* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
+* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
+* [페이지 기능 – 업종별 템플릿](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/template-page/)
