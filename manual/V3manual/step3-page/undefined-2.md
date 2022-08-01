@@ -1,221 +1,127 @@
-# Page Features-Industry-Specific Templates
+# 페이지 기능-앱공유하기
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
+**앱 공유하기란?**
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+앱 공유는 스윙투앱으로 제작한 앱을 다양한 어플리케이션으로 공유할 수 있는 기능입니다.
 
-Please see how to apply the product category to the app and the app launch screen with the page applied.
+제작한 앱을 다른 사용자에게 공유할 때 이용할 수 있구요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
+카카오톡, 메시지, 이메일 등 사용자의 핸드폰에 설치된 다양한 어플리케이션 경로로 앱을 공유할 수 있습니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page authoring steps
+{% hint style="danger" %}
+<mark style="color:red;">**\*주의사항**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
+\-무료버전 앱은 안드로이드폰에서만 공유가 가능해요! (아이폰은 무료버전앱 공유 X)
 
-**\[Creating a Template Page]**
+\-아이폰은 무료버전앱 공유를 할 수 없으며, 앱스토어에 출시된 앱만 공유가 가능합니다.
 
-1\) App Creation – Go to STEP3 Page
+\-앱 공유시 앱스토어, 플레이스토어에 앱이 출시된 경우 해당 스토어 출시 링크(URL)로 이동합니다.
 
-2\)Select Page Design \[Industry Specific Template]
+공유하기로 앱 다운받기 상세 방법은 아래 매뉴얼을 참고해주세요!
 
-3\)Click \[+New] to open the Page Maker screen.
-
-4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
-
-**\[Apply your created template page app to]**
-
-템플릿 페이지 제작을 했다면, 앱에 적용해야 하겠죠?
-
-If you've created a template page, you'll need to apply it to your app, right?
-
-1\)Create App – Go to the STEP3 page step.
-
-2\)Home screen – Select HOME \*Select the submenu or select the home screen depending on where you apply the web template.
-
-3\)Enter the menu name
-
-4\)Select \[Industry-specific template] from the page design.
-
-5\)Select the 'Refresh' button on the right to see the template you have created.
-
-6\)After confirming the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
-
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
+{% endhint %}
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launchscreen - Apply template page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱공유하기] 적용하기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-1.png)
 
-This is the screen where I launched the Swing Hotel sample app.
+앱제작 화면 이동
 
-From the home screen, each menu was all applied to the app using the Hotel03 template page provided by the web template.
+1\)STEP3 페이지 단계로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+2\)새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Go to see the template styles by industry**
+3\) 메뉴 이름 입력
 
-[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
+4\) 페이지 디자인에서 \[기본 기능] -\[기능]을 선택해주세요.
 
-***
+5\) ‘앱 공유하기’ 메뉴 \[적용하기] 버튼을 선택해주세요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
-You can create a page template in App Authoring.
+\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
-11\)STEP3 Page Step by Step
+해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 
-2\)Select Page Design \[Industry Specific Template]
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱공유하기**
 
-3\) Select \[+New].
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B02.png)
 
-Click \[+New] to open the Page Authoring Tool screen.
+메뉴에 적용한 \[앱 공유하기]를 선택하면 공유가 가능한 어플 목록이 열립니다.
 
-Below we'll show you how to build a template and how to apply it to your app after it's built.
+<mark style="color:green;">\*어플 목록은 모든 핸드폰에 동일하게 보여지는 것이 아니라 사용자의 핸드폰 기기, 기종에 따라 다르게 표시됩니다.</mark>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2** Creating a Template Page
+<mark style="color:green;">\*처음 열리는 창에는 대표 어플리케이션이 표시되고, \[기타 공유하기]를 선택하면 그 외 다른 어플리케이션을 선택할 수 있어요.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B04.png)
 
-Selecting the New button takes you to the -> Template Authoring Tool.
+\[기타 공유하기]를 선택하면 다양한 어플 목록을 확인할 수 있습니다.
 
-You can add a template page here to create it.
+**1)카카오톡으로 앱 공유 – 공유된 앱 설치하기**
 
-I'll tell you how to use it in detail below\~!
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%95%B1%EA%B3%B5%EC%9C%A0.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
+카카오톡으로 앱 공유시, 채팅창에서 \[자세히보기]버튼을 선택해주세요.
 
-1\)Select the \[New] button on the left side of the production screen.
+창이 새로 뜨면서 앱 실행 및 앱 다운을 선택하게 됩니다.
 
-2\) Press the page type to check various page styles.
+앱이 이미 핸드폰에 설치가 되어 있다면 \[앱 실행하기] 버튼을 누르면 바로 해당 어플로 이동하구요.
 
-**\*The Swing To App is constantly updated and available on industry-specific pages.**
+<mark style="color:green;">**\***</mark><mark style="color:green;">앱 설치가 안된 사용자에게 공유를 하면 해당 사용자는 \[앱(APK) 다운로드] 버튼을 눌러서 앱을 다운받아 설치해주시면 됩니다.</mark>
 
-**\*Users can select a page with the desired design.**
+<mark style="color:green;">\*플레이스토어에 앱이 출시되어있다면 \[어플 설치 및 실행하기] 버튼을 눌러주세요. 플레이스토어 출시 링크로 이동합니다.</mark>
 
-***
+**2)이메일 앱공유**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
+카톡 공유 외에도 이메일로도 공유가 가능하구요.
 
-3\) Select the page and press the \[Add] button.
+받는 사람 이메일로 접속하면 받은메일함에 앱 공유메일이 발송되어 있구요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+링크를 선택하면, 위의 이미지처럼 앱 설치창으로 이동합니다.
 
-4\) You can see the template page added to the Authoring Tools screen like this.
+앱 실행 및 앱 설치 방법은 위에서 설명드린 카카오톡 공유 방법과 동일하게 사용자의 앱 설치 유무에 따라 앱 실행 및 앱 다운로드를 해주시면 됩니다.
 
-If you look at the right side of the screen, you can modify and use each of them.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 설정 메뉴: 앱 공유하기**
 
-\*The \[Copy], \[Delete] buttons are available at the bottom left of the screen.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B03.png)
 
-The \*\[Default] button is a button that reverts back to the template style that was originally set.
+앱 공유는 스윙페이지의 앱공유하기 기능을 이용하지 않아도, 앱 내에 기본 셋팅된 설정 메뉴에서도 이용이 가능해요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it with a squeak\~!**
+앱 실행 후 → 설정 메뉴에서 앱 공유하기 기능을 이용할 수 있어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
+설정은 앱 기본정보, 알림설정, 회원가입을 할 수 있는 페이지이며, 설정 메뉴는 앱 제작시 기본 셋팅이 되어 제작되어요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
+따라서 설정 메뉴에서도 앱 공유하기 기능을 기본 기능으로 이용할 수 있습니다.
 
-\-The page name at the top is the page name displayed in the app, so please modify it and use it.
+**그리고 앱 공유 외에도 게시판, 게시물 , 이미지 공유가 가능합니다.**
 
-\- Modification of anything that goes into the area is of course possible.
+### **\[앱 공유 안내사항- 앱공유, 게시판, 게시물 공유 포함]**
 
-\-Text: Both the text size and color can be specified, and the title area is provided to adjust the margins.
+<mark style="color:blue;">▶</mark><mark style="color:blue;"><mark style="color:green;">안드로이드폰<mark style="color:green;"></mark>
 
-\- Both adding and deleting buttons are possible.
+무료 버전으로 제작한 앱은 안드로이드 폰에서만 공유할 수 있습니다. (안드로이드폰 ↔ 안드로이드폰)
 
-\- You can link to the page you want using \[Link Wizard] in each area,
+\-앱 설치가 안된 사용자에게 공유를 하면, 앱(APK)다운로드 버튼을 눌러서 앱을 다운 받은 뒤 설치할 수 있습니다.
 
-\- If you don't need the entry, check 'Deactivate' in Enable or Not, and the area will be deleted from the template.
+\-앱 설치가 된 사용자에게 공유를 하면 앱 실행하기 버튼만 누르면 바로 해당 어플로 이동합니다.
 
-There's no other simple app creation like this, because you just have to modify it on top of a template that's already fully tooled, right?^^
+\-앱이 플레이스토어에 출시되어 있다면 플레이스토어로 이동하여 앱을 다운 받을 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
+<mark style="color:blue;">▶아이폰</mark>
 
-**\*\*\*\* Create a different style template page**
+무료버전으로 제작한 앱은 아이폰에서 공유 지원이 안됩니다.
 
-5\) The templates in different styles are the same, when you select a page, it will appear on the screen.
+앱이 앱스토어에 출시 되어 있다면, 아이폰 사용자도 공유가 가능합니다. (공유시 앱스토어로 이동하여 앱 다운을 받을 수 있어요)
 
-If you look at the right, you can modify and apply them one by one in the areas that can be modified.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
+**★ 앱 공유, 게시판 및 게시물 공유 공유하기 전체 과정 매뉴얼은 아래 매뉴얼 확인해주세요\~!**
 
-**6) Even when you attach an image, you can register the desired image by pressing the image button.**
+**☞ \[**[**공유하기로 앱 다운받는 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
 
-Each template has an image size that lists the images. It's good if you fit the image according to the size.
-
-Even if the size has not been modified, pressing the Edit Image button will open the \[Image Editing Tools] window.
-
-Here you can register by adjusting it to the size of the image.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
-
-**7) The Link Wizard refers to the links that can be applied to each banner (button).**
-
-If you select the \[Link Wizard] button, you can select the page (link) you want to link with as shown in the image above.
-
-In addition to the regular website web links, the Swing-to-App app can integrate all the features used within the app.
-
-**8) When all the work is done, be sure to press the \[Save] button.**
-
-You need to press Save to save the page perfectly!!
-
-Items are reflected on the page as soon as they are modified.
-
-When all is done, press the \[Save] button and the page is finished saving as you are working.
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page app
-
-![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
-
-Applying it to the template page app
-
-Move the app creation screen
-
-1\)STEP3 Go to the page step.
-
-2\)Home Screen – Select HOME
-
-3\)Enter the menu name (the name that will be shown at the top of the home screen)
-
-4\)Select \[Industry-specific template] from the page design.
-
-5\)Select the 'Refresh' button on the right to see the template you have created.
-
-6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
-
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
-
-\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen. You can also apply a template page to a menu.
-
-\*Select the Preview button to see how the page will look with a web preview (virtual machine).
-
-\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
-
-\*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
-
-**\*\*\*\* App launchscreen) Template Page EffectScreen**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
-
-***
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
-
-Modifying a template is the same as going to the App Creation Maker – Industry-Specific Templates page \[Modify] and overwriting it on top of the page you created.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
-
-​When you hover your mouse cursor over the template page, there is an Manage button.
-
-**Select the \[Manage] button and then select the \[Modify] button →.**
-
-Go to the Web Template Page Authoring Tool screen.
-
-Template modifications don't have a separate page.
-
-You can update it by entering the same as the creation page, overwriting it on top of an existing page and making modifications.
+**☞** [**\[게시판, 게시물 공유하기 이용방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/board-share/)

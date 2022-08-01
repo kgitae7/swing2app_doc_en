@@ -1,127 +1,161 @@
-# 페이지 기능-앱소개
+# Page features - Register, login, setup
 
-**앱소개란?**
+***
 
-**앱소개는 스윙페이지에서 제공하는 홈화면 스타일로, 메인 홈화면을 꾸미는 메뉴 중 하나입니다.**
+**Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by the Swing-to-App app.**
 
-앱 소개 멘트와 사이트주소(URL), 주소, 전화번호, 이메일주소를 보여줄 수 있어서 가장 기본 홈화면 구성 디자인입니다.
+Sign up, sign in, and set up are some of the most common app features.
 
-처음 스윙투앱으로 앱을 제작할 때 홈화면에 어떤 것을 넣어야 할지 모르기 때문에, 사용자분들에게 홈화면 가이드라인으로 보여드리고자 앱소개 페이지를 기본 셋팅하여 제공해요.
+In addition to these functions, you can select a variety of functions from the swing page and apply them to your app.
 
-홈화면은 당연히! 앱소개 페이지 외에 다른 다양한 메뉴들 – 이미지 페이지, 웹템플릿, HTML에디터 페이지, 이미지, 게시판, 웹링크 등으로 자유롭게 변경하여 제작할 수 있습니다.
+We'll show you how to apply the sign-up, login, and settings pages provided by the swing page to the app and the app launch screen.
 
-\*앱소개는 기본 샘플 페이지이기 때문에 다른 메뉴로 변경하여 제작하시기를 권장드립니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1.** Swing Page: Registration
 
-**홈화면 제작 매뉴얼 보러가기**: https://wp.swing2app.co.kr/documentation/v3manual/home/
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱소개 페이지] 적용하기**
+Move the app creation screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+1\)STEP3 Go to the page step.
 
-앱제작 화면 이동
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-1\)STEP3 페이지 단계로 이동합니다.
+3\) Enter the menu name
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-\*앱소개는 HOME메뉴에도 적용할 수 있습니다.
+5\) Find the registration page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-3\) 메뉴 이름 입력
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-5\) ‘앱소개’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+#### **▶**App launch screen) Registration
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png)
 
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+This is the app launch screen with the registration function applied.
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+Registration will be marked as \*\*Basic Settings Items- ID, Password, Password Confirmation, Name (Nickname)\*\* if you do not modify anything.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+The items on the registration form can be modified by the operator himself.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
+\*App operation → service management → policy management → modification in the registration form
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱소개 페이지 확인**
+You can find out more about how to set up the registration form by checking the manual link below.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
+**☞**<mark style="color:blue;">**Setting up the registration form**</mark>
 
-**앱소개 페이지를 적용한 화면이에요.**
+***
 
-**앱 아이콘 이미지를 대표로 하여, 하단에 앱 소개 멘트, 웹사이트 링크(URL), 하단의 내비게이션 버튼들이 배치되는 스타일입니다.**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2.** Swing Page: Login
 
-앱소개는 처음 스윙투앱으로 앱제작을 하시는 분들에게 기본으로 셋팅하여 제공해드리는 홈 메인화면이에요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
-따라서 홈화면을 꼭 ‘앱소개’로 적용하여 사용하지 않아도 되구요.
+Move the app creation screen
 
-다양한 다른 메뉴들로 홈화면을 꾸며서 제작할 수 있습니다.
+1\)STEP3 Go to the page step.
 
-**▶ 움짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
+3\) Enter the menu name
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03. 앱소개 메뉴 및 내용 수정방법**
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
+5\) Find the login page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-**\[앱소개 설명 및 배너 내용 수정방법]**
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-앱제작 화면 상단의 \[고급설정] 메뉴에서 앱소개 페이지의 항목을 수정할 수 있습니다.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-1\)앱제작 페이지 상단의 \[고급설정] 메뉴 선택
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-2\)설정:앱서비스 정보
+**▶ App launchscreen) Login**
 
-3\)항목별 \[EDIT]버튼 눌러서 수정 할 수 있습니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
 
-4\)수정 후 상단 \[저장] 버튼을 누르면 앱에 반영됩니다.
+The app launch screen with the sign-in feature applied.
 
-최초 앱 제작때는 앱제작요청 해주셔야 반영됩니다.
+The ID and password entry screen will be displayed.
 
-제작해놓은 앱에 다시 수정할 때는 저장시 앱에 자동반영됩니다.
+**\*In addition to the general ID, the ID field will be changed when setting the email and phone number ID.**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04. 앱소개 내용, 버튼 삭제 방법**
+The login screen also displays the ability to sign up.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
+**Once the login is complete, the login menu will change to 'Log Out'.**
 
-**고급설정 – 앱 서비스 정보에서 ‘전화번호, 이메일, 사이트주소, 주소, 앱설명’에 있는 \[초기화] 버튼을 눌러주세요**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
 
-\[초기화] 누른 뒤 상단의 \[저장] 버튼만 누르면 내비게이션 버튼이 없어집니다.
+After registering and completing the login, the login listed in the menu name will automatically change to → logout.
 
-다시 버튼을 보이게 할 경우 각 설정값에 \[EDIT]버튼을 눌러서 내용을 입력해주시면 됩니다.
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B42.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3.** Swing Page: Settings
 
-앱소개 화면에서 하단의 내비게이션 버튼이 없어진 것을 확인할 수 있어요\~!
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EC%A0%95.png)
 
-{% hint style="danger" %}
-<mark style="color:red;">**앱소개 안내사항**</mark>
+Move the app creation screen
 
-<mark style="color:red;">\*\*\*\*</mark>
+1\)STEP3 Go to the page step.
 
-**1)앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
-앱소개 타이틀 문구 수정은 최초 1회 수정시 저장 후 \[앱제작 요청] 버튼을 눌러서 새 버전으로 업데이트 받아주셔야 반영됩니다.
+3\) Enter the menu name
 
-1회 수정 이후에는 저장만 하시면 그때부터는 앱에 자동 반영되요.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-**2)사이트주소 입력시 하단의 \[공유] 아이콘 버튼과, 중간에 들어가는 사이트 링크 주소와 함께 연동됩니다.**
+5\) Find the settings page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-따라서 사이트주소 입력하시면 공유버튼과 사이트 주소가 함께 표시되구요.
+6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-삭제하시면 공유버튼, 사이트주소 함께 제거됩니다.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-**3)앱소개 페이지의 대표 이미지는 앱 아이콘이미지와 연동이 되어서 보여집니다. \*별도 수정 및 제거가 불가합니다.**
+\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-**4)처음 앱제작시 홈화면은 기본 화면을 ‘앱소개’ 페이지로 셋팅해놓았습니다.**
+**▶App launchscreen) Settings**
 
-처음 제작하시는 분들에게 제공하는 가이드라인 셋팅화면이에요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
 
-따라서 앱소개 페이지 외에도 홈화면은 다양한 메뉴들로 꾸밀 수 있습니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
+
+The app launch screen with the settings feature applied.
+
+Settings include both registration and login.
+
+So it's okay not to use the sign-up or login functions, just apply the settings to the app.
+
+In addition to these features\*notifications, we also provide notification-push settings, notification list checking, app sharing, app version check, admin login, and app shutdown.
+
+Therefore, when creating an app, we recommend that you apply the setting function to the app and create it!
+
+Administrator login is a feature that allows you to log in as an administrator and operate in the app.
+
+You can check the details of how to use the function by checking the manual link below.
+
+**☞**<mark style="color:blue;">**App Manager menu to see how to use the menu**</mark>
+
+{% hint style="warning" %}
+**\*Important Information**
+
+1\)Membership registration, login, and settings provided on the swing page are not applicable to the home screen.
+
+It is only applicable to app menus (categories), so please use it only as a menu.
+
+2\) It is recommended that you apply one function of 'login' rather than using membership and login together.
+
+Or use the 'Settings' menu that comes with the registration and login menu.
+
+3\) The membership registration form can be modified in the <mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark> of the \[Registration Form Settings] page, and when the ID form is modified, it is reflected on the login screen.
+
+4\)Since the settings page is provided with a fixed content UX, the item cannot be modified like registering.
+
+Available only on the pages provided.
+
+5\) All the features (pages) provided on the swing page are only provided with a fixed design, so style modification is not possible.
+
+Depending on the prototype color change, the background color, etc., can be modified, but the design cannot be changed.
 {% endhint %}
 
 ***
