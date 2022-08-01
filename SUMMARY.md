@@ -91,7 +91,7 @@
     * [App launch screen by update type](manual/V3manual/step4-complete-app-creation/app-launch-screen-by-update-type.md)
   * [Web View App & Push App](manual/V3manual/webapp/README.md)
     * [How to create a webview app](manual/V3manual/webapp/webview.md)
-    * [pushapp manual](manual/V3manual/webapp/pushapp-manual.md)
+    * [Push-app manual](manual/V3manual/webapp/push-app-manual.md)
     * [pushapp toolbar](manual/V3manual/webapp/pushapp-toolbar.md)
     * [푸시앱, 웹뷰앱 초간단 제작방법](manual/V3manual/webapp/push-webview.md)
     * [웹뷰,푸시앱-최초 실행 주소 이용방법](manual/V3manual/webapp/firstrun-url.md)
