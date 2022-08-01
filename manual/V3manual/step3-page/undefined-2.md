@@ -1,255 +1,221 @@
-# 페이지 기능-관리자 채팅
+# Page Features-Industry-Specific Templates
 
-**관리자와 앱 회원 1:1 채팅 이용방법 \[관리자 채팅]**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
 
-운영자가 앱을 이용하는 회원과 대화를 할 수 있는 기능이구요.
+It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
 
-카카오톡이나 메신저처럼 실시간으로 대화를 주고 받을 수 있기 때문에 특정 회원과의 커뮤니케이션이 필요한 경우 유용하게 사용할 수 있습니다.
+Please see how to apply the product category to the app and the app launch screen with the page applied.
 
-\-앱 관리자가 회원을 선택하여 채팅을 할 수 있구요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
 
-\-앱 회원 역시 앱에 적용된 채팅방 메뉴에서 관리자에게 대화를 걸 수 있어요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page authoring steps
 
-매뉴얼통해서 관리자 채팅(1:1 채팅)을 이용하는 방법을 확인해주세요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
 
-***
+**\[Creating a Template Page]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
+1\) App Creation – Go to STEP3 Page
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 관리자 채팅 적용하기**
+2\)Select Page Design \[Industry Specific Template]
 
-\* 먼저 앱에 \[관리자 채팅] 페이지를 적용해야 사용자와 관리자 모두 채팅을 할 수 있겠죠?
+3\)Click \[+New] to open the Page Maker screen.
 
-관리자 채팅 기능은 앱제작 – STEP3페이지 단계 – 페이지 기본기능에서 제공하고 있습니다.
+4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85.png)
+**\[Apply your created template page app to]**
 
-앱제작 화면 이동
+템플릿 페이지 제작을 했다면, 앱에 적용해야 하겠죠?
 
-1\)STEP3 페이지 단계로 이동합니다.
+If you've created a template page, you'll need to apply it to your app, right?
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+1\)Create App – Go to the STEP3 page step.
 
-3\) 메뉴 이름 입력
+2\)Home screen – Select HOME \*Select the submenu or select the home screen depending on where you apply the web template.
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+3\)Enter the menu name
 
-5\) ‘관리자 채팅’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+4\)Select \[Industry-specific template] from the page design.
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+5\)Select the 'Refresh' button on the right to see the template you have created.
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+6\)After confirming the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
 
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-> #### <mark style="color:blue;">**채팅목록 기능도 추가해주세요!**</mark>
-
-채팅목록은 채팅한 내역을 확인할 수 있는 메뉴에요.
-
-채팅목록도 앱에 적용해주셔야 대화가 종료된 후에도 목록창에서 대화 내역을 확인할 수 있습니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
-
-앱제작 화면 이동
-
-1\)STEP3 페이지 단계로 이동합니다.
-
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
-
-3\) 메뉴 이름 입력
-
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
-
-5\) ‘채팅목록’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 채팅방 화면**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2.png)
-
-앱 실행화면을 보시면 채팅방에서 관리자가 입력한 메시지를 받고, 앱 회원이 글을 입력하여 주고 받을 수 있습니다.
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 ***
 
-**앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launchscreen - Apply template page
 
-**사용자는 앱에서 채팅메뉴로 들어가서 대화를 할 수 있고, 대화목록은 채팅목록에서 확인가능합니다.**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 
-아래에 채팅을 하는 방법을 확인해주세요!!
+This is the screen where I launched the Swing Hotel sample app.
 
-{% hint style="success" %}
-**앱 사용자(회원)는 어떻게 관리자와 채팅을 할 수 있을까요?**
+From the home screen, each menu was all applied to the app using the Hotel03 template page provided by the web template.
 
-***
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
 
-사용자는 앱에서 채팅메뉴로 들어가서 대화를 할 수 있고, 대화목록은 채팅목록에서 확인가능합니다. 아래에 채팅을 하는 방법을 확인해주세요!!
-{% endhint %}
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Go to see the template styles by industry**
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3. 사용자가 앱 관리자와 채팅을 하는 방법**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW4.png)
-
-위에서 만들어놓은 채팅방 메뉴로 들어오면 바로 대화창이 열리구요.
-
-사용자가 자유롭게 메시지(글) 입력이 가능합니다.
-
-### ▶ **채팅목록**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
-
-대화를 한 뒤 다시 해당 관리자와 채팅을 하고 싶을 경우 ‘채팅목록’으로 들어가시면 됩니다.
-
-나의 대화 목록을 확인할 수 있구요.
-
-여기서 대화를 한 관리자 명단을 확인할 수 있습니다.
-
-\*채팅목록 메뉴 역시 스윙페이지에서 이용 가능합니다.
-
-관리자 채팅 기능을 이용하신다면, 메뉴에 채팅목록도 함께 추가해주시기 바랍니다.
-
-☞ [채팅목록 이용방법 보러가기](https://wp.swing2app.co.kr/documentation/maual/pagemenu/chat-list/)
+[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
 
 ***
 
-**관리자는 어떻게 앱 회원들과 채팅을 할 수 있을까요?**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
 
-**관리자는 스윙 웹(앱운영페이지)에서 제공하는 회원조회 메뉴에서 회원을 선택하여 대화를 할 수 있습니다.**
+You can create a page template in App Authoring.
 
-아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
-{% hint style="success" %}
-**관리자는 어떻게 앱 회원들과 채팅을 할 수 있을까요?**
+11\)STEP3 Page Step by Step
 
-***
+2\)Select Page Design \[Industry Specific Template]
 
-관리자는 스윙 웹(앱운영페이지)에서 제공하는 회원조회 메뉴에서 회원을 선택하여 대화를 할 수 있습니다. \*\*\*\* 아래에 관리자가 앱 회원들과 채팅을 하는 방법을 확인해주세요!!
-{% endhint %}
+3\) Select \[+New].
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4. 관리자가 앱 회원과 채팅을 하는 방법**
+Click \[+New] to open the Page Authoring Tool screen.
 
-관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.
+Below we'll show you how to build a template and how to apply it to your app after it's built.
 
-***
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2** Creating a Template Page
 
-**1) 회원조회 페이지 이동**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW3.png)
+Selecting the New button takes you to the -> Template Authoring Tool.
 
-스윙 홈페이지 [앱운영페이지 → 푸시&회원 → 회원조회](http://www.swing2app.co.kr/view/member\_list) 메뉴로 이동합니다.
+You can add a template page here to create it.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cca635bc95d24b41faf85085df5e224c.png)
+I'll tell you how to use it in detail below\~!
 
-**회원조회 페이지에 보시면 \[전용대화하기], \[공용대화하기] 버튼을 확인할 수 있습니다.**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
 
-**회원조회 페이지에서 대화를 할 회원을 선택 후 해당 대화하기 버튼을 선택하면 채팅이 시작되요!!**
+1\)Select the \[New] button on the left side of the production screen.
 
-{% hint style="info" %}
-**전용대화? 공용대화란?**
+2\) Press the page type to check various page styles.
 
-***
+**\*The Swing To App is constantly updated and available on industry-specific pages.**
 
-대화하기 옵션은 앱 회원에게는 크게 상관은 없구요. 관리자들이 선택할 수 있는 채팅 옵션이에요.
-
-**▶ 전용대화하기**
-
-채팅을 하고 있는 관리자만 확인할 수 있어요.
-
-다른 관리자들에게는 채팅 푸시가 들어오지 않습니다.
-
-**▶ 공용대화하기**
-
-관리자가 여러명일 경우 대화 내용을 공유해야 할 때 사용할 수 있어요.
-
-공용대화하기로 채팅을 하면, 앱 회원이 채팅 메시지 입력시 다른 관리자들에게도 채팅 푸시가 들어와요.
-{% endhint %}
+**\*Users can select a page with the desired design.**
 
 ***
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2dc13263a89461196d4b6b6b8e942d77.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
 
-대화를 하고자 하는 회원을 선택한 뒤 상단의 \[대화하기] 버튼을 선택합니다.
+3\) Select the page and press the \[Add] button.
 
-​
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
 
-**3) 채팅 목록 페이지 이동: 채팅창 오픈**
+4\) You can see the template page added to the Authoring Tools screen like this.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3fcc69ed87bd25a069dd51f8f2500c74.png)
+If you look at the right side of the screen, you can modify and use each of them.
 
-대화하기를 선택하면, 채팅 목록 페이지로 이동하구요.
+\*The \[Copy], \[Delete] buttons are available at the bottom left of the screen.
 
-채팅창이 오픈됩니다.
+The \*\[Default] button is a button that reverts back to the template style that was originally set.
 
-관리자는 해당 채팅방에서 글을 입력하고 회원과 채팅을 할 수 있어요.
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it with a squeak\~!**
 
-​
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
 
-**\[채팅 목록 페이지]**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/492065986285557345eeb5a28689a5e.png)
+\-The page name at the top is the page name displayed in the app, so please modify it and use it.
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d6aae0ea19d77c3e352ce2426cdb6399.png)
+\- Modification of anything that goes into the area is of course possible.
 
-채팅 목록 페이지에서는 기존에 채팅을 했던 모든 회원들의 채팅목록을 확인할 수 있어요.
+\-Text: Both the text size and color can be specified, and the title area is provided to adjust the margins.
 
-따라서 이전에 채팅을 했던 회원에게 대화를 해야 할 경우 채팅목록 페이지에서 회원을 선택해서 다시 채팅을 이어서 할 수 있습니다.
+\- Both adding and deleting buttons are possible.
 
-**\*채팅관리자 페이지 이용방법은 해당 매뉴얼을 참고해주세요**
+\- You can link to the page you want using \[Link Wizard] in each area,
 
-**☞** [**\[채팅 관리자 페이지 이용방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/chatlist/)
+\- If you don't need the entry, check 'Deactivate' in Enable or Not, and the area will be deleted from the template.
 
-> #### **추가안내**
+There's no other simple app creation like this, because you just have to modify it on top of a template that's already fully tooled, right?^^
 
-앱에서 기존에 채팅을 한 회원과 다시 대화를 하고 싶다면, 채팅 목록을 이용해주세요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
+**\*\*\*\* Create a different style template page**
 
-채팅목록은 기존에 채팅을 한 회원 및 대화 목록을 확인할 수 있구요.
+5\) The templates in different styles are the same, when you select a page, it will appear on the screen.
 
-다시 대화를 하고자 하는 회원을 선택하여 채팅을 시작할 수 있습니다.
+If you look at the right, you can modify and apply them one by one in the areas that can be modified.
 
-***
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
 
-**관리자는 웹(스윙 홈페이지)에서 채팅을 할 수도 있고, 앱에서도 이용할 수 있어요.**
+**6) Even when you attach an image, you can register the desired image by pressing the image button.**
 
-앱 관리자 로그인을 이용하면 관리자가 앱에서도 회원에게 대화를 할 수 있어요.
+Each template has an image size that lists the images. It's good if you fit the image according to the size.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5. 새글알람 푸시 알림 -관리자, 회원**
+Even if the size has not been modified, pressing the Edit Image button will open the \[Image Editing Tools] window.
 
-채팅을 하게 되면 앱 관리자 – 앱 회원 모두 채팅 메시지 알림 푸시를 받을 수 있습니다.
+Here you can register by adjusting it to the size of the image.
 
-{% hint style="danger" %}
-<mark style="color:red;">**\*안내사항**</mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
 
-<mark style="color:orange;"><mark style="color:red;">\*\*\*\*<mark style="color:red;"></mark>
+**7) The Link Wizard refers to the links that can be applied to each banner (button).**
 
-**1. 1:1 채팅은 관리자 채팅으로, 관리자와 앱 회원간의 채팅 기능입니다.**
+If you select the \[Link Wizard] button, you can select the page (link) you want to link with as shown in the image above.
 
-앱과 스윙투앱 앱운영페이지(웹)에서 사용할 수 있습니다.
+In addition to the regular website web links, the Swing-to-App app can integrate all the features used within the app.
 
-\*앱 이용시: \[설정- 앱관리자 메뉴] 로그인 후 \[사용자관리]에서 원하는 사용자 선택 후 채팅
+**8) When all the work is done, be sure to press the \[Save] button.**
 
-\*홈페이지는 위의 알려드린 방법으로 진행해주세요.
+You need to press Save to save the page perfectly!!
 
-**2. 운영자와 채팅하기 메뉴(1:1 채팅)는 \*앱제작 페이지→ STEP3페이지 →페이지에서 \[관리자 채팅] 으로 적용해주시기 바랍니다.**
+Items are reflected on the page as soon as they are modified.
 
-**3. 관리자와 여러명의 사용자와 대화할 수 있는 \[그룹채팅]** 도 이용할 수 있습니다.
-
-그룹채팅 이용방법은 아래 매뉴얼을 확인해주세요!
-
-**☞**[ **\[그룹채팅 이용방법 매뉴얼 보기\]**](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)
-{% endhint %}
+When all is done, press the \[Save] button and the page is finished saving as you are working.
 
 ***
 
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page app
+
+![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
+
+Applying it to the template page app
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Home Screen – Select HOME
+
+3\)Enter the menu name (the name that will be shown at the top of the home screen)
+
+4\)Select \[Industry-specific template] from the page design.
+
+5\)Select the 'Refresh' button on the right to see the template you have created.
+
+6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen. You can also apply a template page to a menu.
+
+\*Select the Preview button to see how the page will look with a web preview (virtual machine).
+
+\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+
+\*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
+
+**\*\*\*\* App launchscreen) Template Page EffectScreen**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+
 ***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
+
+Modifying a template is the same as going to the App Creation Maker – Industry-Specific Templates page \[Modify] and overwriting it on top of the page you created.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
+
+​When you hover your mouse cursor over the template page, there is an Manage button.
+
+**Select the \[Manage] button and then select the \[Modify] button →.**
+
+Go to the Web Template Page Authoring Tool screen.
+
+Template modifications don't have a separate page.
+
+You can update it by entering the same as the creation page, overwriting it on top of an existing page and making modifications.

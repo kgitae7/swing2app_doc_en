@@ -1,40 +1,34 @@
-# 페이지 기능-앱소개
+# Page Feature - Product Category
 
-**앱소개란?**
+**How to use the product category**
 
-**앱소개는 스윙페이지에서 제공하는 홈화면 스타일로, 메인 홈화면을 꾸미는 메뉴 중 하나입니다.**
+It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
 
-앱 소개 멘트와 사이트주소(URL), 주소, 전화번호, 이메일주소를 보여줄 수 있어서 가장 기본 홈화면 구성 디자인입니다.
+Please see how to apply the product category to the app and the app launch screen with the page applied.
 
-처음 스윙투앱으로 앱을 제작할 때 홈화면에 어떤 것을 넣어야 할지 모르기 때문에, 사용자분들에게 홈화면 가이드라인으로 보여드리고자 앱소개 페이지를 기본 셋팅하여 제공해요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
 
-홈화면은 당연히! 앱소개 페이지 외에 다른 다양한 메뉴들 – 이미지 페이지, 웹템플릿, HTML에디터 페이지, 이미지, 게시판, 웹링크 등으로 자유롭게 변경하여 제작할 수 있습니다.
+The product category page is available in the app creation STEP3 page step - shopping mall function.
 
-\*앱소개는 기본 샘플 페이지이기 때문에 다른 메뉴로 변경하여 제작하시기를 권장드립니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
 
-**홈화면 제작 매뉴얼 보러가기**: https://wp.swing2app.co.kr/documentation/v3manual/home/
+1\)STEP3 Page Selection
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1. 앱에 \[앱소개 페이지] 적용하기**
+2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+3\) The menu name does not need to be changed.
 
-앱제작 화면 이동
+\*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
 
-1\)STEP3 페이지 단계로 이동합니다.
+4\) Select \[Shopping Mall Features] from the page design
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+5\) Please select \[Product Category].
 
-\*앱소개는 HOME메뉴에도 적용할 수 있습니다.
+\*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
 
-3\) 메뉴 이름 입력
+6\) Find the category you want to apply and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
-
-5\) ‘앱소개’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
 \*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
@@ -46,84 +40,37 @@
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면: 앱소개 페이지 확인**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
 
-**앱소개 페이지를 적용한 화면이에요.**
+**After applying for the swing shop,**
 
-**앱 아이콘 이미지를 대표로 하여, 하단에 앱 소개 멘트, 웹사이트 링크(URL), 하단의 내비게이션 버튼들이 배치되는 스타일입니다.**
+You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
 
-앱소개는 처음 스윙투앱으로 앱제작을 하시는 분들에게 기본으로 셋팅하여 제공해드리는 홈 메인화면이에요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
 
-따라서 홈화면을 꼭 ‘앱소개’로 적용하여 사용하지 않아도 되구요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
 
-다양한 다른 메뉴들로 홈화면을 꾸며서 제작할 수 있습니다.
+This is the screen where the 'Product Category' menu is applied to the app.
 
-**▶ 움짤이미지를 통해서 앱소개-아이콘 배너 선택시 이동하는 페이지를 확인해주세요.**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03. 앱소개 메뉴 및 내용 수정방법**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
-
-**\[앱소개 설명 및 배너 내용 수정방법]**
-
-앱제작 화면 상단의 \[고급설정] 메뉴에서 앱소개 페이지의 항목을 수정할 수 있습니다.
-
-1\)앱제작 페이지 상단의 \[고급설정] 메뉴 선택
-
-2\)설정:앱서비스 정보
-
-3\)항목별 \[EDIT]버튼 눌러서 수정 할 수 있습니다.
-
-4\)수정 후 상단 \[저장] 버튼을 누르면 앱에 반영됩니다.
-
-최초 앱 제작때는 앱제작요청 해주셔야 반영됩니다.
-
-제작해놓은 앱에 다시 수정할 때는 저장시 앱에 자동반영됩니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04. 앱소개 내용, 버튼 삭제 방법**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
-
-**고급설정 – 앱 서비스 정보에서 ‘전화번호, 이메일, 사이트주소, 주소, 앱설명’에 있는 \[초기화] 버튼을 눌러주세요**
-
-\[초기화] 누른 뒤 상단의 \[저장] 버튼만 누르면 내비게이션 버튼이 없어집니다.
-
-다시 버튼을 보이게 할 경우 각 설정값에 \[EDIT]버튼을 눌러서 내용을 입력해주시면 됩니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B42.png)
-
-앱소개 화면에서 하단의 내비게이션 버튼이 없어진 것을 확인할 수 있어요\~!
+A product category shows all the products registered in that category.
 
 {% hint style="danger" %}
-<mark style="color:red;">**앱소개 안내사항**</mark>
+<mark style="color:red;">**Precautions for using product categories**</mark>
 
-<mark style="color:red;">\*\*\*\*</mark>
+When applying a product category to a menu **– it is only available in the physical and digital product categories.**
 
-**1)앱소개 문구는 수정하고, 저장하면 바로 반영이 안되나요?**
+Since the calendar (screen where you can select the reservation date) screen appears first, the product screen does not appear when you apply the product category.
 
-앱소개 타이틀 문구 수정은 최초 1회 수정시 저장 후 \[앱제작 요청] 버튼을 눌러서 새 버전으로 업데이트 받아주셔야 반영됩니다.
-
-1회 수정 이후에는 저장만 하시면 그때부터는 앱에 자동 반영되요.
-
-**2)사이트주소 입력시 하단의 \[공유] 아이콘 버튼과, 중간에 들어가는 사이트 링크 주소와 함께 연동됩니다.**
-
-따라서 사이트주소 입력하시면 공유버튼과 사이트 주소가 함께 표시되구요.
-
-삭제하시면 공유버튼, 사이트주소 함께 제거됩니다.
-
-**3)앱소개 페이지의 대표 이미지는 앱 아이콘이미지와 연동이 되어서 보여집니다. \*별도 수정 및 제거가 불가합니다.**
-
-**4)처음 앱제작시 홈화면은 기본 화면을 ‘앱소개’ 페이지로 셋팅해놓았습니다.**
-
-처음 제작하시는 분들에게 제공하는 가이드라인 셋팅화면이에요.
-
-따라서 앱소개 페이지 외에도 홈화면은 다양한 메뉴들로 꾸밀 수 있습니다.
+Please refer to the use!
 {% endhint %}
 
-***
+**Related Articles**
 
-***
+* [페이지 기능 – 쇼핑몰 기능 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
+* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
+* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
+* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
+* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
+* [페이지 기능 – 업종별 템플릿](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/template-page/)

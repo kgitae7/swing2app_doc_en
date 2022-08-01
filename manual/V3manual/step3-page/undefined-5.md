@@ -1,16 +1,34 @@
-# 페이지 기능-나의 글 보기
+# 페이지 기능-출석체크
 
-**나의 글 보기란?**
+**출석체크란?**
 
-\[나의 글 보기] 기능은 앱에서 내가 쓴 게시물을 보여주는 기능으로, 나의 글(게시물) 목록을 한 번에 확인할 수 있는 페이지입니다.
+**커뮤니티 및 이벤트로 사용할 수 있는 메뉴로 게시판과 비슷하지만, 출석 댓글 기능 및 마감 기능이 있다는 점에서 차이점이 있어요!**
 
-페이지 기본기능에서 제공하는 ‘나의 글 보기’ 이용방법에 대해서 알려드리겠습니다.
+따라서 출석체크는 게시판이 아닌 서비스관리 메뉴에서 이용할 수 있구요.
 
-나의 글 보기 기능을 앱에 어떻게 적용하고, 앱에서는 어떻게 보여지는지 이용방법 매뉴얼을 확인해주세요
+다양한 출석체크 이벤트로 앱 회원들의 참여를 이끌어낼 수 있습니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 나의 글 보기 앱 적용방법**
+매뉴얼을 통해서출석체크 페이지를 앱에 적용하는 방법을 확인해주세요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.출석체크 등록하기**
+
+출석체크 등록방법은 아래 매뉴얼을 통해 확인해주세요.
+
+먼저 출석체크 페이지를 만든 후, 앱에 적용할 수 있습니다.
+
+출석체크 등록은 앱운영 – 서비스관리에서 만들 수 있으며 상세 매뉴얼을 확인해주세요.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
+
+{% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.출석체크 메뉴 앱에 적용하기**
+
+출석체크 등록이 완료되면, 앱에 적용해야하겠죠?
+
+앱제작 – STEP3 페이지로 이동해서, 출석체크를 앱에 적용해볼게요!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
 
 앱제작 화면 이동
 
@@ -22,7 +40,7 @@
 
 4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
 
-5\) ‘나의 글 보기’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+5\) ‘출석체크’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
 
 (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
 
@@ -36,47 +54,44 @@
 \*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-
-\*2019.11.30 이전에 앱을 제작한 분들은 새 버전으로 앱을 먼저 재제작 해주세요!(업데이트 필수)
-
-이전 버전에서는 \[나의 글 보기] 기능이 보이지 않아요. 따라서 새로 제작 후, 앱제작 페이지에서 나의 글 보기 기능을 적용해주세요.
-
-***
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
+<mark style="color:red;">**\*퀵 메뉴**</mark>
 
-앱에 적용된 \[나의 글 보기] 메뉴로 이동하면 내가 작성한 게시물을 모두 모아서 볼 수 있어요.
+앱제작에서 출석체크 페이지로 바로 이동 가능합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
+출석체크 페이지 \[관리하기] 버튼 선택 → \[출석체크 관리] 버튼을 선택하면 앱운영 출석체크 페이지로 이동합니다.
 
-글을 쓴 사용자로 로그인이 되어 있어야 하구요. 손님은 이용할 수 없습니다.
+새로운 출석체크 등록이나, 수정이 필요할 경우 앱제작 메이커에서 바로 이동하여 관리할 수 있습니다.
 
-앱에 적용된 \[나의 글 보기]를 선택하면, 해당 사용자가 앱에서 작성한 글을 모두 볼 수 있어요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 출석체크 확인**
 
-{% hint style="danger" %}
-<mark style="color:red;">**안내사항**</mark>
+앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
 
-1\) 나의 글 보기는 앱에서 회원가입 후 로그인 된 사용자만 이용가능합니다. (손님은 이용할 수 없습니다.)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
 
-2\) 로그인 된 사용자 계정을 확인해주세요. 동일한 사용자로 로그인이 되어 있어야 내가 쓴 글 목록을 확인할 수 있습니다.
+출석체크 게시물을 확인하면, 출석체크 등록시 입력했던 게시물 내용과 이미지를 확인할 수 있어요.
 
-3\) 나의 글 보기는 앱 홈화면에는 적용할 수 없습니다. 메뉴에만 적용 가능합니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
 
-4\) 나의 글보기 게시판은 타임라인 UI스타일로 보여집니다. 표시되는 스타일(UI)은 수정이 불가합니다.
+게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있습니다.
 
-5\) 2019.11.30 이전에 앱을 제작한 분들은 해당 기능을 이용하시기 위해서는 앱 업데이트가 꼭 필요합니다.
-{% endhint %}
+**▶출석체크 이벤트 마감**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
+
+이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
+
+**▶ 앱 운영자 대시보드 확인**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
+
+앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
+
+\*어플리케이션 내에서 확인 X, 스윙투앱 홈페이지 내 앱운영 페이지에서 확인 가능합니다.
+
+사용자 이름을 선택하면, 해당 회원 정보를 확인할 수 있습니다.
 
 ***
-
-**Related Articles**
-
-* [페이지기능 – 설문조사](https://wp.swing2app.co.kr/documentation/v3manual/survey/)
-* [페이지기능 – 채팅목록](https://wp.swing2app.co.kr/documentation/v3manual/chat-list/)
-* [페이지기능 – 관리자 채팅](https://wp.swing2app.co.kr/documentation/v3manual/adminchat/)
-* [페이지기능 – 앱소개](https://wp.swing2app.co.kr/documentation/v3manual/intro/)
-* [페이지기능 – 앱공유하기](https://wp.swing2app.co.kr/documentation/v3manual/appshare/)
-* [페이지 기능-쿠폰조회하기](https://wp.swing2app.co.kr/documentation/v3manual/couponview/)
