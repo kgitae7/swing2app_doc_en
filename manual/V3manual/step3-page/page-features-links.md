@@ -4,7 +4,7 @@
 
 The link feature provided by the Swing-to-App allows you to apply a generic website URL and phone number, text message number, and email address.
 
-Creating an App – Step 3 Page – Page Features: We'll show you how to use links
+Creating an App – Step 3 Page – Page Features: We'll show you how to use links.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Applying an Internet address (site URL) link
 
