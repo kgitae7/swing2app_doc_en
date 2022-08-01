@@ -1,32 +1,34 @@
-# 페이지 기능-나의 글 보기
+# Page Feature - Product Category
 
-**나의 글 보기란?**
+**How to use the product category**
 
-\[나의 글 보기] 기능은 앱에서 내가 쓴 게시물을 보여주는 기능으로, 나의 글(게시물) 목록을 한 번에 확인할 수 있는 페이지입니다.
+It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
 
-페이지 기본기능에서 제공하는 ‘나의 글 보기’ 이용방법에 대해서 알려드리겠습니다.
+Please see how to apply the product category to the app and the app launch screen with the page applied.
 
-나의 글 보기 기능을 앱에 어떻게 적용하고, 앱에서는 어떻게 보여지는지 이용방법 매뉴얼을 확인해주세요
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1. 나의 글 보기 앱 적용방법**
+The product category page is available in the app creation STEP3 page step - shopping mall function.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
 
-앱제작 화면 이동
+1\)STEP3 Page Selection
 
-1\)STEP3 페이지 단계로 이동합니다.
+2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+3\) The menu name does not need to be changed.
 
-3\) 메뉴 이름 입력
+\*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+4\) Select \[Shopping Mall Features] from the page design
 
-5\) ‘나의 글 보기’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+5\) Please select \[Product Category].
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+\*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+6\) Find the category you want to apply and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
 \*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
@@ -36,47 +38,39 @@
 \*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-
-\*2019.11.30 이전에 앱을 제작한 분들은 새 버전으로 앱을 먼저 재제작 해주세요!(업데이트 필수)
-
-이전 버전에서는 \[나의 글 보기] 기능이 보이지 않아요. 따라서 새로 제작 후, 앱제작 페이지에서 나의 글 보기 기능을 적용해주세요.
-
-***
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
 
-앱에 적용된 \[나의 글 보기] 메뉴로 이동하면 내가 작성한 게시물을 모두 모아서 볼 수 있어요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
+**After applying for the swing shop,**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
+You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
 
-글을 쓴 사용자로 로그인이 되어 있어야 하구요. 손님은 이용할 수 없습니다.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
 
-앱에 적용된 \[나의 글 보기]를 선택하면, 해당 사용자가 앱에서 작성한 글을 모두 볼 수 있어요.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
+
+This is the screen where the 'Product Category' menu is applied to the app.
+
+A product category shows all the products registered in that category.
 
 {% hint style="danger" %}
-<mark style="color:red;">**안내사항**</mark>
+<mark style="color:red;">**Precautions for using product categories**</mark>
 
-1\) 나의 글 보기는 앱에서 회원가입 후 로그인 된 사용자만 이용가능합니다. (손님은 이용할 수 없습니다.)
+When applying a product category to a menu **– it is only available in the physical and digital product categories.**
 
-2\) 로그인 된 사용자 계정을 확인해주세요. 동일한 사용자로 로그인이 되어 있어야 내가 쓴 글 목록을 확인할 수 있습니다.
+Since the calendar (screen where you can select the reservation date) screen appears first, the product screen does not appear when you apply the product category.
 
-3\) 나의 글 보기는 앱 홈화면에는 적용할 수 없습니다. 메뉴에만 적용 가능합니다.
-
-4\) 나의 글보기 게시판은 타임라인 UI스타일로 보여집니다. 표시되는 스타일(UI)은 수정이 불가합니다.
-
-5\) 2019.11.30 이전에 앱을 제작한 분들은 해당 기능을 이용하시기 위해서는 앱 업데이트가 꼭 필요합니다.
+Please refer to the use!
 {% endhint %}
-
-***
 
 **Related Articles**
 
-* [페이지기능 – 설문조사](https://wp.swing2app.co.kr/documentation/v3manual/survey/)
-* [페이지기능 – 채팅목록](https://wp.swing2app.co.kr/documentation/v3manual/chat-list/)
-* [페이지기능 – 관리자 채팅](https://wp.swing2app.co.kr/documentation/v3manual/adminchat/)
-* [페이지기능 – 앱소개](https://wp.swing2app.co.kr/documentation/v3manual/intro/)
-* [페이지기능 – 앱공유하기](https://wp.swing2app.co.kr/documentation/v3manual/appshare/)
-* [페이지 기능-쿠폰조회하기](https://wp.swing2app.co.kr/documentation/v3manual/couponview/)
+* [페이지 기능 – 쇼핑몰 기능 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
+* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
+* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
+* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
+* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
+* [페이지 기능 – 업종별 템플릿](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/template-page/)
