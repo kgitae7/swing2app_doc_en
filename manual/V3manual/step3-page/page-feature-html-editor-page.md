@@ -1,0 +1,323 @@
+# Page Feature - HTML Editor Page
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **What is an HTML Editor Page?**
+
+One of the features provided by the Swing-to-App user page is a menu that allows users to create their own web pages.
+
+Just like typing a post on a blog or café, you are free to place and create articles and images.
+
+You can apply a variety of web links, videos, text effects, and more.
+
+The main feature is that the user is free to create whatever style they want.
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Editor Page Specials**
+
+HTML editor pages can be created in any style you want.
+
+1\) You can also insert an image and make it look like an image page.
+
+2\) Just like writing a blog post, you can freely place posts and images, and apply video or web link movement.
+
+Therefore, if you think about how to build it in advance, and then work on it, it will be easier to use.
+
+3\) You can create an unlimited number of HTML editor pages!
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Steps to create an editor page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-HTML.png)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)app launch screen) Apply HTML Editor Page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_07\_17\_17\_31\_06\_778.gif)
+
+It's an HTML editor page applied to the official Swing-to-App app.
+
+We'll refer to the editor page above to make the production the same style.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating an HTML Editor Page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B01.png)
+
+Creating an editor page can be created in App Authoring.
+
+1\)STEP3 Page Step by Step
+
+2\)Select Page Design \[HTML Editor]
+
+3\) Select \[+New].
+
+Clicking \[+New] opens the Editor Page Authoring Tool screen.
+
+Below I'll show you how to create an editor page and how to apply it to your app after it's built.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.** Creating an HTML Editor Page
+
+#### \*\*\*1.\*\*HTML Editor Page Maker
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
+
+The image above is the HTML Editor Page Maker screen.
+
+HTML editor pages have the same style as the editor writing used to write posts.
+
+It's the same as how you write a post, so you can use it without difficulty!
+
+There's a screen where you can write like a blog or a bulletin board.
+
+If you look at the top, you'll find a bar of different optional features for production and writing.
+
+{% hint style="success" %}
+**The page name is displayed as the page title on the app launch screen.**
+
+**Attachments such as images and videos, regular files, and web links can all be attached.**
+
+**And since you can decorate the text, you can specify options such as font, color, etc.**
+
+**In addition, you can apply a variety of styles through the authoring options bar menu.**
+{% endhint %}
+
+So let's work on it like the editor page of the official app shown above!
+
+**2. Register the video (enter YouTube URL)**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802\_20.07.png)
+
+1\)For videos, please select the \[Insert Video] icon button in the option bar.
+
+2\) Enter the video URL.
+
+At this time, you can enter the video URL registered on YouTube and you can easily register it.
+
+If you press the third video upload button, you can also attach it as a video file.
+
+3\)Press the insert button to complete the video registration in the text!!
+
+{% hint style="warning" %}
+**Importance!!**
+
+However, I entered it using the above method, but when I look at it in the app, the video screen does not match the horizontal and vertical ratios, so it can be enlarged.
+{% endhint %}
+
+**See app launch)**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016\_20.07.png)
+
+So if you want to scale it to fit the screen, you can modify the video size in the following ways:
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017\_20.07.png)
+
+When you select a video with the mouse, you can directly modify the image size: landscape and portrait length.
+
+I modified it to 380px wide and 200px vertical.
+
+**App launch screen)**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8018\_20.07.png)
+
+By resizing the video, you can adjust the video thumbnail ratio on the app screen to fit more screen.
+
+**3. Image Registration**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%803\_20.07.png)
+
+1\) Select the \[Insert Image] icon button in the option bar.
+
+2\)Drag & drop the image or click to register the image file in the attachment box.
+
+When you register, the image is applied directly to your screen.
+
+\*At this time, the image will be automatically modified to a horizontal size of 300px regardless of the actual image size.
+
+​
+
+The image that is displayed on the web page is adjusted to fit the horizontal surface of the phone, so I have it sized to 300px horizontally.
+
+So the image size is adjusted.
+
+You can edit the image size again!!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%804\_20.07.png)
+
+11\) When you click on the image with your mouse, an options window will open below. Select the \[Resize] button here.
+
+2\)Please put the size in the width (horizontal) field.
+
+\*If you only add the horizontal length, the height (vertical) will be automatically adjusted to the landscape.
+
+3\)Press the Update button.
+
+{% hint style="success" %}
+Conversely, you can modify the image to the original image size significantly.
+
+On the actual app screen, it will appear full to fit the landscape, so you can use it in the auto-size of 300px, or you can use it in its original size.
+
+Instead, if the image needs to appear smaller on the screen, you can modify the size of the image to be smaller, just like I did.**.**
+{% endhint %}
+
+**4. Registration of text articles**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%805\_20.07.png)
+
+Text input is text input when you hold the mouse cursor in the body.
+
+From the top options bar, you can select font, size, color, etc. and modify it to the style you want.
+
+**5. Insert a web link**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%806\_20.07.png)
+
+If you look at the Swing-to-App Official App Editor page for a moment, tap on the image and you'll be taken to a new page!!
+
+On the editor page, you can also insert a web link to each image, text, etc.
+
+Since you can link a web link to the image, you can touch it to go to the page you want.
+
+**1) When you click on the image with your mouse, an options window will open below. Select the \[Insert Link] button here.**
+
+**2)Enter URL Options window will open anew. Enter the URL (web link address) in the appropriate field.**
+
+**\*Important! You need to select \[Open in New Tab] to make it run a little more reliably, so be sure to check it!**
+
+**3)Select the Insert button, and the link to the image will be finished linking.**
+
+{% hint style="warning" %}
+**★ One minute!**
+
+\- I don't want to link to a website, but I want to make the image go to a specific bulletin board created by the app!
+
+\- I want to go to the image page!
+
+\-It's a shopping mall app, so I want to make you go to the product page!!
+
+If you want to link to a page created by an app rather than an external web link like this, there's a way!!
+
+Please check the details below.
+{% endhint %}
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Using the Link Wizard**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%807\_20.07.png)
+
+1\) When you click on the image with your mouse, an options window will open below. Select the \[Insert Link] button here.
+
+2\)Enter URL Options window will open anew.
+
+Select the 2nd icon \[Link Wizard] button here.
+
+3\)**The Link Wizard pop-up window will open anew.** You can select the left menu and add the swing function you want.
+
+\- If you want to put an image page, you can select the user page and apply it.
+
+\-If you want to include a bulletin board, please select a bulletin board and apply it.
+
+\- If you want to go to a specific post, after selecting the post – you can apply it by searching for posts.
+
+In addition to the regular website links, the \[Link Wizard] allows you to go to the pages used within the app!!
+
+**6. Press the Save button when you finish the production.**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%808\_20.07.png)
+
+When the editor page is finished creating, press and exit the Save button.
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying it to an HTML Editor Page App
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B02.png)
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Home Screen – Select HOME
+
+3\)Enter the menu name
+
+4\) Select \[HTML Editor] from the page design.
+
+5\) Select the 'Refresh' button on the right to see the page you have created.
+
+6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
+
+{% hint style="info" %}
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen.
+
+You can also apply a page to a menu.
+
+\*Select the Preview button to see how the page will look with a web preview (virtual machine).
+
+\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+
+\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+{% endhint %}
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.** HTML Editor Page Creation TIPIP
+
+Here are a few more features you need to create!
+
+**1. Horizon**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%809\_20.07.png)
+
+As you write, there are times when you need something to differentiate between the above and the following!
+
+It's usually called a divider line.
+
+If you press the Insert Horizontal Line button in the option bar, the divider is applied to the body.
+
+**2. Full Screen**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8010\_20.07.png)
+
+페이지 작업을 하다보면 내용이 길어져서 페이지가 아래로 내려가는데요.
+
+페이지가 내려가면서 상단 옵션 bar가 작업 시야에서 사라지게 되요. ㅠㅠ
+
+그래서 다시 마우스로 올려서 선택하고,,, 이러한 불편함이 있는데요.
+
+이때! **옵션 bar의 마지막 버튼인 \[전체화면] 버튼을 선택하면 화면이 전체화면으로 옮겨지며 이러한 불편함이 사라집니다.**
+
+옵션 bar가 상단에 딱!! 고정이 되기 때문에 아무리 페이지를 아래로 내려도 작업 시야에서 없어지지 않고 편하게 작업이 가능합니다 ^^
+
+​
+
+**3. Quick Insertion**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8013\_20.07.png)
+
+If you look at the left side of the body screen, there is a +shaped button.
+
+With the Quick Insert button, selecting it gives you quick access to frequently used options such as inserting images, inserting videos, and inserting horizontal lines.
+
+***
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.5** Editing HTML Editor Pages (How to Modify**)**
+
+The same can be done by going into the App Creation Maker – HTML Editor \[Modify] and overwriting it on top of the page you created.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
+
+Hover your mouse cursor over the editor page and there is an \[Manage] button.
+
+Select the \[Manage] button and then select the \[Modify] button →.
+
+Go to the HTML Editor Page Authoring Tool screen.
+
+Editing the editor page doesn't mean that there is a separate page.
+
+You can update it by going in the same way as the creation page, overwriting it on top of the existing page and making corrections.
