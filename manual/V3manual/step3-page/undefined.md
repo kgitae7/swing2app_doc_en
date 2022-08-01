@@ -1,90 +1,117 @@
-# Page Feature - Store Deals
+# 페이지 기능-채팅목록
 
-**Shopping mall function – how to use the product**
+**1:1 채팅 – 채팅목록 이용방법 매뉴얼**
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and you can apply the registered products to the app.
+채팅목록은 1:1 채팅 후 사용자와 관리자가 이용할 수 있는 기능으로, 채팅한 내역을 확인할 수 있는 메뉴에요.
 
-Please check how to apply the product page to the app and the app launch screen with the page applied.
+앱의 특성상 여러 앱 관리자(부관리자)가 운영할 경우, 사용자는 여러 명의 관리자들과 채팅을 주고 받을 수 있는데요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply products to the app
+사용자는 채팅목록에서 관리자 채팅목록을 확인하여 원하는 관리자를 선택해서 대화를 걸 수 있구요.
 
-The product page is available in the app creation STEP3 page step - shopping mall function.
+관리자 역시 채팅을 한 사용자 목록을 확인하여 대화내역 확인 및 다시 대화를 걸 수 있습니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D-KR.png)
 
-1\)STEP3 Page Selection
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.채팅목록 이란?**
 
-2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png)
 
-3\) Enter a menu name.
+\-위의 이미지처럼 누구와 대화를 했는지 각 사용자 혹은 관리자별로 채팅목록이구분되어서 표시가 됩니다.
 
-4\) Select \[Shopping Mall Features] from the page design
+\-따라서 사용자는 채팅을 종료한 뒤 \[채팅목록]으로 들어가면, 대화를 나눈 목록을 다시 확인할 수 있구요.
 
-5\) Please select \[Product].
+\-대화를 원하는 상대를 선택해서 채팅을 할 수 있습니다.
 
-<mark style="color:red;">\*Please register your product in the swing shop first. If the product doesn't exist, it can't be applied to the app.</mark>
+\***관리자 채팅을 적용하는 방법은 아래 매뉴얼을 확인해주세요.**
 
-6\) After confirming the product to be applied, select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+**☞** [**관리자 채팅 이용방법 보러가기**](https://wp.swing2app.co.kr/documentation/maual/pagemenu/chat/)
 
-7\) Press the \[Save] button at the top of the screen to apply it to the app.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.\[채팅목록] 앱에 적용하기**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
+
+앱제작 화면 이동
+
+1\)STEP3 페이지 단계로 이동합니다.
+
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+
+5\) ‘채팅목록’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
 {% hint style="info" %}
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
+\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
 
-\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
+\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
 
-\*Menu icon during the production phase, menu settings are not required.
+\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
 
-In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
+해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+
+\*2019.3.8 이전에 제작한 앱은 \[채팅목록] 메뉴가 스윙페이지에서 보이지 않습니다.반드시 업데이트 후 이용해주세요.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register my products?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.채팅목록 앱 실행화면**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
 
-**After applying for the swing shop,**
+앱 메뉴의 – 채팅목록을 선택하면 위의 이미지처럼 사용자가 관리자와 채팅한 목록을 확인할 수 있습니다.
 
-App Operation → Swing Shop - Product Management → You can register products from the product registration screen.
+{% hint style="success" %}
+<mark style="color:green;">**\*활용 방법**</mark>
 
-Products can be registered by selecting physical, digital, and reservation systems by type.
+<mark style="color:green;">\*\*\*\*</mark>
 
-**If you modify a registered product,**
+관리자 채팅 후 사용자는 채팅방에 다시 들어가면 채팅한 목록을 확인할 수 있는데요.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951-1.png)
+채팅방은 관리자가 구분되지 않고, 통합으로 모든 관리자들이 보여졌기때문에 관리자 구분이 되지 않았어요.
 
-1\) Swing Shop - Product Management Selection
+**\*채팅방은 관리자 공용대화목록만 보여지며, 관리자 전용 대화목록은 보여지지 않습니다.**
 
-2\) Select \[Product Lookup] from the left menu.
+따라서 사용자 입장에서는 어떤 관리자와 채팅을 했는지 확인도 어렵고, 채팅을 했던 관리자를 다시 선택해서 물어보고 싶은데 선택할 수가 없어서 불편함이 많았어요.
+{% endhint %}
 
-3\) Select the product name you want to edit from the product inquiry list.
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%952-1.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
 
-You will be taken to the Edit Product Registration screen.
+그러나!! 이제 \[채팅목록]을 이용하시면 대화를 했던 각 관리자별 목록을 확인할 수 있습니다.
 
-The product registration screen and the edit screen work on the same page.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_12\_17\_14\_21\_497.gif)
 
-It becomes the registration screen when registering a new product, and switches to the edit screen when modifying an already registered product.
+\*채팅을 한 여러 관리자 중에서 나와 마지막에 채팅을 주고 받은 ‘김스윙’ 관리자에게 다시 문의를 하고 싶을 경우, 채팅목록에서 ‘김스윙’ 관리자를 선택해서 채팅을 시작할 수 있습니다.
 
-Therefore, **after you modify what you want to edit on that page, select the \[Edit] button at the bottom of the screen to take effect.**
+따라서 사용자가 언제든지 채팅을 원하는 관리자를 목록에서 확인하여 대화를 할 수 있습니다.
 
-Instead of needing a separate app update, just select Modify and the fix will be automatically reflected in the app.
+\* 채팅목록에서 \[통합 관리자 채팅]은 관리자가 채팅을 할 때 ‘전용 대화’가 아닌 ‘공용 대화’를 한 채팅 내역을 확인할 수 있습니다.
 
-If you exit the app and relaunch it, you can see the modifications.
+{% hint style="danger" %}
+<mark style="color:red;">**안내사항**</mark>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product application screen
+***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2.png)
+1\)채팅목록 기능은 2019년 3월 8일부터 제작한 앱부터 적용이 됩니다. (이전에 앱을 제작하신 분들에게는 채팅목록이 보이지 않습니다.)
 
-This is the screen where the 'Product Category' menu is applied to the app.
+이전에 제작한 앱은 \[앱제작요청]을 눌러서 앱을 새 버전으로 업데이트 해주세요.
 
-A product category shows all the products registered in that category.
+업데이트 후 페이지메뉴에서- 스윙페이지를 보시면 \[채팅목록]이 추가되어 있는 것을 확인할 수 있습니다!
 
-**Related Articles**
+2\) 채팅목록에 관리자별로 목록을 보여주길 원한다면, 관리자는 반드시 전용 채팅으로 이용해주셔야 합니다.
 
-* [페이지 기능 – 상품카테고리](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/product-category/)
-* [페이지 기능 – 쇼핑몰 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
-* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
-* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
-* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
-* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
+공용채팅으로 채팅을 할 경우 관리자가 구분되지 않고, 통합 관리자 채팅으로 함께 보여집니다.
+
+3\) 그룹 채팅은 해당 사항이 없습니다. 1:1 관리자 채팅에서만 적용 가능
+
+4\)채팅목록은 관리자용 기능이 아닌, 앱을 이용하는 일반 사용자들을 위한 기능입니다.
+
+사용자들이 보다 쉽게 이용이 가능하도록 유용하게 활용해주시기를 바랍니다.
+{% endhint %}
+
+***

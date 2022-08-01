@@ -1,34 +1,114 @@
-# Page Feature - Product Category
+# 페이지 기능-설문조사
 
-**How to use the product category**
+**설문조사란?**
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+설문관리는 앱을 이용하는 사용자들에게 설문조사를 실시할 수 있는 기능입니다.
 
-Please see how to apply the product category to the app and the app launch screen with the page applied.
+사용자들의 의견을 받아 객관적인 조사가 가능하며, 만족도 조사, 홍보를 위한 조사 등 다양한 목적으로 설문조사를 실시할 수 있습니다.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
+스윙투앱에서는 설문조사를 할 수 있는 툴을 제공하고 있기 때문에, 질문과 답변 문항만 입력해주시면 간단하게 설문지를 만들 수 있습니다.
 
-The product category page is available in the app creation STEP3 page step - shopping mall function.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.설문조사 만들기**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
+가장 먼저 앱운영페이지에서 설문조사지를 만들어주세요.
 
-1\)STEP3 Page Selection
+***
 
-2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
+**1. 설문관리 메뉴 이동**
 
-3\) The menu name does not need to be changed.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
 
-\*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
+1\) [**앱운영 페이지 → 서비스관리 → 설문관리**](http://www.swing2app.co.kr/view/survey) 메뉴로 이동합니다.
 
-4\) Select \[Shopping Mall Features] from the page design
+2\) \[설문추가] 버튼을 선택합니다.
 
-5\) Please select \[Product Category].
+**2. 기본 정보 입력**
 
-\*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%831.png)
 
-6\) Find the category you want to apply and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+설문조사관리 페이지에서 설문에 필요한 기본 정보를 입력해주세요\~!!
 
-7\) Press the \[Save] button at the top of the screen to apply it to the app.
+**\*** 표시로 되어 있는 항목은 필수적으로 기재해야 하는 항목입니다.
+
+**1)설문조사명**: 설문조사를 실시할 제목을 입력합니다.
+
+**2)기간설정**: 기간은 설문조사를 실시할 기간을 입력하는 것으로 시작일과 마감일을 날짜와 시간으로 지정합니다.
+
+캘린더 아이콘, 시계 아이콘을 선택해서 일정을 셋팅할 수 있어요.
+
+**3)새 설문항목 추가**: 설문 항목관리는 설문지에 들어갈 내용을 입력하는 것으로 오른쪽에 보이는 \[**새 설문항목 추가] 버튼**을 클릭해서 작업합니다.
+
+​+설문조사는 푸시로 설정할 수 있습니다
+
+\+푸시설정을 선택해서 발송대상자를 선택한 뒤 제목, 내용, 이미지를 입력하면 푸시가 발송됩니다.
+
+\+공지사항으로 많은 사용자들에게 설문조사를 알려야 한다면 푸시를 사용하는 것도 좋은 방법입니다.
+
+**3. 설문조사 항목 입력**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png)
+
+**1) 질문내용**: 설문지에 들어갈 질문을 입력합니다.
+
+\*HTML 에디터 or 간편 에디터 선택
+
+폰트 설정, 글자 색상, 이미지/파일/링크 첨부 등 다양한 옵션 기능을 이용할 경우 HTML에디터를 선택한 뒤 질문 내용을 입력해주세요.
+
+간편에디터는 글 작성 옵션 기능을 이용할 수 없습니다
+
+**2) 안내 페이지로 사용:** 질문에 대해 답변하는 페이지가 아닌 공지글을 작성하는 용도의 안내페이지를 사용할 수 있습니다.
+
+상세 이용방법은 아래에서 설명드릴게요
+
+**3) 필수 항목 여부**: 필수 항목 여부는 해당 질문이 필수로 답변을 해야 하는 질문인지, 답변을 안해도 되는지를 선택하는 항목입니다.
+
+따라서 필수로 답변을 해야 한다면 ‘ 필수답변 항목’에 체크해주세요.
+
+**​4) 답변유형**: 답변유형은 사용자들이 답변을 고를 때 하나만 선택가능한 **단일 선택**인지,
+
+여러개 동시 선택 가능한 **다중선택**인지,
+
+글로 입력해야 하는 **서술형 답변**인지를 선택해서 체크해놓도록 합니다.
+
+\=>답변유형별 입력방법은 아래에서 설명해드릴게요!
+
+**5) 단일선택 항목만들기**: 보기를 골라서 답변을 채우는 설문지의 경우 **‘답변항목생성’** 아이콘을 클릭해서 항목을 추가할 수 있습니다.
+
+**​6) 저장하기**: 모든 입력이 완료되면 저장하기를 눌러주세요.
+
+**4. 설문지 등록 완료**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%838.png)
+
+설문지 기본 설정 및 내용입력이 모두 완료되면 ‘저장하기‘를 눌러주세요.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%839.png)
+
+설문조사 관리 페이지에 보시면, 등록완료된 설문지를 확인할 수 있습니다\~!
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. \[설문조사] – 앱에 적용하기**
+
+앱운영에서 설문조사를 다 만들었다면, 앱에 적용해서 앱에서 실제 설문조사를 운영할 수 있어야 하겠죠?
+
+앱에 설문조사 메뉴를 적용하는 방법을 알려드릴게요!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC.png)
+
+앱제작 화면 이동
+
+1\)STEP3 페이지 단계로 이동합니다.
+
+2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름 입력
+
+4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+
+5\) ‘설문조사’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
 
 {% hint style="info" %}
 \*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
@@ -40,37 +120,80 @@ The product category page is available in the app creation STEP3 page step - sho
 해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3 앱 실행화면: 설문조사 페이지 확인**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
+앱 적용까지 완료했다면 실제 앱에서 설문조사가 어떻게 실행되는지 확인해볼게요!
 
-**After applying for the swing shop,**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png)
 
-You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
+설문조사 입력이 완료 된 후 다시 앱을 실행하면, 입력된 설문조사가 뜨구요.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
+해당 항목을 선택하면 설문조사지로 이동합니다.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4 설문조사 결과 확인 & 설문조사 관리**
 
-This is the screen where the 'Product Category' menu is applied to the app.
+설문조사 결과를 확인하고 관리하는 방법도 알아야 하겠죠?
 
-A product category shows all the products registered in that category.
+[앱운영 페이지 → 서비스관리 → 설문관리 ](http://www.swing2app.co.kr/view/survey)메뉴로 이동합니다.
 
-{% hint style="danger" %}
-<mark style="color:red;">**Precautions for using product categories**</mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW.png)
 
-When applying a product category to a menu **– it is only available in the physical and digital product categories.**
+설문관리 메뉴에서 진행 중, 마감 된 설문조사를 관리할 수 있구요.
 
-Since the calendar (screen where you can select the reservation date) screen appears first, the product screen does not appear when you apply the product category.
+설문에 참여한 회원 관리도 가능해요.
 
-Please refer to the use!
-{% endhint %}
+**\*참여 인원을 선택하면 설문조사에 참여한 회원정보를 확인할 수 있으며, 회원을 선택하면 설문 결과 확인이 가능합니다.**
 
-**Related Articles**
+***
 
-* [페이지 기능 – 쇼핑몰 기능 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/swingshop-page/)
-* [회원가입 양식 – 가입 항목 추가하기](https://wp.swing2app.co.kr/documentation/appmanage/service/set-membershipform/)
-* [상품수정-등록한 상품 수정하기](https://wp.swing2app.co.kr/documentation/swingshop/product-edit/)
-* [페이지 기능 – HTML에디터 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/editorpage/)
-* [페이지 기능 – 이미지 페이지](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/imagepage/)
-* [페이지 기능 – 업종별 템플릿](https://wp.swing2app.co.kr/documentation/v3manual/step3-page/template-page/)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW4.png)
+
+\[download] 버튼을 선택하면 설문결과지를 엑셀 파일로도 다운이 가능합니다.
+
+​
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW2.png)
+
+회원을 선택하면, 해당 회원이 입력한 설문 답변리스트를 확인할 수 있습니다.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW3.png)
+
+**새로운 설문을 추가하거나, 설문 마감 및 수정&삭제 기능을 모두 사용할 수 있습니다.**
+
+**-‘설문추가**‘ 버튼을 선택하면 기존 설문지 외에도 새로운 설문을 추가할 수 있습니다.
+
+**-‘수정’** 버튼을 선택해서 질문 내용을 수정할 수 있으며, ‘**삭제**‘ 버튼 선택하여 설문을 삭제할 수도 있습니다.
+
+<details>
+
+<summary>[설문조사 메뉴 이용방법 정리]</summary>
+
+**설문조사 만들기, 앱에서 설문 참여하기 상세 내용은 아래 매뉴얼을 꼭\~ 확인해주세요!**
+
+**☞** [**\[설문조사 이용방법- 등록, 관리 및 앱실행화면\]**](https://wp.swing2app.co.kr/documentation/appmanage/service/survey/)
+
+**▶ 설문조사지 만들기**
+
+[앱운영 페이지 → 서비스관리 →설문관리](http://www.swing2app.co.kr/view/survey) → \[설문 추가] 버튼을 선택 → 설문조사명, 설문기간 설정 후 → \[새 설문항목 추가] 버튼을 눌러서 질문 및 답변 항목을 입력해주시면 됩니다.
+
+**▶설문지 앱에 적용하는 방법**
+
+만들어진 설문지는 앱에 적용해주세요.
+
+앱제작 페이지 → 페이지메뉴 → 메뉴추가 →메뉴이름 →\[스윙 페이지] 불러오기 → ‘설문조사’ 선택 적용 후 저장
+
+**▶앱에서 설문 참여하기**
+
+앱을 실행 한뒤 설문조사에 참여할 수 있습니다.
+
+적용된 메뉴를 선택한 뒤 화면을 터치하면 설문에 참여할 수 있어요.
+
+\*설문조사는 앱에 가입된 회원 – 사용자 등급부터 이용할 수 있어요. 손님은 이용할 수 없으니 이용시 참고 부탁드려요.
+
+**▶사용자들이 입력한 설문 결과 확인하기**
+
+앱운영 페이지 → 서비스관리 →설문관리→참여 인원에서 ‘숫자’ 선택 → ‘사용자’를 선택하면 설문 결과를 확인할 수 있습니다.
+
+</details>
+
+***
