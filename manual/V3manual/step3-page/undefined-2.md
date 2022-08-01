@@ -1,97 +1,221 @@
-# 페이지 기능-출석체크
+# Page Features-Industry-Specific Templates
 
-**출석체크란?**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
 
-**커뮤니티 및 이벤트로 사용할 수 있는 메뉴로 게시판과 비슷하지만, 출석 댓글 기능 및 마감 기능이 있다는 점에서 차이점이 있어요!**
+It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
 
-따라서 출석체크는 게시판이 아닌 서비스관리 메뉴에서 이용할 수 있구요.
+Please see how to apply the product category to the app and the app launch screen with the page applied.
 
-다양한 출석체크 이벤트로 앱 회원들의 참여를 이끌어낼 수 있습니다.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
 
-매뉴얼을 통해서출석체크 페이지를 앱에 적용하는 방법을 확인해주세요.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page authoring steps
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.출석체크 등록하기**
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
 
-출석체크 등록방법은 아래 매뉴얼을 통해 확인해주세요.
+**\[Creating a Template Page]**
 
-먼저 출석체크 페이지를 만든 후, 앱에 적용할 수 있습니다.
+1\) App Creation – Go to STEP3 Page
 
-출석체크 등록은 앱운영 – 서비스관리에서 만들 수 있으며 상세 매뉴얼을 확인해주세요.
+2\)Select Page Design \[Industry Specific Template]
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
+3\)Click \[+New] to open the Page Maker screen.
 
-{% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
+4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.출석체크 메뉴 앱에 적용하기**
+**\[Apply your created template page app to]**
 
-출석체크 등록이 완료되면, 앱에 적용해야하겠죠?
+템플릿 페이지 제작을 했다면, 앱에 적용해야 하겠죠?
 
-앱제작 – STEP3 페이지로 이동해서, 출석체크를 앱에 적용해볼게요!
+If you've created a template page, you'll need to apply it to your app, right?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
+1\)Create App – Go to the STEP3 page step.
 
-앱제작 화면 이동
+2\)Home screen – Select HOME \*Select the submenu or select the home screen depending on where you apply the web template.
 
-1\)STEP3 페이지 단계로 이동합니다.
+3\)Enter the menu name
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+4\)Select \[Industry-specific template] from the page design.
 
-3\) 메뉴 이름 입력
+5\)Select the 'Refresh' button on the right to see the template you have created.
 
-4\) 페이지 디자인에서 \[기본 기능] -\[페이지]를 선택해주세요.
+6\)After confirming the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
 
-5\) ‘출석체크’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요.
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-{% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
-
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
-
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
-
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
-{% endhint %}
-
-<mark style="color:red;">**\*퀵 메뉴**</mark>
-
-앱제작에서 출석체크 페이지로 바로 이동 가능합니다.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC2.png)
-
-출석체크 페이지 \[관리하기] 버튼 선택 → \[출석체크 관리] 버튼을 선택하면 앱운영 출석체크 페이지로 이동합니다.
-
-새로운 출석체크 등록이나, 수정이 필요할 경우 앱제작 메이커에서 바로 이동하여 관리할 수 있습니다.
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3. 앱 실행화면 – 출석체크 확인**
-
-앱을 실행하여 출석체크가 어떻게 앱에서 실행되는지 확인해볼게요!
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
-
-출석체크 게시물을 확인하면, 출석체크 등록시 입력했던 게시물 내용과 이미지를 확인할 수 있어요.
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
-
-게시글 하단에 \[출석체크 이벤트 참여]에 댓글을 달아서 참여할 수 있습니다.
-
-**▶출석체크 이벤트 마감**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
-
-이벤트를 마감하게 되면, 앱에서도 ‘마감된 이벤트’라고 창이 뜨게 됩니다.
-
-**▶ 앱 운영자 대시보드 확인**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
-
-앱 운영자는 앱운영 대시보드 – 출석체크 페이지에서 출석체크 게시물에 달린 댓글을 확인할 수 있구요.
-
-\*어플리케이션 내에서 확인 X, 스윙투앱 홈페이지 내 앱운영 페이지에서 확인 가능합니다.
-
-사용자 이름을 선택하면, 해당 회원 정보를 확인할 수 있습니다.
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 ***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launchscreen - Apply template page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+
+This is the screen where I launched the Swing Hotel sample app.
+
+From the home screen, each menu was all applied to the app using the Hotel03 template page provided by the web template.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%BA%A1%EC%B2%9822.png)
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Go to see the template styles by industry**
+
+[**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
+
+You can create a page template in App Authoring.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+
+11\)STEP3 Page Step by Step
+
+2\)Select Page Design \[Industry Specific Template]
+
+3\) Select \[+New].
+
+Click \[+New] to open the Page Authoring Tool screen.
+
+Below we'll show you how to build a template and how to apply it to your app after it's built.
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2** Creating a Template Page
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
+
+Selecting the New button takes you to the -> Template Authoring Tool.
+
+You can add a template page here to create it.
+
+I'll tell you how to use it in detail below\~!
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
+
+1\)Select the \[New] button on the left side of the production screen.
+
+2\) Press the page type to check various page styles.
+
+**\*The Swing To App is constantly updated and available on industry-specific pages.**
+
+**\*Users can select a page with the desired design.**
+
+***
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
+
+3\) Select the page and press the \[Add] button.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+
+4\) You can see the template page added to the Authoring Tools screen like this.
+
+If you look at the right side of the screen, you can modify and use each of them.
+
+\*The \[Copy], \[Delete] buttons are available at the bottom left of the screen.
+
+The \*\[Default] button is a button that reverts back to the template style that was originally set.
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it with a squeak\~!**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
+
+\-The page name at the top is the page name displayed in the app, so please modify it and use it.
+
+\- Modification of anything that goes into the area is of course possible.
+
+\-Text: Both the text size and color can be specified, and the title area is provided to adjust the margins.
+
+\- Both adding and deleting buttons are possible.
+
+\- You can link to the page you want using \[Link Wizard] in each area,
+
+\- If you don't need the entry, check 'Deactivate' in Enable or Not, and the area will be deleted from the template.
+
+There's no other simple app creation like this, because you just have to modify it on top of a template that's already fully tooled, right?^^
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
+
+**\*\*\*\* Create a different style template page**
+
+5\) The templates in different styles are the same, when you select a page, it will appear on the screen.
+
+If you look at the right, you can modify and apply them one by one in the areas that can be modified.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
+
+**6) Even when you attach an image, you can register the desired image by pressing the image button.**
+
+Each template has an image size that lists the images. It's good if you fit the image according to the size.
+
+Even if the size has not been modified, pressing the Edit Image button will open the \[Image Editing Tools] window.
+
+Here you can register by adjusting it to the size of the image.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
+
+**7) The Link Wizard refers to the links that can be applied to each banner (button).**
+
+If you select the \[Link Wizard] button, you can select the page (link) you want to link with as shown in the image above.
+
+In addition to the regular website web links, the Swing-to-App app can integrate all the features used within the app.
+
+**8) When all the work is done, be sure to press the \[Save] button.**
+
+You need to press Save to save the page perfectly!!
+
+Items are reflected on the page as soon as they are modified.
+
+When all is done, press the \[Save] button and the page is finished saving as you are working.
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page app
+
+![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
+
+Applying it to the template page app
+
+Move the app creation screen
+
+1\)STEP3 Go to the page step.
+
+2\)Home Screen – Select HOME
+
+3\)Enter the menu name (the name that will be shown at the top of the home screen)
+
+4\)Select \[Industry-specific template] from the page design.
+
+5\)Select the 'Refresh' button on the right to see the template you have created.
+
+6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
+
+\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen. You can also apply a template page to a menu.
+
+\*Select the Preview button to see how the page will look with a web preview (virtual machine).
+
+\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+
+\*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
+
+**\*\*\*\* App launchscreen) Template Page EffectScreen**
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+
+***
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
+
+Modifying a template is the same as going to the App Creation Maker – Industry-Specific Templates page \[Modify] and overwriting it on top of the page you created.
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
+
+​When you hover your mouse cursor over the template page, there is an Manage button.
+
+**Select the \[Manage] button and then select the \[Modify] button →.**
+
+Go to the Web Template Page Authoring Tool screen.
+
+Template modifications don't have a separate page.
+
+You can update it by entering the same as the creation page, overwriting it on top of an existing page and making modifications.
