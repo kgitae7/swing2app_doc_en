@@ -1,34 +1,32 @@
 # Manual on How to Create an App In MakerV3
 
-**V3 App Creation Guide Manual**
+**MakerV3 App Creation Guide Manual**
 
 ****
 
 > ### STEP1 Basic Information
 
-**Step 1 \[Basic Information] is the step of entering the basic information required to create the app, and the step is to register the app name, icon image, standby screen image, etc.**
+**Step 1 \[Basic Information] is the step of entering the basic information required to create the app. In this step, you need to register the app name, icon image, splash screen image, etc.**
 
-When you enter the app creation, the page below will open.
+When you finish entering the information in the app creation wizard screen, the page below will open.
 
 ![](broken-reference)
 
-1\. App Name: Enter your app name.
+**1. App Name:** Enter your app name.
 
-2\. App ID: Apply a unique ID to the app you created. After entering, check for duplicate confirmation!!
+**2. App ID:** Apply a unique ID to the app you created. After entering, check for duplicate confirmation!!
 
-3\. App icon: Register the app icon image
+**3. App icon:** Register the app icon image
 
-4\. Standby screen: Register a standby image that will be displayed for 1-2 seconds when the app is launched.
+**4. Standby screen:** Register a splash screen image that will be displayed for 1-2 seconds when the app is launched.
 
-5\. Save: Whenever the task is completed, select the \[Save] button to save the work
+**5. Save:** After you are satisfied with your app creation, select the \[Save] button to save the work.
 
 ![](broken-reference)
 
 ### App icon, standby image registration
 
-**\*Select the app icon, Attach Standby Screen Image button, and the Attach File window will pop up.**
-
-**Select the Upload Image button and register the image you want.**
+**\*Click on the \[Upload App icon/Splash Screen Image] button, and a pop-up will appear where you can set and modify these images.**
 
 **​**
 
@@ -38,11 +36,11 @@ When you enter the app creation, the page below will open.
 
 Icon image size: **1024px\*1024px**
 
-(1)Select Upload Icon Button
+(1)Click on the Upload Icon Button
 
 (2)Select the Upload Image button in the file attachment window.
 
-(3)After registering the image to be used as an icon, select the Apply button.\
+(3)After registering the image, click on the Apply button.\
 
 
 **2)Upload the waiting screen**
@@ -51,63 +49,63 @@ Icon image size: **1024px\*1024px**
 
 Standby Screen Image Size : **2282px\*2282px**
 
-(1)Select the waiting screen upload button
+(1)Click on the app splash screen upload button
 
 (2)Select the Upload Image button in the file attachment window.
 
-(3)After registering the image to be used as the standby screen, select the Apply button.
+(3)After registering the image to be used as the standby screen, click on the Apply button.
 
 ***
 
-Check out the icons, standby screen image creation guide.
+Check out the icons image creation guide for a more detailed explanation.
 
-There's an app icon and a guide to use as a standby screen, rather than a regular image!
+Also, for more details, check out the splash screen creation guide.
 
-Be sure to design and apply the image as per the guide.
+To get the best results, be sure to design and apply the image as per the guide.
 
 
 
 <mark style="color:blue;">**Go to the icon image creation guide**</mark>
 
-<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>
+<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>
 
 
 
-## **2.**Design
+## **2.**Prototype
 
-**\[STEP2 Design]** is the step of determining the overall design and style of the app's UI design and color.
+**\[STEP2 Prototype]** is the step of determining the overall design and style of the app's UI design and color.
 
 ![](broken-reference)
 
 **1. Select a prototype: Select the prototype that determines the design of your app's UI.**
 
-\*Swing-to-App offers a total of 7 prototype designs.
+\*Swing2App offers a total of 7 prototype designs.
 
 **​**
 
 **2. Basic styles and options**
 
-Select Color Set: Sets the skin color of the UI design.
+Select Color Set: Sets the app and color of the UI design.
 
-Skin Color offers a color combination consisting of 3 sets of main background colors, letter colors, and theme colors.
+It offers a color combination consisting of 3 sets which are the main background colors, text colors, and theme colors.
 
-Once you have selected the desired combination, you can see the UI changing colors in real time through the virtual machine.
+Once you have selected the desired combination, you can see the UI changing colors in real-time through the virtual machine.
 
 
 
-**3.Advanced styles and options**
+**3. Advanced styles and options**
 
 This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
-This is not required, just those who want to set the options.
+This is not a required setting, users can modify if they want to.
 
 ​
 
-**4. Storage**
+**4. Custom settings**
 
 **​**
 
-> <mark style="color:red;">What if none of the combined colors do you like? = Please use the detailed settings.</mark>
+> <mark style="color:red;">What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.</mark>
 
 ![](broken-reference)
 
@@ -115,27 +113,27 @@ If the desired color is not present, the user can select the color directly in \
 
 In addition to the fixed color combinations, the detailed color setting is an option that allows the user to select and apply their own colors.
 
-**\*If you have applied both the prototype and the skin color during the design phase, save it and go to the next step, the page menu.**
+**\*If you have applied both the prototype and the skin color during the design phase, save it and go to the next step.**
 
 ****
 
 ## **STEP3 Page**
 
-**\[STEP3 PAGE] is a step to create categories and menus in the overall app tool that we created earlier to organize the content of the app in earnest.**
+**\[STEP3 PAGE] is a step to create categories and menus for the app.**
 
 ![](broken-reference)
 
-It's the main home screen of the app, the steps to configure the menu.
+The Home option is to set the main home screen of the app.&#x20;
 
-You can see the menus you need to apply in the Screen Settings category on the left.
+On the left area, you can set menus of the app.
 
-We'll show you how to apply the home screen and how to apply the menu.
+We'll show you how to apply the home screen and menus of the app.
 
 ![](broken-reference)
 
 ****
 
-### **1.**How to apply the home screen
+### **1.** How to apply the home screen
 
 The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.
 
