@@ -236,6 +236,48 @@ You can select a toolbar background color and apply it to any color you want. (D
 
 **(2) Menu list background color**
 
+**(img)**
+
+You can apply a color that goes into the background of the menu list. (Default: Set to white)
+
+**(img)**
+
+**(2) Menu list text color**
+
+You can apply a menu list letter color. (default: set to black)
+
+If the STEP design step menu is modified, the app needs to be updated.
+
+(\*Yes\_ If you check whether to use the toolbar to 'Yes' and then change it to 'No' / Change the toolbar background color)
+
+Therefore, after the initial app creation, if you have made any modifications to the design stage, please update it by pressing the \[Update App] button after saving.
+
+If the App Store or Play Store has been released, please re-evaluate it with the updated version.
+
+**(img)**
+
+<mark style="color:red;">**\[Instructions]**</mark>
+
+1\)The toolbar is a menu that is only available in push apps, and is not available in webview apps and general prototypes.
+
+Please use it in the push app!
+
+2\) Existing v2 app users can switch to v3 and update it!
+
+You need to apply the features and update your app so that the changed functionality and design will be reflected in your app.
+
+If the App Store or Play Store has been released, please re-evaluate it with the updated version.
+
+3\)The toolbar function is available in the STEP3 page step. These steps do not require an update.
+
+If you modify the toolbar after the initial app is built, it will be reflected directly in the app without having to update it, just save it.
+
+However, if you modify the toolbar design during the STEP2 design phase, the app needs to be updated.
+
+__
+
+__
+
 
 
 

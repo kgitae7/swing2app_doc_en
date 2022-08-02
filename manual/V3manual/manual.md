@@ -1,12 +1,12 @@
 # Manual on How to Create an App In MakerV3
 
-**MakerV3 App Creation Guide Manual**
+**V3 App Creation Guide Manual**
 
 ****
 
 > ### STEP1 Basic Information
 
-**Step 1 \[Basic Information] is the step of entering the basic information required to create the app. In this step, you need to register the app name, icon image, standby screen image, etc.**
+**Step 1 \[Basic Information] is the step of entering the basic information required to create the app, and the step is to register the app name, icon image, standby screen image, etc.**
 
 When you enter the app creation, the page below will open.
 
