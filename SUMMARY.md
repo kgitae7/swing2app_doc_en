@@ -57,7 +57,7 @@
   * [Use private app for internal business purpose for authorized users only](manual/feature-use-cases-in-actual-business/use-private-app-for-internal-business-purpose-for-authorized-users-only.md)
   * [Use of calendar to show exams date with syllabus for school and doctors’ availability in hospital ap](manual/feature-use-cases-in-actual-business/use-of-calendar-to-show-exams-date-with-syllabus-for-school-and-doctors-availability-in-hospital-apps.md)
 * [App production manual (V3)](manual/V3manual/README.md)
-  * [Start with the MakerV3 App Creatio Screen](manual/V3manual/start.md)
+  * [Start App Creation with MakerV3 Screen](manual/V3manual/start.md)
   * [Manual on How to Create an App In MakerV3](manual/V3manual/manual.md)
   * [STEP1 Basic Information](manual/V3manual/step1-basic-information.md)
   * [STEP2 Design](manual/V3manual/step2-design.md)

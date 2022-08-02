@@ -1,118 +1,114 @@
-# Start with the MakerV3 App Creatio Screen
+# Start App Creation with MakerV3 Screen
 
-MakerV3 App Creation Screen - Choose app type that you wish to create
+On MakerV3 App Creation Screen -> Choose the app type that you wish to create.
 
-Before you build an app, you first choose what style and type of app you want to build, and then you build the app.
+Before you start app creation, first choose what style and type of app you want to build.
 
-It's called the App Creation Wizard, and there are 3 ways to create it.
+On the App Creation Wizard screen, you'll see 3 different ways to create an app. Choose any one of the provided option accordingly.&#x20;
 
-### ****![](broken-reference)How to make it
+### ****![](broken-reference)App creation wizard screen- options provide are:
 
-\-Create an app with all the designs on it using a template (normal prototype)
+\-Create apps by using a sample template (normal prototype)
 
-\-Web view linked to the website, push app creation
+\-Create an app from your existing website (Webview and push-only prototype)&#x20;
 
-\-Writing an app that organizes both menus and pages directly (normal prototype)
-
-
-
-The App Creation Wizard is the screen that pops up when you create a new app or add a new app.
-
-It does not float during production.
-
-After selecting one of the methods and entering the basic information that goes into the app, the full-fledged App Creation Maker screen opens.
-
-Check the manual to see the manufacturing method features for each type.
+\-Create an app from scratch (normal prototype)
 
 
 
-## Method 1. Faster app creation
+The App Creation Wizard is the screen that only pops up when you create a new app or add a new app. You won't see it during app production.
+
+After selecting one of the methods and entering the basic information that goes into the app, the  App Creation Maker screen will open.
+
+Check the manual to see the app creation method for each option type.
+
+
+
+## Method 1. Fast app creation
 
 ![](broken-reference)
 
-It's about building an app using a template. Build it as a regular prototype.&#x20;
+It's about building an app using a sample template. You can build it as a regular prototype app.&#x20;
 
-**If you choose , the next step will be to choose the type of template you want to use.**
+**If you choose this option, then the next step will be to choose the type of template you want to use.**
 
-**In the next step, register the app name, icon image, and standby image and you're done with the basic design!**
+**In the next step, register the app name, icon image, and standby image, and you're done with the basic design settings!**
 
-**Start building a full-fledged app in the App Maker maker.**
+**You can now start building the app on the App MakerV3 screen.**
 
 
 
-If you struggle with each page-specific design and menu configuration, the advantage is that you can easily create an app by choosing a template with all the industry-specific designs.
+If you want easy app creation without working on the page-specific design and menu configuration from scratch, then this option is good for you. Here you can easily create an app by choosing a template with all the industry-specific designs.
 
-Pages with all designs can be created by modifying only the text such as images, titles, and bodies, and features such as linking/banner linking.
+Template pages are easy to modify. You can change images, titles, colors, and linked pages of the template.
 
-Think about the style of the app you want to create, so choose and build it.
+Choose a template for your app according to your requirement and start building your app.&#x20;
 
 <mark style="color:red;"></mark>
 
 <mark style="color:green;">**\*The design UI tool configured in the template itself cannot be modified.**</mark>
 
-If you want to configure all the UI screens individually, please check the menus provided by the page in the App Creation Maker and configure and insert each menu.
+Each sample template has its own prototypes. You can easily modify the menus of the sample template prototype. If you wish to change to a different prototype other than provided template prototype, in that case, you need to create all menus from scratch.&#x20;
 
-<mark style="color:green;">**\*You don't have to build the app again.**</mark>
+<mark style="color:green;">**\*Unlimited updates available.**</mark>
 
-Since you can modify and update the app you created, feel free to modify and create it by working with the template and changing it to the regular menu.
-
-
+Since you can modify and update the app unlimited times, feel free to modify and experiment with templates and prototypes.
 
 
 
-## Method 2. Web Based on Website
+## Method 2. Create Web App
 
 ![](broken-reference)
 
-The second method is the web app authoring style.
+The second method is the web app creation style.
 
-A web app that creates a website by applying it directly to the app - this is the type of web view or push app that you can create.
+If you have a website and wish to convert it into an app, you should choose this option. To create a web app you just need to input your website link. For web apps, we provide two types of prototypes (Webview only and push-only.
 
-If you're building a webview or push app, choose the second method to create it.
+So if you wish to create a web app, choose the second option of the app creation wizard screen.
 
 **After selecting a web app, you can select the basic information required for the web app - the website address, and whether to use push.**
 
-**In the last step, register the app name, icon image, and standby image and you're done with the basic design!**
+**In the last step, register the app name, icon image, and standby image, and you're done with the basic design settings!**
 
 **​**
 
-<mark style="color:green;">**\*When using the push function - It is made as a push app, and it is made into a webview app when checking it without use.**</mark>
+<mark style="color:green;">**\*If you wish to have a push notification feature in your app then use the push function to create a push-only app. If you keep the push option unchecked, the app created will be a Webview app.**</mark>&#x20;
 
-<mark style="color:green;">**Push usage is also freely modifiable in the app creation maker.**</mark>
+<mark style="color:green;">**You can also later modify the Push usage option on the app makerV3 screen.**</mark> &#x20;
 
-<mark style="color:green;">**\*In addition, the menus provided in the web app can also be selected from the creation maker to complete the creation of the app.**</mark>
+<mark style="color:green;">**\*In addition, the menus provided in the web app can also be selected and modified on the app makerV3 screen.**</mark>&#x20;
 
 
 
-## Method 3. Start from scratch
+## Method 3. Create Custom App
 
 ![](broken-reference)
 
-The third way is to build a generic prototype app, organizing and building all the menus and pages yourself.
+The third way is to build and organize the app from scratch. You can create menus, pages, icons etc of your app from the scratch.&#x20;
 
-If you don't have the design you want, or if you want to customize the UI configuration yourself, choose the third method and create it!
+If you don't find any sample template design suitable for you, or if you want to customize the UI and other features of your app by yourself, choose the third method and start creating your app!
 
 ​
 
-**If you choose , the next step is to choose a prototype style, and choose the color of your app.**
+**If you choose this option, then the next step will be to choose a prototype style and the color of your app.**
 
-**In the next step, register the app name, icon image, and standby image and you're done with the basic design!**
+**In the next step, register the app name, icon image, and standby image, and you're done with the basic design settings!**
 
-**Start building a full-fledged app in the App Maker maker.**&#x20;
+**You can now start building the app on the App MakerV3 screen.**
 
 &#x20;&#x20;
 
 **​**
 
-<mark style="color:green;">**\*You can modify and update any number of times in the App Creation Maker, so if you want to change what you chose initially, you can modify it by overwriting it with an existing app.**</mark>
+<mark style="color:green;">**\*You can modify and update your app unlimited times, so if you want to change anything that you chose initially, you can easily modify it within the existing app.**</mark>
 
-<mark style="color:green;">**\*you can still choose a template at the page level.**</mark>
+<mark style="color:green;">**\*You can choose the template feature in this option too.**</mark> &#x20;
 
 <mark style="color:green;">**Therefore, you can freely combine and create regular app creation styles + template styles, etc.**</mark>
 
 **​**
 
-In the App Creation Wizard, select the type of app you want to create and create your app.
+So, select the app type that you wish to create and modify it accordingly.
 
 For a general app creation manual, please visit the link below.
 
