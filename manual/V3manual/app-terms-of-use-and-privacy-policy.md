@@ -26,15 +26,15 @@ Swing2App provides the ability to <mark style="color:red;">write the terms of us
 
 ![](broken-reference)
 
-**1)After launching the app, on the registration page – select \[Check the Terms of Use] and you can check the contents.**
+**1)Go to the manager page – select \[Check the subscription settings] and you can check the contents.**
 
-The menu is created by default when the app is created, so the user doesn't have to put it in separately.
+The feature is present by default when the app is created, so the user doesn't need to create it from scratch.
 
-You can change the terms of use and the contents of the Privacy Policy.
+You can change the terms of use and the contents of the Privacy Policy of your app as per requirement.
 
 
 
-2\)When you release your app to the Play Store or the App Store, you will also include the privacy policy URL in the release information field.
+2\)When you release your app to the Play Store or the App Store, you have to also include the privacy policy URL in the release information field.
 
 Because it is a mandatory registration, those who release apps to the Store must also complete and submit the applicable terms.
 
@@ -44,7 +44,7 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
 
-<mark style="color:blue;">**App Operation Page → Service Management → PolicyManagement→ \[App Subscription Policy]**</mark> Go to the menu.
+<mark style="color:blue;">**App Manager Page → Service option →Subscription settings→ \[Add Subscription Policy]**</mark> Go to the menu.
 
 ***
 
