@@ -15,7 +15,7 @@ If you use the 'push' or 'webview' UI style of the prototypes provided by the Sw
 {% hint style="info" %}
 **What is a push app?**
 
-**‘For 'push' only, just enter the URL of the user's homepage without any other creation functions, and the app will be created by integrating the website into the app as it is.**
+**For 'push' only, just enter the URL of the user's homepage without any other creation functions, and the app will be created by integrating the website into the app as it is.**
 
 **With push notifications available,** you can send events, ads, and promotional messages to your users. ****&#x20;
 {% endhint %}
