@@ -18,7 +18,7 @@ At this time, the icon that is displayed when sending the push is automatically 
 
 When you use the newly added \<Android push icon> function, a push icon is sent to the registered image.
 
-Please check the manual to see how to register a push icon image\~!
+Please check the manual to see how to register a push icon image!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
 
@@ -28,7 +28,7 @@ Please check the manual to see how to register a push icon image\~!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9A%A9-%ED%91%B8%EC%8B%9C.png)
 
-As you can see on the app launch screen, you can see that in one application, a different icon image is applied for each push message.
+As you can see on the app launch screen, you can see that in the same application, two different icon images are applied for each push message.
 
 **When you register a push icon image, you can register and send a different push icon for each push notification message.**
 
@@ -36,7 +36,7 @@ As you can see on the app launch screen, you can see that in one application, a 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-**\* Push iPhone images are only applicable to Android phones. \_Not applicable to iPhone**
+**\* Push icon images are only applicable to Android phones. \_Not applicable to iPhone**
 
 **\*If you don't set a push icon separately, it will be automatically sent as an app icon image. \_Same as Android, iPhone**
 
@@ -46,7 +46,7 @@ As you can see on the app launch screen, you can see that in one application, a 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98\_886.png)
 
-1\) Move app creation
+1\) Move to V3 app creation
 
 2\)Select \[Advanced Settings]
 
@@ -60,9 +60,9 @@ As you can see on the app launch screen, you can see that in one application, a 
 
 7\)Select \[Save]
 
-8\)Select \[Update App] or \[Create App]
+8\)Select \[App Update] or \[App Creation]
 
-\*If the app has not been created, a button will be created to build the app, and an app update button will be created when the app is created.
+\*If the app has not been created, \[App Creation] button will be displayed to build the app(1st time), and an  \[App Update] button will be displayed when the app is already created and just needs to be updated.
 
 The screen is the V3 version of the app creation, and the icon image application method is the same when using the V2 version.
 
@@ -88,7 +88,7 @@ The webview app is not available because it does not have a push sending functio
 
 3\) The use of this function will be reflected in the app only if the app is created again. (App update required)
 
-After setting up the push icon image, create the app (update the app) and check the app with the new version to reflect the update functionality.
+After setting up the push icon image, create the app (update the app) and check the app with the new version to reflect the updated functionality.
 
 Apps released on the Play Store will need to be updated to a newly created version of the app.
 
