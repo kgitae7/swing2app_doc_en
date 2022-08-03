@@ -135,27 +135,27 @@ We'll show you how to apply the home screen and menus of the app.
 
 ### **1.** How to apply the home screen
 
-The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.
+The Home screen is the main screen that is visible when you launch the app. You can set your home screen easily as per your requirement.
 
-Menus provided by the Swing-to-App – You can apply menus such as weblinks, swing pages, user pages, bulletin boards, images, and more.
+Menus provided by the Swing2App for the Home screen – You can apply menus such as weblinks, swing templates, user pages, bulletin boards, images, and more.
 
 In this guide, we'll apply industry-specific templates.
 
-We'll show you how to apply the home screen and how to apply the menu.
+We'll show you how to modify and apply the menu to the home screen.
 
 ![](broken-reference)
 
-Select \<home> from the category on the left
+Click on the \<Home> option from the menu category on the left side of MakerV3 page.
 
-1\) TEnter the name that will be shown at the top of the menu name input screen.After typing, click the cursor once or press the Enter button to reflect it directly to the virtual machine
+1\) Enter the name of the home screen, which will be shown at the top of the main screen. After typing, click anywhere on the screen or press the Enter button to reflect it directly to the virtual screen.
 
-2\) Page Design: Select an industry-specific template and then select the New button.
+2\) Page Design: Click on the Page template option and then click on the New button to create a template.
 
-\*Since you don't have any pages created, you must first go to the Page Template Creator to create a template page.
+\*Since you don't have any template created, you must first go to the Page Template Creator to create a template page.
 
 ****
 
-<mark style="color:green;">**\[Template Page Authoring Tool]**</mark>
+<mark style="color:green;">**\[Template Page Editor Tool]**</mark>
 
 ![](broken-reference)
 
@@ -167,17 +167,15 @@ To learn how to create a template page, please check out the production manual b
 
 ![](broken-reference)
 
-**After creating the template, please return to the app creation screen.**
+**After creating the template, please return to the app maker screen.**
 
-3\)When you select the Refresh button, the template you created will pop up on the screen.
+3\)When you click on the Refresh button, the template you created will pop up on the screen.
 
-4\)Hover the mouse cursor over the template to **\<preview, apply, manage>** menu will pop up
+4\)Hover your cursor over the template, **\<preview, apply, manage>** options will pop up
 
-If you want to check before applying the app, select 'Preview', 'Apply' to apply the app, and 'Manage' for modifications.
+If you want to check how the template looks before applying it to the app, select 'Preview', select the 'Apply' option to apply the created template to the app, and choose the 'Manage' option if you wish to modify your created template. &#x20;
 
-Select the Apply menu.
-
-5\)Select the \[Save] button to check the template applied to the home screen on the virtual machine screen.
+5\)Click on the \[Save] button and check the template applied to the home screen on the virtual machine screen.
 
 
 
@@ -189,53 +187,51 @@ Select the Apply menu.
 
 ![](broken-reference)
 
-The menus listed in the category on the left can all be modified to include the menus
+The default menus listed in the category on the left can all be modified easily.
 
-that you initially set in the Swing To app.
+You can delete and add menus that you don't need, and organize them into the menus accordingly.
 
-Therefore, you can delete and add menus that you don't need, and organize them into the menus you want.
-
-When you hover your mouse over the menu, the trash can-shaped icon, the +shaped icon, pops up.
+When you hover your mouse over the menu, the trash can-shaped icon and the \[+] shaped icon, pops up.
 
 <mark style="color:red;">**\*Delete menu: Select the trash can icon**</mark>
 
-<mark style="color:red;">**\*Add menu: + icon selection**</mark>
+<mark style="color:red;">**\*Add menu: Select \[+] icon**</mark>&#x20;
 
-You can easily delete and add menus.
-
-![](broken-reference)
-
-<mark style="color:green;">**2)Apply menu**</mark>
+Like this, you can easily delete and add menus.
 
 ![](broken-reference)
 
-(1)Add a menu.
+<mark style="color:green;">**2)Menu Customization**</mark>
+
+![](broken-reference)
+
+(1)first, add a menu.
 
 (2)Enter a menu name.
 
-(3)Menu icon: Please enter only if you apply the icon as an option. \*Not required
+(3)Menu icon: Uplaod icon as per your requirement. \*Not required
 
-(4)Select which menu you want to apply in the page design.
+(4)From Page Menu option- Select which feature you wish to apply to your menu.
 
-\*In this guide, we have applied the 'Bulletin Board'.
+\*In this guide, we have applied the 'Bulletin Board'. feature
 
-Select UI KIT Select Board Select the board style you want to apply and then select the Apply button.
+Click on the UI KIT option-> Select Board-> Select the board style you want to apply and then click on the Apply button.
 
-(5)Select the Save button.
+(5)Click on the Save button to save all the changes.
 
-The virtual machine allows you to check if the bulletin board is well reflected.
-
-![](broken-reference)
-
-<mark style="color:green;">**3)Move the menu**</mark>
+You can cross-check on the virtual machine to see if everything is applied properly.&#x20;
 
 ![](broken-reference)
 
-**​**Menus can be moved by dragging with the mouse.
+<mark style="color:green;">**3)Change Placement of the menu**</mark>
 
-Select the menu with your mouse, grab it, and drag it to where you want to move.
+![](broken-reference)
 
-The position you are dragging completes the menu movement. – Can be configured as a sub or top menu.
+**​**You can easily change the placement of menus by the easy dragging method.
+
+Select the menu and drag it to where you want to move it.
+
+Like this, you can change position of menus, from a sub to a top menu and vice versa.
 
 
 
@@ -243,29 +239,27 @@ The position you are dragging completes the menu movement. – Can be configured
 
 ****
 
-Once you've finished building your app, you can actually build it by selecting the Build App button.
+Once you've finished building your app, complete the process by clicking on the \[App creation] button.
 
-<mark style="color:red;">\*STEP step must be 100% complete before production is possible.</mark>
+<mark style="color:red;">\*STEP1 Basic should be 100% complete to complete app production successfully.</mark>
 
 ​
 
-Even after the app is built, the app you create is free to modify at any time.
+Even after you finish the app creation process, you can freely modify your app at any time.
 
-So if you want to check with the app first, you can create it roughly, and then after verification, you can modify and update it again in the App Creation Wizard.
+So complete app production and preview it on your mobile without worrying about any incomplete menu as you can modify and update your app unlimited times.&#x20;
 
 ![](broken-reference)
 
-1\)Select the Save button
+1\)Once you're satisfied with your app, click on the Save button
 
-2\)Select the Create App button.
+2\)Click on the \[App Creation] button.
 
-3\)Select \[Create] in the Update Options window.
+3\)Click on the \[Make] button in the Update Options pop-up window.
 
-<mark style="color:red;">\*Update type, display options can be made as checked.</mark>
+<mark style="color:red;">\*User can select Update type and update notification display option.</mark>
 
-<mark style="color:red;">Since this is your first time building an app (there is nothing to update), no matter how you apply it, it won't affect your production.</mark>
-
-If you subsequently modify the app and proceed with the update, please select the form you want.
+<mark style="color:red;">Since this is your first time building an app, we recommend you go with the default setting of update.</mark>&#x20;
 
 
 
@@ -275,42 +269,32 @@ If you subsequently modify the app and proceed with the update, please select th
 
 ![](broken-reference)
 
-If you click Create App on the App Creation page, you will be immediately taken to the App History page on the App Operations page.
+Once you click on the \[App creation] button, you'll get redirected to the App Production History page on the  Manager page.
 
-If you check the status of each platform, is it still marked as 'Pending Production Order'?
-
-You can check the progress of your app's creation on that screen.
-
-Please be patient because it will be made within 5 minutes after pressing the app creation request \~!
+The status of each platform will be marked as 'Pending Production Order', and it'll change to complete after 5-10 minutes. Then you'll receive apk file of your app via registered mail.&#x20;
 
 ****
 
 ![](broken-reference)
 
-In less than 1 minute while I was waiting for the production, a \[Swing Preview] pop-up window popped up.
+On this screen, a \[Swing2App Preview] pop-up window will appear.&#x20;
 
-It's a feature that allows you to preview the app through a swing preview before it is created.
+It's a feature that allows you to preview the app through a swing2app preview screen before it is reached its final stage of creation.
 
 \*View on the web: Select the \[Watch directly on the web] button to preview apps created on virtual machines on the web.
 
-\*Preview to your phone: After downloading the official Swing-to-App app – App Preview menu – log in with your swing account or scan the QR code shown in the pop-up window and you can preview the app on your phone! (It's a preview, not a down)
+\*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing account or scan the QR code shown in the pop-up window and you can preview the app on your phone!&#x20;
 
 ****
 
 ![](broken-reference)
 
-After a while, the platform-specific status is "App Creation Complete!" I can see that it has been changed.
+After 5-10 minutes, the platform-specific status will change to "App Creation Complete!"&#x20;
 
-With App Preview, you can download the app from your Android phone.
+When the production is complete, the **APK file** (the file that you can download your app from) will be sent to you via Swing2App subscription email.
 
-Or, when the production is complete, the **APK file** (the file that you can download the app from) will be sent to you via Swing2App subscription email.
+**​**\*APK you can't open this file on your PC, so make sure to check it on your phone.
 
-You can also open the mailbox on your phone to download and install the **APK file** directly.
-
-**​**
-
-\*APK The file will not be opened on your PC, so be sure to check it on your phone.
-
-\*APK file installation can only be installed on Android phones. (iPhones are not supported.)
+\*APK files can only be installed on Android phones. (iPhones are not supported.)
 
 <mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>

@@ -1,4 +1,4 @@
-# Start App Creation MakerV3 With Screen
+# Start App Creation with MakerV3 Screen
 
 On MakerV3 App Creation Screen -> Choose the app type that you wish to create.
 
@@ -6,7 +6,7 @@ Before you start app creation, first choose what style and type of app you want 
 
 On the App Creation Wizard screen, you'll see 3 different ways to create an app. Choose any one of the provided option accordingly.&#x20;
 
-### ****![](broken-reference)App creation wizard screen- options provided are:
+### ****![](broken-reference)App creation wizard screen- options provide are:
 
 \-Create apps by using a sample template (normal prototype)
 
