@@ -95,7 +95,7 @@
     * [Push-app toolbar](manual/V3manual/webapp/push-app-toolbar.md)
     * [How to create a push app or  webview app easily](manual/V3manual/webapp/push-webview.md)
     * [How to use the first run address in webview and push app](manual/V3manual/webapp/firstrun-url.md)
-    * [WebviewApp preferences, advanced setting options](manual/V3manual/webapp/webviewapp-options.md)
+    * [WebviewApp basic settings and advanced setting options](manual/V3manual/webapp/webviewapp-options.md)
     * [Push App Toolbar - How to Use and Function Introduction](manual/V3manual/webapp/pushapp-toolbar.md)
     * [Registering a push icon image](manual/V3manual/webapp/push-icon.md)
   * [Product Modification - Modify a registered product](manual/V3manual/product-modification-modify-a-registered-product.md)
