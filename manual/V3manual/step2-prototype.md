@@ -1,26 +1,24 @@
-# STEP2 Design
+# STEP2 Prototype
 
-### App Creation – STEP2 Design
+### App Creation STEP2–  Prototype&#x20;
 
 ***
 
-The App Maker V3 Authoring Manual will show you how to step up the STEP2 design.
+The App Maker V3  Manual will show you how to edit your app in step 2- prototype.
 
-**\[STEP2 Design] is the step of determining the overall design and style of the app's UI design and color.**
+**\[STEP2 Prototype] is the step in which you can decide the overall design and style of the app's UI design and color.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C2.png)
 
-**1. Select a prototype: Select the prototype that determines the design of your app's UI.**
+**1. Select a prototype:** Select the prototype that determines the design of your app's UI.
 
-**2. Default style and options: Select color set: Set the skin color of the UI design**
+**2. Default style and options:** Select the color of the UI design and app.
 
-**3. Advanced styles and options**
+**3. Advanced styles and options:** This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
-This feature allows you to set additional color options and design styles that you can add to the prototype UI.
+\*This is not a required setting.
 
-This is not required, just for those who want to set the options.
-
-4\. When you have completed entering the design steps, click the **\[Save]** button to save your work.
+4\. When you are satisfied with the changes made in step2, click on the **\[Save]** button to save your work.
 
 ![](../../.gitbook/assets/구분선.PNG)
 
@@ -28,27 +26,27 @@ This is not required, just for those who want to set the options.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_50\_40\_340.gif)
 
-The general prototype style is available in 5 different designs.\*Except for webviews/pushes only
+The normal app prototype style is available in 5 different designs.\*The webviews and push-only prototypes are excluded.
 
-Once you have selected each prototype, you can use the virtual machine on the right (preview screen) to see the prototype UI style applied to your app.
+You can preview each prototype by selecting them, virtual machine on the right (preview screen) will show how the prototype UI style will look on the app.&#x20;
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Default styles and options – Color settings
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – Color settings
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_52\_49\_797.gif)
 
-**Select Color Set: Sets the skin color of the UI design.**
+**Select Color Preset: To Set the skin color of the UI design.**
 
-Skin Color offers a color combination consisting of 3 sets of main background colors, letter colors, and theme colors.
+Skin Color offers a color combination consisting of 3 sets of main background colors, text colors, and theme colors.
 
-Once you have selected the desired combination, you can see the UI changing colors in real time through the virtual machine.
+Once you have selected the desired combination, you can see the UI changing colors in real-time through the virtual machine.
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Default styles and options – detailed settings
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – custom settings
 
-**What if none of the combined colors do you like? = Please use the detailed settings.**
+<mark style="color:red;">**What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C2-2.png)
 
@@ -58,9 +56,9 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%EC%84%B8%EC%84%A4%EC%A0%95%EC%83%89%EC%83%81.gif)
 
-Detailed Settings – Enter the color code in the HEX field. Or you can click on the color square box to select the color you want
+**Detailed Settings** – Enter the color code in the HEX field or you can click on the color square box to select the color you want to use.
 
-After typing, click the mouse cursor on the empty space to reflect the colors in real time on the virtual machine.
+After selecting a color, click the mouse cursor on the empty space to reflect the colors in real-time on the virtual machine.
 
 ![](../../.gitbook/assets/구분선.PNG)
 
@@ -68,11 +66,11 @@ After typing, click the mouse cursor on the empty space to reflect the colors in
 
 This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
-This is not required, just those who want to set the options.
+**\*This is not a required but an optional setting.**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%83%80%EC%9D%BC%EC%83%89%EC%83%81.gif)
 
-Advanced Style Main – You can also modify the background and text color.
+**Advanced Style & Option** – Here you can modify the background and text color of the prototype.
 
 You can enter the color code in the HEX field or click on the color square box to select the color you want.
 
@@ -84,7 +82,7 @@ The main design style can also be changed from basic to transparent.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B81.png)
 
-If you set the main design style to transparent, the bar area shown at the top disappears. In other words, it will change to a transparent area.
+If you set the main design style to transparent, the bar area shown at the top will disappear. In other words, it will change to a transparent area.
 
 When selecting the transparent option, you can utilize the top bar area 100%.
 
@@ -92,9 +90,7 @@ When selecting the transparent option, you can utilize the top bar area 100%.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B82-1.png)
 
-However, when you set the area to transparent, if you have a background laid out behind it, you can configure the app in a quality way!
-
-It is recommended to apply the home screen to template pages, image pages, etc.
+It is recommended to apply the template pages, image pages, etc with the home screen.
 
 
 

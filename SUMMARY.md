@@ -60,7 +60,7 @@
   * [Start App Creation MakerV3 With Screen](manual/V3manual/start.md)
   * [Manual on How to Create an App In MakerV3](manual/V3manual/manual.md)
   * [STEP1 Basic Information](manual/V3manual/step1-basic-information.md)
-  * [STEP2 Design](manual/V3manual/step2-design.md)
+  * [STEP2 Prototype](manual/V3manual/step2-prototype.md)
   * [STEP3 Page](manual/V3manual/step3.md)
     * [How to create an app home screen](manual/V3manual/step3/undefined.md)
     * [Registering a menu icon image](manual/V3manual/step3/undefined-1.md)
