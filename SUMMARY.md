@@ -99,7 +99,7 @@
     * [Push App Toolbar - Introduction: How to Use and Functions](manual/V3manual/webapp/pushapp-toolbar.md)
     * [Registering a push icon image](manual/V3manual/webapp/push-icon.md)
   * [Product Modification - Modify a registered product](manual/V3manual/product-modification-modify-a-registered-product.md)
-  * [App Terms of Use, Privacy Policy](manual/V3manual/undefined.md)
+  * [App Terms of Use And Privacy Policy](manual/V3manual/app-terms-of-use-and-privacy-policy.md)
 * [App production manual(V2)](manual/maual/README.md)
   * [App basics](manual/maual/appbasic/README.md)
     * [Guide to create an app](manual/maual/appbasic/app-manual.md)

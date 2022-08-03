@@ -1,34 +1,26 @@
 ---
-description: >-
-  App Subscription Policy - Terms of Use, Manual on How to Write and Use the
-  Privacy Policy
+description: App Subscription Policy - Manual on How to Write and Use the Privacy Policy
 ---
 
-# App Terms of Use, Privacy Policy
+# App Terms of Use And Privacy Policy
 
-**Terms of Use? What is the Privacy Policy?**
+**What is the Privacy Policy? What are its Terms of Use?**
 
-These are the terms and conditions that set out what information we collect from users of the app (personal information) and what mandatory usage policies are for the app.
+These are the terms and conditions that mention what information we collect from users of the app (personal information) and what mandatory usage policies are for the app.
 
-This is a mandatory policy and must be entered in the mobile app.
+This is a mandatory setting and must be entered into the mobile app.
 
 ﻿
 
-The App Terms of Use and Privacy Policy are policies that you must enter into your app as required, not optional.
+This information consists of, what data is collected from the app users, for what purpose we need their data, the period of use of personal information, the person in charge of personal information protection (person in charge), etc, must be provided to the user in accordance with the Information and Communications Network Act.
 
-What information is collected from the membership, how to use and destroy the information, the period of use of personal information, the information in charge of personal information protection (person in charge), etc., etc., must be provided to the user in accordance with the Information and Communications Network Act.
+Because a swing2app app is created by the user as a developer thus, these policies must also be put into the app by the user.&#x20;
 
-Because a swing-to-app is created by the user as a developer and the app is created by the user, these policies must also be put into the app by the user.&#x20;
-
-Customized users should also modify and use the Terms of Use directly to suit the App Service.
+Users should modify and set the Terms of Use as per their App Service.
 
 Swing2App provides the ability to <mark style="color:red;">write the terms of use and privacy policy on the app subscription policy page so that users can edit and write the contents themselves.</mark>
 
-So if you check how you use the menu, you can easily incorporate the policy into your app.
-
 ![](../../.gitbook/assets/구분선.PNG)
-
-
 
 **Where and how do the App Terms of Use and Privacy Policy look like?**
 
