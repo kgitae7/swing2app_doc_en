@@ -1,6 +1,6 @@
-# Push App Toolbar - How to Use and Function Introduction
+# Push App Toolbar - Introduction: How to Use and Functions
 
-**V3 PushApp Toolbar Function Manual – How to Use,Function Introduction**
+**V3 PushApp Toolbar Function Manual – Function Introduction and How to Use**
 
 ​
 
@@ -12,7 +12,7 @@ A toolbar area is created at the bottom of the app screen to take advantage of i
 
 The toolbar is a feature only available in push apps, and in the v3 version, the toolbar functionality has been updated a number of times.
 
-If you previously only had to use the toolbar provided,
+Previously you only had to use the toolbar provided, no customization was possible.
 
 In V3, you can configure the toolbar directly with any menu you want, modify icons, modify the design, and customize the toolbar area yourself.
 
@@ -24,15 +24,15 @@ Check out the manual to see how to use the toolbar and how you can apply its fea
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
-1\)The toolbar is a menu that is only available in push apps, and is not available in webview apps and general prototypes.
+1\)The toolbar is a menu is available only in push apps, and is not available in webview apps and general prototypes.
 
 Please use it in the push app!
 
-2\) Existing v2 app users can switch to v3 and update it!
+2\) Existing V2 app users can switch to V3 and update it!
 
 You need to apply the features and update your app so that the changed functionality and design will be reflected in your app.
 
-If the App Store or Play Store has been released, please re-evaluate it with the updated version.
+If the App has been released on App Store or Play Store, please re-evaluate it with the updated version.
 
 3\)The toolbar function is available in the STEP3 page step. These steps do not require an update.
 
@@ -40,7 +40,7 @@ If you modify the toolbar after the initial app is built, it will be reflected d
 
 However, if you modify the toolbar design during the STEP2 design phase, the app needs to be updated.
 
-**For the push app creation manual, please East Sea to the manual below.**
+**For the push app creation manual, please go through to the manual below.**
 
 [**https://wp.swing2app.co.kr/documentation/v3manual/push/**](https://wp.swing2app.co.kr/documentation/v3manual/push/)
 
@@ -52,7 +52,7 @@ However, if you modify the toolbar design during the STEP2 design phase, the app
 
 PushApp STEP3 Page Steps
 
-MENU Settings – Clicking the arrow on the left side of the Toolbar with your mouse will open the toolbar menus downwards.
+MENU Settings – Clicking the down arrow on the left side of the Toolbar with your mouse will open the toolbar menus downwards.
 
 The menu is the default set menu, so you can remove the menu or add the menu you want.
 
@@ -70,7 +70,7 @@ In addition to the basic functionality of the toolbar, page design can additiona
 
 ​
 
-<mark style="color:blue;">**–Applying the Refresh Toolbar Menu**</mark>
+<mark style="color:blue;">**–Applying the Refresh function in Toolbar Menu**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A93.png)
 
@@ -84,7 +84,7 @@ In addition to the basic functionality of the toolbar, page design can additiona
 
 5\)Select the Save button and it will be reflected in the app.
 
-Changes can be checked in real time on the right virtual machine, and can also be checked by launching the app.
+Changes can be checked in real-time on the right Preview Window (virtual machine), and can also be checked by launching the app.
 
 ​
 
@@ -96,7 +96,7 @@ Changes can be checked in real time on the right virtual machine, and can also b
 
 > <mark style="color:blue;">Pages: Bookmark List, Menus, Notification List, Settings</mark>
 >
-> <mark style="color:blue;">Features: Move webviews backward, Move forward, Bookmark, Go Home, refresh, Share</mark>
+> <mark style="color:blue;">Features: Move backward, Move forward, Bookmark, Go Home, refresh, Share</mark>
 
 The above functions are provided natively.
 
@@ -112,9 +112,9 @@ The toolbar is provided as a default setting, so you can customize the toolbar y
 
 The menu list provided by the toolbar can be found in 'Menu' under the Toolbar menu.
 
-You can see how the menu list looks with a virtual machine.
+You can see how the menu list looks in the Preview Window (virtual machine).
 
-Menus registered in the menu list can also be freely modified by the user.
+Menus registered in the menu list can also be easily modified by the user.
 
 \- Menu can be added, removed / icon can be set - list background color, list letter color can be modified during the design phase
 
@@ -126,7 +126,7 @@ Menus registered in the menu list can also be freely modified by the user.
 
 To add a toolbar menu, select the + **icon to the right of the toolbar to add a new menu.**
 
-Removing the toolbar menu is **deleted by selecting the trash can-shaped icon.**
+Removing the toolbar menu is **deleted by selecting the trash can shaped icon.**
 
 ​
 
@@ -140,17 +140,17 @@ You can change the order of the toolbar menus.
 
 Select the menu with your mouse, grab it, and drag it to where you want to move.
 
-The position you are dragging completes the menu movement.
+The position where you are dragging completes the menu movement.
 
 
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. 툴바 아이콘 이미지 등록하기**
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4. Registering toolbar icon image**
 
 ​
 
-New features in the v3 version of the toolbar can be applied by changing the toolbar icon to a different image.
+It is the new feature in the V3 version of the toolbar, and can be applied by changing the toolbar icon to a different image.
 
 We'll show you how to register an image with an icon.
 
@@ -160,7 +160,7 @@ We'll show you how to register an image with an icon.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png)
 
-In addition to the default icons provided when you create your app, as you can see in the toolbar area, you can upload other images to decorate the toolbar icons.
+In addition to the default icons provided when you create your app, as you can see in the toolbar area, you can upload other images to enhance the UI of the toolbar icons.
 
 ​
 
@@ -182,9 +182,9 @@ In addition to the default icons provided when you create your app, as you can s
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%982.png)
 
-The icon application is complete.
+The toolbar icon registration is complete.
 
-You can see the applied icons through a virtual machine that is reflected in real time.
+You can see the applied icons through a virtual machine that is reflected in real-time.
 
 After exiting the app completely, you can relaunch it to see the changed toolbar.
 
@@ -210,15 +210,15 @@ STEP2 Design Steps
 
 In the default style options, enable the toolbar and set the toolbar auto-hide function.
 
-> \-When checking with the toolbar, the push is fixed at the bottom of the app screen to create it.
+> \-When checking "Yes" for the toolbar, the toolbar is fixed at the bottom of the app screen.
 >
 > If you don't use it, the toolbar won't be visible in the app.
 
-> \- Auto-hide refers to the function that the toolbar disappears for a while when scrolling and moving it down the screen,
+> \- Auto-hide refers to the function by which the toolbar disappears for a while when scrolling and moving it down the screen,
 >
-> Because it can obscure the screen, if you leave it hidden for a while and then scroll up and down the screen again, a toolbar will be created.
+> Because it can obstruct (hide content) the screen, if you leave it hidden for a while and then scroll up and down the screen again, a toolbar will be created.
 >
-> If you check that the toolbar auto-hide is disabled, the toolbar area is fixed and visible.
+> If you check that the toolbar auto-hide as "No", the toolbar area is always fixed and visible.
 
 ​
 
@@ -250,13 +250,13 @@ You can apply a color that goes into the background of the menu list. (Default: 
 
 You can apply a menu list letter color. (default: set to black)
 
-If the STEP design step menu is modified, the app needs to be updated.
+If the STEP2 design menu is modified, the app needs to be updated.
 
-(\*Yes\_ If you check whether to use the toolbar to 'Yes' and then change it to 'No' / Change the toolbar background color)
+(\*If you check whether to use the toolbar to 'Yes' and then change it to 'No' / Change the toolbar background color, then App Update is required.)
 
-Therefore, after the initial app creation, if you have made any modifications to the design stage, please update it by pressing the \[Update App] button after saving.
+Therefore, after the initial app creation, if you have made any modifications to the design stage, please update it by pressing the \[App Update] button after saving.
 
-If the App Store or Play Store has been released, please re-evaluate it with the updated version.
+If the App Store or Play Store has been released, please re-create it with the updated version.
 
 ​
 
@@ -264,19 +264,19 @@ If the App Store or Play Store has been released, please re-evaluate it with the
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
-1\)The toolbar is a menu that is only available in push apps, and is not available in webview apps and general prototypes.
+1\)The toolbar is a menu available only in push apps, and is not available in webview apps and general prototypes.
 
 Please use it in the push app!
 
-2\) Existing v2 app users can switch to v3 and update it!
+2\) Existing V2 app users can switch to V3 and update it!
 
 You need to apply the features and update your app so that the changed functionality and design will be reflected in your app.
 
-If the App Store or Play Store has been released, please re-evaluate it with the updated version.
+If the App Store or Play Store has been released, please re-create it with the updated version.
 
-3\)The toolbar function is available in the STEP3 page step. These steps do not require an update.
+3\)The toolbar function is available in the STEP3 page. These steps do not require an update.
 
 If you modify the toolbar after the initial app is built, it will be reflected directly in the app without having to update it, just save it.
 
-However, if you modify the toolbar design during the STEP2 design phase, the app needs to be updated.
+However, if you modify the toolbar design during the STEP2 design phase, the app needs to be updated by clicking \[App Update].
 
