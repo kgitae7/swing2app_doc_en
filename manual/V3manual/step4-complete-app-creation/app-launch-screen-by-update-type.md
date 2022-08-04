@@ -2,7 +2,7 @@
 
 ### App launch screen depending on the update type
 
-If you have checked how to update and what is important! Depending on the type of update, let's see how the update works in the actual app.
+Depending on the type of update, let's see how the update works in the actual app.
 
 {% hint style="info" %}
 **\*The app launch screen we show you is an app that has not been released in the Store (install it on your phone as an APK file)**
@@ -16,57 +16,57 @@ If you have checked how to update and what is important! Depending on the type o
 
 ***
 
-### **1)** Soft Updates & Recommendations
+### **1)** Soft Updates & Recommended Updates. <mark style="color:blue;"></mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
 
-The recommendation is that a message window will **pop up asking if you want to do the update as shown in the image above.**
+In this type of update, the message window will **pop up asking users if they want to update the app.**&#x20;
 
 **The user must select 'OK' for the update to proceed.**
 
-Because the recommendation is for the update to progress by the user, **if you select 'Cancel', the update will not proceed.**
+Because the recommendation is for the update to progress by the user, if you **select 'Cancel', the update will not proceed.**
 
-For soft updates, if you don't have to reinstall the app, it will be **downloaded from within the app and will be updated automatically.**
+For soft updates, you don't have to reinstall the app, update will be **downloaded from within the app and will be updated automatically.**
 
 ***
 
-### **2)** Soft Updates & Essentials
+### **2)** Soft Updates & Required Updates.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
 
-Because it's a soft update, you don't have to reinstall the app to do the same, it's **downloaded from within the app and gets auto-updated.**
+Because it's a soft update, you **don't have to reinstall the app, it's downloaded from within the app and gets auto-updated.**
 
-When selecting the display option as 'Required', **a pop-up will pop up to guide you in the progress of the update without asking the user.**
+When selecting the display **option as 'Required',** **a pop-up will appear to inform the user that an update is taking place.** &#x20;
 
 **When you select 'OK', the in-app update will take place immediately.**
 
 ***
 
-### **3)**Hard Update & Recommended
+### **3)**Hard Update & Recommended Updates. <mark style="color:blue;"></mark>&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
 
 **Hard update, on the recommended selection, a message window will pop up asking if you want to do the → update, and the user will have to select 'OK' before the update will proceed.**
 
-**If you choose to 'Cancel' because it is optional, the update will not proceed.**
+If you **choose to 'Cancel'** because it is optional, the update will not proceed.
 
-And in the case of hard updates, unlike soft updates, **you'll go to your phone device and reinstall the new version of the app.**
+In case of a hard update, unlike software**, it moves to the mobile phone device and installs the new version of the app again.**
 
-You will install an update to an existing application, which will be overwritten and installed with a new version of the app.
+It will install the update of the existing application and install it again by overwriting it with the new version of the app.
 
 **\[Reinstall Progress]**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_36\_49\_697.gif)
 
-### **4)** Hard Updates & Essentials
+### **4)** Hard Updates & Required Updates.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
 
-Hard Update, if you choose Required, do not ask for user selection, press OK and the update will proceed immediately.
+Hard Update, if you choose Required, **the update will proceed immediately if you click OK.**
 
 The same hard update will **go to your phone device and reinstall the new version of the app.**
 
-You will install an update to an existing application, which will be overwritten and installed with a new version of the app.
+It will install the update of the existing application and install it again by overwriting it with the new version of the app.
 
 **\[Reinstall Progress]**
 
