@@ -48,52 +48,46 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ***
 
-### ****![](broken-reference) **2.** Fill out the Terms of Use and Privacy Policy
+### ****![](broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
 
 
 
 On the App Subscription Policy page, in addition to the terms of use, **you can edit your app's privacy and sign-up notice.**
 
-\*App Registration Policy: For detailed usage methods such as how to create a private app and how to modify the registration statement, please refer to the manual.
+\*App Registration Policy: For detailed usage methods such as how to create a private app and how to modify the app sign-up message, please refer to the manual.
 
-**☞ **<mark style="color:blue;">**Check the App Subscription Policy How-to Manual**</mark>
-
-![](broken-reference)
-
-You can check the 'Terms of Use' and 'Privacy Policy' sections in the Terms of Service.
-
-When you create an app with Swing, you must fill out the Terms of Use and Privacy Policy items together.
-
-
+**☞ **<mark style="color:blue;">**Check the App Subscription Policy Manual**</mark>
 
 ![](broken-reference)
 
-**As you can see in the image, Swing has a default set of ments for those who are not sure what to put the policy into.**
+You can check the 'Terms of Service' and 'Privacy Policy' sections in the \[Add subscription policy] option.
 
-This makes it easier to write.
+When you create an app with Swing2app, you must fill out the Terms of Use and Privacy Policy information.
 
-Even if you don't modify the menu, this will still be reflected in the App Terms of Use.
 
-However, since it is a sample menu, there are definitely things that need to be corrected, such as the name of the trade name, the name of the person in charge of personal information, etc. \~
 
-Please check the contents and modify it for your app service.
+![](broken-reference)
+
+**As you can see in the image, Swing2app has a default policy example for those who are not sure what to put in the policy section.**
+
+If you don't modify this menu, our default message will be reflected in the App Terms of Use.
+
+Please check the contents and modify them for your app service.
 
 For each question, you can select the button on the right to write the content.
 
-Since the content of this setting varies from service to service to service, the user must check and modify it.
+\*Note: The \[Name of the person in charge of the app, contact information], etc is written as an example, so please modify it as per the information of the actual administrator\~!
 
-In particular, the last \[Name of the person in charge of personal information or the person in charge, contact information] is written as an example, so please modify it as the actual administrator and enter it\~!
+After modifying the contents on that page, click on the \[Save] button.
 
-After modifying the contents on that page, click the \[Set Policy] button to save.
-
-<mark style="color:red;">**★ If you're new to apps, be sure to tap Set Policy to reflect the policies in your app.**</mark>
+<mark style="color:red;">**★ If you're new to apps, be sure to update after you Set the Policy to reflect modified content in your app.**</mark>
 
 <mark style="color:red;">****</mark>
 
 {% hint style="info" %}
-There are 7 items in the privacy policy that the user must write and insert directly to the app's services.
+There are 7 items in the privacy policy that the user must modify as per the app's services.
 
-This item was updated in November 2017.
+This default information was updated in November 2017, so it is not up to date.&#x20;
 
 ★ The mobile application must also provide a privacy policy\~!!
 
@@ -104,21 +98,19 @@ If you violate it, you may be fined under the Information and Communications Net
 
 ![](broken-reference)
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3.** Check and get the privacy policy URL
+### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3. Ge**t the privacy policy URL
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%854.png)
 
-The terms of service you have created can be found by URL.
-
-Select \[View Terms of Service URL Details] at the bottom.
+You can also check the terms and conditions of service you have written by the URL. Please select **\[View Terms of Service URL]** at the bottom.&#x20;
 
 &#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%853886.png)
 
-As shown in the image above, a new webpage window will pop up with the terms of use.
+As shown in the image above, a new web page window with terms and conditions will appear.
 
-Just copy the URL address from the Internet address bar and submit it where you need it.
+Just copy the URL address from the Internet address bar and submit it where required.
 
 
 
@@ -127,34 +119,34 @@ Just copy the URL address from the Internet address bar and submit it where you 
 
 The URL is required for Google Play Store and App Store app registration.
 
-When you apply to upload to the Google Play Store and App Store – you must provide the URL of your privacy policy in the Store Registration field.
+When uploading the Google Play Store and One Store -You must include the privacy policy URL in the Store Listing.
 
-At this time, users who have created the app with Swing-to-App can copy and paste the URL of the applicable Terms of Service!!
+So users who create an app with swing2app must use this link of the applicable Terms of Service!!
 
-Therefore, the Terms of Service do not use the default settings in Swing Two, but make sure that it fits the service!! Please modify it and use it.
+Therefore, do modify this information carefully as per your app service terms.
 
 (Please note that if you use the trade name or app name as it is without modifying it, you may run into problems.)
 
 To learn how to apply the link to the Privacy Policy on the Play Store, please refer to the manual below.
 
-☞<mark style="color:blue;">\[Find out how to apply the Google Play Store Privacy Policy]</mark>
+☞<mark style="color:blue;">\[How to apply the Google Play Store Privacy Policy]</mark>
 {% endhint %}
 
 ![](broken-reference)
 
 
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**. **<mark style="color:blue;">****</mark> Check the Terms of Service and Privacy Policy – App launch screen
+### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**. **<mark style="color:blue;">****</mark> App launch screen- Check the Terms of Service and Privacy Policy
 
 ![](broken-reference)
 
-If you look at the bottom of the registration window, there is a **\*Check Terms of Use button.**
+At the bottom of the registration menu, there is a **View Terms and Conditions** button.
 
 
 
 ![](broken-reference)
 
-If you select the appropriate button, you will be able to see the terms of service and the privacy policy entered in the app subscription policy.
+Select the button to see the terms of service you entered in the app subscription policy.
 
 ![](broken-reference)
 
@@ -170,7 +162,7 @@ Let's see how the app privacy policy you wrote above is applied on the Play Stor
 
 Apps released on the Play Store can be found in the **Developer Contact menu – Privacy Policy.**
 
-When selected, the page created in the Swing-to-App App Subscription Policy – Terms of Use will be displayed on the screen.
+When selected, the page created in the Swing2App App Subscription Policy – Terms of Use will be displayed on the screen.
 
 
 
@@ -189,31 +181,33 @@ When selected, the page created in the Swing2App App Subscription Policy – Ter
 
 ****
 
-1\) Push, WebView app is a web app created by linking the user's website (homepage) to the app.
+1\) Push, WebView prototype app is a web app created by linking the user's website (homepage) to the app.
 
-Therefore, you can submit the privacy policy to the link to the privacy policy provided on the user's homepage.
+Therefore, you can submit the link to the privacy policy provided on the user's homepage.
 
-The terms and conditions provided by the Swing to App are applicable only to the user's app created with a regular prototype app (slide, footer, top, etc.).
+The terms and conditions provided by Swing2App are applicable only to the user's app created with a regular prototype app (slide, footer, top, etc.).
 
-2\) Please modify the Terms of Use and use them.
+2\) Please modify the Terms of Use and policy before submitting your app for store upload.
 
-Swing-to-app is not responsible for problems caused by not entering content or problems caused by entering content that is different from the service.
+Swing2app is not responsible for problems caused by not entering content or problems caused by entering content that is different from your app service.
 
-Therefore, please check it carefully and make it.
+Therefore, please check it carefully and modify it.
 
-3\) Terms of Use and Privacy Policy are provided together.
+3\) Terms of Service and Privacy Policy are provided together.
 
-Since the Terms and Conditions provide all the information about personal information, please modify and apply the above Terms of Service and the Privacy Policy will be completed.
+Since the Terms and Conditions provide all the information about personal information, please modify and apply it with the Terms of Service to complete the Privacy Policy.
 
-4\) The terms and conditions provided by the Swing-to-App are the services provided to users who create apps with Swing-to-App\~!
+4\) The default terms and conditions provided by the Swing2App are the services provided to users who create apps with Swing2App\~!
 
-However, sometimes people who don't build an app with a swing and only take the URL of the terms and conditions and use it as a link to the privacy policy are receiving more and more reports.
+We are receiving more and more reports of people who don't build an app with a swing2app but only take the URL of the terms and conditions and use it as a link to the privacy policy for their app.
 
-**We haven't created an app with our service, but we don't want to use our own program! It is strictly an unauthorized theft of the program.**
+**Kindly do not use our default policy for your app! If you do so, It will be considered an unauthorized theft of the program.**
 
-**Therefore, those who continuously filter and use our unique Usage Policy URL will report it to Google for action.**
+**Therefore, those who continuously use our unique Usage Policy URL will report it to Google for action.**
 
-If you receive it on Google, the app may be deleted, so please be sure to check and be careful\~!!
+If you receive this report on Google, it can result in the deletion of your app.&#x20;
+
+
 
 ﻿
 {% endhint %}
