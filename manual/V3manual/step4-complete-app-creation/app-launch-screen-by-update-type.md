@@ -72,31 +72,31 @@ You will install an update to an existing application, which will be overwritten
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_44\_37\_946.gif)
 
-**\[Instructions]**
+### <mark style="color:red;">\[Instructions]</mark>
 
-Apps created by Swing-to-App are free to modify even after the app is built.
+You can freely edit the app created by Swing-to-App even after making the app.
 
 **Page menu steps – Contents such as menu modification and content registration are automatically reflected in the app by simply pressing \[Save], so you do not need to update them separately.**
 
-**In addition, the various functions provided by the operation of the app can be applied and immediately reflected in the app.**
+**In addition, the various functions provided by the Manager page can be applied and immediately reflected in the app.**
 
-**- What needs to be updated**
+**- What needs to be updated?**
 
 **\*App Basics – Modify app name, icon, standby screen image**
 
-**\*Design Themes - Prototypes, skin color modifications require app updates.**
+**\*Design Themes - Prototypes and skin color modifications require app updates.**
 
-So press the \[Update App] button to recreate the app in a new version.
+Therefore, press the \[Update App] button to recreate the app in a new version.
 
-When you are updated to a newly created version, the modifications are reflected.
+The modifications are reflected accordingly when you are updated to a newly created version.
 
-<mark style="color:red;">**\*Important\***</mark>Soft updates are not officially provided by Apple and Google.
+<mark style="color:red;">**\*Important\***</mark>** Soft updates are not officially provided by Apple and Google.**
 
-**Therefore, users who have released an app to the Play Store or the App Store are advised not to use the soft update, but to proceed with the → Hard Update, and then update the newly created version of the app to the Store.**
+Therefore, **users who have released an app to the Play Store or the App Store are advised not to use the soft update, but to proceed with the → Hard Update, and then update the newly created version of the app to the Store.**
 
-As a soft update, you can receive reimbursement such as the removal of the app in accordance with the rules of the Play Store and the App Store when it is made.
+When making a soft update, you can receive sanctions such as the deletion of apps according to the rules of the Play Store and App Store.
 
-The Swing-to-App is not responsible for this option, so be sure to check it out before proceeding.
+The Swing2App does not take responsibility for this option, so be sure to check the contents before proceeding.
 
 **Related Articles**
 
