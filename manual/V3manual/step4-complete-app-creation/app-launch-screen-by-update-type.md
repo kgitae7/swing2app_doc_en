@@ -5,13 +5,13 @@
 Depending on the type of update, let's see how the update works in the actual app.
 
 {% hint style="info" %}
-**\*The app launch screen we show you is an app that has not been released in the Store (install it on your phone as an APK file)**
+**\*The app launch screen we show you is an app that has not been released in the Store.**
 
-**\*\*If your app has been released on the Play Store or App Store, you will need to update it and re-upload it to the updated version on that Store.**
+**\*\*If your app has been released on the Play Store or App Store, you will need to make the hard update and re-upload the newly created version on the store.**&#x20;
 
 **Apps downloaded from the Store must be updated through the Store.**
 
-**\*Users will not receive the update if they update the app to a new version, but do not re-upload it to that version in the Store.**
+**\*Users will not receive the update if you will only update the app to a new version, without re-upload the newly created version on the store.**&#x20;
 {% endhint %}
 
 ***
