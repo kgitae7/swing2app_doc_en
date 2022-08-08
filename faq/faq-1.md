@@ -1,223 +1,419 @@
-# 회원가입 및 로그인 FAQ
+# App Operations & Features FAQ
 
 <details>
 
-<summary>스윙투앱 홈페이지에 가입된 아이디(이메일)를 바꿀 수 있나요?</summary>
+<summary>Are push shipments unlimited? Is there a limit to the number of people?</summary>
 
-기업 고객 중에서는 앱 담당자가 바뀌게 되면서 스윙에 가입된 아이디 변경을 요청하는 경우가 있습니다.
+Yes, push shipments are unlimited.
 
-아이디 변경은 개인정보 계정과 연결되어 있기 때문에 사용자분께서 직접 바꿀 수 없습니다.
+Push has **no limit to the number of dispatches and is available to an unlimited number of people.**
 
-스윙투앱에 요청주시면 저희가 계정 변경 동의서를 보내드리고, 필요 서류를 받은 뒤 변경해드릴 수 있습니다.
-
-비밀번호는 기존과 동일하며, 로그인 후 개인정보 변경에서 원하는 비밀번호로 다시 설정해주시면 됩니다.
+In addition, all the features offered by the Swing-to-App are free, so push sending is free, and you can send pushes freely.
 
 </details>
 
 <details>
 
-<summary>스윙투앱 홈페이지 회원 탈퇴는 어떻게 하나요?</summary>
+<summary>What capacity is available to the app?</summary>
 
-회원탈퇴는 **스윙 홈페이지 앱운영 페이지의 오른쪽 상단 프로필 선택 → 내정보 수정 →회원탈퇴 선택해주시면 됩니다.**
+The free version and the paid version also have different capacity depending on the product used.
 
+**\*Free version: 100MB capacity**
 
+**\*Paid version**
 
-탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.
+1\)Basic type use ticket: 2GB capacity
 
-회원탈퇴시 제작한 앱, 컨텐츠가 모두 삭제되오니 신중하게 선택하시기 바랍니다.
+2\)Expandable subscription: 10GB capacity
 
-</details>
+3\)Premium Use: 50GB of capacity
 
-<details>
-
-<summary><strong>스윙 홈페이지 회원 탈퇴 후 재가입이 가능하나요?</strong></summary>
-
-탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.
+Please check the capacity provided by version and by product.
 
 </details>
 
 <details>
 
-<summary><strong>스윙투앱 홈페이지 계정- 비밀번호를 잃어버렸어요.</strong></summary>
+<summary>What happens if my app is overcapacity?</summary>
 
-스윙투 사이트 계정의 비밀번호를 잃어버렸다면!
+If the amount of capacity provided to the app is exceeded, the app will be suspended. \*Stop after 3 days of overcapacity
 
-**\[비밀번호 찾기]를 통해서 이메일로 임시 비밀번호를 찾아서 로그인 한 뒤, 내 정보 수정 \[새 비밀번호]를 변경해주시면 됩니다.**
+Even if you use a paid app, regardless of the remaining period of use, it will be suspended if the capacity is exceeded.
 
-***
+Suspension of an app due to an overcapacity is the same as the expiration of the subscription period.
 
-1\) 홈페이지 접속 → 비밀번호 찾기 선택
+(See image)
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/55.png" alt="" data-size="original">
+**The app won't be deleted, but when you launch it, you'll get a "Your subscription has expired" message and the app won't run.**
 
-2\)이메일주소 입력 후, 해당 이메일로 임시 비밀번호 발급받기
+Users who download the app from the Store will also be restricted from using the app when the message appears.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="" data-size="original">
+Therefore, if the capacity is exceeded, you can free up capacity by purchasing and applying a separate capacity add-on for as much capacity as you are insufficient, or by deleting the larger posts from the resource management page.
 
-3\)비밀번호는 다시 \[내 정보 수정]페이지- 로그인정보에서 변경해주시면 됩니다.
-
-[https://www.swing2app.co.kr/view/myinfo\_login\_info](https://www.swing2app.co.kr/view/myinfo\_login\_info)
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B83.png" alt="" data-size="original">
+If the capacity is exceeded, we will notify you by e-mail or text.
 
 </details>
 
 <details>
 
-<summary>홈페이지 간편로그인으로 가입시 비밀번호 찾기, 비밀번호 변경할 수 있나요?</summary>
+<summary>Can I free up space by deleting posts without adding app capacity?</summary>
 
-스윙투앱 홈페이지 - 간편 로그인은 네이버, 구글에서 사용하는 계정으로 연동하여 로그인을 하게 됩니다.
+Yes you can.
 
-따라서 비밀번호는 연결한 계정으로 확인해주셔야 합니다.
+East Sea to the App Operation Page - Service Management - Resource Management page.
 
-(구글 계정이라면 구글 지메일로 들어가서 사용중인 계정 확인해주세요)
+You can check the post capacity on that page.
 
-스윙투앱에서는 계정만 연결하여 로그인한 것이기 때문에 비밀번호를 찾을 수 없으며, 비밀번호 변경도 불가합니다.
+**\*Posts you don't need (images such as photos) can be checked and deleted.**
 
-</details>
+**As soon as you delete it, you'll see a new capacity aggregation, and you can free up capacity by deleting the post.**
 
-<details>
+(See image)
 
-<summary>스윙투앱 홈페이지에서 부관리자로 로그인하는 방법 알려주세요.</summary>
+[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/11c1834143a103ebefc9c172493e945a.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221208812417\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
 
-스윙투앱 홈페이지에서 부관리자로 로그인할 때는 로그인 화면에서 \[부관리자]로 선택해서 로그인해주세요.
+\* For more information on how to use resource management, please check the corresponding manual.&#x20;
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt="" data-size="original">
-
-1\)앱아이디: 관리자가 앱을 제작할 때 설정한 아이디를 입력합니다.
-
-→ 앱 아이디는 관리자가 앱을 제작할 때 앱제작 - 1단계 기본정보에서 입력한 아이디를 말합니다.
-
-2\)부관리자 아이디: 부관리자가 앱에서 회원가입한 아이디를 입력합니다.
-
-3\)비밀번호: 부관리자가 앱 회원가입시 설정한 비밀번호를 입력합니다.
-
-입력이 완료된 후 로그인 버튼을 눌러주시면 관리자 페이지로 이동합니다.
-
-\*주의사항: 앱 제작이 완료되어야 부관리자 로그인이 가능합니다.
-
-앱을 제작한 상태가 아닐 경우 앱 아이디가 인식이 되지 않아요, 따라서 앱을 제작해놓은 뒤 부관리자 로그인을 이용해주시기 바랍니다.
-
-앱을 관리하는 부관리자를 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
-
-☞[ \[부관리자 설정방법 포스팅 보러가기\]](http://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+**☞ **<mark style="color:blue;">**\[App Capacity Management - Go to the Resource Management How-to Manual]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>앱에서 부관리자로 로그인하는 방법 알려주세요.</strong></summary>
+<summary>Where and how do I check the app capacity? </summary>
 
-앱은 홈페이지와 달리 부관리자 전용 로그인 페이지가 있는 것이 아니구요.
+You can check the app capacity by going to the <mark style="color:blue;">\[Service Management-Resource Management]</mark> page.
 
-**로그인 화면에서 부관리자로 지정된 사용자의 아이디, 비밀번호로 로그인을 하시면 됩니다.**
-
-이미 사용자에서 관리자로 등급 변경이 되었기 때문에, **일반방법으로 로그인하시면 등급이 ‘관리자’ 로 변경된 것을 확인할 수 있습니다.**
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/4.png" alt="" data-size="original">
-
-앱 부관리자 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
-
-☞ [\[부관리자 설정방법 포스팅 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+You can see what's available in the app, what it's currently using, and what's remaining available.
 
 </details>
 
 <details>
 
-<summary><strong>앱을 제작한 제작자도 앱에서 회원가입을 해야 앱 사용이 가능한가요?</strong></summary>
+<summary>How do I set up a deputy administrator?</summary>
 
-네 앱을 제작한 관리자도 앱에서 회원가입을 하신 뒤, 앱 관리자로 설정하여 이용할 수 있습니다.
+On the swing app operation page, go to <mark style="color:blue;">the Membership Management – \[Member Inquiry] menu.</mark>
 
-\*웹과 앱이 서로 연동되어 있지 않습니다.
+You can select the user you want to set as a deputy administrator and then change the permissions to administrator in the permission group settings
 
-앱을 설치하신 뒤 내가 만든 앱이라도 꼭 회원가입을 하고 앱을 이용해주세요.
+**There's no separate name of a deputy administrator, but the creator of the app gives the app user administrator privileges to manage and run the app together.**
 
-</details>
+We'll attach a link to the detailed method, so it's easy to understand if you look at it.
 
-<details>
-
-<summary><strong>앱에서 회원탈퇴는 어떻게 하나요?</strong></summary>
-
-앱 회원탈퇴는 \[설정]메뉴에서 가능합니다.
-
-앱에서 로그인이 된 상태로 \[설정] 메뉴를 보시면, \[회원탈퇴]메뉴가 있습니다.
-
-해당 메뉴를 선택하여 앱에서 회원탈퇴가 가능합니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1-%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4.png" alt="" data-size="original">
-
-회원 탈퇴는 앱에서 로그인이 되어 있어야 이용 가능합니다.
-
-회원가입이 안된 경우는 회원탈퇴의 개념이 없습니다.
+**☞ **<mark style="color:blue;">**Go to see how to set up a deputy administrator**</mark>
 
 </details>
 
 <details>
 
-<summary>앱에서 비밀번호는 어떻게 찾나요?</summary>
+<summary>I want to add features that SwingTwo doesn't offer, what can I do?</summary>
 
-앱에서 비밀번호를 찾기 위해서는 아이디형태가 \*\*‘이메일’\*\*로 지정되어 있어야 합니다.
+We are customizing for those who want a service that goes beyond a swing-to-app solution.
 
-임시 비밀번호를 가입된 이메일로 보낼 수가 있어요.
+Customization means app development, providing customization in 1:1 customization. You can do this by asking the Swing team.
 
-앱을 실행하고 로그인 화면 하단에 보시면, ‘비밀번호찾기’ 버튼이 있습니다.
+If you would like to develop an app or have the features you need, please send your proposal or storyboard help@swing2app.co.kr swing email.
 
-해당 버튼을 선택하면 임시비밀번호를 가입한 이메일로 받을 수 있습니다.
-
-따라서 일반아이디로 아이디를 설정한 경우는 비밀번호 찾기를 이용하실 수 없으니 꼭 확인하시고 '아이디형태-이메일'로 설정해주세요.
-
-**☞** [**\[앱 비밀번호 찾기 상세 매뉴얼 보러가기\]**](http://wp.swing2app.co.kr/documentation/appoperation/app-password/)
+After confirmation, the development team will guide you through the availability of development, quotations, etc.
 
 </details>
 
 <details>
 
-<summary>앱 프로필 사진 변경은 어떻게 하나요?</summary>
+<summary>I can't play YouTube on the webpage.</summary>
 
-**1.회원가입시 프로필 이미지 등록**
+This is a problem caused by YouTube not allowing you to embed apps or built-in sites. If you change the YouTube link url to the following format, it will work smoothly:&#x20;
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png" alt="" data-size="original">
+**Example) **<mark style="color:blue;">**https://youtu.be/W8Ysr18ZxxU?t=1\*\*\*\* → https://www.youtube.com/embed/W8Ysr18ZxxU?t=1**</mark>
 
-회원가입시에는 상단 프로필 이미지 \[등록하기] 버튼을 선택하여 원하는 이미지를 등록할 수 있어요.
-
-**2.회원정보 수정: 가입 후 프로필 이미지를 변경**
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD.png" alt="" data-size="original">
-
-회원가입 후 로그인된 상태에서 프로필 이미지를 변경하고자 할 때는
-
-설정- 회원정보 수정 메뉴로 이동해주세요.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD1.png" alt="" data-size="original">
-
-회원정보수정 창에서 상단 프로필 이미지 \[등록하기] 버튼을 선택해서 프로필 이미지를 변경할 수 있습니다.
-
-이름(닉네임)도 해당 페이지에서 수정할 수 있습니다.
-
-[**\[앱 프로필 사진 등록 및 변경방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/appprofile-image/)
+If you change the link format a little bit as above, you can watch the video from within the webpage without problems.
 
 </details>
 
 <details>
 
-<summary>앱에서 회원탈퇴 후 동일 아이디로 재가입할 수 있나요?</summary>
+<summary>Can I apply Admob to my app?</summary>
 
-가능 합니다.
+You can set up and operate the Admob plugin directly in your own apps.
 
-다만 동일 아이디로 재가입을 위해서는 관리자가 웹 대시보드- 회원조회에서 해당 회원(탈퇴한 회원) 정보를 모두 삭제해주셔야 합니다.
+Admob can be set directly by purchasing the \[Google Admob Applied Plugin] product from the Swing Plugin purchase page.
 
-[푸시&회원 → 회원조회 ](https://www.swing2app.co.kr/view/member\_list)→ 회원조회 목록에서 1)탈퇴한 해당 사용자를 선택해주시구요.
+For more information on how to set up an admob, please refer to the manual.&#x20;
 
-회원정보 창 “계정 탈퇴 및 삭제” 메뉴에서 2) 회원삭제 버튼을 선택합니다.
+**☞ **<mark style="color:blue;">**\[Go to Google Admob Setup How-to Help]**</mark>
 
-3\)”해당 아이디 및 모든 정보를 삭제합니다” 확인 버튼을 선택해주세요.
+</details>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C3.png" alt="" data-size="original">
+<details>
 
-\*탈퇴한 사용자라도 앱 데이터에 정보가 남아 있기 때문에 동일 아이디로 가입이 되지 않게 되요.
+<summary>You want your app to be used only by the people you want. (Private app)</summary>
 
-따라서 동일 아이디로 재가입이 필요하다면, 회원 삭제를 통해서 회원 아이디 및 모든 정보를 앱에서 삭제해주셔야 합니다.
+Yes you can.
 
-[**\[앱 회원 탈퇴 후 동일 아이디 재가입 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/sameid-rejoin/)
+Only users who have installed the app can be approved and designated to use the app by the administrator.
+
+First, in \[Service Management - Policy Management], set the app subscription policy - app privacy to 'Private'.
+
+If you set it to private, users who install the app will have to sign up unconditionally. (If you do not register, you will not be able to use the app)
+
+Even if the registration is complete, the administrator must approve the member before he or she can use the app.
+
+\+Administrators can change their status to 'Approve' by selecting only the desired members from the list of registered members on the \[Push & Member-Inquiry] page.
+
+\+Authorized users will use your app normally, and if they don't get approved, they won't be able to use it.&#x20;
+
+**☞ **<mark style="color:blue;">**See how to create a private app**</mark>
+
+</details>
+
+<details>
+
+<summary>Can I change the content of the messages provided by the app?</summary>
+
+Yes you can.
+
+The content text used in the app can be modified and used by the administrator himself, and it can be changed to a foreign language.&#x20;
+
+Go to <mark style="color:blue;">App</mark> <mark style="color:blue;">Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
+
+\-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
+
+\-If you modify only a few phrases, you can search for and find the contents by pressing the \*control + F button.
+
+After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
+
+<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+
+</details>
+
+<details>
+
+<summary>Can I change the language offered by the app to another foreign language?</summary>
+
+Yes you can.
+
+If you want to create an app that is available in English, please use it on the Swing-to-App global site. Swing-to-App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
+
+Global sites are created with the app default language all set to English, so they are automatically set to English without any further changes.
+
+\*Since it is not linked to the Korean site, you will need to register a new member to create an app when using the global site.
+
+If you want to change to another foreign language, such as Chinese or Japanese, or if you only want to change a few to English, you can do so in String Management.&#x20;
+
+Go to <mark style="color:blue;">App Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
+
+\-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
+
+\-If you modify only a few phrases, you can search for and find the contents by pressing the \*control + F button.
+
+After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
+
+<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+
+</details>
+
+<details>
+
+<summary>Can I amend the App Terms of Use and Privacy Policy?</summary>
+
+Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Operations - Service Management - Policy Management - App Subscription Policies page - Terms of Service.</mark>
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/c7574360e9aa312995b45efd5305c0fe.png" alt="" data-size="original">
+
+For each question, we put the content in the Swing-to-App basic settings, so the content is all entered.
+
+Please check the contents and modify the App Terms of Use to suit the app you created.
+
+After modifying the contents on that page, click the **\[Set Policy]** button to save it.
+
+</details>
+
+<details>
+
+<summary>Can't I change the text style, such as text size, color, etc.?</summary>
+
+Write a post - If you choose to write with the **HTML editor**, you can change the style of the text.
+
+When writing in general, writing directly from the app doesn't apply style.
+
+\*\*Swing-to-app homepage web dashboard - **only available for writing with** **HTML editor.**
+
+After you create a bulletin board, go to the board where you want to write in the Manage Posts menu.
+
+If you choose to Write as an HTML Editor, you can add a variety of text styles.&#x20;
+
+**☞ **<mark style="color:blue;">**See how to use HTML Editor writing**</mark>
+
+</details>
+
+<details>
+
+<summary>I don't see the thumbnail image in the post. (Why does it look like an app icon image?)</summary>
+
+When specifying a thumbnail image in a post, be sure to select Attach Photo to attach the image file.
+
+If you put an image inside the content (body), the image is not designated as a thumbnail because it is recognized as text.
+
+So when you assign a thumbnail image to your post! Please be sure to register as an attached image.
+
+(See image)
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2_20.06.png" alt="" data-size="original">
+
+<mark style="color:red;">\*\* This feature is not available in the app, only on the swing homepage - pc version web, mobile version web.</mark>
+
+</details>
+
+<details>
+
+<summary>The post thumbnail image duplicates the body, but can't I subtract it?</summary>
+
+The thumbnail image is designated as the representative image of the first image of the post.
+
+At this time, the image designated as the thumbnail will also appear as the representative image of the post, and it will also appear as a duplicate in the text. It's simple to make it look like a thumbnail without duplication.
+
+\*\*When entering a post, please check \[Use the first image thumbnail]. With this feature, thumbnailed images don't appear duplicates in the body and can only be used as representative images.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC_20.06.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>When attaching a bulletin board video, the screen is cut off.</summary>
+
+Usually, when you attach a video to a bulletin board, the video size is automatically adjusted to the horizontal size of the phone. Sometimes a video is cropped and visible, or the aspect X ratio doesn't fit. In this case, you can modify the size and put it in.
+
+1\. First, please copy the 'Source Code' when you copy the video link.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-2.png" alt="" data-size="original">
+
+2\. And when attaching a video from the bulletin board, please put it as \[embedded code].
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%982.png" alt="" data-size="original">
+
+3\. At this time, you can modify the horizontal and vertical sizes listed in the link and insert them. If you do it at 340px horizontally and 240px vertically, it will fit into your phone's screen. (Nowadays, the size of the mobile phone has increased, so even if it is 380 X 220, it fits well\~)
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%983.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Can't download images attached to the bulletin board?</summary>
+
+You can download and save the image attached to the bulletin board.
+
+Please select an image from the bulletin board post detail view.
+
+Then there's the down button in the top right corner.
+
+You can also select the appropriate button to download the photos you uploaded to the bulletin board to your mobile phone.
+
+[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5791d512b27dc0f30cfb4f50732f4ac3.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&Redirect=View\&logNo=221208826012\&categoryNo=49\&isAfterWrite=true\&redirect=View\&widgetTypeCall=true\&directAccess=false)
+
+</details>
+
+<details>
+
+<summary>Can't I copy a board to another board?</summary>
+
+The bulletin board can be copied.
+
+The copy board function is set up for each bulletin board, making it easy to copy a board.
+
+\*Swing app operation page - from the \[Post Management] menu - Go to the board you want to copy.
+
+By pressing the \[Copy Board Board] button at the top of the bulletin board, you can select the target board to be copied.
+
+When you copy, all posts on the board are copied to that board.
+
+(See image)&#x20;
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
+
+**☞ **<mark style="color:blue;">**See how to copy a bulletin board**</mark>
+
+</details>
+
+<details>
+
+<summary>How do I copy a post?</summary>
+
+You can copy and move the written post to another board.
+
+You can select individual posts, or you can select multiple posts at once and copy them to a specific bulletin board.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
+
+**1)App Operation Page – In Manage Posts, select the board from which you want to copy the text**
+
+**2) Select the 'Listed' view of posts**
+
+3\) You can check the **\[Copy Post]** button in the post list.
+
+After selecting the post you want to copy, you can **click the Copy Post button** **to copy the post to the board of your choice.**&#x20;
+
+**☞ **<mark style="color:blue;">**\[Go to see how to copy the post]**</mark>
+
+</details>
+
+<details>
+
+<summary>I want to delete multiple posts, full deletion.</summary>
+
+With the Batch Delete Posts feature, you can delete multiple posts at once or delete an entire post.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C2.png" alt="" data-size="original">
+
+After you go to the board where you want to delete the post from the post management
+
+\- Please select 'View List'. (second icon)
+
+\- Multiple selections of posts you want to delete (if you select the entire article, the entire post will be selected at once)
+
+\- Select the \[Delete Posts in Bulk] button to delete the selected posts done at once. ☞ <mark style="color:blue;">**\[Go to see how to use batch deletion of posts]**</mark>
+
+</details>
+
+<details>
+
+<summary>Can I download posts?</summary>
+
+Yes you can.
+
+App Operation - By using \[Post Down] provided by Post Management, you can download and archive posts written on the bulletin board as Excel files.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B4.png" alt="" data-size="original">
+
+**→ the app operation page, you can check the \[Post Down] button in the list of posts created → the post management→ board move.**
+
+However, when the post is down, the image other than the text is not downloaded.
+
+</details>
+
+<details>
+
+<summary>Can I completely move a post to another board? (Copy X)</summary>
+
+You can use the Move Posts feature to move posts to other bulletin boards.
+
+Copy a post is the ability to copy a post to another bulletin board, so that the article is retained on an existing board.
+
+Moving a post is the same as the cut function.
+
+When you move a post to a different board, the post on the existing board is deleted.
+
+**How to use Move Posts**
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png" alt="" data-size="original">
+
+1\) App Operation – Select the board you created in Post Management and move it. (Select the board you want to move the post to)
+
+2\) Select \[List]
+
+3\) Select the post you want to move from the list of created posts.
+
+4\)Select the \[Move Post] button.
 
 </details>

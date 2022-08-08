@@ -1,305 +1,159 @@
-# 앱 설치 및 다운로드 FAQ
+# App Creation FAQ
 
 <details>
 
-<summary>제작한 앱은 어떻게 다운 받을 수 있나요?</summary>
+<summary>Design Theme – Can a prototype only select one UI style?</summary>
 
-**스윙투앱 공식앱 - 앱 미리보기**를 이용하여 제작한 앱을 확인할 수 있습니다.
+Yes yes.
 
-1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요.
+Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
 
-\*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요.
+This prevents you from using a combination of styles.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [**앱스토어 출시 링크(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+Sometimes there's a UI style that combines slides + towers.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [**플레이스토어 출시 링크(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
-
-2\) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙투앱 웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.
-
-**\*주의: 로그인은 반드시 스윙투앱 홈페이지** [**http://www.swing2app.co.kr**](http://www.swing2app.co.kr/)**에서 가입한 계정을 넣어주셔야 합니다.**
-
-**스윙투앱 공식앱에서 가입한 계정이 아니에요\~!**
-
-3\) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.
-
-\*아이폰은 미리보기 버튼을 눌러서 확인이 가능합니다. (웹뷰, 푸시로 제작한 앱은 아이폰에서 확인 불가)
-
-\*안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니다.
-
-앱 설치방법 상세 방법은 아래 매뉴얼 링크를 확인해주세요.
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [앱 설치방법 보러가기](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
+If you use this mix of styles, this is an app that has been developed separately through customization. Various styles can be applied through customization.
 
 </details>
 
 <details>
 
-<summary><strong>아이폰에서는 만든 앱을 테스트 해볼 수 없나요?</strong></summary>
+<summary>How many characters can I register for an app name?</summary>
 
-아이폰에서도 앱 테스트 가능합니다.
+When building an app, there is no specific limit to the number of characters in the name.
 
-2가지 방법에 대해서 알려드리면요.
+However, if the number of characters that appear when you install the app on your phone is too long, the name will be truncated and displayed.
 
-**1)무료버전앱 이용시 - 스윙투앱 앱 미리보기 이용**
+**App/app titles vary slightly depending on the phone model, but can be between 9 and 11 characters long.**
 
-앱스토어에서 \[스윙투앱] 공식앱을 다운받아 설치해주세요.
-
-앱 실행하여 상단의 \[앱 미리보기] 메뉴를 선택한 뒤, 스윙투앱 계정으로 로그인 - 제작한 앱을 아이폰에서 미리보기로 확인할 수 있어요.
-
-\*무료로 제작한 앱 모두 확인할 수 있어요.
-
-\*단 프로토타입- 푸시, 웹뷰로 제작된 앱은 미리보기 이용불가 (일반 프로토타입-슬라이드, 탑, 푸터 등으로 제작한 앱만 이용 가능)
-
-**2) 유료버전 앱 이용시 - 사용자의 애플 아이디로 테스트 버전 등록 'test-flight'**\\
-
-앱스토어에서 제공하는 test-flight을 이용하여 테스트할 수 있습니다.
-
-유료앱 이용권, 앱스토어 업로드 티켓 구매 후 앱스토어 업로드 신청을 해주세요.
-
-업로드 신청 완료 후 이메일 : help@swing2app.co.kr 로 앱스토어 test-flight 요청 메일을 주시기 바랍니다.
-
-아이폰 앱을 사용하실 사용자분들의 애플 계정(이메일주소)을 모두 모아서 보내주시기 바랍니다.
-
-심사는 3일 \~5일 소요되며, 심사 완료되면 사용자의 아이폰에서 앱을 설치하여 테스트해볼 수 있습니다.
-
-test-flight 이용은 90일만 이용 가능하며 연장할 경우 앱스토어 업로드티켓을 구매하여 업로드 재신청 주셔야 합니다.
-
-\* 유료버전일 경우 해당되며 앱스토어 업로드 티켓 구매하셔서 업로드 신청까지 해주셔야 합니다. ( 스윙 유료이용권이 결제가 되어 있어야 합니다.)
-
-**\[앱스토어 test-flight 이용안내]**
-
-https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/
+If the app name exceeds 10 characters, please make the app name less than 10 characters when you create the app, as the app name will be truncated and visible when you install the app on your phone.
 
 </details>
 
 <details>
 
-<summary>안드로이드폰 어플리케이션 설치시, 알 수 없는 출처라고 나옵니다.</summary>
+<summary>I want to put an image full on the app home screen, but is there an optimized size?</summary>
 
-현재 구글에서는 구글 플레이스토어를 제외한 기타 출처를 통해 설치하는 앱에 대해서 경고하는 것으로 기본 설정되어 있습니다.
+Images that go into the app don't have the recommended size.
 
-따라서 공식 플레이스토어가 아닌 외부 경로를 통해 앱을 받은 경우 이러한 메시지가 나올 수 있습니다.
+**Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
 
-안드로이드폰에서 **‘설정 > 보안 > 알수 없는 출처’ 체크 확인하시면** 다운로드 받은 어플리케이션을 설치하실 수 있습니다.
+In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
 
-물론 플레이스토어에 업로드한 앱이라면 이러한 메시지를 보실 수 없으니 마켓 업로드를 하면 간단히 해결됩니다.
+**Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
 
-그외에 프로텍트 관련 보안 메시지 역시 '무시하고 설치'로 선택하고 진행해주시면 됩니다.
+**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
 
-**☞**[ **\[APK파일 안드로이드폰 설치방법\]**](http://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
+**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
 
-</details>
+Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
 
-<details>
-
-<summary><strong>앱 제작 후 업데이트를 하게되면 기존 버전의 사용자는 업데이트를 어떻게 받나요?</strong></summary>
-
-앱 실행시 업데이트 메시지 창이 뜨기 때문에 사용자는 최신버전으로 업데이트를 받을 수 있습니다.
-
-현재 스윙투앱 앱제작에서 업데이트를 할 때 ‘권장’, ‘필수’, ‘업데이트표시 않함’을 관리자가 직접 선택할 수 있습니다.
-
-선택한 옵션에 따라서 메시지창의 내용이 달라지며 ‘필수’를 선택한 경우는 사용자가 꼭 업데이트를 해야만 앱을 정상적으로 이용할 수 있습니다.
-
-유료버전 전환 후 앱이 앱스토어, 플레이스토어에 등록된 경우 새로 업데이트 된 버전의 앱을 해당 스토어에도 다시 업데이트 해주셔야 합니다.
-
-업데이트 받아야 이용자들도 변경된 내용으로 이용가능합니다.
+\* Please note that since the size varies by phone, the latest models may look a little shorter in length, except in the case of tablets.
 
 </details>
 
 <details>
 
-<summary>무료버전의 앱을 플레이스토어에 등록하려고 하니 '디버그용 인증서' 라는 메시지가 뜨며 등록이 되지 않습니다.</summary>
+<summary>I can't delete the app.</summary>
 
-디버그 관련 메시지는 무료버전의 앱을 마켓에 올리려고 할 때 뜨는 메시지입니다.
+Uninstalling an app is only possible if you have at least 2 apps.
 
-무료버전앱은 스토어 출시가 불가합니다.
+If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;">\[Manage Retained Apps]</mark> page.
 
-\*스윙투앱 - 무료버전 앱은 개인적인 용도로만 이용가능 (스토어 배포 불가)
-
-유료버전 앱은 스토어 출시가 가능합니다. (플레이스토어, 앱스토어, 원스토어 등 출시 가능)
-
-따라서 플레이스토어 등록을 원할 경우 반드시 유료 결제 후 aab파일을 받아 등록해주시기 바랍니다.
+\*Please note that paid users do not want the app to be uninstalled until the end of the paid period.
 
 </details>
 
 <details>
 
-<summary><strong>앱 설치하려고 하는데 서명이 충돌한다고 메시지가 나오며 설치가 되지 않습니다.</strong></summary>
+<summary>The icon image is cropped from the phone and visible.</summary>
 
-무료 버전을 설치 후에 유료버전을 설치하게 되면 다음과 같은 메시지가 나타납니다 .
+When creating an icon image, you need to put a background color and a center image in the background.
 
-기존 무료앱을 지우시고 설치하시면 문제없이 설치가 됩니다.
+Make sure that the center image is not too large.
 
-\*무료버전앱과 유료버전앱은 호환이 되지 않기 때문에 반드시 삭제 후 다시 설치해주시기 바랍니다.
+\*Important\* Background color is not transparent, but must be colored.
 
-</details>
+When installed on your phone, the app icon will be rounded to make it visible.
 
-<details>
+\- Reference images
 
-<summary>유료앱 기간 종료 후 무료앱으로 어떻게 전환하나요?</summary>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%EA%B0%80%EC%9D%B4%EB%93%9C1-519x1024.png" alt="" data-size="original">
 
-유료앱으로 더이상 사용하지 않고, 무료앱으로 사용하길 원한다면 아래 방법으로 진행해주세요.
+Therefore, if you work with the center image too large, it will be rounded and all the corners will be cut off.
 
-1\)이용기간이 만료된 유료앱 확인
+Please design with that in mind.
 
-2\)안드로이드폰에 설치된 앱 삭제 (기존에 다운받은 유료앱 삭제)
+The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
 
-3\)앱제작 페이지에서 \[앱 업데이트] 버튼 선택 (앱을 새로 제작하면 무료버전으로 전환됩니다)
-
-4\)스윙투앱 공식앱 – 앱미리보기에서 – 앱 다운로드 진행
-
-5\)무료버전 앱을 다시 실행하면 정상 구동됩니다.
-
-6\)그 외에 플레이스토어 등에 올라간 앱은 사용자분들이 직접 내려주실 수 있습니다.
-
-(앱스토어는 요청주시면 내려드립니다)
-
-[\[유료앱 기간 종료 후 무료앱 전환방법 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/freeapp-change/)
+<mark style="color:blue;">**\[Go to the app icon image creation guide]**</mark>
 
 </details>
 
 <details>
 
-<summary>공유하기로 안드로이드폰에 앱 설치하는 방법을 알려주세요.</summary>
+<summary>What is the standby screen image that registers for basic information?</summary>
 
-**앱 공유하기는 무료로 제작한 앱을 안드로이드폰에서 서로 공유하여, 내가 제작한 앱을 다른 사용자에게 전달해줄 수 있는 기능입니다.**
+The standby screen is the screen that is displayed during the loading time before the app is launched.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A010-1.png" alt="" data-size="original">
+For each type of mobile phone, the waiting screen is displayed in different Internet environments and the time it takes to see it varies.
 
-앱제작시 설정이나, 앱공유하기 메뉴를 적용하면 해당 기능을 이용하여 다른 어플로 앱 공유하기 링크를 보낼 수 있습니다.
+It should look as short as 1 to 3 seconds.
 
-링크를 타고 앱을 설치하여 이용 가능합니다.
+Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
 
-**\* 앱 공유는 안드로이드폰만 가능, 아이폰에서는 무료버전앱은 공유 설치가 안되요\~!**
+Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
 
-**아이폰은 앱스토어에 출시된 앱만 다운 받을 수 있어요.**
-
-[**\[공유하기로 앱 설치하는 방법 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/share-app/)
+**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
 
 </details>
 
 <details>
 
-<summary>앱 설치 링크주소는 어디서 받을 수 있나요?</summary>
+<summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
 
-스윙투앱 홈페이지 - 앱제작이력에서 APK파일을 받으면 다운로드에서 앱을 설치할 수 있는 링크 주소를 복사할 수 있습니다.
+**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
 
-안드로이드폰에서는 앱 설치 링크로 직접 앱을 다운 받을 수 있습니다.
+However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
 
-\*아이폰은 앱 설치 불가, 안드로이드폰에서만 이용 가능합니다.
+Therefore, when working with standby screens, you should check and produce the standby screen guideline manual provided by the swing.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC1.png" alt="" data-size="original">
+Reference Image)
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC2.png" alt="" data-size="original">
+[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/20dcb89afcf17106ac72ea410440d487.png?type=w966)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221214959655\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC3.png" alt="" data-size="original">
+In the attached image, blue becomes the wallpaper. (Image that can be cropped)
 
-**\*중요\* PC에서 진행, 웹브라우저: 크롬을 이용해주세요!!**
+You just need to work on making sure that all the important image cuts are in the gray space. (Image shown on the actual screen)
 
-이렇게 받은 링크주소를 다양한 경로로 복사하여 설치할 수 있습니다.
+Usually, users work with the image to a large blue area, so the image is cropped and visible depending on the phone type.
 
-[\[앱 설치 링크주소로 앱 다운받](https://wp.swing2app.co.kr/documentation/appoperation/applink-install/)[기 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/applink-install/)
+Therefore, please make a standby screen by checking the guidelines - how to make it.
 
-</details>
-
-<details>
-
-<summary>APK파일을 직접 다운받는 방법을 알려주세요.</summary>
-
-스윙투앱 공식앱 - 앱 미리보기 기능을 이용하는 것 외에 안드로이드폰에서는 APK파일로 직접 다운받을 수 있습니다.
-
-**APK파일로 앱을 다운 및 설치하는 방법은 안드로이드폰에서만 가능합니다. \*아이폰 이용 불가**
-
-**1)스윙투앱 홈페이지 - 앱제작 이력에서 APK파일 받기 이용**
-
-앱제작 완료 후 모바일에서 스윙투앱 홈페이지 접속 후, 앱제작 이력 페이지에서 \[APK 파일 받기] 버튼을 선택합니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%98.png" alt="" data-size="original">
-
-APK파일 받기를 선택하면 파일 다운로드가 시작되며, 모바일에서 바로 앱을 설치할 수 있습니다.
-
-**2)이메일에서 앱 다운로드 하기**
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BA%A1%EC%B2%9811.png" alt="" data-size="original">
-
-앱이 제작되면 사용자의 이메일로 제작 완료된 APK파일이 발송되요.
-
-**파란색 배너 – \[앱 다운로드 하기]** 를 선택해서 앱을 설치할 수 있습니다.
-
-여러 방법으로 앱을 다운받을 수 있구요.
-
-보다 상세한 방법은 아래 매뉴얼을 참고해주세요.
-
-[\[핸드폰에 앱 설치하는 방법 매뉴얼 보러가기\]](https://wp.swing2app.co.kr/documentation/appoperation/appinstall/)
+**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
 
 </details>
 
 <details>
 
-<summary>유료앱으로 전환 후, 앱을 다운받는데 ‘Play 프로텍트에 의해 차단됨’ 메시지가 뜹니다.</summary>
+<summary>Are there any restrictions on app updates?</summary>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png" alt="" data-size="original">
+Yes, you can use it without restrictions.
 
-유료로 전환된 앱을 설치받으려고 할 때 위의 이미지처럼 ‘Play 프로텍트에 의해 차단됨’ 메시지가 뜰 수 있습니다.
-
-아직 플레이스토어에 출시(등록) 전으로, 공식 플레이스토어가 아닌 외부 경로에서 다운받을 경우 구글 프로텍트에서 해당 메시지를 띄웁니다.
-
-이때는 \[무시하고 설치] 선택하시면 정상적으로 설치가 가능합니다.
-
-플레이스토어에 앱을 출시하면 해당 메시지는 뜨지 않습니다.
+After you create the app, modify and update it, you are free to use it.
 
 </details>
 
 <details>
 
-<summary>유료앱으로 전환 후, 앱을 다운받는데 ‘앱이 설치되지 않았습니다.’ 메시지가 뜹니다.</summary>
+<summary>Where do I make modifications (updates) after app creation?</summary>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B5%AC%EA%B8%80%EC%A0%95%EC%B1%855-506x1024.png" alt="" data-size="original">
+The Swing-to-App does not have an app modification (update) task page.
 
-해당 메시지도 구글에서 자체적으로 앱 설치를 막은 케이스입니다.
+When making corrections, please do the same by going to the app creation page.
 
-플레이스토어 출시를 하지 않는 경우 구글에서는 이를 알 수 없는 경로로 인식하여 설치를 임의적으로 막아놓았기 때문에 제대로 설치가 안되는 사례가 발생이 됩니다.
+You can overwrite existing apps and keep updating.
 
-**스윙투앱으로 제작한 유료앱 중 플레이스토어에 출시가 되지 않는 앱들은 안드로이드폰에서 미인증 경로로 파악하여 설치를 차단해놓았습니다.**
-
-플레이스토어 어플에서 프로텍트 보안 설정을 해제하시면 쉽게 해결이 가능합니다.
-
-**\* 플레이스토어 앱 → ‘Play 프로텍트‘에서→ “기기에 보안 위협이 있는지 검색” , “유해한 앱을 감지하는 기능 보완”를 선택 해제 해서 사용하시길 권장드립니다.**
-
-</details>
-
-<details>
-
-<summary>다운받은 앱 용량은 어디서 확인할 수 있나요?</summary>
-
-무료버전앱은 어플리케이션 정보를 확인하면 저장용량을 확인할 수 있습니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1-%EC%A0%80%EC%9E%A5%EC%9A%A9%EB%9F%89.png" alt="" data-size="original">
-
-안드로이드폰에 설치된 앱 아이콘을 길게 누르면 배너 창이 뜨며 느낌표 모양 아이콘 선택시 어플리케이션 정보 창에서 확인 가능합니다.
-
-무료버전앱은 안드로이드폰에서만 다운 가능하기 때문에 아이폰은 해당 사항 없습니다.
-
-유료버전앱으로 플레이스토어, 앱스토어에 출시된 앱은 출시 정보에 앱 용량이 기재되어 있습니다.
-
-아이폰은 앱스토어에 기재된 저장용량으로 확인해주시기 바랍니다.
-
-</details>
-
-<details>
-
-<summary>다운받은 앱 버전은 어디서 확인할 수 있나요?</summary>
-
-일반 프로토타입 앱, 푸시앱 중에서 '설정' 메뉴를 앱에 적용한 경우는 설정에서 버전을 확인할 수 있습니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%842.png" alt="" data-size="original">
-
-설정 메뉴를 적용하지 않은 앱, 웹뷰앱은 핸드폰 내부 기능인 어플리케이션 정보를 통해서 확인 가능합니다.
-
-\*안드로이드폰에 설치된 앱 아이콘을 길게 누르면 앱 정보를 확인할 수 있습니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%84.png" alt="" data-size="original">
-
-아이폰은 앱스토어를 통한 앱 다운만 가능하므로, 앱스토어에서 다운받은 버전으로 확인해주시기 바랍니다.
+After saving, press the Update button to re-create the new version.
 
 </details>
