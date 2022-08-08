@@ -1,159 +1,223 @@
-# App Creation FAQ
+# 회원가입 및 로그인 FAQ
 
 <details>
 
-<summary>Design Theme – Can a prototype only select one UI style?</summary>
+<summary>스윙투앱 홈페이지에 가입된 아이디(이메일)를 바꿀 수 있나요?</summary>
 
-Yes yes.
+기업 고객 중에서는 앱 담당자가 바뀌게 되면서 스윙에 가입된 아이디 변경을 요청하는 경우가 있습니다.
 
-Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
+아이디 변경은 개인정보 계정과 연결되어 있기 때문에 사용자분께서 직접 바꿀 수 없습니다.
 
-This prevents you from using a combination of styles.
+스윙투앱에 요청주시면 저희가 계정 변경 동의서를 보내드리고, 필요 서류를 받은 뒤 변경해드릴 수 있습니다.
 
-Sometimes there's a UI style that combines slides + towers.
-
-If you use this mix of styles, this is an app that has been developed separately through customization. Various styles can be applied through customization.
+비밀번호는 기존과 동일하며, 로그인 후 개인정보 변경에서 원하는 비밀번호로 다시 설정해주시면 됩니다.
 
 </details>
 
 <details>
 
-<summary>How many characters can I register for an app name?</summary>
+<summary>스윙투앱 홈페이지 회원 탈퇴는 어떻게 하나요?</summary>
 
-When building an app, there is no specific limit to the number of characters in the name.
+회원탈퇴는 **스윙 홈페이지 앱운영 페이지의 오른쪽 상단 프로필 선택 → 내정보 수정 →회원탈퇴 선택해주시면 됩니다.**
 
-However, if the number of characters that appear when you install the app on your phone is too long, the name will be truncated and displayed.
 
-**App/app titles vary slightly depending on the phone model, but can be between 9 and 11 characters long.**
 
-If the app name exceeds 10 characters, please make the app name less than 10 characters when you create the app, as the app name will be truncated and visible when you install the app on your phone.
+탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.
 
-</details>
-
-<details>
-
-<summary>I want to put an image full on the app home screen, but is there an optimized size?</summary>
-
-Images that go into the app don't have the recommended size.
-
-**Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
-
-In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
-
-**Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
-
-**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
-
-**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
-
-Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
-
-\* Please note that since the size varies by phone, the latest models may look a little shorter in length, except in the case of tablets.
+회원탈퇴시 제작한 앱, 컨텐츠가 모두 삭제되오니 신중하게 선택하시기 바랍니다.
 
 </details>
 
 <details>
 
-<summary>I can't delete the app.</summary>
+<summary><strong>스윙 홈페이지 회원 탈퇴 후 재가입이 가능하나요?</strong></summary>
 
-Uninstalling an app is only possible if you have at least 2 apps.
-
-If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;">\[Manage Retained Apps]</mark> page.
-
-\*Please note that paid users do not want the app to be uninstalled until the end of the paid period.
+탈퇴하신 아이디는 복구가 불가능하며, 추후 같은 아이디로 재가입 할 수 없습니다.
 
 </details>
 
 <details>
 
-<summary>The icon image is cropped from the phone and visible.</summary>
+<summary><strong>스윙투앱 홈페이지 계정- 비밀번호를 잃어버렸어요.</strong></summary>
 
-When creating an icon image, you need to put a background color and a center image in the background.
+스윙투 사이트 계정의 비밀번호를 잃어버렸다면!
 
-Make sure that the center image is not too large.
+**\[비밀번호 찾기]를 통해서 이메일로 임시 비밀번호를 찾아서 로그인 한 뒤, 내 정보 수정 \[새 비밀번호]를 변경해주시면 됩니다.**
 
-\*Important\* Background color is not transparent, but must be colored.
+***
 
-When installed on your phone, the app icon will be rounded to make it visible.
+1\) 홈페이지 접속 → 비밀번호 찾기 선택
 
-\- Reference images
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/55.png" alt="" data-size="original">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%EA%B0%80%EC%9D%B4%EB%93%9C1-519x1024.png" alt="" data-size="original">
+2\)이메일주소 입력 후, 해당 이메일로 임시 비밀번호 발급받기
 
-Therefore, if you work with the center image too large, it will be rounded and all the corners will be cut off.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="" data-size="original">
 
-Please design with that in mind.
+3\)비밀번호는 다시 \[내 정보 수정]페이지- 로그인정보에서 변경해주시면 됩니다.
 
-The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
+[https://www.swing2app.co.kr/view/myinfo\_login\_info](https://www.swing2app.co.kr/view/myinfo\_login\_info)
 
-<mark style="color:blue;">**\[Go to the app icon image creation guide]**</mark>
-
-</details>
-
-<details>
-
-<summary>What is the standby screen image that registers for basic information?</summary>
-
-The standby screen is the screen that is displayed during the loading time before the app is launched.
-
-For each type of mobile phone, the waiting screen is displayed in different Internet environments and the time it takes to see it varies.
-
-It should look as short as 1 to 3 seconds.
-
-Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
-
-Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
-
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B83.png" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
+<summary>홈페이지 간편로그인으로 가입시 비밀번호 찾기, 비밀번호 변경할 수 있나요?</summary>
 
-**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
+스윙투앱 홈페이지 - 간편 로그인은 네이버, 구글에서 사용하는 계정으로 연동하여 로그인을 하게 됩니다.
 
-However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
+따라서 비밀번호는 연결한 계정으로 확인해주셔야 합니다.
 
-Therefore, when working with standby screens, you should check and produce the standby screen guideline manual provided by the swing.
+(구글 계정이라면 구글 지메일로 들어가서 사용중인 계정 확인해주세요)
 
-Reference Image)
-
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/20dcb89afcf17106ac72ea410440d487.png?type=w966)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221214959655\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
-
-In the attached image, blue becomes the wallpaper. (Image that can be cropped)
-
-You just need to work on making sure that all the important image cuts are in the gray space. (Image shown on the actual screen)
-
-Usually, users work with the image to a large blue area, so the image is cropped and visible depending on the phone type.
-
-Therefore, please make a standby screen by checking the guidelines - how to make it.
-
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+스윙투앱에서는 계정만 연결하여 로그인한 것이기 때문에 비밀번호를 찾을 수 없으며, 비밀번호 변경도 불가합니다.
 
 </details>
 
 <details>
 
-<summary>Are there any restrictions on app updates?</summary>
+<summary>스윙투앱 홈페이지에서 부관리자로 로그인하는 방법 알려주세요.</summary>
 
-Yes, you can use it without restrictions.
+스윙투앱 홈페이지에서 부관리자로 로그인할 때는 로그인 화면에서 \[부관리자]로 선택해서 로그인해주세요.
 
-After you create the app, modify and update it, you are free to use it.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt="" data-size="original">
+
+1\)앱아이디: 관리자가 앱을 제작할 때 설정한 아이디를 입력합니다.
+
+→ 앱 아이디는 관리자가 앱을 제작할 때 앱제작 - 1단계 기본정보에서 입력한 아이디를 말합니다.
+
+2\)부관리자 아이디: 부관리자가 앱에서 회원가입한 아이디를 입력합니다.
+
+3\)비밀번호: 부관리자가 앱 회원가입시 설정한 비밀번호를 입력합니다.
+
+입력이 완료된 후 로그인 버튼을 눌러주시면 관리자 페이지로 이동합니다.
+
+\*주의사항: 앱 제작이 완료되어야 부관리자 로그인이 가능합니다.
+
+앱을 제작한 상태가 아닐 경우 앱 아이디가 인식이 되지 않아요, 따라서 앱을 제작해놓은 뒤 부관리자 로그인을 이용해주시기 바랍니다.
+
+앱을 관리하는 부관리자를 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
+
+☞[ \[부관리자 설정방법 포스팅 보러가기\]](http://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
 
 </details>
 
 <details>
 
-<summary>Where do I make modifications (updates) after app creation?</summary>
+<summary><strong>앱에서 부관리자로 로그인하는 방법 알려주세요.</strong></summary>
 
-The Swing-to-App does not have an app modification (update) task page.
+앱은 홈페이지와 달리 부관리자 전용 로그인 페이지가 있는 것이 아니구요.
 
-When making corrections, please do the same by going to the app creation page.
+**로그인 화면에서 부관리자로 지정된 사용자의 아이디, 비밀번호로 로그인을 하시면 됩니다.**
 
-You can overwrite existing apps and keep updating.
+이미 사용자에서 관리자로 등급 변경이 되었기 때문에, **일반방법으로 로그인하시면 등급이 ‘관리자’ 로 변경된 것을 확인할 수 있습니다.**
 
-After saving, press the Update button to re-create the new version.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/4.png" alt="" data-size="original">
+
+앱 부관리자 설정하는 방법은 해당 포스팅을 참고해주세요 ^^
+
+☞ [\[부관리자 설정방법 포스팅 보러가기\]](https://wp.swing2app.co.kr/documentation/appmanage/pushmember/associate-administrator/)
+
+</details>
+
+<details>
+
+<summary><strong>앱을 제작한 제작자도 앱에서 회원가입을 해야 앱 사용이 가능한가요?</strong></summary>
+
+네 앱을 제작한 관리자도 앱에서 회원가입을 하신 뒤, 앱 관리자로 설정하여 이용할 수 있습니다.
+
+\*웹과 앱이 서로 연동되어 있지 않습니다.
+
+앱을 설치하신 뒤 내가 만든 앱이라도 꼭 회원가입을 하고 앱을 이용해주세요.
+
+</details>
+
+<details>
+
+<summary><strong>앱에서 회원탈퇴는 어떻게 하나요?</strong></summary>
+
+앱 회원탈퇴는 \[설정]메뉴에서 가능합니다.
+
+앱에서 로그인이 된 상태로 \[설정] 메뉴를 보시면, \[회원탈퇴]메뉴가 있습니다.
+
+해당 메뉴를 선택하여 앱에서 회원탈퇴가 가능합니다.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1-%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4.png" alt="" data-size="original">
+
+회원 탈퇴는 앱에서 로그인이 되어 있어야 이용 가능합니다.
+
+회원가입이 안된 경우는 회원탈퇴의 개념이 없습니다.
+
+</details>
+
+<details>
+
+<summary>앱에서 비밀번호는 어떻게 찾나요?</summary>
+
+앱에서 비밀번호를 찾기 위해서는 아이디형태가 \*\*‘이메일’\*\*로 지정되어 있어야 합니다.
+
+임시 비밀번호를 가입된 이메일로 보낼 수가 있어요.
+
+앱을 실행하고 로그인 화면 하단에 보시면, ‘비밀번호찾기’ 버튼이 있습니다.
+
+해당 버튼을 선택하면 임시비밀번호를 가입한 이메일로 받을 수 있습니다.
+
+따라서 일반아이디로 아이디를 설정한 경우는 비밀번호 찾기를 이용하실 수 없으니 꼭 확인하시고 '아이디형태-이메일'로 설정해주세요.
+
+**☞** [**\[앱 비밀번호 찾기 상세 매뉴얼 보러가기\]**](http://wp.swing2app.co.kr/documentation/appoperation/app-password/)
+
+</details>
+
+<details>
+
+<summary>앱 프로필 사진 변경은 어떻게 하나요?</summary>
+
+**1.회원가입시 프로필 이미지 등록**
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png" alt="" data-size="original">
+
+회원가입시에는 상단 프로필 이미지 \[등록하기] 버튼을 선택하여 원하는 이미지를 등록할 수 있어요.
+
+**2.회원정보 수정: 가입 후 프로필 이미지를 변경**
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD.png" alt="" data-size="original">
+
+회원가입 후 로그인된 상태에서 프로필 이미지를 변경하고자 할 때는
+
+설정- 회원정보 수정 메뉴로 이동해주세요.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD1.png" alt="" data-size="original">
+
+회원정보수정 창에서 상단 프로필 이미지 \[등록하기] 버튼을 선택해서 프로필 이미지를 변경할 수 있습니다.
+
+이름(닉네임)도 해당 페이지에서 수정할 수 있습니다.
+
+[**\[앱 프로필 사진 등록 및 변경방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/appprofile-image/)
+
+</details>
+
+<details>
+
+<summary>앱에서 회원탈퇴 후 동일 아이디로 재가입할 수 있나요?</summary>
+
+가능 합니다.
+
+다만 동일 아이디로 재가입을 위해서는 관리자가 웹 대시보드- 회원조회에서 해당 회원(탈퇴한 회원) 정보를 모두 삭제해주셔야 합니다.
+
+[푸시&회원 → 회원조회 ](https://www.swing2app.co.kr/view/member\_list)→ 회원조회 목록에서 1)탈퇴한 해당 사용자를 선택해주시구요.
+
+회원정보 창 “계정 탈퇴 및 삭제” 메뉴에서 2) 회원삭제 버튼을 선택합니다.
+
+3\)”해당 아이디 및 모든 정보를 삭제합니다” 확인 버튼을 선택해주세요.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C3.png" alt="" data-size="original">
+
+\*탈퇴한 사용자라도 앱 데이터에 정보가 남아 있기 때문에 동일 아이디로 가입이 되지 않게 되요.
+
+따라서 동일 아이디로 재가입이 필요하다면, 회원 삭제를 통해서 회원 아이디 및 모든 정보를 앱에서 삭제해주셔야 합니다.
+
+[**\[앱 회원 탈퇴 후 동일 아이디 재가입 방법 매뉴얼 보러가기\]**](https://wp.swing2app.co.kr/documentation/appoperation/sameid-rejoin/)
 
 </details>
