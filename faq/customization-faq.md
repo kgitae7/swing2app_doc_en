@@ -1,4 +1,4 @@
-# 커스터마이징 관련 FAQ
+# Customization FAQ
 
 <details>
 

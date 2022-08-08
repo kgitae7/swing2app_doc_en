@@ -16,7 +16,7 @@
   * [앱스토어 FAQ](faq/faq-9.md)
   * [애드몹 FAQ](faq/faq-10.md)
   * [제휴프로그램 FAQ](faq/faq-11.md)
-  * [커스터마이징 관련 FAQ](faq/faq-12.md)
+  * [Customization FAQ](faq/customization-faq.md)
 
 ## Swing2App Manual <a href="#manual" id="manual"></a>
 
