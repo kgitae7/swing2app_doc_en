@@ -294,55 +294,55 @@ However, since it is a conversion to a free app, it is not possible to distribut
 
 <details>
 
-<summary><strong>스윙투앱서 제공하는 기능들은 모두 무료로 이용이 가능한가요?</strong></summary>
+<summary>Are all the features offered by the Swing-to-App free of charge?</summary>
 
-**네 무료로 모두 이용하실 수 있습니다.**
+**Yes, you can use them all for free.**
 
-스윙투은 앱제작 및 앱운영이 모두 무료로 제공됩니다.
+SwingTwo is free to create and operate apps.
 
-따라서 사용자분들은 이용제한 없이 무료로 모든 기능들을 이용해주시면 됩니다.
-
-</details>
-
-<details>
-
-<summary><strong>원스토어, 갤럭시스토어는 업로드 대행을 안해주나요? 어떻게 등록하나요?</strong></summary>
-
-네 원스토어와 갤럭시스토어 스윙투앱에서 업로드 대행을 하지 않습니다.
-
-사용자분이 직접 출시 진행해주셔야 합니다.
-
-원스토어, 갤럭시스토어 앱 등록방법은 당사 매뉴얼로도 제공해드리고 있으니 보시면서 진행해주시기 바랍니다.
-
-**☞** [**\[원스토어 앱 출시 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/onestore/)
-
-**☞**[**\[갤럭시스토어 앱 출시 방법 보러가기\]**](https://wp.swing2app.co.kr/knowledgebase/galaxystore/)\*\*\*\*
+Therefore, users can use all the functions for free without any restrictions.
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어에는 앱을 직접 올리고자 합니다. 어떻게 등록 할 수 있나요?</strong></summary>
+<summary>OneStore, Galaxy Store doesn't offer upload agencies? How do I register?</summary>
 
-앱제작 완료 후, 유료앱 이용권 구매 후 AAB파일을 등록하여 올릴 수 있습니다.
+Yes, we do not do upload from the OneStore and Galaxy Store Swing-to-App apps.
 
-플레이스토어 앱 등록(출시)방법은 매뉴얼로 제공해드리고 있습니다. (플레이스토어 앱 등록에 관련된 상담은 해드리지 않습니다)
+The user must proceed with the launch yourself.
 
-매뉴얼 보시면서 진행해주시기 바랍니다.
+The OneStore and Galaxy Store app registration methods are also provided in our manual, so please take a look at it.&#x20;
 
-**☞** [**\[플레이스토어 앱 출시방법\]**](https://wp.swing2app.co.kr/knowledgebase/playstore-apprelease/)
+**☞ **<mark style="color:blue;">**\[Go to see how to launch a one-store app]**</mark>&#x20;
+
+**☞ **<mark style="color:blue;">**\[Go to see how to launch the Galaxy Store app]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>무료버앱 공유 기능은 안드로이드폰에서만 가능한가요?</strong></summary>
+<summary>I want to upload the app directly to the Play Store. How can I register?</summary>
 
-네 무료버전앱에서의 공유하기(앱 공유, 게시판, 게시물 공유 등)기능은 안드로이드폰에서만 가능합니다.
+After the app is finished creating, you can register and upload the AAB file after purchasing the paid app subscription.
 
-안드로이드 ↔ 안드로이드 폰으로만 공유가 가능합니다.
+How to register (launch) a PlayStore app is provided in the manual. (We will not provide you with any consultation related to the registration of the Play Store app)
 
-아이폰은 무료버전앱 설치가 되지 않기 때문에 공유 기능을 이용할 수 없습니다. 앱스토어에 출시 후 이용 가능합니다.
+Please proceed by looking at the manual.&#x20;
+
+**☞ **<mark style="color:blue;">**\[How to launch the Play Store app]**</mark>
+
+</details>
+
+<details>
+
+<summary>Is the free app sharing feature only available on Android phones?</summary>
+
+The ability to share (app sharing, bulletin boards, post sharing, etc.) in the four free version apps is only available on Android phones.
+
+It can only be shared with Android Android ↔ phones.
+
+Since the iPhone does not install the free version of the app, you will not be able to use the sharing function. Available after launch on the App Store.
 
 </details>
 
