@@ -14,7 +14,7 @@
   * [무제한이용권 및 패키지상품 FAQ](faq/faq-7.md)
   * [플레이스토어 FAQ](faq/faq-8.md)
   * [앱스토어 FAQ](faq/faq-9.md)
-  * [애드몹 FAQ](faq/faq-10.md)
+  * [Admob FAQ](faq/admob-faq.md)
   * [Affiliate Program FAQ](faq/affiliate-program-faq.md)
   * [Customization FAQ](faq/customization-faq.md)
 
