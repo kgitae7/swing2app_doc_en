@@ -12,7 +12,7 @@
   * [유료이용 및 스토어업로드 FAQ](faq/faq-7.md)
   * [유료앱 이용권 및 티켓 FAQ](faq/faq-8.md)
   * [무제한이용권 및 패키지상품 FAQ](faq/faq-9.md)
-  * [플레이스토어 FAQ](faq/faq-10.md)
+  * [PlayStore FAQ](faq/playstore-faq.md)
   * [App Store FAQ](faq/app-store-faq.md)
   * [Admob FAQ](faq/faq-12.md)
   * [Affiliate Program FAQ](faq/faq-13.md)
