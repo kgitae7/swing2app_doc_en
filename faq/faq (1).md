@@ -1,159 +1,269 @@
-# App Creation FAQ
+# 유료앱 이용권 및 티켓 FAQ
 
 <details>
 
-<summary>Design Theme – Can a prototype only select one UI style?</summary>
+<summary>유료앱 이용권은 앱 하나에만 적용이 되나요?</summary>
 
-Yes yes.
+네 이용권 및 모든 유료 상품은 앱 하나당 적용이 됩니다.
 
-Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
-
-This prevents you from using a combination of styles.
-
-Sometimes there's a UI style that combines slides + towers.
-
-If you use this mix of styles, this is an app that has been developed separately through customization. Various styles can be applied through customization.
+예를 들어 3개의 앱을 스토어에 출시하고자 한다면, 앱 별로 이용권을 각각 구매해주셔야 합니다.
 
 </details>
 
 <details>
 
-<summary>How many characters can I register for an app name?</summary>
+<summary>유료앱 이용권을 구매하면 언제부터 이용기간이 적용되나요?</summary>
 
-When building an app, there is no specific limit to the number of characters in the name.
+유료앱 이용권은 구매 즉시 이용일수가 카운팅 됩니다.
 
-However, if the number of characters that appear when you install the app on your phone is too long, the name will be truncated and displayed.
+예를 들어 3월 4일에 결제를 했다면 4일부터 이용기간이 시작됩니다.
 
-**App/app titles vary slightly depending on the phone model, but can be between 9 and 11 characters long.**
-
-If the app name exceeds 10 characters, please make the app name less than 10 characters when you create the app, as the app name will be truncated and visible when you install the app on your phone.
+따라서 최종 앱 제작 후 결제해서 사용해주시기 바랍니다.
 
 </details>
 
 <details>
 
-<summary>I want to put an image full on the app home screen, but is there an optimized size?</summary>
+<summary><strong>유료앱 이용권 1개월은 30일 기준인가요?</strong></summary>
 
-Images that go into the app don't have the recommended size.
+1개월 이용권 30일 기준입니다.
 
-**Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
-
-In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
-
-**Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
-
-**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
-
-**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
-
-Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
-
-\* Please note that since the size varies by phone, the latest models may look a little shorter in length, except in the case of tablets.
+6개월은 180일 이용, 12개월은 360일 이용기간으로 적용됩니다.
 
 </details>
 
 <details>
 
-<summary>I can't delete the app.</summary>
+<summary>유료앱 이용권을 구매하면 앱이 바로 스토어에 출시되나요?</summary>
 
-Uninstalling an app is only possible if you have at least 2 apps.
+이용권을 구매했다고 바로 스토어에 출시되는 것은 아닙니다.
 
-If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;">\[Manage Retained Apps]</mark> page.
+이용권은 앱을 유료버전으로 전환하는 것이며, 출시를 원하는 스토어에 앱을 등록해야 출시됩니다.
 
-\*Please note that paid users do not want the app to be uninstalled until the end of the paid period.
-
-</details>
-
-<details>
-
-<summary>The icon image is cropped from the phone and visible.</summary>
-
-When creating an icon image, you need to put a background color and a center image in the background.
-
-Make sure that the center image is not too large.
-
-\*Important\* Background color is not transparent, but must be colored.
-
-When installed on your phone, the app icon will be rounded to make it visible.
-
-\- Reference images
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%EA%B0%80%EC%9D%B4%EB%93%9C1-519x1024.png" alt="" data-size="original">
-
-Therefore, if you work with the center image too large, it will be rounded and all the corners will be cut off.
-
-Please design with that in mind.
-
-The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
-
-<mark style="color:blue;">**\[Go to the app icon image creation guide]**</mark>
+플레이스토어 업로드티켓, 앱스토어 업로드티켓을 구매한 뒤 업로드 신청을 주시면 스토어 출시를 진행해드립니다.
 
 </details>
 
 <details>
 
-<summary>What is the standby screen image that registers for basic information?</summary>
+<summary>기본형 유료앱 이용권을 구매했다가 중간에 확장형 이용권으로 변경할 수 있나요?</summary>
 
-The standby screen is the screen that is displayed during the loading time before the app is launched.
+네 변경은 가능하오나, 현재 사용중인 이용기간이 종료되어야 다른 상품으로 변경이 됩니다.
 
-For each type of mobile phone, the waiting screen is displayed in different Internet environments and the time it takes to see it varies.
+이용기간 중에는 변경이 안되고, 기간이 종료된 후에 다른 이용권 상품으로 적용이 됩니다.
 
-It should look as short as 1 to 3 seconds.
-
-Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
-
-Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
-
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+기본형 이용권 외에 다른 상품 역시 사용중인 이용권의 이용기간이 종료된 후 변경 가능합니다.
 
 </details>
 
 <details>
 
-<summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
+<summary>플레이스토어 업로드티켓, 앱스토어 업로드티켓이란?</summary>
 
-**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
+스윙투앱에서 만든 **앱을 플레이스토어와 앱스토어에 등록해드리는 대행비입니다.**
 
-However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
-
-Therefore, when working with standby screens, you should check and produce the standby screen guideline manual provided by the swing.
-
-Reference Image)
-
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/20dcb89afcf17106ac72ea410440d487.png?type=w966)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221214959655\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
-
-In the attached image, blue becomes the wallpaper. (Image that can be cropped)
-
-You just need to work on making sure that all the important image cuts are in the gray space. (Image shown on the actual screen)
-
-Usually, users work with the image to a large blue area, so the image is cropped and visible depending on the phone type.
-
-Therefore, please make a standby screen by checking the guidelines - how to make it.
-
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+직접 출시하기 어려울 경우 해당 티켓을 구매하여 업로드 신청을 해주시면, 당사에서 대행해서 출시 해드립니다.
 
 </details>
 
 <details>
 
-<summary>Are there any restrictions on app updates?</summary>
+<summary>업로드 티켓은 앱 하나에만 적용이 되나요?</summary>
 
-Yes, you can use it without restrictions.
+업로드티켓은 1회 비용이며, 앱 하나에 적용이 됩니다.
 
-After you create the app, modify and update it, you are free to use it.
+여러 앱을 올려야 할 경우 해당 앱마다 업로드 티켓을 구매해야 합니다.
 
 </details>
 
 <details>
 
-<summary>Where do I make modifications (updates) after app creation?</summary>
+<summary>업로드 티켓 구매 후 어디서 업로드 신청을 하나요?</summary>
 
-The Swing-to-App does not have an app modification (update) task page.
+[\*앱운영→버전관리→앱제작이력](http://www.swing2app.co.kr/view/app\_work\_history) 메뉴로 이동한 뒤​ \[플레이스토어 업로드 신청], \[앱스토어 업로드 신청] 버튼을 선택해주세요.​
 
-When making corrections, please do the same by going to the app creation page.
+신청서에 내용을 기재한 뒤 업로드 신청을 완료합니다. ​
 
-You can overwrite existing apps and keep updating.
+신청 건이 접수되어야 업로드 작업을 해드릴 수 있기 때문에 결제 후 업로드 신청을 해주시기 바랍니다. ​
 
-After saving, press the Update button to re-create the new version.
+</details>
+
+<details>
+
+<summary>모바일 웹 등록 티켓이란?</summary>
+
+스윙투앱에서 만든 앱을 모바일 웹사이트로 만들어서 등록해드리는 서비스입니다.
+
+별도 도메인을 구매하고, 모바일 웹등록 티켓을 구매하여 모바일 웹 등록 요청을 해주시면 만든 어플을 해당 웹으로 그대로 연동해드립니다.
+
+</details>
+
+<details>
+
+<summary>모바일 웹 등록은 기본형 이용권에서는 신청 불가한가요?</summary>
+
+모바일 웹등록 신청은 확장형, 프리미엄 이용권 구매시에만 신청가능합니다.
+
+기본형 이용권에는 모바일웹 등록 신청이 적용되지 않으니 이용에 참고해주시기 바랍니다.
+
+</details>
+
+<details>
+
+<summary>모바일 웹 이용기간은 어떻게 되나요?</summary>
+
+모바일웹 이용기간은 유료앱 이용기간과 동일합니다.
+
+앱을 그대로 웹으로 연동한 것이기 때문에, 앱 유료이용기간이 끝나면 모바일웹도 동일하게 이용기간이 끝납니다.
+
+\*유료앱 이용기간이 1개월이면 모바일웹도 1개월동안 이용가능하며, 유료앱 이용권 재결제시 모바일웹도 자동으로 연장됩니다.
+
+</details>
+
+<details>
+
+<summary>모바일 웹 등록에 필요한 도메인이 있어야 하나요?</summary>
+
+네 모바일웹 등록 티켓 구매 전 도메인을 먼저 구매해주셔야 합니다.
+
+해당 앱을 연동할 수 있는 도메인을 별도 구매해주세요.​ \*카페24, 고도몰 등의 호스팅 업체
+
+도메인이 있어야 모바일 웹사이트로 연결을 할 수 있기 때문에 도메인을 먼저 구매한 뒤, 확장형 이상의 이용권과 모바일웹 등록 티켓을 구매하시면 됩니다.
+
+</details>
+
+<details>
+
+<summary>앱을 업데이트하면, 스토어 업로드티켓을 재구매해야 하나요?</summary>
+
+네 앱을 업데이트하실 경우 출시가 된 스토어에도 앱을 업데이트해야 하기 때문에 업로드 티켓 구매 후 업로드 재신청 주셔야 합니다.
+
+앱 업데이트 외에도 스토어에 출시된 앱 설명, 스크린샷 이미지 등을 수정하는 등의 내용도 업로드 티켓을 구매하여 재신청을 해주셔야 합니다.
+
+\*플레이스토어는 사용자가 직접 하실 경우 업로드티켓 구매하지 않아도 됩니다.
+
+\*앱스토어는 업로드 및 업데이트 대행만 가능하기 때문에 구매해야 합니다. \*업데이트도 심사 시간이 있으며, 앱 등록 심사 시간과 동일하게 소요됩니다.
+
+</details>
+
+<details>
+
+<summary>앱을 업데이트하면, 모바일 웹 등록 티켓도 재구매해야 하나요?</summary>
+
+네, 모바일 웹등록 티켓을 구매해서 업로드 신청주셔야 합니다.
+
+변경된 내용으로 모바일 웹도 업데이트 해드립니다.
+
+</details>
+
+<details>
+
+<summary>업로드티켓은 1회 비용인가요? (스토어, 모바일 웹등록 티켓)</summary>
+
+네 업로드티켓은 1회 비용입니다.
+
+(플레이스토어, 앱스토어, 모바일 웹 등록 티켓 모두 포함)
+
+앱 출시 후에, 업데이트가 필요할 경우 업로드 티켓을 재구매해서 업로드 신청을 다시 해주셔야 합니다.
+
+\*플레이스토어는 직접 업데이트 가능할 경우 업로드티켓을 구매할 필요 없이 직접 해주시면 됩니다.
+
+</details>
+
+<details>
+
+<summary>저장용량 추가 상품이란?</summary>
+
+앱 저장용량이 필요할 경우 용량만 추가할 수 있는 단품 상품입니다.
+
+월 단위로 이용하는 상품으로 1개월 단위로 적용됩니다.
+
+용량은 2GB 에서 \~ 100GB 까지 필요한 용량을 선택해서 구매할 수 있습니다.
+
+</details>
+
+<details>
+
+<summary>저장용량추가 상품은 1개월 동안 적용이 되나요?</summary>
+
+네 구매하신 용량은 1개월동안 이용할 수 있습니다.
+
+1개월 이후에 또 용량이 필요하다면 필요한 용량만큼 재구매해서 사용해주셔야 합니다.
+
+</details>
+
+<details>
+
+<summary>저장용량추가 상품은 여러 개 구매하면, 용량이 모두 합산되어 적용되나요?</summary>
+
+용량 추가 상품은 용량이 합산되어 들어가지 않습니다.
+
+예를 들어) 2GB 저장용량 상품을 3개 구입하였을 때 1개월 동안 2GB 용량 추가, 다음달에 또 2GB 추가 식으로 1개월씩 기간이 나눠서 들어갑니다.
+
+용량이 합산되어 6GB가 추가 되는 것이 아니며 1개월 씩 적용됩니다.
+
+따라서 큰 용량이 필요할 경우 5GB, 10GB 용량추가 상품을 구매해주세요.
+
+</details>
+
+<details>
+
+<summary>앱 용량이 초과되면 어떻게 되나요?</summary>
+
+앱에 제공되는 용량이 초과되면, 남은 앱 이용 일수와는 상관없이 앱 이용이 정지되오니 앱 용량을 항상 확인해주시기 바랍니다.
+
+\*용량이 초과되면 메일로 알려드립니다.
+
+\*추가 용량 상품을 구매하여 용량을 확보하거나, 리소스관리 페이지에서 용량이 큰 게시물을 삭제하여 용량을 관리할 수 있습니다.
+
+</details>
+
+<details>
+
+<summary>저장용량추가 상품 구매시 앱에 바로 반영되나요?</summary>
+
+네 자동으로 앱에 반영되어 구매하신 만큼의 용량이 추가됩니다.
+
+이용기간이 있는 상품이라 필요한 시기에 맞춰서 결제해주세요.
+
+</details>
+
+<details>
+
+<summary>SMS발송 티켓이란?</summary>
+
+앱 사용자에게 SMS 문자메시지를 발송할 수 있는 상품입니다.
+
+1,000건 발송에 20,000원입니다.
+
+</details>
+
+<details>
+
+<summary>SMS문자를 1,000건 보다 더 많이 보내야 할 경우 어떻게 구매하면 되나요?</summary>
+
+결제시 구매수량을 체크하여 발송건수를 더 많이 구매할 수 있습니다.
+
+예) 구매수량 2개 체크시, 2,000건으로 구매되며 비용은 40,000원으로 계산됩니다.
+
+</details>
+
+<details>
+
+<summary>SMS문자는 어떻게 차감이 되고, 어디서 남은 수량을 체크하나요?</summary>
+
+SMS인증 발송을 할 때마다 차감이 되며, 문자 메시지 역시 보내는 메시지 개수에 따라 차감이 됩니다.
+
+SMS 발송수량은 [스윙 앱운영페이지→ 결제→ 결제 상품 이용현황](http://www.swing2app.co.kr/view/payment\_use\_stat\_view) 페이지에서 남은 잔여 수량을 확인할 수 있습니다.
+
+</details>
+
+<details>
+
+<summary>SMS 발송 상품 구매시 바로 발송가능한가요? 어디서 보낼 수 있나요?</summary>
+
+\[SMS메시지 발송] 상품 구매시 자동으로 관리자페이지에 반영되며, 바로 앱 회원에게 문자를 보낼 수 있습니다.
+
+문자메시지는 [앱운영→ 푸시&회원→ 푸시발송하기→ SMS 발송](http://www.swing2app.co.kr/view/push)에서 보낼 수 있습니다.
 
 </details>

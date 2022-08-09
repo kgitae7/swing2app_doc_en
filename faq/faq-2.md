@@ -1,233 +1,235 @@
-# 무제한이용권 및 패키지상품 FAQ
+# Billing FAQs
 
 <details>
 
-<summary>푸시 무제한 유료앱이란?</summary>
+<summary>Payment of Subscription – Passless Deposit Method</summary>
 
-푸시 전용으로 제작한 앱에 한해서 구매할 수 있는 이용권으로, 기간 제한이 없는 상품입니다.
+When you proceed to pay for the swing pass by depositing it without a pass!!
 
-매월 비용을 내지 않아도 이용 기간 제한 없이 무제한으로 앱을 이용할 수 있습니다.
+Select a product on the payment page, select a payment method with a passless deposit→→ confirm your phone number and the confirmation page will pop up the confirmation page for your deposit account and payment information.
+
+The user can check the payment information and make a deposit to the account.
+
+After the passless deposit is completed, you will need to select the \[Send deposit completion email to administrator] button.
+
+You only need to press the button to check the details of your deposit and put the pass directly in.
+
+(See image)
+
+[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/fdfa55db750c4ddf08437d1f399bf98c.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&Redirect=View\&logNo=220719686112\&categoryNo=49\&isAfterWrite=true\&redirect=View\&widgetTypeCall=true\&directAccess=false)
+
+\* If you make a passless deposit without going through the payment page, please send a deposit confirmation e-mail to Swing
+
+Example) Hello I just deposited 33,000 won in OOO name.
+
+\*Swing Account: App name to be used: Purchased product:
+
+If you don't send us this email, we won't be able to see which customers have paid for which products or which apps they need to apply to.
+
+Therefore, please be sure to send us a confirmation email.&#x20;
+
+**\*E-mail address:** <mark style="color:blue;">help@swing2app.co.kr</mark>
 
 </details>
 
 <details>
 
-<summary>웹뷰 무제한 유료앱이란?</summary>
+<summary>Refund Policy</summary>
 
-웹뷰 전용으로 제작한 앱에 한해서 구매할 수 있는 이용권으로, 기간 제한이 없는 상품입니다.
+Unused passes and tickets purchased from the Swing-to-App can be refunded.
 
-매월 비용을 내지 않아도 이용 기간 제한 없이 무제한으로 앱을 이용할 수 있습니다
+Please note, however, that no refunds will be given after the vouchers and prizes have been used.
 
-</details>
+**1) The refund can be fully refunded on the day of purchase of the paid subscription, but no refund will be made if the number of days of use is deducted by even one day.**
 
-<details>
+**2) When purchasing discounted products, no installment refund will be made for the remainder of the period after the date of use has commenced even for a single day.**
 
-<summary>웹뷰, 푸시 무제한 이용권 구매시 스토어 업로드티켓은 따로 구매해야 하나요?</summary>
+**3) If the payment was made by credit card or electronic payment, if the refund is made after 30 days of the payment date, the refund will be processed in the amount excluding the 10% card fee.**
 
-웹뷰, 푸시 전용 무제한 유료앱 상품에는 업로드티켓(플레이스토어, 앱스토어)이 포함되어 있지 않습니다.
+**4)Unused tickets are 100% refundable.**
 
-플레이스토어, 앱스토어 등 출시 및 업데이트를 원하는 스토어 업로드 티켓 구매 후 신청해야 합니다.
+Even if your app isn't released to the Store, agency fees won't be refunded for apps that have used a ticket to register for the Store.
 
-업로드티켓이 함께 포함된 무제한 패키지 상품을 구매하는 것을 추천 드립니다.
+**5) For free passes and tickets received free of charge, such as coupons, even if you have not used them, there will be no refund.**
 
-[\[패키지 상품 구매 페이지 이동\]](http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_voucher)
-
-</details>
-
-<details>
-
-<summary>웹뷰, 푸시 무제한 이용권 구매 시 이후 앱 이용에 들어가는 비용은 없나요?</summary>
-
-네, 무제한 상품이기 때문에 이용권 구매 시 평생 이용 가능합니다.
-
-추가로 납부해야 하는 이용 비용은 없습니다.
-
-단, 앱이 업데이트 될 경우 스토어별로 앱 업데이트를 해야 하기 때문에 앱스토어 업로드티켓, 플레이스토어 업로드티켓 등의 부가 상품 구매는 필요할 수 있습니다.
+\*To apply for a refund, please refer to the 'How do I get a refund' section below.
 
 </details>
 
 <details>
 
-<summary>안드로이드 혹은 아이폰 무제한 상품을 이용하다 통합형(안드로이드+아이폰)으로 변경할 수 있나요?</summary>
+<summary>How do I get a refund? </summary>
 
-네 가능합니다.
+<mark style="color:blue;">Payment - When you enter \[My Payment Status], the \[Request for Refund]</mark> button will pop up for the product you have paid.
 
-예를 들어 \[푸시전용 무제한 안드로이드 250,000원] 사용 중에 아이폰을 추가할 경우→ \[푸시전용 무제한 아이폰 350,000원] 상품을 구매해주시면 됩니다.
+You can get a refund by selecting the Request a Refund button.
 
-해당 상품을 추가로 구매하시면 통합형으로 함께 사용 가능합니다.
+\*At this time, you can only apply for a refund for unused tickets and tickets.
 
-그리고 앱스토어 업로드티켓(20,000원)도 별도 구매해야 합니다.
+The Request a Refund button does not appear for used tickets!
 
-(앱스토어 업로드 출시 대행 비용)
+Even if the refund application is completed in the swing, the cancellation authorization may take 1 to 4 days, depending on the card company.
 
-다만 이렇게 각각의 상품을 따로 구매할 경우 통합형보다 비용이 비싸기 때문에 안드로이드+아이폰 운영을 다 하실 예정이라면 처음부터 통합형을 구매해서 사용하시는 것이 비용이 더 절감됩니다.
+For passless deposits and real-time bank transfers, simply apply for a refund and email the bank name and account number to be refunded to the Swing Help Center.&#x20;
 
-</details>
+**Email**: <mark style="color:blue;">help@swing2app.co.kr</mark>
 
-<details>
-
-<summary>웹뷰, 푸시 무제한 이용권 구매시 앱은 무제한으로 바로 전환되나요?</summary>
-
-개발팀에서 무제한 서버를 따로 넣어 드리기 때문에 결제가 완료되더라도, 바로 전환이 되지 않습니다.
-
-1시간\~2시간 이내로 개발팀에서 별도로 처리해드리며, 안내메일을 드린 이후부터 무제한 이용기간이 적용된 앱으로 이용 가능합니다.
+After the contact person confirms, we will re-deposit the refund amount within the same day.
 
 </details>
 
 <details>
 
-<summary>스토어에 출시가 되어 있는 앱도 웹뷰, 푸시 무제한 이용권 구매 후 업데이트를 꼭 해야하나요?</summary>
+<summary>Where do I pay?</summary>
 
-무제한 서버를 따로 넣어드리는 작업이 필요하기 때문에 앱 업데이트는 필수입니다.
+For payment, you can see the app operation page – at the top of the dashboard, there is a \[Payment] menu.
 
-따라서 업데이트 된 버전의 앱으로 플레이스토어, 앱스토어에 다시 업데이트 해주셔야 합니다.
+Go to the Swing Pass, Ticket Purchase page/Swing Plugin purchase page, select the product you want and pay for it. Payment methods include \[Credit Card Payment, Mobile Phone Payment, Passless Deposit, Kakao Pay, Swing-to-App Electronic Payment (Pay App)]. You can choose a convenient method and make a payment.
 
-새 버전 앱을 스토어에 올려서 업데이트해야 기존 사용자들이 업데이트를 받아 이용할 수 있으며, 신규 사용자 역시 푸시 무제한이 적용된 앱으로 이용할 수 있습니다.
+Mobile phone payment is not more than 50,000 won, so please use other methods such as card payment, pay app, Kakao Pay, Passless deposit, etc.
 
-</details>
+Mobile phone micropayments are not available to SKT carriers, so please understand the benefits. (LG, KT only)\\
 
-<details>
+Once the payment confirmation is complete, we will add the product as your username.
 
-<summary>기본형 이용권 이용 중에도 무제한 상품으로 변경이 가능한가요?</summary>
+**Passbook-free deposits may take some time outside business hours, weekends and holidays because the person in charge will add the voucher after the deposit has been confirmed.**&#x20;
 
-네 가능합니다.
-
-기본 이용권을 사용하고 있다가, 이용이 종료될 시점에 무제한 상품으로 변경하여 구매 가능합니다.
-
-단, 남은 이용기간에 대해서는 부분 환불이 불가하기 때문에 이용기간이 모두 종료된 후 해당 상품을 구매하시는 것을 권장 드립니다.
-
-(부분 환불이 안 되는 것이 괜찮으시면 이용 중에도 바로 구매가 가능합니다.)
+<mark style="color:blue;">Payment</mark> – You can check your purchases and products in \[My Payment Status].
 
 </details>
 
 <details>
 
-<summary>무제한 통합형을 쓰다 아이폰이나 안드로이드 하나의 플랫폼으로만 변경할 수 있나요?</summary>
+<summary>I paid for a fee. When will the number of days of use be counted?</summary>
 
-해당 경로로 변경하는 것은 불가합니다.
+Paid subscriptions are counted for days from the date of payment of the subscription.
 
-사용자가 개별적으로 출시된 스토어에서 앱을 삭제하거나 게시 취소하여 보이지 않게 설정할 수 있습니다.
+For example, if you paid on March 4th, the period starts on the 4th of March.
 
-예를 들어 플레이스토어 안드로이드폰만 이용하고, 앱스토어 이용을 중단할 경우 앱스토어에 출시된 앱을 내리는 방법으로 진행할 수 있습니다.
-
-앱을 이용중인 사용자 폰에서 이용을 중단하는 등의 조치는 해드리지 못하며, 이용을 하지 않는 무제한 유료앱 상품 가격만큼의 비용을 차감하여 환불해드리지는 않습니다.
+So if you need to put an app on your stove, make sure you've finished building the app and then buy a paid subscription and upload ticket.
 
 </details>
 
 <details>
 
-<summary>웹뷰, 푸시 무제한 이용권 구매 후 진행단계를 알려주세요.</summary>
+<summary>How are the days of use handled during the App Store and Play Store review period?</summary>
 
-1\)앱제작 완료 후 푸시전용 무제한 이용권과 스토어 업로드티켓을 구매해주세요.
+The App Store and Play Store review period takes about a week.
 
-혹은 업로드티켓이 모두 포함된 패키지 상품을 구매하는 것을 추천 드립니다.
+During the examination period, the number of days of use of the pass will be deducted as it is.
 
-2\) 무제한 이용권 구매시, 개발팀에서 무제한 서버를 따로 넣어드리며, 앱을 새 버전으로 다시 제작해드립니다.
+**Even if the app has not been released to the Store, the number of days of use will be counted because the app must operate normally during the review period.**
 
-(1\~2시간 소요, 업무시간 외 신청시 셋팅 시간이 지연될 수 있습니다.)
+Therefore, we will not supplement the review period of the app.
 
-즉, 무제한 이용권은 결제가 완료되더라도 즉시 이용이 되지 않습니다.
-
-3\)작업이 완료되면 완료 안내 메일을 사용자분께 발송드립니다.
-
-완료 메일을 받은 이후부터 무제한 이용 기간이 적용된 앱으로 이용 가능합니다.
-
-4\)안내 메일을 통해 스토어 출시 방법 및 업로드 신청방법을 기재해서 보내드리기 때문에 내용을 확인하여 업로드 신청을 해주세요.
-
-업로드 신청을 받아 플레이스토어, 앱스토어 등에 앱을 출시할 수 있습니다.
+Users may want to think about the review period in advance and use it as a way to add more tickets in time for the completion of the review.
 
 </details>
 
 <details>
 
-<summary>애드몹 파워 패키지 상품 구매 후, 애드몹 광고는 어떻게 셋팅하나요?</summary>
+<summary>How do I use the voucher coupon I received from Swing?</summary>
 
-애드몹 파워 패키지 상품 페이지에 \[구매하기] 버튼을 선택하면, 상품 상세 설명 및 애드몹 플러그인 광고 셋팅방법을 확인할 수 있습니다. ​
+When you receive a swing coupon by email, the coupon has a serial number.&#x20;
 
-상품 구매 후, 앱에 애드몹 광고를 직접 셋팅할 수 있으며 아래 매뉴얼을 통해서도 광고 셋팅 방법을 상세히 확인할 수 있습니다. ​
+**Swing homepage payment -** <mark style="color:blue;">\[Use coupon]</mark> \*\*\*\* Go to the menu, enter the serial number listed on the coupon and use the coupon.
 
-[\[애드몹 플러그인 광고 셋팅 방법\]](https://wp.swing2app.co.kr/knowledgebase/admob-apply/)
-
-</details>
-
-<details>
-
-<summary>패키지 상품에 제공되는 업로드 티켓은 1회분만 제공이 되나요?</summary>
-
-네 1회분 제공이며, 앱 최초 등록(출시) 후에 업데이트가 필요할 경우 스토어별 업로드티켓을 구매한 뒤 업로드 재신청해주셔야 합니다.
-
-\-앱스토어 업로드티켓: 20,000원
-
-\-플레이스토어 업로드티켓 : 10,000원
-
-\*플레이스토어는 사용자가 직접 하실 경우 업로드티켓 구매하지 않아도 됩니다
+The coupon has a redemption period, so be sure to check the expiration date. The applied product can be checked in the Payment - <mark style="color:blue;">\[My Payment Status]</mark> menu.
 
 </details>
 
 <details>
 
-<summary>알뜰형 패키지 상품은 기본형 이용권과 다른 이용권이 적용되나요?</summary>
+<summary>How do I get a tax invoice or cash receipt after making a passless deposit?</summary>
 
-네 기본형 상품과는 제공되는 서비스가 조금 다릅니다.
+When depositing a passbook, a tax invoice and a cash receipt can be issued.
 
-앱 용량 500MB, 채팅방 4개 개설, 게시판 제작 개수 50개까지만 가능합니다.
+**After the deposit is completed, you can request \[Tax Invoice] or \[Cash Receipt] from the receipt item by going to the App Operation Page → Payment → Payment Status.**
 
-제공되는 서비스가 다르기 때문에 상품 상세 내용을 반드시 확인한 뒤 구매해주시기 바랍니다.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD.png" alt="" data-size="original">
 
-</details>
+**If you need a tax invoice, please request it using the above method and we will help you issue it right away.**
 
-<details>
+**\*Instructions**
 
-<summary>어떤 경우에 패키지 상품을 구매할 수 있나요?</summary>
+1\) The issuance of the tax invoice will be issued on the basis of the date on which the payment was made, but if you request it after the actual payment date, it will be issued on the date of the request.
 
-패키지 상품은 일반 프로토타입으로 제작한 앱에서만 구매가 가능합니다.
+**2) If the payment date is more than a month, the tax invoice cannot be issued. (It can only be issued 30 days before the payment date.)**
 
-\-적은 용량을 사용하고 앱 이용기간이 많이 필요하다면 : 알뜰형 패키지 330,000원 상품 추천
+3\) The tax invoice will be issued as an electronic tax invoice and will be issued to the e-mail address you requested, so please provide the correct e-mail address upon request.
 
-\-많은 용량을 사용할 때는 : 대용량 패키지 550,000원 상품 추천
+4\) Invoice issuance – Only one of the tax invoices / cash receipts can be issued.
 
-\-애드몹 적용한 수익형 앱을 운영할 때는 : 애드몹 파워 패키지 580,000원 상품을 추천합니다.
+5\) When the issuance is completed, you can check the image of the copy of the tax invoice or cash receipt issued in My Payment Status.
 
-각 상품에 대한 소개 및 상세 안내는 아래 가격 정책을 참고해주세요.
+**If you can't request it directly!**&#x20;
 
-[\[스윙 패키지 상품 보러가기\]](http://www.swing2app.co.kr/view/shop\_list\_by\_package)
+After depositing, you can also send us your <mark style="color:blue;">help@swing2spp.co.kr</mark> business registration certificate by e-mail.
 
-</details>
+Simply include your business registration certificate and tax invoice along with the email address you will receive, the name of the app you paid for, and your swing account (email address)
 
-<details>
-
-<summary>푸시,웹뷰앱은 패키지 상품 구매가 불가한가요?</summary>
-
-네 푸시, 웹뷰로 제작한 앱은 구매할 수 없습니다.
-
-패키지 상품은 일반 프로토타입- 탑, 푸터, 슬라이드, 드롭다운 리스트&박스로 제작한 앱에서만 구매할 수 있습니다.
+​
 
 </details>
 
 <details>
 
-<summary>패키지 상품 이용 중 다른 유료앱 이용권으로 변경할 수 있나요?</summary>
+<summary>Will I get a discount on my long-term paid app subscription?</summary>
 
-사용중인 패키지 유료앱 이용기간이 종료된 후 다른 이용권으로 구매 및 적용 가능합니다.
+If you look at the prices of your products, we offer 6 months and 12 months at a discount.
 
-패키지 상품 이용 중에는 다른 이용권으로 변경이 불가하오니, 이용기간이 종료된 후 이용해주세요.
+\-19-20% discount on 6-month subscription purchase
+
+\-26%-30% discount on 12-month subscription purchase
+
+You can buy a 1-month pass cheaper than you would for a 1-month pass, and the discount rate varies from product to product, so please check the price and proceed with your purchase.
 
 </details>
 
 <details>
 
-<summary>구글 애드몹 플러그인 상품 외에 유료앱 이용권, 스토어 업로드 티켓은 별도 구매해야 하나요?</summary>
+<summary>After I purchase my subscription, where can I find out how long I want to use it?</summary>
 
-네 해당 상품은 애드몹 셋팅만 진행해드리는 플러그인 상품입니다.
+When you purchase an item, the top of the dashboard lists the name of the purchased product and the expiration date of the app.&#x20;
 
-유료앱 이용권, 업로드 대행비가 포함되어 있지 않습니다.
+And \*<mark style="color:blue;">Payment-My Payment Status</mark> allows you to check the usage period along with the detailed payment status of the purchased product.
 
-\*이용권, 애드몹, 스토어 업로드 티켓이 모두 포함된 애드몹 파워패키지 상품을 권장드립니다.
+</details>
 
-플레이스토어, 앱스토어 출시를 하기 위해서는 업로드 신청을 해주셔야 합니다.
+<details>
 
-\-플레이스토어 업로드 티켓, 앱스토어 업로드 티켓 구매 후 신청
+<summary>Will I be automatically charged when I purchase an extended subscription to a paid app?</summary>
 
-\-플레이스토어는 직접 등록 및 업데이트가 가능할 경우 티켓 구매가 필요없으며 앱스토어는 대행만 가능합니다.
+It's not an automatic payment.
+
+Therefore, after confirming the date of use, you must re-purchase on the site before the expiration of the period to extend the period of use.
+
+Please check the date of use correctly and make your payment.
+
+</details>
+
+<details>
+
+<summary>What happens to the app if I don't pay for it again before the expiration of the paid app period?</summary>
+
+When the paid period ends, the app will also be suspended.
+
+The app will not be deleted, so if you repurchase your subscription, the app will automatically be restored and run normally.
+
+The number of days you can use the paid app is listed on the dashboard screen at the top of the Swing-to-App site app operation.
+
+From the date of use D-7, you will receive an e-mail announcing the end of the service period, so you can pay before the end of the use date.
+
+</details>
+
+<details>
+
+<summary>Where do I register and edit my payment card?</summary>
+
+Homepage App Operation - Select Profile in the top right corner - When you select a payment card, you will be taken to the payment card registration page. <mark style="color:blue;">http://www.swing2app.co.kr/view/hs\_cms\_member\_setting</mark>
+
+From that page, you can modify, register, or delete your card information.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B9%B4%EB%93%9C%EB%93%B1%EB%A1%9D-1.png" alt="" data-size="original">
 
 </details>
