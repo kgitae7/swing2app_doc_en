@@ -1,231 +1,227 @@
-# 플레이스토어 FAQ
+# PlayStore FAQ
 
 <details>
 
-<summary><strong>스윙투앱에 플레이스토어 업로드 신청을 하면 바로 앱이 출시되나요?</strong></summary>
+<summary>If I apply for a PlayStore upload to the Swing-to-App app, will the app be released immediately?</summary>
 
-스윙투앱에서 대행해서 앱을 플레이스토어에 업로드 진행해드리는데요.
+We'll act on behalf of Swing-to-App and upload the app to the Play Store.
 
-바로 출시되는 것이 아니라 구글 앱 심사를 받게 됩니다.
+It's not going to be released right away, it's going to be reviewed by Google apps.
 
-**구글 앱 심사는 평균 일주일 정도 시간이 걸립니다.**
+**Google app screening takes an average of about a week.**
 
-**따라서 업로드를 한다고 해서 앱이 바로 출시되는 것이 아니구요.**
+**So uploading doesn't mean your app will be released right away.**
 
-**심사 후 문제가 없으면 해당 심사 기간(7일 이내) 후에 스토어에 출시가 됩니다.**
+**If there are no issues after the review, it will be released to the Store after the review period (within 7 days).**
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어 앱 심사 기간은 얼마나 소요되나요?</strong></summary>
+<summary>How long does it take to review a Play Store app?</summary>
 
-플레이스토어 심사 기간은 **평균 일주일 소요됩니다. (7일 이내)**
+The average review period for a **Play Store takes a week. (within 7 days)**
 
-심사시 문제가 없을 경우 위의 심사 기간 후에 바로 출시가 되지만, 플레이스토어 심사가 거절 될 경우 출시일은 더 늦어질 수 있습니다.
+If there are no issues with the review, the release will be released immediately after the above review period, but if the PlayStore review is rejected, the release date may be further delayed.
 
-시간 여유를 두시고 신청해주세요.
-
-</details>
-
-<details>
-
-<summary><strong>플레이스토어 앱 업로드시, 구글 개발자 계정을 꼭 만들어야 하나요?</strong></summary>
-
-구글(플레이스토어)은 대리등록이 되지 않으며 사용자가 직접 구글 개발자 계정을 만들어야 합니다. \_구글 정책 사항
-
-플레이스토어 업로드시 신청양식에 – 구글 개발자 계정 아이디, 비밀번호를 기재해주시면 사용자 계정으로 앱을 등록해드립니다.
-
-**☞** [**구글 개발자 계정 등록 방법 확인하기**](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
+Please allow some time to apply.
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어 구글 개발자 계정은 어떻게 만드나요?</strong></summary>
+<summary>When uploading a Play Store app, do I have to create a Google developer account?</summary>
 
-**\*플레이스토어 개발자 계정 등록 방법**
+Google (Play Store) is not registered as a proxy and you must create your own Google developer account. \_Google Policy Matters
 
-1\. 구글 계정(gmail)을 만들어주세요. (기존에 지메일이 있다면 따로 가입할 필요없습니다.)
+When uploading to the Play Store, please fill in the application form – Google Developer Account ID and Password and we will register the app with your user account.&#x20;
 
-2\. 개발자 콘솔 사이트 접속 [https://play.google.com/apps/publish/](https://play.google.com/apps/publish/)
-
-3\. 개발자 등록 평생이용권 25$결제해주시면 됩니다.
-
-4.개발자 프로필 입력하면 완료됩니다.
-
-개발자 계정을 만들면 사용자가 직접 앱을 올릴 수 있으며, 스윙에 마켓업로드 티켓을 구매하지 않고도 수시로 수정해서 새로운 버전의 앱으로 업데이트 할 수 있는 장점이 있습니다.
-
-또한 직접 앱을 관리하면서 앱 설치 및 통계 자료를 직접 확인할 수 있습니다.
-
-**☞** [**\[구글 개발자 등록방법 GO\]**](https://wp.swing2app.co.kr/knowledgebase/google-developer/)
+**☞ **<mark style="color:blue;">**Find out how to register for a Google Developer Account**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어 개발자 이름을 바꾸고 싶어요.</strong></summary>
+<summary>How do I create a Play Store Google Developer Account?</summary>
 
-구글은 처음 가입한 개발자 이름을 수정하여 사용할 수 있어요.
+\*How to register for a PlayStore developer account
 
-구글 개발자 콘솔사이트 접속([https://play.google.com/apps/publish/)](https://play.google.com/apps/publish/\)) 한 뒤 **대시보드의 화면 왼쪽의 \[설정]→ \[개발자계정] → 개발자 페이지 이동합니다.**
+1\. Create a Google account (gmail). (If you already have Gmail, you don't need to sign up.) 2. <mark style="color:blue;">https://play.google.com/apps/publish/</mark> to access the developer console site
 
-개발자 페이지에서 – 개발자 이름을 수정한 뒤 \[저장] 버튼을 누르면 완료됩니다.
+3\. Developer Registration Lifetime Pass is $25 payment.
 
-개발자 페이지는 이름 외에도 주소, 연락처 등을 수정하여 사용할 수 있어요.
+4.Enter your developer profile and you're done.
 
-**개발자 이름은 수정 후 반영시간 1일(보통 몇시간) 내에 반영됩니다.**
+The advantage of creating a developer account is that users can upload their own apps, and they can modify them from time to time and update to a new version of the app without having to buy a market-upload ticket for Swing.
 
-개발자 이름 변경방법 상세 방법은 해당 매뉴얼을 참고해주세요.
+You can also manage your own apps while checking your own app installations and statistics.&#x20;
 
-**☞** [**\[구글 개발자 이름 변경하기 매뉴얼\] 보러가기**](https://wp.swing2app.co.kr/knowledgebase/playstore-changename/)
-
-</details>
-
-<details>
-
-<summary><strong>플레이스토어 등록시 키워드 등록은 어떻게 하나요?</strong></summary>
-
-구글 플레이스토어 마켓 업로드 등록정보는 애플과 다르게 키워드를 입력하는 란이 없습니다.
-
-대신 구글에서 고객님의 다른 정보 등을 기반하여 색인(키워드추출) 작업을 통해서 키워드를 만들어 나갑니다.
-
-따라서 마켓 업로드 등록정보가 매우 중요하겠죠?
-
-간단한 안드로이드 마켓 업로드 등록 팁을 링크해드립니다\*\*.\*\*
-
-**☞** [**\[플레이스토어 검색 잘되는 TIP\]**](https://wp.swing2app.co.kr/knowledgebase/playstore-searchtip/)
+**☞ **<mark style="color:blue;">**\[How to register a Google developer GO]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어는 스윙에 대행하지 않고 사용자가 직접 앱을 올릴 수 있나요?</strong></summary>
+<summary>I want to rename the PlayStore developer</summary>
 
-네네 직접 할 수 있습니다.
+Google can modify the name of the first developer you signed up for and use it. Google Developer ConsoleAfter accessing the site (<mark style="color:blue;">https://play.google.com/apps/publish/</mark>), **go to \[Settings] on the left side of the screen → the dashboard → \[Developer Account] and the Developer Page.**
 
-플레이스토어는 구글 개발자 계정만 있다면, 사용자가 직접 업로드를 진행할 수 있습니다.
+On the developer page – edit the developer name and click the Save button to finish.
 
-**\[플레이스토어 업데이트 매뉴얼]**
+In addition to the name, the developer page can be used by modifying the address, contact information, etc.
 
-[https://wp.swing2app.co.kr/knowledgebase/palystore-update/](https://wp.swing2app.co.kr/knowledgebase/palystore-update/)
+**Developer names are reflected within 1 day (usually a few hours) of reflection time after modification.**
 
-플레이스토어에 앱을 출시하는 방법은 도움말 매뉴얼에도 기재가 되어 있기 때문에 해당 매뉴얼을 보면서 따라하실 수 있습니다.
+For more information on how to change a developer's name, please refer to the manual.&#x20;
 
-직접 업로드가 어렵다면 스윙으로 업로드 대행을 요청할 수 있습니다.
-
-(플레이스토어 업로드 대행비용: 1회 10,000원)
+**☞ Go to the **<mark style="color:blue;">**\[Google Developer Name Change Manual]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어에 출시된 앱은 어떻게 업데이트 하나요?</strong></summary>
+<summary>How do I register keywords when registering for the Play Store?</summary>
 
-플레이스토어에 앱을 새로 업데이트 하려면, 업로드 재신청을 해주세요.
+The Google Play Store Market upload registration does not have a keyword entry field unlike Apple's.
 
-플레이스토어 업로드 신청 티켓 (1회 10,000원)을 구매한 뒤 업로드 재신청을 해주시기 바랍니다.
+Instead, Google creates keywords based on your other information, etc., through indexing (keyword extraction) operations.
 
-플레이스토어는 사용자의 개발자계정이 다 있고 직접 업로드를 할 수 있기 때문에 업데이트를 직접 해주셔도 됩니다.
+So the market upload registration is very important, right?
 
-**직접 하실 경우는 업로드 티켓을 구매하지 않아도 되며, 수시로 업데이트하실 수 있어요.**
+Here is a link to a simple Android Market upload registration tip\*\*.\*\*&#x20;
 
-새로운 버전의 앱을 플레이스토어에 업데이트 하는 방법은 간단합니다.
-
-\-구글 개발자 콘솔 사이트에 로그인 한 후 프로덕메뉴에서 새로운 버전의 앱을 등록합니다.
-
-\-업데이트도 재심사가 들어가며 2-3일 정도 소요됩니다.
-
-**\*스토어 등록정보도 수정가능합니다.**
-
-스토어에 올린 – 앱 설명, 스크린샷 이미지, 카테고리 등을 변경 하면 상단에 \[업데이트 제출] 버튼이 활성화 됩니다.
-
-aab파일 업로드와는 다르게 스토어 정를 수정한 경우 해당 버튼을 눌러야만 업데이트가 처리됩니다.\
-\
-[**\[플레이스토어 앱 업데이트 매뉴얼 보러 가기\]**](https://wp.swing2app.co.kr/knowledgebase/palystore-update/)
+**☞ **<mark style="color:blue;">**\[PlayStore Search Good TIP]**</mark>
 
 </details>
 
 <details>
 
-<summary>플레이스토어 업데이트 진행 중 기존 버전or 패키지가 같다는 메시지가 뜹니다.</summary>
+<summary>Does the PlayStore allow users to upload apps themselves without acting on the swing?</summary>
 
-이미 등록된 버전과 동일한 버전의 aab파일을 올리려고 하면 뜨는 메시지입니다.
+Yes you can do it yourself.
 
-새로 업데이트 된 앱을 올리실 때는 이전에 올린 버전과 다른지 확인하여, 새 버전으로 제작된 aab파일을 올려주시기 바랍니다.
+The Play Store requires only a Google developer account, and users can upload directly.
 
-</details>
+**\[PlayStore Update Manual]**&#x20;
 
-<details>
+<mark style="color:blue;">https://wp.swing2app.co.kr/knowledgebase/palystore-update/</mark>
 
-<summary><strong>플레이스토어 앱이 심사 거절되었습니다. 어떻게 해야 하나요?</strong></summary>
+How to launch your app on the Play Store is also listed in the Help Manual, so you can follow it by looking at it.
 
-플레이스토어 앱 심사 거절이 되었다면, 거절된 이유에 대해서 구글에서 보낸 메일을 확인해야 합니다.
+If you find it difficult to upload directly, you can request an upload agency with a swing.
 
-구글 개발자 계정 이메일로, 구글에서 앱이 어떤 정책을 위반하는지 어떻게 조치하면 되는지 안내 메일을 발송합니다.
-
-따라서 심사가 거절되었다면 먼저 메일을 확인하여 구글에서 받은 안내문을 확인해주시구요.
-
-메일에 기재된 내용대로 조치하여 다시 수정하여 심사를 요청해주세요.
-
-심사가 거절된 것이기 때문에 문제가 된 내용을 수정하여 심사 제출하면, 출시가 가능할 것입니다.
+(PlayStore upload agency fee: 1 time 10,000 won)
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어에 잘 등록된 앱이 갑자기 삭제되었어요. 어떻게 해야 하나요?</strong></summary>
+<summary>How do I update apps that have been released on the Play Store?</summary>
 
-**플레이스토어는 현재 운영중인 앱을 주기적으로 필터링을 하면서 재 심사를 하게됩니다.**
+To update your app to the Play Store in a new way, please re-register for uploading.
 
-이때는 앱 내용부터 굉장히 상세하게 심사를 하기 때문에 **처음에는 등록이 잘 되었던 어플도 정책위반, 규정위반으로 앱 게시 정지가 될 수 있습니다.**
+Please purchase a PlayStore upload application ticket (1 time KRW 10,000) and re-apply for the upload.
 
-게시가 정지된 앱은 문제가 되는 항목을 **수정한 후 다시 재등록** 할 수 있습니다.
+The Play Store has all of your developer accounts and you can upload them yourself, so you can update them yourself.
 
-보통 앱이 삭제 될때도 구글에서 어떤 내용으로 앱이 정책 위반되었는지 메일을 발송합니다.
+**If you do it yourself, you don't need to buy an upload ticket, and you can update it from time to time**.
 
-따라서 문제가 되는 내용이 어떤 것인지 확인하여 조치할 수 있습니다.
+Updating a new version of an app to the Play Store is simple.
 
-그런데 조치가 안되는 경우도 있습니다.
+\- Log in to the Google Developer Console site and register the new version of the app in the Products menu.
 
-정책 위반 정도가 심해 구글에서 복원을 해주지 않을 경우 앱은 다시 이용이 불가합니다.
+\- The update will also be re-examined and will take about 2-3 days.
 
-이 경우는 기존의 앱을 다시 올릴 수 없으며, 새로운 앱(앱 이름 변경, 패키지 변경) 으로 다시 등록해야 합니다.
+**\*Store registration information can also be modified.**
 
-</details>
+Store Uploads – Changes to the app's description, screenshot image, category, etc. will activate the Submit Update button at the top.
 
-<details>
+Unlike uploading an aab file, if you have modified a store definition, you must press the appropriate button to process the update.&#x20;
 
-<summary>구글 업데이트 정책으로 앱이 내려갈 경우 어떻게 해야 하나요?</summary>
-
-구글은 정책이 계속해서 업데이트 됩니다.
-
-플레이스토어에 앱을 출시하여 이용중인 사용자분들은 구글의 업데이트 정책을 항상 확인하여 앱을 주기적으로 업데이트 해주셔야 합니다.
-
-업데이트 정책에 맞게 앱을 수정하지 않을 경우 예고 없이 스토어에서 앱을 내릴 수 있습니다.
-
-어떠한 사전 경고 없이 앱을 내리기 때문에 조치가 어렵습니다.
-
-따라서 이용 중에는 구글에서 발송하는 업데이트 및 정책 안내 메일을 꼼꼼히 확인하여 미리 대처해주시기 바랍니다.
-
-스윙투앱에서는 구글의 정책 변경에 맞게 조치안을 항상 제공해드리고 있으니, 어떤 내용인지 확인이 어렵다면 스윙투앱으로 문의 남겨주시기 바랍니다.
+<mark style="color:blue;">**\[Go to the PlayStore App Update Manual]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>플레이스토어 계정이 삭제되었습니다. 어떻게 해야 하나요?</strong></summary>
+<summary>During the PlayStore update, I get a message that the existing version or package is the same.</summary>
 
-여러 번 규정 위반을 하게 되면 구글 측에서는 예고없이 사용자의 계정을 삭제해버립니다.
+If you try to upload the same version of the aab file as the one already registered, the message will appear.
 
-**\*\* 삭제한 앱 계정은** **구글 측에 이의 제기 메일을 보내서 문제를 문제를 해결할 수 있습니다.**
+When uploading a newly updated app, please make sure it is different from the previous version and upload the aab file created by the new version.
 
-**그러나 정책이 위반된 내용이 확실하면 복원되기가 쉽지 않으니 주의하셔야 합니다.**
+</details>
 
-만약 계정이 복원되지 않는다면, 다시 구글 개발자 계정을 만들어서 앱을 새로 등록할 수 있습니다.
+<details>
 
-계정을 아예 새로 만드는 것이라서 기존의 앱과 연동이 되지 않으며, 기존 앱은 관리할 수가 없게 됩니다.
+<summary>Your PlayStore app has been rejected for review. What should I do?</summary>
 
-따라서 앱 삭제 뿐만 아니라 계정이 삭제되지 않도록 구글의 정책과 규정을 잘 지켜주셔야 합니다.
+If you've been rejected for review of a Play Store app, you'll need to check your email from Google as to why it was rejected.
+
+To your Google developer account, we'll send you an email informing you how to act on what policies your app violates in your email.
+
+So if you're being rejected, check your email first to see the notice you received from Google.
+
+Please act as stated in the e-mail and re-edit it to request an review.
+
+Since the review was rejected, if you modify the content in question and submit it for review, you will be able to release it.
+
+</details>
+
+<details>
+
+<summary>An app that was well listed on the Play Store was suddenly deleted. What should I do?</summary>
+
+**The Play Store will periodically filter and re-screen apps that are currently in operation.**
+
+At this time, the contents of the app are examined in great detail , so even an app that was **initially registered well may be suspended from publishing the app due to a violation of the policy or a violation of the regulations.**
+
+Apps that have been suspended from publishing can re-register after fixing the offending item.
+
+Usually, when an app is deleted, Google will send you an email about what content the app has violated its policies.
+
+So you can identify and act on what is at stake.
+
+However, there are times when action is not taken.
+
+If the degree of policy violation is severe and Google does not restore it, the app will not be available again.
+
+In this case, you can't re-upload an existing app, and you'll need to re-register it as a new app (app name change, package change).
+
+</details>
+
+<details>
+
+<summary>What should I do if my app goes down with the Google Update policy?</summary>
+
+Google is constantly updating its policies.
+
+Users who have launched and are using the app on the Play Store should always check Google's update policy to update the app periodically.
+
+If you don't modify your app to comply with our update policy, you can remove it from the Store without notice.
+
+Action is difficult because the app is unloaded without any prior warning.
+
+Therefore, during use, please carefully check the update and policy notification e-mail sent by Google to be proactive.
+
+The Swing-to-App will always provide you with a plan of action in line with Google's policy changes, so if you have difficulty confirming what this is about, please leave an inquiry to the Swing-to-App website.
+
+</details>
+
+<details>
+
+<summary>Your PlayStore account has been deleted. What should I do?</summary>
+
+If you violate the rules multiple times, Google will delete your account without notice.
+
+**\*\* Deleted app accounts can be resolved by sending an appeal email to Google.**
+
+However, be aware that if you are sure that the policy has been violated, it will not be easy to restore it.
+
+If your account is not restored, you can re-create a Google Developer Account and register a new app.
+
+By creating a new account altogether, it won't work with existing apps, and you won't be able to manage existing apps.
+
+Therefore, you should be careful to follow Google's policies and regulations to ensure that your account is not deleted as well as deleting the app.
 
 </details>
