@@ -1,419 +1,339 @@
-# App Operations & Features FAQ
+# 스윙샵(스윙쇼핑몰) FAQ
 
 <details>
 
-<summary>Are push shipments unlimited? Is there a limit to the number of people?</summary>
+<summary><strong>스윙샵(스윙쇼핑몰)이란?</strong></summary>
 
-Yes, push shipments are unlimited.
+스윙샵은 누구나 쉽고 편리하게 나만의 쇼핑몰 앱을 만들 수 있는 쇼핑몰 앱제작 서비스!! 입니다.
 
-Push has **no limit to the number of dispatches and is available to an unlimited number of people.**
+간단하게 쇼핑몰 신청이 가능하고, 개발비, 구축비 등의 비용 없이 무료로 쇼핑몰 서비스를 이용할 수 있습니다.
 
-In addition, all the features offered by the Swing-to-App are free, so push sending is free, and you can send pushes freely.
+**◆제작 비용 없이 무료로 스윙샵 이용이 가능합니다.**
+
+**◆상품등록 및 관리 등의 손쉬운 운영관리가 가능합니다.**
+
+**◆결제시스템을 구축하여, 실제 쇼핑몰과 같은 기능을 동일하게 구현할 수 있어요.**
+
+**◆이미 만들어놓은 스윙 앱이 있다면, 기존 앱에 연동하여 스윙샵 기능을 이용할 수 있습ㄴ디ㅏ.**
+
+**◆ 스윙샵 역시 사용자가 수시로 수정, 업데이트 할 수 있으며 운영에 필요한 모든 툴을 제공합니다.**
+
+**◆ 스윙에서 제공하는 기능 – 푸시, 팝업 등의 마케팅 활용도 모두 이용할 수 있습니다.**
 
 </details>
 
 <details>
 
-<summary>What capacity is available to the app?</summary>
+<summary><strong>스윙샵(스윙쇼핑몰)은 어떻게 신청하나요?</strong></summary>
 
-The free version and the paid version also have different capacity depending on the product used.
+A. 스윙 쇼핑몰은 \*\*앱운영페이지 → 내메뉴 → ‘쇼핑몰(결제시스템)신청’\*\*에서 신청하실 수 있습니다.
 
-**\*Free version: 100MB capacity**
+쇼핑몰서비스 \[결제모듈은] 사용/미사용을 선택해서 적용합니다.
 
-**\*Paid version**
+처음에는 ‘미사용’으로 체크 후 스윙샵을 이용해주세요.
 
-1\)Basic type use ticket: 2GB capacity
+앱제작 완료되어 앱을 상용화할 때는 유료앱이용권 구매 후, ‘사용’으로 변경해서 이용해주시면 됩니다.
 
-2\)Expandable subscription: 10GB capacity
+스윙샵 신청은 별도 심사나 승인이 없기 때문에 신청 즉시 바로 스윙샵 메뉴를 이용할 수 있습니다.
 
-3\)Premium Use: 50GB of capacity
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B52-1.png" alt="" data-size="original">
 
-Please check the capacity provided by version and by product.
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [**스윙샵 신청방법 상세보기**](https://wp.swing2app.co.kr/documentation/swingshop/apply/)
 
-</details>
-
-<details>
-
-<summary>What happens if my app is overcapacity?</summary>
-
-If the amount of capacity provided to the app is exceeded, the app will be suspended. \*Stop after 3 days of overcapacity
-
-Even if you use a paid app, regardless of the remaining period of use, it will be suspended if the capacity is exceeded.
-
-Suspension of an app due to an overcapacity is the same as the expiration of the subscription period.
-
-(See image)
-
-**The app won't be deleted, but when you launch it, you'll get a "Your subscription has expired" message and the app won't run.**
-
-Users who download the app from the Store will also be restricted from using the app when the message appears.
-
-Therefore, if the capacity is exceeded, you can free up capacity by purchasing and applying a separate capacity add-on for as much capacity as you are insufficient, or by deleting the larger posts from the resource management page.
-
-If the capacity is exceeded, we will notify you by e-mail or text.
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
 
 </details>
 
 <details>
 
-<summary>Can I free up space by deleting posts without adding app capacity?</summary>
+<summary>스윙샵 신청 후 상품은 어떻게 등록하나요?</summary>
 
-Yes you can.
+스윙샵이 신청되면 스윙샵 메뉴가 앱운영 페이지에 생성됩니다.
 
-East Sea to the App Operation Page - Service Management - Resource Management page.
+스윙샵 메뉴에서 상품관리로 들어가서 카테고리 등록 후, 상품을 등록할 수 있습니다.
 
-You can check the post capacity on that page.
+어떤 상품을 등록할지에 따라 방법이 다르기 때문에 스윙투앱에서 제공하는 상품등록 매뉴얼을 보시고 작업해주시기 바랍니다.
 
-**\*Posts you don't need (images such as photos) can be checked and deleted.**
+[1)실물상품 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/registration/)
 
-**As soon as you delete it, you'll see a new capacity aggregation, and you can free up capacity by deleting the post.**
+[2)예약상품 등록하기-날짜 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/reservationproduct/)
 
-(See image)
+[3)예약상품 등록하기 -날짜&시간 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/timereservation-product/)
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/11c1834143a103ebefc9c172493e945a.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221208812417\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
+[4)디지털상품-PDF파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/digital-pdf/)
 
-\* For more information on how to use resource management, please check the corresponding manual.&#x20;
+[5)디지털상품-권한 변경 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/authorized-sales/)
 
-**☞ **<mark style="color:blue;">**\[App Capacity Management - Go to the Resource Management How-to Manual]**</mark>
+[6)디지털상품-영상파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/video-file/)
 
-</details>
-
-<details>
-
-<summary>Where and how do I check the app capacity? </summary>
-
-You can check the app capacity by going to the <mark style="color:blue;">\[Service Management-Resource Management]</mark> page.
-
-You can see what's available in the app, what it's currently using, and what's remaining available.
+[7)디지털상품-쿠폰등록하기](https://wp.swing2app.co.kr/documentation/swingshop/coupon/)
 
 </details>
 
 <details>
 
-<summary>How do I set up a deputy administrator?</summary>
+<summary><strong>스윙 쇼핑몰은 어디서 신청할 수 있나요?</strong></summary>
 
-On the swing app operation page, go to <mark style="color:blue;">the Membership Management – \[Member Inquiry] menu.</mark>
-
-You can select the user you want to set as a deputy administrator and then change the permissions to administrator in the permission group settings
-
-**There's no separate name of a deputy administrator, but the creator of the app gives the app user administrator privileges to manage and run the app together.**
-
-We'll attach a link to the detailed method, so it's easy to understand if you look at it.
-
-**☞ **<mark style="color:blue;">**Go to see how to set up a deputy administrator**</mark>
+스윙쇼핑몰은 앱운영페이지>내메뉴> ‘쇼핑몰(결제시스템)신청’에서 신청하실 수 있습니다.\
+쇼핑몰서비스-결제모듈은 사용/미사용을 선택해서 적용합니다.\
+\
+[**\[쇼핑몰 서비스 신청하러가기\]**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
 
 </details>
 
 <details>
 
-<summary>I want to add features that SwingTwo doesn't offer, what can I do?</summary>
+<summary><strong>스윙쇼핑몰을 기존앱에 적용하여 사용할 수 있나요?</strong></summary>
 
-We are customizing for those who want a service that goes beyond a swing-to-app solution.
+네 적용가능합니다. 스윙쇼핑몰은 내메뉴에서 신청해서 사용할 수 있는데요.
 
-Customization means app development, providing customization in 1:1 customization. You can do this by asking the Swing team.
+기존에 만들어놓은 앱을 선택해놓고, 해당 앱에 쇼핑몰을 적용하여 이용할 수 있습니다.
 
-If you would like to develop an app or have the features you need, please send your proposal or storyboard help@swing2app.co.kr swing email.
-
-After confirmation, the development team will guide you through the availability of development, quotations, etc.
+따라서 새로 앱을 제작할 필요 없이, 기존에 만들어놓은 앱에 쇼핑몰 기능을 적용하여 이용하시면 됩니다.
 
 </details>
 
 <details>
 
-<summary>I can't play YouTube on the webpage.</summary>
+<summary><strong>쇼핑몰에서 상품 이미지 등록시 사이즈는 어떻게 넣어야 하나요?</strong></summary>
 
-This is a problem caused by YouTube not allowing you to embed apps or built-in sites. If you change the YouTube link url to the following format, it will work smoothly:&#x20;
+상품등록시 권장 사이즈는 따로 없습니다.
 
-**Example) **<mark style="color:blue;">**https://youtu.be/W8Ysr18ZxxU?t=1\*\*\*\* → https://www.youtube.com/embed/W8Ysr18ZxxU?t=1**</mark>
-
-If you change the link format a little bit as above, you can watch the video from within the webpage without problems.
+상품 이미지는 핸드폰 가로 사이즈에 맞춰서 자동으로 이미지 사이즈가 수정되어 들어갑니다.
 
 </details>
 
 <details>
 
-<summary>Can I apply Admob to my app?</summary>
+<summary><strong>스윙샵(스윙쇼핑몰) 이용료가 있나요?</strong></summary>
 
-You can set up and operate the Admob plugin directly in your own apps.
+스윙샵 기능은 무료로 이용할 수 있으며, 쇼핑몰 이용에 납부해야 하는 비용은 없습니다.
 
-Admob can be set directly by purchasing the \[Google Admob Applied Plugin] product from the Swing Plugin purchase page.
+전자결제 서비스 페이앱 가입시 들어가는 비용이 있으나, 현재 페이앱 가입비 무료 이벤트를 진행중이기 때문에 무료로 판매점 가입도 가능합니다.
 
-For more information on how to set up an admob, please refer to the manual.&#x20;
+(무료 이벤트 종료일은 미정)
 
-**☞ **<mark style="color:blue;">**\[Go to Google Admob Setup How-to Help]**</mark>
-
-</details>
-
-<details>
-
-<summary>You want your app to be used only by the people you want. (Private app)</summary>
-
-Yes you can.
-
-Only users who have installed the app can be approved and designated to use the app by the administrator.
-
-First, in \[Service Management - Policy Management], set the app subscription policy - app privacy to 'Private'.
-
-If you set it to private, users who install the app will have to sign up unconditionally. (If you do not register, you will not be able to use the app)
-
-Even if the registration is complete, the administrator must approve the member before he or she can use the app.
-
-\+Administrators can change their status to 'Approve' by selecting only the desired members from the list of registered members on the \[Push & Member-Inquiry] page.
-
-\+Authorized users will use your app normally, and if they don't get approved, they won't be able to use it.&#x20;
-
-**☞ **<mark style="color:blue;">**See how to create a private app**</mark>
+따라서 유료앱이용권 외에 쇼핑몰 기능과 관련하여 들어가는 비용은 없습니다.
 
 </details>
 
 <details>
 
-<summary>Can I change the content of the messages provided by the app?</summary>
+<summary><strong>디지털상품은 무통장 입금이 안되나요?</strong></summary>
 
-Yes you can.
+앱에서 디지털 상품- PDF,쿠폰, 영상파일, 권한 등을 판매할 경우는 인앱 결제 모듈을 적용해야 하며, 무통장입금을 하실 수 없습니다.
 
-The content text used in the app can be modified and used by the administrator himself, and it can be changed to a foreign language.&#x20;
+또한 일반 카드결제 역시 스토어에서는 허용하지 않기 때문에 디지털상품을 판매할 경우 애플과 구글에서 제공하는 인앱 결제모듈을 개발하여 앱에 적용해야 합니다.
 
-Go to <mark style="color:blue;">App</mark> <mark style="color:blue;">Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
+무통장입금은 카드결제와 달리 사용자가 언제 입금을 했는지 결제시점을 알 수 없습니다.
 
-\-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
+결제를 하고 바로 제품을 넣어줘야 하는데(이용기간 등이 있으므로) 관리자가 일일이 관리를 하기가 어렵습니다.
 
-\-If you modify only a few phrases, you can search for and find the contents by pressing the \*control + F button.
+그리고 해당 방법은 스토어에서도 허용되지 않는 결제시스템입니다.
 
-After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
+디지털상품의 경우 눈에 보이지 않는 제품을 거래하는 것이기 때문에 별도의 전자결제 없이는 승인을 해주지 않습니다.
 
-<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+스윙샵에서도 무통장입금을 할 경우 신청이 되지 않도록 막아놓았습니다.
 
-</details>
+인앱을 하기 어렵고, 상품에 꼭 무통장 입금만 하셔야 한다면!!
 
-<details>
+스윙샵을 이용하지 말고, 게시판이나 공지사항에 입금 계좌번호를 적어놓고 사용자들에게 별도로 입금을 받는 방법으로 이용할 수 있습니다.
 
-<summary>Can I change the language offered by the app to another foreign language?</summary>
-
-Yes you can.
-
-If you want to create an app that is available in English, please use it on the Swing-to-App global site. Swing-to-App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
-
-Global sites are created with the app default language all set to English, so they are automatically set to English without any further changes.
-
-\*Since it is not linked to the Korean site, you will need to register a new member to create an app when using the global site.
-
-If you want to change to another foreign language, such as Chinese or Japanese, or if you only want to change a few to English, you can do so in String Management.&#x20;
-
-Go to <mark style="color:blue;">App Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
-
-\-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
-
-\-If you modify only a few phrases, you can search for and find the contents by pressing the \*control + F button.
-
-After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
-
-<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+다만 해당 내용의(게시판에 계좌번호를 기재해서 돈을 지급 받는 방식) 앱은 앱스토어에는 출시가 불가하오니 참고해주세요!
 
 </details>
 
 <details>
 
-<summary>Can I amend the App Terms of Use and Privacy Policy?</summary>
+<summary><strong>디지털상품은 인앱 결제모듈만 적용할 수 있나요?</strong></summary>
 
-Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Operations - Service Management - Policy Management - App Subscription Policies page - Terms of Service.</mark>
+네 그렇습니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/c7574360e9aa312995b45efd5305c0fe.png" alt="" data-size="original">
+앱스토어, 플레이스토어 결제 정책에 따라 앱에서 실물상품을 제외한 디지털 상품(쿠폰, 권한, 파일등의 무형의 서비스)을 판매할 경우 페이앱을 포함 일반 전자결제시스템(카드결제, 무통장입금)은 적용 불가합니다.
 
-For each question, we put the content in the Swing-to-App basic settings, so the content is all entered.
+(페이앱 가입이 가능해도, 스토어에서 허용하지 않습니다.)
 
-Please check the contents and modify the App Terms of Use to suit the app you created.
+따라서 디지털상품을 적용한 앱을 출시할 계획이라면 페이앱과 같은 전자결제시스템을 적용하는 것이 아니라 애플과 구글에서 제공하는 인앱 결제모듈을 따로 앱에 개발하여 적용해야 합니다.
 
-After modifying the contents on that page, click the **\[Set Policy]** button to save it.
+\-인앱 상담은 문의 게시판(http://www.swing2app.co.kr/view/service\_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
 
-</details>
-
-<details>
-
-<summary>Can't I change the text style, such as text size, color, etc.?</summary>
-
-Write a post - If you choose to write with the **HTML editor**, you can change the style of the text.
-
-When writing in general, writing directly from the app doesn't apply style.
-
-\*\*Swing-to-app homepage web dashboard - **only available for writing with** **HTML editor.**
-
-After you create a bulletin board, go to the board where you want to write in the Manage Posts menu.
-
-If you choose to Write as an HTML Editor, you can add a variety of text styles.&#x20;
-
-**☞ **<mark style="color:blue;">**See how to use HTML Editor writing**</mark>
+\-인앱은 개발작업이 필요하며 앱 내부 볼륨에 따라 개발 비용은 달라집니다. 상담 후 비용 안내가 가능합니다.
 
 </details>
 
 <details>
 
-<summary>I don't see the thumbnail image in the post. (Why does it look like an app icon image?)</summary>
+<summary><strong>무료버전 앱에서는 페이앱(결제모듈)을 신청할 수 없나요?</strong></summary>
 
-When specifying a thumbnail image in a post, be sure to select Attach Photo to attach the image file.
+스윙샵 이용은 무료버전앱에서도 모두 이용 가능합니다.
 
-If you put an image inside the content (body), the image is not designated as a thumbnail because it is recognized as text.
+그러나 **페이앱을 신청하실 때에는(실제 결제모듈을 적용) 유료버전앱만 신청이 가능합니다.**
 
-So when you assign a thumbnail image to your post! Please be sure to register as an attached image.
+즉 결제서비스를 ‘미사용’으로 체크할 때에는 무료버전도 모두 이용이 가능하며\*\*, ‘사용’으로 체크할 때에는 유료버전앱만 신청이 가능합니다.\*\*
 
-(See image)
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2_20.06.png" alt="" data-size="original">
-
-<mark style="color:red;">\*\* This feature is not available in the app, only on the swing homepage - pc version web, mobile version web.</mark>
+결제서비스(페이앱 신청)를 사용 할 경우는 상용화를 진행하는 것이므로, 유료버전 앱에서만 적용이 가능하구요.
 
 </details>
 
 <details>
 
-<summary>The post thumbnail image duplicates the body, but can't I subtract it?</summary>
+<summary><strong>페이앱(PayApp)이란?</strong></summary>
 
-The thumbnail image is designated as the representative image of the first image of the post.
+페이앱은 전자결제서비스 대행사로 온/오프라인 결제 서비스를 지원하는 업체입니다.
 
-At this time, the image designated as the thumbnail will also appear as the representative image of the post, and it will also appear as a duplicate in the text. It's simple to make it look like a thumbnail without duplication.
+온라인 내 카드결제, 무통장입금, 휴대폰결제 등의 결제 서비스를 제공해주기 때문에 앱 내에서 쇼핑몰 기능이 있어서 결제를 진행해야 할 때는 반드시 페이앱과 같은 전자결제 시스템(모듈)을 연결해야 합니다.
 
-\*\*When entering a post, please check \[Use the first image thumbnail]. With this feature, thumbnailed images don't appear duplicates in the body and can only be used as representative images.
+스윙투앱은 페이앱과 제휴하여 스윙투앱에서 제작하는 앱에 페이앱 결제수단을 연동하여 결제가 되도록 지원해드리고 있습니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC_20.06.png" alt="" data-size="original">
+따라서 쇼핑몰 어플을 제작한다면, 페이앱에 판매점으로 가입을 해주셔야 하구요.
 
-</details>
+가입한 아이디를 앱에 적용하면 앱에서 실제 결제가 가능해집니다.
 
-<details>
-
-<summary>When attaching a bulletin board video, the screen is cut off.</summary>
-
-Usually, when you attach a video to a bulletin board, the video size is automatically adjusted to the horizontal size of the phone. Sometimes a video is cropped and visible, or the aspect X ratio doesn't fit. In this case, you can modify the size and put it in.
-
-1\. First, please copy the 'Source Code' when you copy the video link.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-2.png" alt="" data-size="original">
-
-2\. And when attaching a video from the bulletin board, please put it as \[embedded code].
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%982.png" alt="" data-size="original">
-
-3\. At this time, you can modify the horizontal and vertical sizes listed in the link and insert them. If you do it at 340px horizontally and 240px vertically, it will fit into your phone's screen. (Nowadays, the size of the mobile phone has increased, so even if it is 380 X 220, it fits well\~)
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%983.png" alt="" data-size="original">
+페이앱은 일반 카드 결제 외에 네이버페이, 카카오페이, 스마일페이, 페이코 결제수단을 모두 지원하기 때문에 다른 서비스를 별도 신청하지 않아도 됩니다.
 
 </details>
 
 <details>
 
-<summary>Can't download images attached to the bulletin board?</summary>
+<summary><strong>스윙샵에서 제공하는 전자결제모듈 – 페이앱 계약은 어떻게 하나요?</strong></summary>
 
-You can download and save the image attached to the bulletin board.
+쇼핑몰 신청시 결제서비스를 사용할지, 사용하지 않을지를 선택하게 되는데요.
 
-Please select an image from the bulletin board post detail view.
+결제서비스를 사용 할 경우, 실제 결제가 가능하도록 앱에 결제모듈을 연결해야 합니다.
 
-Then there's the down button in the top right corner.
+스윙투앱은 전자결제 서비스 대행사인 페이앱(PayApp)과 제휴하고 있기 때문에 페이앱 홈페이지로 접속하여 판매점으로 가입을 진행해주셔야 합니다.
 
-You can also select the appropriate button to download the photos you uploaded to the bulletin board to your mobile phone.
+\-페이앱 홈페이지 [https://www.payapp.kr/](https://www.payapp.kr/)
 
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5791d512b27dc0f30cfb4f50732f4ac3.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&Redirect=View\&logNo=221208826012\&categoryNo=49\&isAfterWrite=true\&redirect=View\&widgetTypeCall=true\&directAccess=false)
+\-가입 안내 [https://www.payapp.kr/homepage/guide/guide2.html](https://www.payapp.kr/homepage/guide/guide2.html)
 
-</details>
+\-제출서류 [https://www.payapp.kr/homepage/guide/guide3.html](https://www.payapp.kr/homepage/guide/guide3.html)
 
-<details>
-
-<summary>Can't I copy a board to another board?</summary>
-
-The bulletin board can be copied.
-
-The copy board function is set up for each bulletin board, making it easy to copy a board.
-
-\*Swing app operation page - from the \[Post Management] menu - Go to the board you want to copy.
-
-By pressing the \[Copy Board Board] button at the top of the bulletin board, you can select the target board to be copied.
-
-When you copy, all posts on the board are copied to that board.
-
-(See image)&#x20;
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
-
-**☞ **<mark style="color:blue;">**See how to copy a bulletin board**</mark>
+위의 가입 안내 및 제출서류를 확인하여 페이앱에 직접 가입을 진행해주시기 바랍니다.
 
 </details>
 
 <details>
 
-<summary>How do I copy a post?</summary>
+<summary><strong>페이앱 – 해외 결제는 불가능한가요?</strong></summary>
 
-You can copy and move the written post to another board.
+네 해외결제 판매점은 페이앱 서비스를 이용할 수 없습니다.
 
-You can select individual posts, or you can select multiple posts at once and copy them to a specific bulletin board.
+해외 결제로 운영되고 있는 판매점은 페이앱에 가입할 수 없기 때문에 인앱 결제나 다른 결제모듈 서비스를 이용하셔야 합니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
-
-**1)App Operation Page – In Manage Posts, select the board from which you want to copy the text**
-
-**2) Select the 'Listed' view of posts**
-
-3\) You can check the **\[Copy Post]** button in the post list.
-
-After selecting the post you want to copy, you can **click the Copy Post button** **to copy the post to the board of your choice.**&#x20;
-
-**☞ **<mark style="color:blue;">**\[Go to see how to copy the post]**</mark>
+\_해당 정책은 페이앱에서 2018년 2월 22일 공지된 사항입니다.
 
 </details>
 
 <details>
 
-<summary>I want to delete multiple posts, full deletion.</summary>
+<summary><strong>페이앱 – 비사업자(개인)도 가입할 수 있나요?</strong></summary>
 
-With the Batch Delete Posts feature, you can delete multiple posts at once or delete an entire post.
+비사업자(개인)도 페이앱 서비스에 가입하실 수는 있습니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C2.png" alt="" data-size="original">
+그러나 최초 가입 후 페이앱에서 사업자 등록을 유도할 수 있으며, 사업자 등록이 없는 경우 과세 부담이 있을 수 있습니다.
 
-After you go to the board where you want to delete the post from the post management
+또한 **★비사업자는 신용 카드 결제를 이용할 수 없습니다. \_금융감독원 시정조치로 2018.03.12 정책 시행​**
 
-\- Please select 'View List'. (second icon)
+**카드 결제가 되지 않고, 가입시 휴대전화 결제로 기본 설정됩니다.**
 
-\- Multiple selections of posts you want to delete (if you select the entire article, the entire post will be selected at once)
+카드 결제를 희망하신다면 사업자를 등록해주시기 바랍니다.
 
-\- Select the \[Delete Posts in Bulk] button to delete the selected posts done at once. ☞ <mark style="color:blue;">**\[Go to see how to use batch deletion of posts]**</mark>
-
-</details>
-
-<details>
-
-<summary>Can I download posts?</summary>
-
-Yes you can.
-
-App Operation - By using \[Post Down] provided by Post Management, you can download and archive posts written on the bulletin board as Excel files.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B4.png" alt="" data-size="original">
-
-**→ the app operation page, you can check the \[Post Down] button in the list of posts created → the post management→ board move.**
-
-However, when the post is down, the image other than the text is not downloaded.
+정책을 확인하고 이용에 참고하시기 바랍니다.
 
 </details>
 
 <details>
 
-<summary>Can I completely move a post to another board? (Copy X)</summary>
+<summary><strong>카카오페이만 선택해서 결제할 수 있나요?</strong></summary>
 
-You can use the Move Posts feature to move posts to other bulletin boards.
+네 페이앱 서비스 내에 카카오페이가 제공이 됩니다.
 
-Copy a post is the ability to copy a post to another bulletin board, so that the article is retained on an existing board.
+따라서 별도 카카오페이 서비스를 신청하지 않아도, 페이앱만 신청해도 카카오페이를 이용할 수 있습니다.
 
-Moving a post is the same as the cut function.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A6%BC1-1.jpg" alt="" data-size="original">
 
-When you move a post to a different board, the post on the existing board is deleted.
+이미지 참고)페이앱 적용 – 결제방식 선택
 
-**How to use Move Posts**
+만약 페이앱을 이용하지 않고, 따로 카카오페이만 앱에 적용한다면 아래 방법을 확인해주세요.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png" alt="" data-size="original">
+먼저 카카오페이 서비스를 적용하기 위해서는 스윙 유료이용권이 결제가 되어 있어야 합니다.
 
-1\) App Operation – Select the board you created in Post Management and move it. (Select the board you want to move the post to)
+\*카카오페이 서비스는 스윙 유료이용권 확장형 이상부터 사용할 수 있습니다.
 
-2\) Select \[List]
+기본형으로 결제를 할 경우 카카오페이 서비스는 이용할 수 없고 스윙 유료이용권 – 확장형, 프리미엄만 적용됩니다.
 
-3\) Select the post you want to move from the list of created posts.
+그리고카카오페이는 스윙에서 제휴하는 서비스가 아니기 때문에 사용자가 직접 카카오페이 서비스에 문의하여 가맹점 승인을 받아야 합니다.
 
-4\)Select the \[Move Post] button.
+가맹점 승인 완료 후 상점 아이디를 받은 뒤, 스윙투앱으로 문의주시면 안내도와드리겠습니다.
+
+[**⇒ 카카오페이 신규신청 홈페이지**](https://with.kakao.com/kakaopay/index)
+
+</details>
+
+<details>
+
+<summary><strong>페이앱 가입 불가 업종을 알려주세요.</strong></summary>
+
+**페이앱 가입 유의사항 불가업종 확인하기**
+
+[https://payapplite.com/notice/view?articleNo=61](https://payapplite.com/notice/view?articleNo=61)
+
+페이앱 가입 정책에 따라 심사가 거절될 수도 있습니다.
+
+결제에 관련된 심사기 때문에 페이앱 쪽에서도 심사를 꼼꼼히 진행합니다.
+
+가입 불가 업종을 확인해주세요.
+
+**\[가입 불가 업종]**
+
+**1) 상품을 현금으로 거래 하는 것이 아닌 캐쉬, 적립금 형태로 결제를 하는 경우**
+
+**2) 도박, 불법 거래**
+
+**3) 결제 시 구매자와 판매자가 다이렉트로 연결된 형태가 아닌, 중간 매매업자가 있는 경우**\
+**(중간에서 수수료를 떼고 판매자에게 남은 금액 제공)**
+
+**4) 업종 확인이 어려운 경우(상품 확인 불가, 실제 거래 경로 확인 불가, 후원, 펀딩, 모금 등)**
+
+**5) 컨텐츠 판매시 해당 컨텐츠가 증권,주식,파생상품 등 금융권 상품일 경우**
+
+**6) 성인용품, 주류 등을 판매**
+
+**7) 모바일 상품권 판매, 포인트 충전 상품은 가입 불가**
+
+**8) 업무 대행비용 (비자 신청 대행, 상품 구매 대행 등)**
+
+스윙에서 페이앱을 신청해주신 분들도 위와 같은 사례로 심사가 거절된 사례가 많이 있습니다.
+
+따라서 결제시스템을 적용하시기 위해서 위와 같은 항목들이 있지 않은지 체크해주세요.
+
+페이앱 뿐만 아니라 모든 전자결제시스템에서는 심사가 오래걸리기도 하고 까다롭기 때문에 상품을 판매하려고 해도 승인이 잘 나지 않을 수 있음을 꼭 기억해주세요.
+
+</details>
+
+<details>
+
+<summary><strong>쇼핑몰 결제 수단에는 어떤 것들이 있나요?</strong></summary>
+
+일반 카드결제, 계좌이체, 소액결제(핸드폰결제) 가 기본으로 제공됩니다.
+
+그리고 페이앱에서 네이버페이, 카카오페이, 스마일페이, 페이코 결제수단을 모두 제공합니다.
+
+페이앱만 앱에 적용해도 위의 결제 수단을 모두 이용할 수 있습니다.
+
+</details>
+
+<details>
+
+<summary><strong>페이앱 관련 문의 및 가입 후 관리는 어떻게 하나요?</strong></summary>
+
+페이앱 공식 홈페이지를 통해서 문의를 하실 수 있습니다. (카드 수수료, 정산일, 수수료 인상 문의 등)
+
+**\*홈페이지:** [**https://www.payapp.kr**](https://www.payapp.kr/)
+
+**\*고객센터: 1800-3772**
+
+그리고 페이앱 가입이 완료된 사용자 역시 해당 사이트에서 로그인하시면 판매자 관리페이지에서 결제내역을 관리할 수 있습니다.
 
 </details>

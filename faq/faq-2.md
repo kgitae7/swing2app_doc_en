@@ -1,305 +1,242 @@
-# App installation and download FAQ
+# 결제 관련 FAQ
 
 <details>
 
-<summary>How do I download an app I've created?</summary>
+<summary><strong>이용권 결제 – 무통장입금 방법</strong></summary>
 
-**Swing2App Official App** - You can use the app preview to see which apps you've created.
+스윙 이용권을 무통장입금으로 결제를 진행하실 때에는!!
 
-1\) Please download the official 'Swing to App' app from the App Store and Play Store.
+결제페이지에서 상품을 선택 → 무통장 입금으로 결제수단을 선택→전화번호 인증번호 확인을 하시면 입금 계좌 및 결제정보 확인 페이지가 뜹니다.
 
-\*If the app is already installed, please update to the latest version.
+사용자는 결제정보를 확인하여 계좌로 입금을 진행해주시구요.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [App store launch link**(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+무통장 입금이 완료된 후 \[관리자에게 입금 완료 메일 발송] 버튼을 선택해주셔야 합니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [Play store launch link**(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
+버튼을 눌러주셔야만, 고객님이 입금한 상세내역을 확인하여 이용권을 바로 넣어드릴 수 있습니다.
 
-2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing-to-App website subscription account (ID, password).&#x20;
+(이미지 참고)
 
-**\*Note: To log in, you must enter the account you signed up for in the Swing-to-App homepage** <mark style="color:blue;">http://www.swing2app.co.kr.</mark>
+[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/fdfa55db750c4ddf08437d1f399bf98c.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&Redirect=View\&logNo=220719686112\&categoryNo=49\&isAfterWrite=true\&redirect=View\&widgetTypeCall=true\&directAccess=false)
 
-**It's not an account signed up for in the official Swing-to-App app\~!**
+\* 만약 결제페이지를 거치지 않고, 바로 무통장입금을 하실 경우에는 스윙에게 입금 확인 메일을 꼭 보내주세요
 
-3\) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.
+예시) 안녕하세요 방금 OOO이름으로 33,000원 입금했습니다.
 
-\*iPhones can be confirmed by pressing the preview button. (WebView, apps created by push are not available on the iPhone)
+\*스윙계정: 이용권 적용할 앱이름: 구매한 상품:
 
-\*On Android phones, you can preview the app and download the app.
+이렇게 메일을 보내주시지 않으시면 어떤 고객님이 어떤 상품을 결제했는지, 어떤 앱에 적용해드려야 하는지 확인이 되지 않습니다.
 
-For more information on how to install the app, please check the manual link below.
+따라서 꼭 확인 메일을 보내주시기 바랍니다.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">See how to install the app</mark>
+**\*메일주소:** [**help@swing2app.co.kr**](https://wp.swing2app.co.kr/faq/faq-top/)
+
+\\
 
 </details>
 
 <details>
 
-<summary>Can't test an app I've created on an iPhone?</summary>
+<summary><strong>환불 정책</strong></summary>
 
-The app can also be tested on iPhone.
+스윙투앱에서 구매한 뒤 사용하지 않은 이용권, 티켓은 환불신청을 할 수 있습니다.
 
-Here are 2 ways to do it.
+그러나 이용권 및 상품이 사용된 후에는 환불되지 않으니 주의해주세요.
 
-**1)When using the free version app - Use the Swing to App app preview**
+**1) 유료이용권을 구매한 당일에는 환불이 전액 환불이 가능하지만, 이용일수가 하루라도 차감된 경우 환불이 이루어지지 않습니다.**
 
-Download and install the official \[Swing to App] app from the App Store.
+**2)할인된 상품 구매시 이용일이 단 하루라도 개시된 후에는 나머지 기간에 대한 분할 환불이 이루어지지 않습니다.**
 
-Launch the app, select the \[App Preview] menu at the top, log in with your Swing-to-App account - you can preview the app you created as a preview on your iPhone.
+**3) 신용카드 및 전자결재로 결제가 진행된 경우 결제일 30일 이후 환불이 진행될 경우, 카드 수수료 10%를 제외한 금액으로 환불이 진행됩니다.**
 
-\*You can check all the apps you create for free.
+**4)사용하지 않은 티켓은 100% 환불 가능합니다.**
 
-\*Only Prototype - Apps created with Push or WebView are not available for preview (only apps created by regular prototypes - slides, tops, footers, etc.)
+**스토어에 앱이 출시가 되지 않아도 티켓을 사용하여 스토어 등록 작업을 한 앱에 대해서는 대행비가 환불이 되지 않습니다.**
 
-**2) When using the paid version of the app - register the test version with the user's Apple ID 'test-flight'\\**
+**5) 쿠폰 등 무료로 받은 이용권, 티켓에 대해서는 사용을 하지 않았더라도 환불이 되지 않습니다.**
 
-You can test using test-flight provided by the App Store.
-
-Please purchase a paid app pass, an App Store upload ticket, and apply for an App Store upload.
-
-Email after completion of upload application: Please email the App Store test-flight request to the help@swing2app.co.kr.
-
-Please collect and send us all the Apple accounts (email addresses) of users who want to use the iPhone app.
-
-The audit takes 3 to 5 days, and once it's complete, you can install the app on your iPhone to test it.
-
-The test-flight is only available for 90 days, and if you do extend, you will need to purchase an App Store upload ticket and reapply for the upload.
-
-\* This applies to the paid version and requires you to purchase an App Store upload ticket and apply for an upload. ( Swing Paid Use Pass must be paid.)
-
-**\[App Store test-flight User Guide]**&#x20;
-
-<mark style="color:blue;">https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/</mark>
+\*환불 신청 방법은 아래 '환불은 어떻게 하나요' 내용을 참고해주시기 바랍니다.
 
 </details>
 
 <details>
 
-<summary>When installing the Android phone application, it says that it is from an unknown source.</summary>
+<summary><strong>환불은 어떻게 하나요?</strong></summary>
 
-Currently, Google defaults to warning about apps installed from sources other than the Google Play Store.
+[결제- \[내결제현황\]](http://www.swing2app.co.kr/view/payment\_list) 으로 들어가시면 결제한 상품에 대해 \[환불신청]버튼이 뜹니다.
 
-Therefore, if you received your app through an external channel other than the official Play Store, you may receive this message.
+환불신청 버튼을 선택하시면 환불이 가능합니다.
 
-On your Android phone, you can install the downloaded application by checking **"Settings> Security > Unknown Sources".**
+\*이때 사용되지 않은 이용권, 티켓에 대해서만 환불 신청이 가능합니다.
 
-Of course, if your app has been uploaded to the Play Store, you won't be able to see these messages, so uploading to the Market will solve it simply.
+사용이 된 티켓에 대해서는 환불신청 버튼이 뜨지 않아요!
 
-In addition, you can select and proceed with the protection security message as 'Ignore and install'.&#x20;
+카드결제는 스윙에서 환불신청 완료가 되었더라도, 카드사에 따라서 취소승인이 1일\~4일정도 걸릴 수 있습니다.
 
-**☞ **<mark style="color:blue;">**\[How to install APK file Android phone]**</mark>
+무통장 입금 및 실시간 계좌이체는 환불신청을 하신 뒤 환불 받을 은행명, 계좌번호를 스윙 고객센터로 메일발송해주시면 됩니다.
 
-</details>
+이메일 : help@swing2app.co.kr
 
-<details>
-
-<summary>If I update my app after it's built, how will users of existing versions get the update?</summary>
-
-An update message window appears when the app runs, so users can get the update to the latest version.
-
-Currently, when making updates in Swing-to-App AppProduction, administrators can choose 'Recommended', 'Required', and 'Do not show updates' themselves.
-
-Depending on the option chosen, the contents of the message window will vary, and if 'Required' is selected, the user must update before they can use the app normally.
-
-If your app is registered on the App Store or Play Store after switching to the paid version, you will need to update the newly updated version of the app again on that Store.
-
-Only when it is updated will users be able to use the changed content.
+담당자 확인 후 당일 내로 환불 금액을 다시 입금해드립니다.
 
 </details>
 
 <details>
 
-<summary>When I try to register a free version of the app on the Play Store, I get a message that says 'Certificate for Debug' and I can't register.</summary>
+<summary>결제는 어디서 하나요?</summary>
 
-The debug message is the one you get when you try to market a free version of the app.
+결제는앱운영페이지 – 대시보드 상단에 보시면 \[결제] 메뉴가 있구요.
 
-The free version of the app is not available on the Store.
+스윙 이용권, 티켓 구매 페이지/ 스윙 플러그인 구매 페이지로 이동하여 원하는 상품을 선택해서 결제해주세요.\
+​\
+결제 방법은 \[신용카드 결제, 휴대폰 결제, 무통장입금, 카카오페이, 스윙투앱전자결제(페이앱)]방법이 있습니다.\
+​편한 방법으로 선택해서 결제를 해주시면 됩니다.
 
-\*Swing2App - The free version of the app is for personal use only (not available on the Store)
+휴대폰결제는 5만원 이상 결제가 되지 않으니 5만원 이상의 결제는 - 카드 결제, 페이앱,카카오페이, 무통장입금 등의 다른 방법을 이용해주세요.
 
-A paid version of the app is available for release in the Store. (PlayStore, App Store, OneStore, etc. are available)
+핸드폰 소액결제는 SKT 통신사는 이용이 불가하오니 이점 양해부탁드립니다.(LG, KT만 가능)\\
 
-Therefore, if you want to register for the Play Store, please make a paid payment and then receive the aab file to register.
+결제 확인이 완료 되면 해당 상품을 사용자 아이디로 추가해드리구요.
 
-</details>
+**무통장 입금은 담당자가 입금 확이 후 이용권을 넣어드리기 때문에 업무시간 외, 주말 및 공휴일은 시간이 조금 걸릴 수 있습니다.**
 
-<details>
-
-<summary>I try to install an app, but I get a message that the signature is conflicting, and it won't install.</summary>
-
-If you install the paid version after installing the free version, you will receive the following message:
-
-Uninstall and install the existing free app and it will install without problems.
-
-\*The free version app and the paid version app are not compatible, so please uninstall and reinstall it.
+[결제 – \[내 결제 현황\]](http://www.swing2app.co.kr/view/payment\_list)에서 구매한 내역 및 상품을 확인할 수 있습니다.
 
 </details>
 
 <details>
 
-<summary>How do I switch to a free app after the end of the paid app period?</summary>
+<summary><strong>유료이용권을 결제했습니다. 언제부터 이용 일수가 카운팅되나요?​</strong></summary>
 
-If you no longer use it as a paid app and want to use it as a free app, please proceed using the method below.
+유료이용권은 이용권을 결제한 날부터 일수가 카운팅됩니다.
 
-1\) Check for paid apps that have expired
+예를 들어 3월 4일에 결제를 했다면 4일부터 이용기간이 시작됩니다.
 
-2\)Delete apps installed on Android phone (delete paid apps that have been downloaded previously)
-
-3\)Select the \[Update App] button on the app creation page (when you create a new app, it will switch to the free version)
-
-4\)Swing-to-App Official App – From App Preview – App Download Progress
-
-5\)Launch the free version of the app again and it will run normally.
-
-6\) In addition, apps that have been uploaded to the Play Store etc. can be downloaded directly by users.
-
-(The App Store will be dropped off upon request)&#x20;
-
-<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period]</mark>
+따라서 스토에 앱을 올려야 할 경우, 앱을 다 만들어놓은 다음 유료이용권과 업로드 티켓을 구매해주세요.
 
 </details>
 
 <details>
 
-<summary>Please tell us how to install the app on your Android phone to share.</summary>
+<summary>앱스토어, 플레이스토어 심사기간 동안의 이용일수는 어떻게 처리되나요?</summary>
 
-App Sharing is a feature that lets you share apps you create for free with each other on your Android phone so that you can pass on your apps to other users.
+앱스토어, 플레이스토어 심사기간이 일주일 정도가 소요됩니다. ​
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A010-1.png" alt="" data-size="original">
+심사기간 동안에도 이용권의 이용일수는 그대로 차감이 됩니다.
 
-If you apply the settings or the app sharing menu when creating the app, you can use the function to send a link to share the app with another app.
+​**스토어에 앱이 출시가 되지 않았더라도, 심사기간 동안에도 앱이 정상적으로 운영되어야 하기 때문에 이용일수가 카운팅됩니다.**
 
-You can use it by taking the link and installing the app.
+따라서 앱 심사기간에 대해서 따로 보충해드리지는 않습니다.
 
-**\* App sharing is only possible on Android phones, the free version of the app cannot be shared on iPhone\~!**
-
-**iPhones can only download apps released on the App Store.**
-
-<mark style="color:blue;">**\[Go to see how to install the app to share]**</mark>
+사용자분들은 미리 심사기간을 생각하시고 심사완료 날짜에 맞춰서 이용권을 더 추가하는 방법으로 이용하시면 좋을 것 같습니다.
 
 </details>
 
 <details>
 
-<summary>Where can I get a link to install the app?</summary>
+<summary><strong>스윙에서 받은 이용권 쿠폰은 어떻게 사용하나요?</strong></summary>
 
-Swing-to-app homepage - When you receive an APK file from your app's creation history, you can copy the link address from the download to install the app.
+스윙 쿠폰을 메일로 받으시면, 쿠폰에 일련번호가 있습니다.
 
-On Android phones, you can download the app directly from the app installation link.
+**스윙 홈페이지 결제-** [**\[쿠폰사용하기\]**](http://www.swing2app.co.kr/view/payment\_coupon\_use) \*\*\*\* 메뉴로 들어가서 쿠폰에 기재된 일련번호를 입력하고 쿠폰사용을 해주시면 됩니다.
 
-\*The app cannot be installed on iPhone, it is only available on Android phones.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC1.png" alt="" data-size="original">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC2.png" alt="" data-size="original">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC3.png" alt="" data-size="original">
-
-**\*Important\* Progress on PC, Web Browser: Please use Chrome!!**
-
-You can copy and install the link address you received by copying it to various paths.&#x20;
-
-<mark style="color:blue;">\[Go to the app installation link address to see the app download manual]</mark>
+쿠폰에는 사용기간이 있으니 만료일자를 꼭 확인해주시구요. 적용된 상품은 결제- [\[내 결제현황\] ](http://www.swing2app.co.kr/view/payment\_list)메뉴에서 확인할 수 있습니다.
 
 </details>
 
 <details>
 
-<summary>Please tell me how to download the APK file directly.</summary>
+<summary>무통장입금 후 세금계산서 또는 현금영수증을 받으려면 어떻게 하나요?</summary>
 
-Swing2App Official App - In addition to using the app preview function, you can download it directly as an APK file on your Android phone.
+무통장 입금시 세금계산서 및 현금영수증 발행이 가능합니다.
 
-**How to download and install the app as an APK file is only available on your Android phone. \*iPhone not available**
+**입금 완료 후, 앱운영 페이지 → 결제 → 내결제 현황으로 이동하면 영수증 항목에서 \[세금계산서] or \[현금영수증]을 요청할 수 있습니다.**
 
-**1)Swing to App homepage - Use to receive APK files from app production history**
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%B8%EA%B8%88%EA%B3%84%EC%82%B0%EC%84%9C%EC%9A%94%EC%B2%AD.png" alt="" data-size="original">
 
-After the app is finished creating, access the Swing-to-App homepage on your mobile, and select the \[Get APK File] button on the app creation history page.
+**세금계산서가 필요하시면 위의 방법으로 요청해주시면 , 바로 발행 도와드리겠습니다.**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%98.png" alt="" data-size="original">
+**\*안내사항**
 
-If you choose Get APK file, the file download will start and you can install the app directly on your mobile.
+1\)세금계산서 발행은 결제가 진행된 날을 기준으로 발행을 해드리지만, 실제 결제일이 지나서 요청을 하신 경우 요청한 날을 기준으로 발행이 됩니다.
 
-**2)Download the app from email**
+**2)결제일이 한 달 지난 경우는 세금계산서 발행이 불가능 합니다. (결제일 30일 전으로만 발행이 가능합니다.)**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BA%A1%EC%B2%9811.png" alt="" data-size="original">
+3\)세금계산서는 전자세금계산서로 발행되며 요청하신 메일주소로 발행해드리니, 요청시 정확한 메일주소를 기재해주세요.
 
-When the app is published, the completed APK file is sent to the user's email.
+4\)계산서 발행은 – 세금계산서 / 현금영수증 중 하나만 발행 가능합니다.
 
-**Blue banner** – You can select \[Download App] to install the app.
+5\)발행이 완료되면, 내 결제현황에서 발행된 세금계산서 혹은 현금영수증 사본 이미지를 확인할 수 있습니다.
 
-There are many ways to download the app.
+**직접 요청이 어려우시다면!**
 
-For more detailed instructions, please refer to the manual below.&#x20;
+입금 후, 당사 메일로 **help@swing2spp.co.kr**사업자등록증을 보내주셔도 됩니다.
 
-<mark style="color:blue;">\[Go to the manual on how to install the app on your phone]</mark>
+사업자등록증과 세금계산서를 받으실 이메일주소, 결제한 앱이름, 스윙계정(이메일주소)을 함께 기재해서 보내주시면 됩니다.
 
-</details>
-
-<details>
-
-<summary>After switching to a paid app, I get a 'Blocked by Play Protect' message when I download the app.</summary>
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png" alt="" data-size="original">
-
-When you try to install a paid app that has been switched to it, you may get a 'Blocked by Play Protect' message, as shown in the image above.
-
-Before you launch (register) on the Play Store, if you download from an external channel other than the official Play Store, Google Protect will display the message.
-
-In this case, you can select \[Ignore and install] and you can install normally.
-
-When you release an app to the Play Store, you won't see that message.
+​
 
 </details>
 
 <details>
 
-<summary>After switching to a paid app, I download the app and get the message "The app is not installed."</summary>
+<summary>장기 유료앱 이용권 구매시 할인되나요?</summary>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B5%AC%EA%B8%80%EC%A0%95%EC%B1%855-506x1024.png" alt="" data-size="original">
+네 상품 가격에 보시면 6개월, 12개월 상품은 할인된 금액으로 제공하고 있습니다.
 
-The message is also a case in which Google blocked the installation of the app on its own.
+\-6개월 이용권 구매시 19\~20% 할인
 
-If you don't launch the Play Store, Google will recognize it as an unknown path and arbitrarily block the installation, which will result in a case where you can't install it properly.
+\-12개월 이용권 구매시 26%\~30% 할인
 
-**Paid apps made with Swing-to-App that are not available on the Play Store have been identified as unauthenticated paths on Android phones and have been blocked from installation.**
-
-Disable Protect security settings in the PlayStore app for easy trouble.
-
-**\* In the Play Store app → 'Play Protect', we recommend →that you deselect "Scan your device for security threats" and "Supplement the ability to detect harmful apps".**
+1개월 이용권을 구매하시는 것보다 더 저렴하게 구매가 가능하며, 상품마다 할인율은 다르기 때문에 가격을 확인하시고 구매를 진행해주세요.
 
 </details>
 
 <details>
 
-<summary>Where can I find out how much apps I have downloaded?</summary>
+<summary>이용권 구매 후, 이용기간은 어디서 확인할 수 있나요?</summary>
 
-The free version of the app allows you to check the storage capacity by checking the application information.
+상품을 구매하시면 대시보드 상단에 구매하신 상품명과 앱 만료일이 기재됩니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1-%EC%A0%80%EC%9E%A5%EC%9A%A9%EB%9F%89.png" alt="" data-size="original">
-
-Long press the app icon installed on your Android phone and a banner window will pop up, and you can check it in the application information window when you select the icon with the shape of an exclamation point.
-
-The free version of the app is only available for download on Android phones, so the iPhone is not applicable.
-
-Apps released on the Play Store and the App Store as paid versions of the app are listed in the launch notes for the app size.
-
-Please check the storage capacity listed on the App Store for your iPhone.
+그리고 \*[결제-내 결제현황](http://www.swing2app.co.kr/view/payment\_list)에서 구매한 상품 상세 결제현황과 함께 이용기간을 확인할 수 있습니다.
 
 </details>
 
 <details>
 
-<summary>Where can I find the version of the app I downloaded?</summary>
+<summary>유료앱 이용권 연장 구매시 자동결제가 되나요?</summary>
 
-If you have applied the 'Settings' menu to your app from a regular prototype app or a push app, you can check the version in Settings.
+자동 결제가 아닙니다.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%842.png" alt="" data-size="original">
+따라서 이용기간 날짜 확인 후 기간 만료 전 사이트에서 재구매를 해주셔야 이용기간이 연장됩니다.
 
-Apps that do not apply the setting menu, webview apps, can be checked through the application information, which is a function inside the phone.
+이용기간 날짜를 정확히 확인하여 결제해주세요.
 
-\*Long press the app icon installed on your Android phone to check the app information.
+</details>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%84.png" alt="" data-size="original">
+<details>
 
-The iPhone can only download the app through the App Store, so please check the version downloaded from the App Store.
+<summary>유료앱 이용기간 만료 전, 다시 이용권을 결제하지 않으면 앱은 어떻게 되나요?</summary>
+
+유료기간이 종료되면, 앱 이용도 정지됩니다.
+
+앱이 삭제되는 것은 아니기 때문에, 이용권을 재구매 하면 앱은 자동으로 복원되어 정상 실행됩니다.
+
+유료앱 이용일수는 스윙투앱 사이트 앱운영 상단 대시보드 화면에 기재됩니다.
+
+이용일 D-7일부터 이용기간 종료 안내메일이 발송되오니 이용일 종료 전 결제해주시면 됩니다.
+
+</details>
+
+<details>
+
+<summary>결제 카드 등록 및 수정은 어디서 하나요?</summary>
+
+홈페이지 앱운영 - 오른쪽 상단 프로필 선택 - 결제카드 선택시 결제 카드 등록 페이지로 이동합니다.
+
+[http://www.swing2app.co.kr/view/hs\_cms\_member\_setting](http://www.swing2app.co.kr/view/hs\_cms\_member\_setting)
+
+해당 페이지에서 카드 정보를 수정하거나 등록, 삭제할 수 있습니다.
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B9%B4%EB%93%9C%EB%93%B1%EB%A1%9D-1.png" alt="" data-size="original">
 
 </details>

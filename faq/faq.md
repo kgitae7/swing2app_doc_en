@@ -1,159 +1,192 @@
-# App Creation FAQ
+# 앱 미리보기 FAQ
 
 <details>
 
-<summary>Design Theme – Can a prototype only select one UI style?</summary>
+<summary><strong>스윙미리보기(앱미리보기)란?</strong></summary>
 
-Yes yes.
+스윙 미리보기는 스윙투앱에서 제작한 앱을 실시간으로 확인할 수 있는 \[앱미리보기]서비스입니다.
 
-Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
+스윙투앱 공식앱을 다운받은 뒤 – 앱미리보기 메뉴에서 – 스윙홈페이지에서 가입하신 계정으로 로그인해주세요.
 
-This prevents you from using a combination of styles.
+앱 미리보기 페이지에서 스윙투앱에서 제작한 모든 앱 목록을 확인할 수 있어요.
 
-Sometimes there's a UI style that combines slides + towers.
+앱 내에서 미리보기, 다운로드하여 핸드폰에서 직접 확인할 수 있습니다.
 
-If you use this mix of styles, this is an app that has been developed separately through customization. Various styles can be applied through customization.
+번거롭게 APK파일을 받아서 설치하지 않아도, 내가 제작한 앱을 실시간으로 확인할 수 있습니다!
+
+\*특히 그동안 지원되지 않았던 아이폰에서도 앱 미리보기가 가능합니다. (다운은 안되요\~!)
+
+★스윙 미리보기에 대한 상세 설명은 관련 매뉴얼을 확인해주시기 바랍니다.
+
+**☞** [**스윙 미리보기 서비스란?**](https://wp.swing2app.co.kr/swing-preview/)
+
+**☞** [**스윙 미리보기 이용방법 보러가기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
 
 </details>
 
 <details>
 
-<summary>How many characters can I register for an app name?</summary>
+<summary><strong>스윙 미리보기는 어떻게 이용할 수 있나요?</strong></summary>
 
-When building an app, there is no specific limit to the number of characters in the name.
 
-However, if the number of characters that appear when you install the app on your phone is too long, the name will be truncated and displayed.
 
-**App/app titles vary slightly depending on the phone model, but can be between 9 and 11 characters long.**
+1\)앱스토어, 플레이스토어에서 ‘스윙투앱’ 공식앱을 다운받아주세요. \*앱이 이미 설치가 되어 있다면 최신버전으로 업데이트 받아주세요
 
-If the app name exceeds 10 characters, please make the app name less than 10 characters when you create the app, as the app name will be truncated and visible when you install the app on your phone.
+2\) 앱 실행 후 → 카테고리 상단에 \[앱미리보기] 메뉴를 선택한 뒤 스윙웹사이트 가입 계정(아이디, 비밀번호)으로 로그인해주세요.
 
-</details>
+3\) 로그인이 완료되면 앱 미리보기 페이지가 열리며, 제작한 앱 목록을 확인할 수 있습니다.
 
-<details>
+\-아이폰은 미리보기 버튼을 눌러서 확인이 가능합니다.
 
-<summary>I want to put an image full on the app home screen, but is there an optimized size?</summary>
-
-Images that go into the app don't have the recommended size.
-
-**Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
-
-In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
-
-**Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
-
-**★To fit the horizontal size, the vertical length is adjusted according to the screen of the phone.**
-
-**So depending on what prototype you applied to the portrait and the type of phone you have, it may be a little longer or shorter in length.**
-
-Because it is fixed horizontally and vertically changes depending on the mobile environment, not all phones can show the same screen.
-
-\* Please note that since the size varies by phone, the latest models may look a little shorter in length, except in the case of tablets.
+\-안드로이드폰에서는 앱미리보기, 앱 다운로드 가능합니
 
 </details>
 
 <details>
 
-<summary>I can't delete the app.</summary>
+<summary><strong>앱 부관리자도 앱미리보기를 이용할 수 있나요?</strong></summary>
 
-Uninstalling an app is only possible if you have at least 2 apps.
+네 부관리자도 앱미리보기에서 로그인하여 앱을 확인할 수 있습니다.
 
-If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;">\[Manage Retained Apps]</mark> page.
+로그인을 할 때는 **부관리자 아이디, 비밀번호, 앱 아이디**를 입력하시고, \[부관리자 로그인] 버튼을 선택하면 로그인 됩니다.
 
-\*Please note that paid users do not want the app to be uninstalled until the end of the paid period.
+여기서! 아이디와 비밀번호는 앱에 가입된 아이디, 비밀번호를 넣어주시구요.
 
-</details>
+**앱 아이디는 스윙 앱제작 페이지 → 1단계 기본정보에 보시면, 앱 아이디를 확인할 수 있습니다.​**
 
-<details>
+스윙투 웹사이트에서 부관리자 로그인하는 방법과 동일하게!
 
-<summary>The icon image is cropped from the phone and visible.</summary>
+부관리자 아이디, 비밀번호, 앱 아이디를 입력해서 로그인할 수 있습니다.
 
-When creating an icon image, you need to put a background color and a center image in the background.
+**\* 이미지 참고)**
 
-Make sure that the center image is not too large.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B09.png" alt="" data-size="original">
 
-\*Important\* Background color is not transparent, but must be colored.
+**앱 부관리자 설정 방법, 로그인하는 방법은 아래 매뉴얼을 참고해주세요!**
 
-When installed on your phone, the app icon will be rounded to make it visible.
-
-\- Reference images
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%EA%B0%80%EC%9D%B4%EB%93%9C1-519x1024.png" alt="" data-size="original">
-
-Therefore, if you work with the center image too large, it will be rounded and all the corners will be cut off.
-
-Please design with that in mind.
-
-The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
-
-<mark style="color:blue;">**\[Go to the app icon image creation guide]**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [**스윙미리보기 상세방법 매뉴얼 확인하기**](https://wp.swing2app.co.kr/documentation/swingpreview/)
 
 </details>
 
 <details>
 
-<summary>What is the standby screen image that registers for basic information?</summary>
+<summary><strong>미리보기에서 제공되는 QR코드는 어떻게 사용하나요?</strong></summary>
 
-The standby screen is the screen that is displayed during the loading time before the app is launched.
+앱 미리보기 페이지에서 ‘QR 코드로 미리보기’ 메뉴를 확인할 수 있는데요.
 
-For each type of mobile phone, the waiting screen is displayed in different Internet environments and the time it takes to see it varies.
+해당 메뉴는 관리자로 로그인하지 않아도! **앱마다 제공되는 QR코드를 스캔하여 핸드폰에서 앱을 미리볼 수 있습니다.**
 
-It should look as short as 1 to 3 seconds.
+QR코드 미리보기는 일반 프로토타입으로 제작한 앱만 이용이 가능합니다. \*웹뷰, 푸시앱으로 제작한 앱은 이용 불가
 
-Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
+***
 
-Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
+**★ QR코드 이용방법**
 
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+스윙투앱 앱 실행 – 앱 미리보기 – \[QR코드로 미리보기] 버튼 선택 → 핸드폰을 해당 QR코드 이미지에 가져다 대면 제작한 앱이 핸드폰에서 미리보기로 실행됩니다.
 
-</details>
-
-<details>
-
-<summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
-
-**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
-
-However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
-
-Therefore, when working with standby screens, you should check and produce the standby screen guideline manual provided by the swing.
-
-Reference Image)
-
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/20dcb89afcf17106ac72ea410440d487.png?type=w966)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&logNo=221214959655\&parentCategoryNo=\&categoryNo=49\&viewDate=\&isShowPopularPosts=false\&from=postView)
-
-In the attached image, blue becomes the wallpaper. (Image that can be cropped)
-
-You just need to work on making sure that all the important image cuts are in the gray space. (Image shown on the actual screen)
-
-Usually, users work with the image to a large blue area, so the image is cropped and visible depending on the phone type.
-
-Therefore, please make a standby screen by checking the guidelines - how to make it.
-
-**☞ **<mark style="color:blue;">**See how to create a standby screen image**</mark>
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B010.png" alt="" data-size="original"> <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04-1.png" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary>Are there any restrictions on app updates?</summary>
+<summary><strong>[미리보기]로 볼 때는 푸시 알림 발송이 안되나요?</strong></summary>
 
-Yes, you can use it without restrictions.
+네 , 앱 다운이 아니라 미리보기로 앱을 보실 때는 푸시 알림이 발송되지 않습니다.
 
-After you create the app, modify and update it, you are free to use it.
+푸시 외에도 공유기능을 이용할 수 없습니다.
+
+(앱 공유, 게시판, 게시물, 이미지 공유 모두 안되요)
+
+★아이폰 사용자들은 \*미리보기만 가능하기 때문에 해당 기능을 사용할 수 없음에 양해부탁드립니다.
+
+★안드로이드 사용자들은 앱 다운로드를 선택하면, 다운 받은 앱에서는 스윙의 모든 기능을 이용할 수 있습니다.
 
 </details>
 
 <details>
 
-<summary>Where do I make modifications (updates) after app creation?</summary>
+<summary><strong>미리보기, 앱 다운로드의 차이가 무엇인가요?</strong></summary>
 
-The Swing-to-App does not have an app modification (update) task page.
+스윙투앱 공식앱 – \[앱미리보기] 에서 스윙 계정으로 로그인을 하면, 제작한 앱목록이 뜨구요.
 
-When making corrections, please do the same by going to the app creation page.
+앱이름 하단에 **\[미리보기], \[앱 다운로드]** 버튼을 확인할 수 있습니다.
 
-You can overwrite existing apps and keep updating.
+**\* 미리보기: 앱을 다운 받지 않고, 핸드폰에서 앱을 미리보기 형식으로 바로 확인할 수 있습니다.**
 
-After saving, press the Update button to re-create the new version.
+**\* 앱 다운로드: 앱을 핸드폰에 직접 다운 받아 설치하여 이용합니다.**
+
+</details>
+
+<details>
+
+<summary><strong>프로토타입: 푸시, 웹뷰로 제작한 앱도 스윙미리보기에서 확인할 수 있나요?</strong>나요?</summary>
+
+안드로이드폰에서는 \[앱 다운로드]로 확인이 가능하며, **아이폰에서는 확인할 수 없습니다.**
+
+\-안드로이드폰 프로토타입 – 푸시, 웹뷰로 제작한 앱은 스윙미리보기 \[앱 다운로드]만 가능합니다.
+
+미리보기는 지원되지 않으며, 핸드폰에 앱을 다운받아야만 확인할 수 있습니다.
+
+\-아이폰에서는 푸시, 웹뷰로 제작한 앱은 목록에 뜨지 않습니다.
+
+</details>
+
+<details>
+
+<summary>아이폰은 앱 미리보기만 이용 가능한가요?</summary>
+
+네 아이폰의 경우 앱 다운로드는 지원되지 않고, \[미리보기]를 통해서 앱을 확인할 수 있습니다.
+
+앱미리보기 페이지에서 동일하게 스윙 계정: 관리자 아이디, 비밀번호로 로그인하면 제작한 앱목록을 확인할 수 있습니다.
+
+**\*프로토타입: 푸시, 웹뷰로 제작한 앱은 스윙 미리보기로 이용할 수 없습니다.**
+
+푸시, 웹뷰로 제작한 앱은 앱 다운로드만 가능하기 때문에 아이폰에서 지원이 안됩니다.
+
+**\[아이폰 – 스윙미리보기 어플 실행화면]**\
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png)
+
+</details>
+
+<details>
+
+<summary>앱 미리보기를 이용하지 않고, APK파일을 받아 앱 다운이 가능한가요?</summary>
+
+안드로이드폰 기존 앱 설치방법 – APK파일을 다운받아 설치하여 이용할 수 있습니다.
+
+스윙미리보기를 이용하지 않고, 앱제작 시 완성되는 APK파일을 다운 받아 핸드폰에 직접 설치하여 이용할 수 있습니다.
+
+기존 앱설치 방법과 스윙 미리보기를 함께 이용하실 수 있으니, 이용에 참고 부탁드립니다.
+
+**\*APK파일 다운은 안드로이드폰만 가능**
+
+</details>
+
+<details>
+
+<summary>간편 로그인으로 스윙투앱 홈페이지를 가입한 사용자는 앱 미리보기에서 어떻게 로그인하나요?</summary>
+
+스윙투앱 가입시 간편로그인으로 진행하셨던 분들은 네이버, 구글, 페이스북 아이콘을 선택해서 로그인을 진행해주세요.
+
+
+
+**\*아이폰은 간편 로그인 기능이 제공되지 않습니다.**
+
+간편로그인 사용자는 안드로이드폰을 이용하시거나, 아이폰 이용시 부관리자 로그인 or QR코드로 미리보기 기능으로 이용해주세요.
+
+</details>
+
+<details>
+
+<summary>앱 미리보기에 로그인했으나, 제작된 앱 목록이 없습니다.</summary>
+
+제작 완료된 앱만 미리보기 목록에 뜹니다.
+
+따라서 리스트에 앱이 없다면, 아직 앱이 제작되지 않았을 가능성이 큽니다.
+
+아직 앱제작을 안했다면 \[앱 제작하기] 버튼을 눌러서 제작을 해주시구요.
+
+\[앱 제작하기]를 눌렀다면 버전관리에서 제작이 완료되었다는 상태표시를 확인하고 다시 접속해주세요. (제작시간 5분\~10분 소요)
 
 </details>
