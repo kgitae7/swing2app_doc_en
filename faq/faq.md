@@ -1,339 +1,186 @@
-# 스윙샵(스윙쇼핑몰) FAQ
+# App Preview FAQ
 
 <details>
 
-<summary><strong>스윙샵(스윙쇼핑몰)이란?</strong></summary>
+<summary>What is Swing Preview (App Preview)?</summary>
 
-스윙샵은 누구나 쉽고 편리하게 나만의 쇼핑몰 앱을 만들 수 있는 쇼핑몰 앱제작 서비스!! 입니다.
+Swing Preview is an \[App Preview] service that allows you to check the apps created by the Swing-to-App in real time.
 
-간단하게 쇼핑몰 신청이 가능하고, 개발비, 구축비 등의 비용 없이 무료로 쇼핑몰 서비스를 이용할 수 있습니다.
+After downloading the official Swing-to-App app – from the App Preview menu – please log in to the account you signed up for on the Swing homepage.
 
-**◆제작 비용 없이 무료로 스윙샵 이용이 가능합니다.**
+On the app preview page, you can see a list of all the apps created by Swing-to-App.
 
-**◆상품등록 및 관리 등의 손쉬운 운영관리가 가능합니다.**
+You can preview, download and check it directly on your phone from within the app.
 
-**◆결제시스템을 구축하여, 실제 쇼핑몰과 같은 기능을 동일하게 구현할 수 있어요.**
+Even if you don't have to cumbersome pick up and install APK files, you can check out the apps you've created in real time!
 
-**◆이미 만들어놓은 스윙 앱이 있다면, 기존 앱에 연동하여 스윙샵 기능을 이용할 수 있습ㄴ디ㅏ.**
+\*App preview is also available, especially on iPhones that have not been supported so far. (No down\~!)
 
-**◆ 스윙샵 역시 사용자가 수시로 수정, 업데이트 할 수 있으며 운영에 필요한 모든 툴을 제공합니다.**
+★For a detailed description of the swing preview, please check the relevant manual.&#x20;
 
-**◆ 스윙에서 제공하는 기능 – 푸시, 팝업 등의 마케팅 활용도 모두 이용할 수 있습니다.**
+**☞ **<mark style="color:blue;">**What is the swing preview service?**</mark>&#x20;
+
+**☞ **<mark style="color:blue;">**See how to use the swing preview**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>스윙샵(스윙쇼핑몰)은 어떻게 신청하나요?</strong></summary>
+<summary>How can I use the swing preview?</summary>
 
-A. 스윙 쇼핑몰은 \*\*앱운영페이지 → 내메뉴 → ‘쇼핑몰(결제시스템)신청’\*\*에서 신청하실 수 있습니다.
+1\) Please download the official 'Swing to App' app from the App Store and Play Store. \*If the app is already installed, please update to the latest version
 
-쇼핑몰서비스 \[결제모듈은] 사용/미사용을 선택해서 적용합니다.
+2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your swing website subscription account (ID, password).
 
-처음에는 ‘미사용’으로 체크 후 스윙샵을 이용해주세요.
+3\) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.
 
-앱제작 완료되어 앱을 상용화할 때는 유료앱이용권 구매 후, ‘사용’으로 변경해서 이용해주시면 됩니다.
+\- iPhone can be confirmed by pressing the preview button.
 
-스윙샵 신청은 별도 심사나 승인이 없기 때문에 신청 즉시 바로 스윙샵 메뉴를 이용할 수 있습니다.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B52-1.png" alt="" data-size="original">
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [**스윙샵 신청방법 상세보기**](https://wp.swing2app.co.kr/documentation/swingshop/apply/)
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[**스윙샵 신청하러가기**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
+\-On Android phones, you can preview the app, download the app.
 
 </details>
 
 <details>
 
-<summary>스윙샵 신청 후 상품은 어떻게 등록하나요?</summary>
+<summary>Can app assistant administrators also use app preview?</summary>
 
-스윙샵이 신청되면 스윙샵 메뉴가 앱운영 페이지에 생성됩니다.
+The four deputy administrators can also check the app by logging in from the app preview.
 
-스윙샵 메뉴에서 상품관리로 들어가서 카테고리 등록 후, 상품을 등록할 수 있습니다.
+When logging in, enter the **deputy administrator ID, password, and app ID, and select the \[Associate Administrator Login] button to log in.**
 
-어떤 상품을 등록할지에 따라 방법이 다르기 때문에 스윙투앱에서 제공하는 상품등록 매뉴얼을 보시고 작업해주시기 바랍니다.
+Here! For your username and password, please enter the ID and password associated with the app.
 
-[1)실물상품 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/registration/)
+**The app ID can be found on the swing app creation page → in the basic information in step 1, and you can check the app ID.**
 
-[2)예약상품 등록하기-날짜 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/reservationproduct/)
+Same as how to log in as a deputy administrator on the SwingTwo website!
 
-[3)예약상품 등록하기 -날짜&시간 예약상품](https://wp.swing2app.co.kr/documentation/swingshop/timereservation-product/)
+You can log in by entering your deputy administrator ID, password, and app ID.
 
-[4)디지털상품-PDF파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/digital-pdf/)
+**\* See images)**
 
-[5)디지털상품-권한 변경 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/authorized-sales/)
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B09.png" alt="" data-size="original">
 
-[6)디지털상품-영상파일 등록하기](https://wp.swing2app.co.kr/documentation/swingshop/video-file/)
+**How to set up the app assistant administrator and how to log in, please refer to the manual below!**
 
-[7)디지털상품-쿠폰등록하기](https://wp.swing2app.co.kr/documentation/swingshop/coupon/)
-
-</details>
-
-<details>
-
-<summary><strong>스윙 쇼핑몰은 어디서 신청할 수 있나요?</strong></summary>
-
-스윙쇼핑몰은 앱운영페이지>내메뉴> ‘쇼핑몰(결제시스템)신청’에서 신청하실 수 있습니다.\
-쇼핑몰서비스-결제모듈은 사용/미사용을 선택해서 적용합니다.\
-\
-[**\[쇼핑몰 서비스 신청하러가기\]**](http://www.swing2app.co.kr/view/swing\_shop\_apply)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* <mark style="color:blue;">**\[Check out the Swing Preview Detailed Method Manual]**</mark>
 
 </details>
 
 <details>
 
-<summary><strong>스윙쇼핑몰을 기존앱에 적용하여 사용할 수 있나요?</strong></summary>
+<summary>How do I use the QR code provided in the preview?</summary>
 
-네 적용가능합니다. 스윙쇼핑몰은 내메뉴에서 신청해서 사용할 수 있는데요.
+On the app preview page, you can check the "Preview by QR Code" menu.
 
-기존에 만들어놓은 앱을 선택해놓고, 해당 앱에 쇼핑몰을 적용하여 이용할 수 있습니다.
+That menu doesn't require you to be logged in as an administrator! **You can scan the QR code provided by each app to preview the app on your phone.**
 
-따라서 새로 앱을 제작할 필요 없이, 기존에 만들어놓은 앱에 쇼핑몰 기능을 적용하여 이용하시면 됩니다.
+QR code previews are only available for apps built from regular prototypes. \*Webview and apps created with push apps are not available
 
-</details>
+**★ How to use QR code**
 
-<details>
+Launch the swing-to-app app – Preview the app – Select the \[Preview with QR Code] button → When you bring your phone to the QR code image and touch it, the app you created will be previewed on your phone.
 
-<summary><strong>쇼핑몰에서 상품 이미지 등록시 사이즈는 어떻게 넣어야 하나요?</strong></summary>
-
-상품등록시 권장 사이즈는 따로 없습니다.
-
-상품 이미지는 핸드폰 가로 사이즈에 맞춰서 자동으로 이미지 사이즈가 수정되어 들어갑니다.
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B010.png" alt="" data-size="original"> <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04-1.png" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary><strong>스윙샵(스윙쇼핑몰) 이용료가 있나요?</strong></summary>
+<summary>When I view it as [Preview], I can't send push notifications?</summary>
 
-스윙샵 기능은 무료로 이용할 수 있으며, 쇼핑몰 이용에 납부해야 하는 비용은 없습니다.
+Yes, when you view the app as a preview rather than downloading the app, you won't receive push notifications.
 
-전자결제 서비스 페이앱 가입시 들어가는 비용이 있으나, 현재 페이앱 가입비 무료 이벤트를 진행중이기 때문에 무료로 판매점 가입도 가능합니다.
+In addition to pushing, sharing is not available.
 
-(무료 이벤트 종료일은 미정)
+(App sharing, bulletin boards, posts, image sharing all not)
 
-따라서 유료앱이용권 외에 쇼핑몰 기능과 관련하여 들어가는 비용은 없습니다.
+★Please note that iPhone users will not be able to use this feature as it is only available for \*preview.
 
-</details>
-
-<details>
-
-<summary><strong>디지털상품은 무통장 입금이 안되나요?</strong></summary>
-
-앱에서 디지털 상품- PDF,쿠폰, 영상파일, 권한 등을 판매할 경우는 인앱 결제 모듈을 적용해야 하며, 무통장입금을 하실 수 없습니다.
-
-또한 일반 카드결제 역시 스토어에서는 허용하지 않기 때문에 디지털상품을 판매할 경우 애플과 구글에서 제공하는 인앱 결제모듈을 개발하여 앱에 적용해야 합니다.
-
-무통장입금은 카드결제와 달리 사용자가 언제 입금을 했는지 결제시점을 알 수 없습니다.
-
-결제를 하고 바로 제품을 넣어줘야 하는데(이용기간 등이 있으므로) 관리자가 일일이 관리를 하기가 어렵습니다.
-
-그리고 해당 방법은 스토어에서도 허용되지 않는 결제시스템입니다.
-
-디지털상품의 경우 눈에 보이지 않는 제품을 거래하는 것이기 때문에 별도의 전자결제 없이는 승인을 해주지 않습니다.
-
-스윙샵에서도 무통장입금을 할 경우 신청이 되지 않도록 막아놓았습니다.
-
-인앱을 하기 어렵고, 상품에 꼭 무통장 입금만 하셔야 한다면!!
-
-스윙샵을 이용하지 말고, 게시판이나 공지사항에 입금 계좌번호를 적어놓고 사용자들에게 별도로 입금을 받는 방법으로 이용할 수 있습니다.
-
-다만 해당 내용의(게시판에 계좌번호를 기재해서 돈을 지급 받는 방식) 앱은 앱스토어에는 출시가 불가하오니 참고해주세요!
+★Android users can choose to download the app and the downloaded app will be able to use all the functions of Swing.
 
 </details>
 
 <details>
 
-<summary><strong>디지털상품은 인앱 결제모듈만 적용할 수 있나요?</strong></summary>
+<summary>What's the difference between previewing and downloading apps?</summary>
 
-네 그렇습니다.
+Official App to Swing – When you log in with your swing account in \[App Preview], a list of apps that you have created will appear.
 
-앱스토어, 플레이스토어 결제 정책에 따라 앱에서 실물상품을 제외한 디지털 상품(쿠폰, 권한, 파일등의 무형의 서비스)을 판매할 경우 페이앱을 포함 일반 전자결제시스템(카드결제, 무통장입금)은 적용 불가합니다.
+**At the bottom of the app name, you can check the \[Preview], \[Download App] buttons.**
 
-(페이앱 가입이 가능해도, 스토어에서 허용하지 않습니다.)
+**\* Preview: Without downloading the app, you can check the app directly in preview format on your phone.**
 
-따라서 디지털상품을 적용한 앱을 출시할 계획이라면 페이앱과 같은 전자결제시스템을 적용하는 것이 아니라 애플과 구글에서 제공하는 인앱 결제모듈을 따로 앱에 개발하여 적용해야 합니다.
-
-\-인앱 상담은 문의 게시판(http://www.swing2app.co.kr/view/service\_qa), 업무시간 중은 실시간 채팅을 이용해주시기 바랍니다.
-
-\-인앱은 개발작업이 필요하며 앱 내부 볼륨에 따라 개발 비용은 달라집니다. 상담 후 비용 안내가 가능합니다.
+**\* App Download: Download and install the app directly to your phone.**
 
 </details>
 
 <details>
 
-<summary><strong>무료버전 앱에서는 페이앱(결제모듈)을 신청할 수 없나요?</strong></summary>
+<summary>Prototype: Can I see apps created with Push or WebView in Swing Preview? Did?</summary>
 
-스윙샵 이용은 무료버전앱에서도 모두 이용 가능합니다.
+You can check it by \[Download App] on your Android phone, but you can't check it on your iPhone.
 
-그러나 **페이앱을 신청하실 때에는(실제 결제모듈을 적용) 유료버전앱만 신청이 가능합니다.**
+\- Android Phone Prototype – Apps created with Push and WebView are only available for swing preview \[App Download].
 
-즉 결제서비스를 ‘미사용’으로 체크할 때에는 무료버전도 모두 이용이 가능하며\*\*, ‘사용’으로 체크할 때에는 유료버전앱만 신청이 가능합니다.\*\*
+Preview is not supported, and you will need to download the app to your phone to see it.
 
-결제서비스(페이앱 신청)를 사용 할 경우는 상용화를 진행하는 것이므로, 유료버전 앱에서만 적용이 가능하구요.
-
-</details>
-
-<details>
-
-<summary><strong>페이앱(PayApp)이란?</strong></summary>
-
-페이앱은 전자결제서비스 대행사로 온/오프라인 결제 서비스를 지원하는 업체입니다.
-
-온라인 내 카드결제, 무통장입금, 휴대폰결제 등의 결제 서비스를 제공해주기 때문에 앱 내에서 쇼핑몰 기능이 있어서 결제를 진행해야 할 때는 반드시 페이앱과 같은 전자결제 시스템(모듈)을 연결해야 합니다.
-
-스윙투앱은 페이앱과 제휴하여 스윙투앱에서 제작하는 앱에 페이앱 결제수단을 연동하여 결제가 되도록 지원해드리고 있습니다.
-
-따라서 쇼핑몰 어플을 제작한다면, 페이앱에 판매점으로 가입을 해주셔야 하구요.
-
-가입한 아이디를 앱에 적용하면 앱에서 실제 결제가 가능해집니다.
-
-페이앱은 일반 카드 결제 외에 네이버페이, 카카오페이, 스마일페이, 페이코 결제수단을 모두 지원하기 때문에 다른 서비스를 별도 신청하지 않아도 됩니다.
+\-On the iPhone, apps created with push or webview will not be listed.
 
 </details>
 
 <details>
 
-<summary><strong>스윙샵에서 제공하는 전자결제모듈 – 페이앱 계약은 어떻게 하나요?</strong></summary>
+<summary>Is the iPhone only available for app previews?</summary>
 
-쇼핑몰 신청시 결제서비스를 사용할지, 사용하지 않을지를 선택하게 되는데요.
+Yes, downloading the app is not supported for iPhones, and you can check the app through \[Preview].
 
-결제서비스를 사용 할 경우, 실제 결제가 가능하도록 앱에 결제모듈을 연결해야 합니다.
+On the app preview page, you can log in with the same swing account: administrator ID and password to see the list of apps you've created.
 
-스윙투앱은 전자결제 서비스 대행사인 페이앱(PayApp)과 제휴하고 있기 때문에 페이앱 홈페이지로 접속하여 판매점으로 가입을 진행해주셔야 합니다.
+**\*Prototype: Apps created with Push or WebView are not available as swing previews.**
 
-\-페이앱 홈페이지 [https://www.payapp.kr/](https://www.payapp.kr/)
+Apps created with Push or WebView are not supported on the iPhone because they can only be downloaded from the app.
 
-\-가입 안내 [https://www.payapp.kr/homepage/guide/guide2.html](https://www.payapp.kr/homepage/guide/guide2.html)
-
-\-제출서류 [https://www.payapp.kr/homepage/guide/guide3.html](https://www.payapp.kr/homepage/guide/guide3.html)
-
-위의 가입 안내 및 제출서류를 확인하여 페이앱에 직접 가입을 진행해주시기 바랍니다.
+**\[iPhone – Swing Preview App Launchscreen]**\
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png)
 
 </details>
 
 <details>
 
-<summary><strong>페이앱 – 해외 결제는 불가능한가요?</strong></summary>
+<summary>Can I download the app by receiving the APK file without using the app preview?</summary>
 
-네 해외결제 판매점은 페이앱 서비스를 이용할 수 없습니다.
+How to install an existing app on your Android phone – You can download and install the APK file to use it.
 
-해외 결제로 운영되고 있는 판매점은 페이앱에 가입할 수 없기 때문에 인앱 결제나 다른 결제모듈 서비스를 이용하셔야 합니다.
+Instead of using the swing preview, you can download the APK file that is completed during the creation of the app and install it directly on your mobile phone for use.
 
-\_해당 정책은 페이앱에서 2018년 2월 22일 공지된 사항입니다.
+You can use the existing app installation method and the swing preview together, so please note the use.
 
-</details>
-
-<details>
-
-<summary><strong>페이앱 – 비사업자(개인)도 가입할 수 있나요?</strong></summary>
-
-비사업자(개인)도 페이앱 서비스에 가입하실 수는 있습니다.
-
-그러나 최초 가입 후 페이앱에서 사업자 등록을 유도할 수 있으며, 사업자 등록이 없는 경우 과세 부담이 있을 수 있습니다.
-
-또한 **★비사업자는 신용 카드 결제를 이용할 수 없습니다. \_금융감독원 시정조치로 2018.03.12 정책 시행​**
-
-**카드 결제가 되지 않고, 가입시 휴대전화 결제로 기본 설정됩니다.**
-
-카드 결제를 희망하신다면 사업자를 등록해주시기 바랍니다.
-
-정책을 확인하고 이용에 참고하시기 바랍니다.
+**\*APK file download is only available for Android phones**
 
 </details>
 
 <details>
 
-<summary><strong>카카오페이만 선택해서 결제할 수 있나요?</strong></summary>
+<summary>How do users who have subscribed to the Swing-to-App homepage with Easy Login sign in from the app preview?</summary>
 
-네 페이앱 서비스 내에 카카오페이가 제공이 됩니다.
+If you used to log in with a simple login when you signed up for the Swing-to-App, please select the Naver, Google, and Facebook icons to log in.
 
-따라서 별도 카카오페이 서비스를 신청하지 않아도, 페이앱만 신청해도 카카오페이를 이용할 수 있습니다.
+**\*The iPhone does not come with a simple login function.**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A6%BC1-1.jpg" alt="" data-size="original">
-
-이미지 참고)페이앱 적용 – 결제방식 선택
-
-만약 페이앱을 이용하지 않고, 따로 카카오페이만 앱에 적용한다면 아래 방법을 확인해주세요.
-
-먼저 카카오페이 서비스를 적용하기 위해서는 스윙 유료이용권이 결제가 되어 있어야 합니다.
-
-\*카카오페이 서비스는 스윙 유료이용권 확장형 이상부터 사용할 수 있습니다.
-
-기본형으로 결제를 할 경우 카카오페이 서비스는 이용할 수 없고 스윙 유료이용권 – 확장형, 프리미엄만 적용됩니다.
-
-그리고카카오페이는 스윙에서 제휴하는 서비스가 아니기 때문에 사용자가 직접 카카오페이 서비스에 문의하여 가맹점 승인을 받아야 합니다.
-
-가맹점 승인 완료 후 상점 아이디를 받은 뒤, 스윙투앱으로 문의주시면 안내도와드리겠습니다.
-
-[**⇒ 카카오페이 신규신청 홈페이지**](https://with.kakao.com/kakaopay/index)
+For users with Easy Login, please use your Android phone or use the preview function as a deputy administrator login or QR code when using the iPhone.
 
 </details>
 
 <details>
 
-<summary><strong>페이앱 가입 불가 업종을 알려주세요.</strong></summary>
+<summary>I'm signed in to app preview, but I don't have a list of apps that have been created.</summary>
 
-**페이앱 가입 유의사항 불가업종 확인하기**
+Only apps that have been created will appear in the preview list.
 
-[https://payapplite.com/notice/view?articleNo=61](https://payapplite.com/notice/view?articleNo=61)
+So if your app isn't on the list, it's likely that your app hasn't been built yet.
 
-페이앱 가입 정책에 따라 심사가 거절될 수도 있습니다.
+If you haven't created the app yet, please press the \[Create App] button to create it.
 
-결제에 관련된 심사기 때문에 페이앱 쪽에서도 심사를 꼼꼼히 진행합니다.
-
-가입 불가 업종을 확인해주세요.
-
-**\[가입 불가 업종]**
-
-**1) 상품을 현금으로 거래 하는 것이 아닌 캐쉬, 적립금 형태로 결제를 하는 경우**
-
-**2) 도박, 불법 거래**
-
-**3) 결제 시 구매자와 판매자가 다이렉트로 연결된 형태가 아닌, 중간 매매업자가 있는 경우**\
-**(중간에서 수수료를 떼고 판매자에게 남은 금액 제공)**
-
-**4) 업종 확인이 어려운 경우(상품 확인 불가, 실제 거래 경로 확인 불가, 후원, 펀딩, 모금 등)**
-
-**5) 컨텐츠 판매시 해당 컨텐츠가 증권,주식,파생상품 등 금융권 상품일 경우**
-
-**6) 성인용품, 주류 등을 판매**
-
-**7) 모바일 상품권 판매, 포인트 충전 상품은 가입 불가**
-
-**8) 업무 대행비용 (비자 신청 대행, 상품 구매 대행 등)**
-
-스윙에서 페이앱을 신청해주신 분들도 위와 같은 사례로 심사가 거절된 사례가 많이 있습니다.
-
-따라서 결제시스템을 적용하시기 위해서 위와 같은 항목들이 있지 않은지 체크해주세요.
-
-페이앱 뿐만 아니라 모든 전자결제시스템에서는 심사가 오래걸리기도 하고 까다롭기 때문에 상품을 판매하려고 해도 승인이 잘 나지 않을 수 있음을 꼭 기억해주세요.
-
-</details>
-
-<details>
-
-<summary><strong>쇼핑몰 결제 수단에는 어떤 것들이 있나요?</strong></summary>
-
-일반 카드결제, 계좌이체, 소액결제(핸드폰결제) 가 기본으로 제공됩니다.
-
-그리고 페이앱에서 네이버페이, 카카오페이, 스마일페이, 페이코 결제수단을 모두 제공합니다.
-
-페이앱만 앱에 적용해도 위의 결제 수단을 모두 이용할 수 있습니다.
-
-</details>
-
-<details>
-
-<summary><strong>페이앱 관련 문의 및 가입 후 관리는 어떻게 하나요?</strong></summary>
-
-페이앱 공식 홈페이지를 통해서 문의를 하실 수 있습니다. (카드 수수료, 정산일, 수수료 인상 문의 등)
-
-**\*홈페이지:** [**https://www.payapp.kr**](https://www.payapp.kr/)
-
-**\*고객센터: 1800-3772**
-
-그리고 페이앱 가입이 완료된 사용자 역시 해당 사이트에서 로그인하시면 판매자 관리페이지에서 결제내역을 관리할 수 있습니다.
+If you have clicked \[Create App], please check the status indication that the creation is complete in version control and re-connect. (Production time 5-10 minutes)
 
 </details>
