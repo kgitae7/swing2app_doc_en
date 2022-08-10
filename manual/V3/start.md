@@ -10,7 +10,7 @@ Choose any one of the provided option accordingly.&#x20;
 
 
 
-### ![](../../.gitbook/assets/단락1-1.png) App creation wizard screen- options provided are:
+### ![](<../../.gitbook/assets/단락1-1 (1).png>) App creation wizard screen- options provided are:
 
 \-Create apps by using a sample template (normal prototype)
 
@@ -28,7 +28,7 @@ Check the manual to see the app creation method for each option type.
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](../../.gitbook/assets/단락1-1.png) Method 1. Fast app creation
+### ![](<../../.gitbook/assets/단락1-1 (1).png>) Method 1. Fast app creation
 
 ![](../../.gitbook/assets/제작마법사1.png)
 
@@ -60,7 +60,7 @@ Since you can modify and update the app unlimited times, feel free to modify and
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### &#x20;![](<../../.gitbook/assets/단락1-1 (1).png>) Method 2. Create Web App
+### &#x20;![](../../.gitbook/assets/단락1-1.png) Method 2. Create Web App
 
 ![](../../.gitbook/assets/제작마법사2.png)
 
@@ -84,7 +84,7 @@ So if you wish to create a web app, choose the second option of the app creation
 
 ![](../../.gitbook/assets/구분선.PNG)
 
-### ![](<../../.gitbook/assets/단락1-1 (1).png>) Method 3. Create Custom App
+### ![](../../.gitbook/assets/단락1-1.png) Method 3. Create Custom App
 
 ![](../../.gitbook/assets/제작마법사3.png)
 
@@ -114,5 +114,5 @@ So, select the app type that you wish to create and modify it accordingly.
 
 For a general app creation manual, please visit the link below.
 
-[Check out the V3 App Authoring Manual](https://krc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?new=1\&ui=en%2DGB\&rs=en%2DGB\&wdorigin=OFFICECOM-WEB.START.NEW-INSTANT\&wdenableroaming=1\&mscc=1\&wdodb=1\&hid=F79555A0-90A7-1000-775E-1B682496F2E4\&wopisrc=https%3A%2F%2Fswing2app-my.sharepoint.com%2Fpersonal%2Fharshajad05538\_swing2app\_com%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F161f872f3e6f43f4b55a9a5eabfb50bc\&wdhostclicktime=1659051877156\&jsapi=1\&jsapiver=v1\&newsession=1\&corrid=1635197a-0e34-4970-974e-224dfa517a9b\&usid=1635197a-0e34-4970-974e-224dfa517a9b\&sftc=1\&cac=1\&mtf=1\&sfp=1\&wdredirectionreason=Unified\_SingleFlush\&rct=Medium\&ctp=LeastProtected)&#x20;
+[Check out the V3 App Authoring Manual ](guide.md)
 
