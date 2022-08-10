@@ -4,7 +4,9 @@ On MakerV3 App Creation Screen -> Choose the app type that you wish to create.
 
 Before you start app creation, first choose what style and type of app you want to build.
 
-On the App Creation Wizard screen, you'll see 3 different ways to create an app. Choose any one of the provided option accordingly.&#x20;
+On the App Creation Wizard screen, you'll see 3 different ways to create an app.&#x20;
+
+Choose any one of the provided option accordingly.&#x20;
 
 
 
@@ -24,11 +26,11 @@ After selecting one of the methods and entering the basic information that goes 
 
 Check the manual to see the app creation method for each option type.
 
+![](../../.gitbook/assets/구분선.PNG)
 
+### ![](../../.gitbook/assets/단락1-1.png) Method 1. Fast app creation
 
-## Method 1. Fast app creation
-
-![](broken-reference)
+![](../../.gitbook/assets/제작마법사1.png)
 
 It's about building an app using a sample template. You can build it as a regular prototype app.&#x20;
 
@@ -56,11 +58,11 @@ Each sample template has its own prototypes. You can easily modify the menus of 
 
 Since you can modify and update the app unlimited times, feel free to modify and experiment with templates and prototypes.
 
+![](../../.gitbook/assets/구분선.PNG)
 
+### &#x20;![](<../../.gitbook/assets/단락1-1 (1).png>) Method 2. Create Web App
 
-## Method 2. Create Web App
-
-![](broken-reference)
+![](../../.gitbook/assets/제작마법사2.png)
 
 The second method is the web app creation style.
 
@@ -80,11 +82,11 @@ So if you wish to create a web app, choose the second option of the app creation
 
 <mark style="color:green;">**\*In addition, the menus provided in the web app can also be selected and modified on the app makerV3 screen.**</mark>&#x20;
 
+![](../../.gitbook/assets/구분선.PNG)
 
+### ![](<../../.gitbook/assets/단락1-1 (1).png>) Method 3. Create Custom App
 
-## Method 3. Create Custom App
-
-![](broken-reference)
+![](../../.gitbook/assets/제작마법사3.png)
 
 The third way is to build and organize the app from scratch. You can create menus, pages, icons etc of your app from the scratch.&#x20;
 
@@ -98,15 +100,13 @@ If you don't find any sample template design suitable for you, or if you want to
 
 **You can now start building the app on the App MakerV3 screen.**
 
-&#x20;&#x20;
-
 **​**
 
-<mark style="color:green;">**\*You can modify and update your app unlimited times, so if you want to change anything that you chose initially, you can easily modify it within the existing app.**</mark>
+<mark style="color:green;">\*You can modify and update your app unlimited times, so if you want to change anything that you chose initially, you can easily modify it within the existing app.</mark>
 
-<mark style="color:green;">**\*You can choose the template feature in this option too.**</mark> &#x20;
+<mark style="color:green;">\*You can choose the template feature in this option too.</mark> &#x20;
 
-<mark style="color:green;">**Therefore, you can freely combine and create regular app creation styles + template styles, etc.**</mark>
+<mark style="color:green;">Therefore, you can freely combine and create regular app creation styles + template styles, etc.</mark>
 
 **​**
 
