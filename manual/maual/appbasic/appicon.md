@@ -12,55 +12,79 @@ In this manual, we will guide you on how to create and register an app icon imag
 
 **Represents an app image, which is the representative icon image displayed on the smartphone desktop.**
 
-Each brand has its logo.\
-Just think that the app icon is the same as that logo.\
+Each brand has its logo. Just think that the app icon is the same as that logo.
+
 Register a specific logo that represents your app as an icon!
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/iphone\_icon.png)
+![](../../../.gitbook/assets/영문아이콘\_안드로이드버전.png)
 
-All the images you see on your phone are app icons.\
+All the images you see on your phone are app icons.
+
 Users can create their app icon images like this.
 
-***
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;">**2. Guide to create an app icon**</mark>
 
-**App icons look small on the phone, but you need to work at a very high resolution.**\
-**The recommended icon size for the app is  1024 px \* 1024 px.**\
-**You should make it in the appropriate size and register it on the Maker(V2) page.**\
-\
-What do you need to put in such a big image? It’s should be less than 100px on the phone. But the difference between the image quality on the computer web and the image quality on a mobile phone is huge.\
-\* Mobile phone photos are not only very high resolution but also very large.\
-The more you go to the latest phone, the higher the capacity. The picture quality is also really good.\
-Therefore, please be sure to work with the app icon which should be 1024px\*1024px according to the IOS recommended size.
+**App icons look small on the phone, but you need to work at a very high resolution.**
 
-**Important!!**\
-When creating an app icon image, it is recommended to use professional design tools – Photoshop, illustrations, etc.\
+**The recommended icon size for the app is  1024 px \* 1024 px.**
+
+**You should make it in the appropriate size and register it on the Maker(V2) page.**
+
+What do you need to put in such a big image?&#x20;
+
+It’s should be less than 100px on the phone.&#x20;
+
+But the difference between the image quality on the computer web and the image quality on a mobile phone is huge.
+
+\* Mobile phone photos are not only very high resolution but also very large.
+
+The more you go to the latest phone, the higher the capacity. The picture quality is also really good.
+
+Therefore, please be sure to work with the app icon which should be 1024px\*1024px according to the IOS recommended size**.**
+
+**Important!!**
+
+When creating an app icon image, it is recommended to use professional design tools – Photoshop, illustrations, etc.
+
 When working with Paint, PowerPoint, etc., the picture quality may be worse than you expected.
 
-**Also, app icons should be created separately by considering the style, brand, and logo of the app.**\
+**Also, app icons should be created separately by considering the style, brand, and logo of the app.**
+
 We will explain the icon image design below.
 
-***
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;">**3. Guide on App Icon Design**</mark>
 
-**Some of you may have difficulty designing app icons.**\
-<mark style="color:purple;">**The biggest point of the design is to be ‘neat’.**</mark>\
-\-Don’t put too many characters.\
+**Some of you may have difficulty designing app icons.**
+
+<mark style="color:purple;">**The biggest point of the design is to be ‘neat’.**</mark>
+
+\-Don’t put too many characters.
+
 \-You can also not put a lot of wallpaper and images.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/phone\_icon-.png)
+![](../../../.gitbook/assets/영문아이콘2\_안드로이드버전.png)
 
-If you look at the app icon image on the market, we created just one logo of the brand.\
-Just a few examples.\
-<mark style="color:orange;">**-We only added the official word Swing on the Swing2App logo.**</mark>  \ <mark style="color:orange;"></mark><mark style="color:orange;">**-Naver has a green background with English capital N + symbol logo**</mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**-CGV only include CGV logo base**</mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**-Kakao Talk has a yellow background with English Talk + symbol color**</mark>\
-\
-How do you feel about designing?\
-Also, if you look at the apps installed on your phone, you can check how they are being designed to inspire your design!\
+If you look at the app icon image on the market, we created just one logo of the brand.
+
+Just a few examples.
+
+> <mark style="color:orange;">-We only added the official word Swing on the Swing2App logo.</mark> &#x20;
+>
+> <mark style="color:orange;">-Naver has a green background with English capital N + symbol logo</mark>
+>
+> <mark style="color:orange;">-Facebook only include "F" Alphabet base</mark>
+
+How do you feel about designing?
+
+Also, if you look at the apps installed on your phone, you can check how they are being designed to inspire your design!
+
 **\*And as mentioned above, please be sure to use the professional image design tool.**
 
-***
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;">**4. Apply the App icon**</mark>
 
@@ -77,7 +101,7 @@ Swing2App creation can be further edited, so you can apply it as a sample and ed
 
 The image editing tool window is a page where only the size of the image can be adjusted according to the recommended size (it cannot design images)
 
-***
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;">**5. App Icon size is different on Android and iPhones!**</mark>
 
@@ -94,23 +118,28 @@ Let’s check the app icons shown on iPhone and Android phones below!
 
 <mark style="color:blue;">**1) App Icon styles visible on iPhone**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/iphone\_icon.png)
+![](<../../../.gitbook/assets/iphone\_icon (1).png>)
 
-The iPhone has the same icon style on all iPhone models.\
-As you can see in the image above, the app icon is not a complete rectangle but is rounded and looks like a curved rectangle.\
-<mark style="color:red;">**\* So you can make the app icon in a square, round or rectangular shape. On the iPhone, all icon styles are presented in a round style.**</mark>
+The iPhone has the same icon style on all iPhone models.
+
+As you can see in the image above, the app icon is not a complete rectangle but is rounded and looks like a curved rectangle.
+
+<mark style="color:red;">\* So you can make the app icon in a square, round or rectangular shape.</mark>
+
+&#x20;<mark style="color:red;">On the iPhone, all icon styles are presented in a round style.</mark>
 
 <mark style="color:red;">****</mark>
 
 <mark style="color:blue;">**2) App icon is shown on Android Phone – Android Version 8.0**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/android\_icon-1.png)
+![](<../../../.gitbook/assets/영문아이콘\_안드로이드버전 (1).png>)
 
-Android phone version 8.0 is shown in the same app icon style as the iPhone.\
-It is round, but it’s a lot more rounder than you see on the iPhone.
+★However, android phones have different app icon styles depending on the version!
 
-★However, android phones have different app icon styles depending on the version!\
-In previous versions of 8.0, the original app icon looks like it’s also visible on your phone.\
+In previous versions of 8.0, the original app icon looks like it’s also visible on your phone.
+
 Remember that App icons styles vary depending on the version and model of Android, so app icons may look different for each user’s Android phone.
 
 **Therefore, the app icon shape may vary depending on which iOS platform you use, for those who run the app with Swing2App, please refer to the app icon creation and design.**
+
+****
