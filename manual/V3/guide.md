@@ -65,9 +65,9 @@ To get the best results, be sure to design and apply the image as per the guide.
 
 
 
-<mark style="color:blue;">**Go to the icon image creation guide**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)<mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>](../maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
 
 ![](../../.gitbook/assets/구분선.PNG)
 
