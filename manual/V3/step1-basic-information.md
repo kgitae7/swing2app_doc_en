@@ -59,14 +59,16 @@ Check out the icons and splash screen image creation guide.
 {% hint style="info" %}
 We also have a guide in which we have shown a different way to use an app icon and a guide to use as a splash screen. Be sure to design and apply the image as per the guide.
 
-<mark style="color:blue;">**Go to the icon image creation guide**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)<mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>](../maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
 {% endhint %}
 
 ###
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic information registration complete
+
+![](../../.gitbook/assets/1제작완료.png)
 
 STEP1 The basic information: Users should add this information to the app creation wizard screen, and if they wish they can easily modify it on the MakerV3 screen. &#x20;
 
@@ -74,19 +76,17 @@ Except for the app ID, the app name, icons, and splash screen images can be modi
 
 \*STEP1- After modifying the Basic Information step, you must press the \[Update App] button to update to the new version to reflect modified items in your app.&#x20;
 
-* **In case your register icon and splash screen image do not fit the recommended size, worry not, you can modify the size through the image editing tool.**
-
-****
-
 ****
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the image editing tool?
 
 **The image editing tool is a feature that allows you to easily modify the size of the image.**&#x20;
 
+**In case your register icon and splash screen image do not fit the recommended size, worry not, you can modify the size through the image editing tool.**
+
 If the image size you want to upload when creating the app is different from the recommended image size listed in the creation method, you can easily modify the size in this editing tool.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%B8%EC%A7%91%EC%B0%BD1.png)
+![](../../.gitbook/assets/이미지편집도구.png)
 
 The app icon image recommended size is **1024 x 1024 px.**
 
@@ -94,7 +94,7 @@ If the attached image does not match the size, a window will pop up warning that
 
 Click on 'OK' button to enter in the Image Editing Tool window.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%B8%EC%A7%91%EC%B0%BD2.png)
+![](../../.gitbook/assets/이미지편집도구3.png)
 
 As you can see in the image, the (blue line) area is designated as the image size to be uploaded in the image editing tool window.
 
@@ -108,9 +108,13 @@ If the image is large, simply drag the area with the mouse to apply the desired 
 
 Therefore, **we recommend that you use an image that is larger than the specified size!!**
 
-When you finished editing the image, click on the \[Upload] button-> \[Apple] button.
+When you finished editing the image, click on the \[Uploaded] button**.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%B8%EC%A7%91%EC%B0%BD3.png)
+![](../../.gitbook/assets/이미지편집도구2.png)
+
+The image size has been modified.&#x20;
+
+check the uploaded image in the file attachment window and select the \[Apply] button.
 
 This way you can modify image size in the swing2app image editor tool.
 
