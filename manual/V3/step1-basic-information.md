@@ -1,6 +1,10 @@
+---
+description: Creating an App - STEP1 Basic
+---
+
 # STEP1 Basic Information
 
-### App Creation STEP1–  Enter Basic Information
+### App Creation STEP1– Enter Basic Information
 
 ***
 
