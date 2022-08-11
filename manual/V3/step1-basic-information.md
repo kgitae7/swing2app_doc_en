@@ -8,9 +8,11 @@ The App Maker V3 Production Manual will show you how to enter the STEP1 basic in
 
 Here you need to enter the basic information required to create an app, such as the app name, icon image, splash screen image, and app ID.
 
-## STEP1 Basic Information
+![](../../.gitbook/assets/구분선.PNG)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C1.png)
+### STEP1 Basic Information
+
+![](../../.gitbook/assets/기본정보1.png)
 
 1\. App Name: Enter your app name.
 
@@ -24,11 +26,11 @@ Here you need to enter the basic information required to create an app, such as 
 
 5\. Save changes: Whenever you make changes, select the \[Save] button to save the work.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Upload an icon image
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C1-1.png)
+![](../../.gitbook/assets/가이드1-1.png)
 
 Icon image size: **1024px\*1024px**
 
@@ -38,9 +40,11 @@ Icon image size: **1024px\*1024px**
 
 3\)After registering the image, click on the \[Apply] button.
 
+
+
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Upload a splash screen image
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B0%80%EC%9D%B4%EB%93%9C2-1.png)
+![](../../.gitbook/assets/가이드2-1.png)
 
 Standby Screen Image Size : **2282px\*2282px**
 
@@ -60,9 +64,9 @@ We also have a guide in which we have shown a different way to use an app icon a
 <mark style="color:blue;">**Go to the standby screen image creation guide**</mark>
 {% endhint %}
 
-### \*\*\*\*![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic information registration complete
+###
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%B3%B4%EC%9E%85%EB%A0%A5%EC%99%84%EB%A3%8C.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic information registration complete
 
 STEP1 The basic information: Users should add this information to the app creation wizard screen, and if they wish they can easily modify it on the MakerV3 screen. &#x20;
 
@@ -70,9 +74,11 @@ Except for the app ID, the app name, icons, and splash screen images can be modi
 
 \*STEP1- After modifying the Basic Information step, you must press the \[Update App] button to update to the new version to reflect modified items in your app.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
-
 * **In case your register icon and splash screen image do not fit the recommended size, worry not, you can modify the size through the image editing tool.**
+
+****
+
+****
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the image editing tool?
 
@@ -108,18 +114,28 @@ When you finished editing the image, click on the \[Upload] button-> \[Apple] bu
 
 This way you can modify image size in the swing2app image editor tool.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+{% hint style="danger" %}
+<mark style="color:red;">**Editing Tool Precautions**</mark>
 
-<mark style="color:red;">**\[Editing Tool Precautions]**</mark>
+<mark style="color:red;">****</mark>
 
 1\)We recommend you to upload images as per recommended size guide provided by us.
 
 Although the swing2app image editor tool is good for resizing the image but since the icons and splash screens are large images with a resolution that is immediately visible when installing a mobile phone app, it is much better in terms of quality to register the finished image than to artificially modify the size.
 
+
+
 2\)The image editing tool **only provides the ability to resize the image.**
 
 It does not offer picture editing functions such as Photoshop, Illustration, and Paint. Therefore, please upload a final image after editing it in some proper editing software.&#x20;
 
+
+
 3\)If you upload an image that is smaller than the recommended image size, the image resolution will have a bad impact when you'll resize it.
 
 Therefore, we recommend that you use images that are larger than the specified size.
+{% endhint %}
+
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">****</mark>

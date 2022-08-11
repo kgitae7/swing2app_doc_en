@@ -118,7 +118,7 @@ Let’s check the app icons shown on iPhone and Android phones below!
 
 <mark style="color:blue;">**1) App Icon styles visible on iPhone**</mark>
 
-![](<../../../.gitbook/assets/iphone\_icon (1).png>)
+![](<../../../.gitbook/assets/iphone\_icon (2).png>)
 
 The iPhone has the same icon style on all iPhone models.
 
