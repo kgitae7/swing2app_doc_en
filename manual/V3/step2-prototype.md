@@ -2,19 +2,23 @@
 
 ### App Creation STEP2–  Prototype&#x20;
 
-***
-
 The App Maker V3  Manual will show you how to edit your app in step 2- prototype.
 
 **\[STEP2 Prototype] is the step in which you can decide the overall design and style of the app's UI design and color.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C2.png)
+![](../../.gitbook/assets/구분선.PNG)
+
+### STEP2 Prototype&#x20;
+
+![](../../.gitbook/assets/가이드2.png)
 
 **1. Select a prototype:** Select the prototype that determines the design of your app's UI.
 
 **2. Default style and options:** Select the color of the UI design and app.
 
-**3. Advanced styles and options:** This feature allows you to set additional color options and design styles that you can add to the prototype UI.
+**3. Advanced styles and options**
+
+&#x20;**** This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
 \*This is not a required setting.
 
@@ -46,15 +50,15 @@ Once you have selected the desired combination, you can see the UI changing colo
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – custom settings
 
-<mark style="color:red;">**What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.**</mark>
+<mark style="color:red;">What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C2-2.png)
+![](../../.gitbook/assets/가이드2-2.png)
 
 If the desired color is not present, the user can select the color directly in \[Detailed Settings].
 
 In addition to the fixed color combinations, the detailed color setting is an option that allows the user to select and apply their own colors.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%EC%84%B8%EC%84%A4%EC%A0%95%EC%83%89%EC%83%81.gif)
+
 
 **Detailed Settings** – Enter the color code in the HEX field or you can click on the color square box to select the color you want to use.
 
