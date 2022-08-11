@@ -16,7 +16,7 @@ Each brand has its logo. Just think that the app icon is the same as that logo.
 
 Register a specific logo that represents your app as an icon!
 
-![](../../../.gitbook/assets/영문아이콘\_안드로이드버전.png)
+![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
 
 All the images you see on your phone are app icons.
 
@@ -118,7 +118,7 @@ Let’s check the app icons shown on iPhone and Android phones below!
 
 <mark style="color:blue;">**1) App Icon styles visible on iPhone**</mark>
 
-![](<../../../.gitbook/assets/iphone\_icon (2).png>)
+![](../../../.gitbook/assets/iphone\_icon1.png)
 
 The iPhone has the same icon style on all iPhone models.
 
