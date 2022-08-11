@@ -1,12 +1,18 @@
-# STEP3 Page
+---
+description: Creating an App - Page STEP3
+---
 
-### Creating an App - Page STEP3
+# STEP3 Page
 
 The App Making V3 Authoring Manual shows you how to create STEP3 page steps.
 
 **\[Page STEP3] is a step to organize the contents of the app in earnest by creating categories and menus in the overall app tool that we have created earlier.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B0%80%EC%9D%B4%EB%93%9C3.png)
+![](../../../.gitbook/assets/구분선.PNG)
+
+### STEP3 Page
+
+![](../../../.gitbook/assets/가이드3.png)
 
 You can see the menus you need to apply in the Screen Settings category on the left.
 
@@ -16,13 +22,13 @@ We'll show you how to apply the home screen and how to apply the main menu.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**How to apply the home screen
 
-**The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.**
+The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.
 
-**Menus provided by the Swing-to-App – You can apply menus such as weblinks, swing pages, user pages, bulletin boards, images, and more.**
+Menus provided by the Swing-to-App – You can apply menus such as weblinks, swing pages, user pages, bulletin boards, images, and more.
 
-**In this guide, we'll apply industry-specific templates.**
+In this guide, we'll apply industry-specific templates.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C3-1.png)
+![](../../../.gitbook/assets/가이드3-1.png)
 
 Select \<HOME> from the category on the left
 
@@ -38,13 +44,15 @@ After typing, click the cursor once or press the Enter button to reflect it dire
 
 #### \[Template Page Authoring Tool]
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C3-2.png)
+![](../../../.gitbook/assets/가이드3-템플릿.png)
 
 To learn how to create a template page, please check out the production manual below!
 
-**☞** <mark style="color:blue;">**Find out how to create and operate a template page**</mark>
+**☞**[ <mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../../maual/pagemenu/template-page.md)<mark style="color:blue;">****</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C3-3.png)
+<mark style="color:blue;">****</mark>
+
+![](../../../.gitbook/assets/가이드3-템플릿2.png)
 
 **After creating the template, please return to the app creation screen.**
 
@@ -64,11 +72,9 @@ Select the Apply menu.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Menu Management
 
-**​**
-
 **1)Add and delete menus**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C6.png)
+![](../../../.gitbook/assets/가이드3-메뉴추가삭제.png)
 
 The menus listed in the category on the left can all be modified to include the menus that you initially set in the Swing To app.
 
@@ -82,17 +88,19 @@ When you hover your mouse over the menu, the trash can-shaped icon, the +shaped 
 
 It's very easy to delete and add menus.
 
+
+
 **2)Apply menu**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C3-5.png)
+![](../../../.gitbook/assets/가이드3-메뉴적용.png)
 
-(1) Add a menu.
+(1)Add a menu.
 
 (2)Enter a menu name.
 
-(3) Menu icon: Please enter only if you apply the icon as an option. \*Not required
+(3)Menu icon: Please enter only if you apply the icon as an option. \*Not required
 
-(4) Select which menu you want to apply in the page design.
+(4)Select which menu you want to apply in the page design.
 
 \*In this guide, we have applied the 'Bulletin Board'.
 
@@ -106,17 +114,15 @@ The virtual machine allows you to check if the bulletin board is well reflected.
 
 **3) Move the menu**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B0%80%EC%9D%B4%EB%93%9C3-4.png)
-
-\[Check the menu move to the image GIF]
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A9%94%EB%89%B4%EC%9D%B4%EB%8F%99.gif)
+![](../../../.gitbook/assets/가이드3-4.png)
 
 Menus can be moved by dragging with the mouse.
 
 Select the menu with your mouse, grab it, and drag it to where you want to move.
 
 The position you are dragging completes the menu movement. – Can be configured as a sub or top menu.
+
+
 
 **Related Articles**
 
