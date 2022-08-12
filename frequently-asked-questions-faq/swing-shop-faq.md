@@ -102,13 +102,7 @@ The product image is automatically corrected to the image size to fit the horizo
 
 <summary>Is there a swing shop fee?</summary>
 
-The swing shop feature is free to use, and there is no charge to use the mall.
-
-There is a cost to sign up for the electronic payment service Pay App, but since we are currently running a free event for the payment app subscription fee, you can also sign up for a retailer for free.
-
-(Free event end date is undecided)
-
-Therefore, there is no cost associated with the mall function other than the paid app pass.
+The swing shop feature is free to use, and there is no charge to use the mall.&#x20;
 
 </details>
 
