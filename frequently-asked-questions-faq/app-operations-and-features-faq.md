@@ -222,8 +222,6 @@ After editing the content, please go to App Creation and press the \[Update App]
 
 Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Operations - Service Management - Policy Management - App Subscription Policies page - Terms of Service.</mark>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/c7574360e9aa312995b45efd5305c0fe.png" alt="" data-size="original">
-
 For each question, we put the content in the Swing-to-App basic settings, so the content is all entered.
 
 Please check the contents and modify the App Terms of Use to suit the app you created.
@@ -262,8 +260,6 @@ So when you assign a thumbnail image to your post! Please be sure to register as
 
 (See image)
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC2_20.06.png" alt="" data-size="original">
-
 <mark style="color:red;">\*\* This feature is not available in the app, only on the swing homepage - pc version web, mobile version web.</mark>
 
 </details>
@@ -278,8 +274,6 @@ At this time, the image designated as the thumbnail will also appear as the repr
 
 \*\*When entering a post, please check \[Use the first image thumbnail]. With this feature, thumbnailed images don't appear duplicates in the body and can only be used as representative images.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%84%AC%EB%84%A4%EC%9D%BC_20.06.png" alt="" data-size="original">
-
 </details>
 
 <details>
@@ -290,15 +284,9 @@ Usually, when you attach a video to a bulletin board, the video size is automati
 
 1\. First, please copy the 'Source Code' when you copy the video link.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%98-2.png" alt="" data-size="original">
-
 2\. And when attaching a video from the bulletin board, please put it as \[embedded code].
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%982.png" alt="" data-size="original">
-
 3\. At this time, you can modify the horizontal and vertical sizes listed in the link and insert them. If you do it at 340px horizontally and 240px vertically, it will fit into your phone's screen. (Nowadays, the size of the mobile phone has increased, so even if it is 380 X 220, it fits well\~)
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%BA%A1%EC%B2%983.png" alt="" data-size="original">
 
 </details>
 
@@ -313,8 +301,6 @@ Please select an image from the bulletin board post detail view.
 Then there's the down button in the top right corner.
 
 You can also select the appropriate button to download the photos you uploaded to the bulletin board to your mobile phone.
-
-[![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/5791d512b27dc0f30cfb4f50732f4ac3.png)](http://blog.naver.com/PostView.nhn?blogId=swing2app\&Redirect=View\&logNo=221208826012\&categoryNo=49\&isAfterWrite=true\&redirect=View\&widgetTypeCall=true\&directAccess=false)
 
 </details>
 
@@ -332,10 +318,6 @@ By pressing the \[Copy Board Board] button at the top of the bulletin board, you
 
 When you copy, all posts on the board are copied to that board.
 
-(See image)&#x20;
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
-
 **☞ **<mark style="color:blue;">**See how to copy a bulletin board**</mark>
 
 </details>
@@ -347,8 +329,6 @@ When you copy, all posts on the board are copied to that board.
 You can copy and move the written post to another board.
 
 You can select individual posts, or you can select multiple posts at once and copy them to a specific bulletin board.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/11/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC_20.06.png" alt="" data-size="original">
 
 **1)App Operation Page – In Manage Posts, select the board from which you want to copy the text**
 
@@ -368,8 +348,6 @@ After selecting the post you want to copy, you can **click the Copy Post button*
 
 With the Batch Delete Posts feature, you can delete multiple posts at once or delete an entire post.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%BC%EA%B4%84%EC%82%AD%EC%A0%9C2.png" alt="" data-size="original">
-
 After you go to the board where you want to delete the post from the post management
 
 \- Please select 'View List'. (second icon)
@@ -387,8 +365,6 @@ After you go to the board where you want to delete the post from the post manage
 Yes you can.
 
 App Operation - By using \[Post Down] provided by Post Management, you can download and archive posts written on the bulletin board as Excel files.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%8B%A4%EC%9A%B4.png" alt="" data-size="original">
 
 **→ the app operation page, you can check the \[Post Down] button in the list of posts created → the post management→ board move.**
 
@@ -409,8 +385,6 @@ Moving a post is the same as the cut function.
 When you move a post to a different board, the post on the existing board is deleted.
 
 **How to use Move Posts**
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9D%B4%EB%8F%991.png" alt="" data-size="original">
 
 1\) App Operation – Select the board you created in Post Management and move it. (Select the board you want to move the post to)
 
