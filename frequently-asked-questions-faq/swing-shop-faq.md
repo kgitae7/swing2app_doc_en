@@ -26,7 +26,7 @@ You can easily apply for a shopping mall, and you can use the mall service for f
 
 <summary>How do I apply for a swing shop?</summary>
 
-A. You can apply for the swing shopping mall → the menu → the \*\*App Operation Page at 'Shopping Mall (Payment System) Application'\*\*.
+You can apply for the swing shopping mall → the menu → the \*\*App Operation Page at 'Shopping Mall (Payment System) Application'\*\*.
 
 The shopping mall service \[payment module] is applied by selecting to use/not use.
 
@@ -36,11 +36,7 @@ When the app is finished and the app is commercialized, you can purchase a paid 
 
 Swing shop applications do not have a separate examination or approval, so you can use the swing shop menu right away as soon as you apply.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EC%83%B52-1.png" alt="" data-size="original">
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* <mark style="color:blue;">**Learn more about how to apply for the swing shop**</mark>
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:blue;">**Go to the swing shop**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [<mark style="color:blue;">Learn more about how to apply for the swing shop</mark>](../manual/swingshop/swingshop-apply.md)<mark style="color:blue;"></mark>
 
 </details>
 
