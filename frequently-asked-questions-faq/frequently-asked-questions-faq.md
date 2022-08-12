@@ -60,9 +60,9 @@ On behalf of Swing-to-App, we'll put your app on the Store.
 
 **In other words, putting an app created by a user on the Store instead is called an upload agency.**
 
-Therefore, **if you request an upload agency, you can apply by purchasing \[App Store Upload Ticket 20,000 KRW], \[Play Store Upload Ticket 10,000 KRW] on the **<mark style="color:blue;">**Swing Payment – Swing Pass, Ticket Purchase page.**</mark>
+Therefore, **if you request an upload agency, you can apply by purchasing \[App Store Upload Ticket 20,000 KRW], \[Play Store Upload Ticket 10,000 KRW] on the Swing Payment – Swing Pass, Ticket Purchase page.**
 
-After purchasing, you will need to apply for an upload to complete the application. <mark style="color:blue;">**Go to the Version Control →App Creation History menu**</mark>**, and select the \[Request to upload to Play Store] or \[Request for App Store Upload] button in the Market Registration box.**
+After purchasing, you will need to apply for an upload to complete the application. Go to the Version Control →App Creation History menu**,** and **select the \[Request to upload to Play Store] or \[Request for App Store Upload] button in the Market Registration box.**
 
 \*The Play Store allows individual uploads, so if you can upload them yourself, you don't need to buy an upload ticket.
 
@@ -122,9 +122,13 @@ When an app is deleted from the Store, it can sometimes be difficult to restore 
 
 <details>
 
-<summary>How do I unsubscribe from the Swing-to-Home homepage?</summary>
+<summary>How do I unsubscribe from the Swing2app Home homepage?</summary>
 
-To cancel your membership, you can select your profile in the upper right corner of the Swing-To homepage app operation page → edit your internal information → select Cancel Membership.
+To cancel your membership, you can select your profile in the upper right corner of the Swing2app homepage app operation page → edit your internal information → select [Withdrawal from membership](https://www.swing2app.com/view/user\_secession).
+
+![](../.gitbook/assets/회원탈퇴.png)
+
+
 
 The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID in the future.
 
@@ -147,8 +151,6 @@ Even if you're the creator of the app, **you will need to change the rating as a
 3.On the member inquiry page, select the member you want to change to an administrator, and then select the → 'Administrator' from the 'User' of the current group information → and select the \[Change Group] button.
 
 When you have finished making the change, you are done changing the administrator level. \~!!&#x20;
-
-**☞ \*\*\*\* **<mark style="color:blue;">**\[Check the video on how to set up the app manager]**</mark>
 
 </details>
 
@@ -182,9 +184,11 @@ You can select the button to delete the app.
 
 **1) Check the app preview**
 
+****![](../.gitbook/assets/앱미리보기자름900\_en.png)****
+
 Please download the \[Swing to App] official app from the App Store and Play Store.
 
-After launching the app, select the \[App Preview] menu at the top of the → category → in the administrator login window, log in with the account you have subscribed to for the Swing-to-App.
+After launching the app, select the \[App Preview] menu at the top of the → category → in the administrator login window, log in with the account you have subscribed to for the Swing2App.
 
 In the app preview, you can see a list of apps created by the swing-to-app app.
 
@@ -196,11 +200,13 @@ In the app preview, you can see a list of apps created by the swing-to-app app.
 
 (Apps created with Push and WebView cannot be viewed on iPhone)
 
+
+
 **2) Install Android phone APK file \*Only available on Android phones**
 
 When you make a request to create an app, an APK file will be sent to the user by e-mail.
 
-You can download the APK file to your phone and install the app. You can also download APK files from swing <mark style="color:blue;">**app operation page → version control →app production history**</mark>
+You can download the APK file to your phone and install the app. You can also download APK files from swing <mark style="color:blue;">app operation page → version control →app production history</mark>
 
 </details>
 
@@ -262,11 +268,11 @@ Users who have previously downloaded the app from the market will also be restri
 
 Therefore, before the capacity is exceeded, please purchase and apply the amount of capacity you are lacking by purchasing a separate capacity add-on product.&#x20;
 
-**☞ **<mark style="color:blue;">**\[Go to Swing Payment Page]**</mark>
+**☞** [<mark style="color:blue;">**\[Go to Swing Payment Page\]**</mark>](https://www.swing2app.com/view/shop\_list)<mark style="color:blue;">****</mark>
 
 You can also free up capacity by deleting unnecessary posts from the App Operations page → Service Management → Resource Management page.&#x20;
 
-**☞ **<mark style="color:blue;">**\[Go to see how to use resource management]**</mark>
+**☞**[ ** **<mark style="color:blue;">**\[Go to see how to use resource management\]**</mark>](../manual/appmanage/service/capacity-management.md)<mark style="color:blue;">****</mark>
 
 </details>
 
@@ -283,6 +289,8 @@ Apps released to the Store won't be deleted or lost, **but when you launch the a
 If you pay for your subscription again, you will not receive the message, and you will be able to use the app again normally.
 
 **\[Expired Use Message Window]**
+
+****![](../.gitbook/assets/EN\_이용기간만료.png)****
 
 If you want to use the app for free again, please delete the app that was previously installed on your phone and re-create the app in a new version after the end of the period.
 
@@ -306,22 +314,6 @@ Therefore, users can use all the functions for free without any restrictions.
 
 <details>
 
-<summary>OneStore, Galaxy Store doesn't offer upload agencies? How do I register?</summary>
-
-Yes, we do not do upload from the OneStore and Galaxy Store Swing-to-App apps.
-
-The user must proceed with the launch yourself.
-
-The OneStore and Galaxy Store app registration methods are also provided in our manual, so please take a look at it.&#x20;
-
-**☞ **<mark style="color:blue;">**\[Go to see how to launch a one-store app]**</mark>&#x20;
-
-**☞ **<mark style="color:blue;">**\[Go to see how to launch the Galaxy Store app]**</mark>
-
-</details>
-
-<details>
-
 <summary>I want to upload the app directly to the Play Store. How can I register?</summary>
 
 After the app is finished creating, you can register and upload the AAB file after purchasing the paid app subscription.
@@ -330,7 +322,7 @@ How to register (launch) a PlayStore app is provided in the manual. (We will not
 
 Please proceed by looking at the manual.&#x20;
 
-**☞ **<mark style="color:blue;">**\[How to launch the Play Store app]**</mark>
+**☞** [<mark style="color:blue;">**\[How to launch the Play Store app\]**</mark>](../store/playstore/update-playstore.md)<mark style="color:blue;">****</mark>
 
 </details>
 

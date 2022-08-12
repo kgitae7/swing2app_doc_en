@@ -299,6 +299,7 @@
 ## STORE
 
 * [Play Store](store/playstore/README.md)
+  * [Launching Play Store App](store/playstore/update-playstore.md)
   * [Setting up Play Store app auto-updates](store/playstore/app-autoupdates.md)
   * [Transfer your app to another developer account on the Play Store](store/playstore/apptransfer.md)
   * [How to change the name of Play Store Developer](store/playstore/change-developername.md)
@@ -310,7 +311,6 @@
   * [How to get app updates released on the Play Store](store/playstore/play-appupdate.md)
   * [Launch the Play Store Private App (Alpha release)](store/playstore/playstore-alpatest.md)
   * [Check Play Store App Installs](store/playstore/playstore-appinstalls.md)
-  * [Launching Play Store App](store/playstore/update-playstore.md)
   * [Reply to Play Store app reviews](store/playstore/playstore-appreviews.md)
   * [Play Store Developer Page](store/playstore/playstore-developer-page.md)
   * [Play Store prior notice](store/playstore/playstore-priornotice.md)
