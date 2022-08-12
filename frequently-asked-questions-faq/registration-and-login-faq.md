@@ -80,11 +80,11 @@ In the Swing-to-App you can't find your password because you're only logged in w
 
 <details>
 
-<summary>Please tell me how to log in as a deputy administrator on the Swin2App homepage.</summary>
+<summary>Please tell me how to log in as a Associate Administrator on the Swin2App homepage.</summary>
 
-When logging in as a deputy administrator on the Swing-to-App homepage, please log in by selecting \[Deputy Administrator] from the login screen.
+When logging in as a deputy administrator on the Swing2App homepage, please log in by selecting \[Associate Administrator] from the login screen.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B6%80%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8_20.07.png" alt="" data-size="original">
+![](../.gitbook/assets/assoadmin.png)
 
 1\)App ID: Enter the ID that the administrator set when creating the app.
 
@@ -102,13 +102,13 @@ If you are not in the state where you created the app, the app ID will not be re
 
 For information on how to set up a deputy administrator to manage the app, please refer to this post^^&#x20;
 
-**☞ **<mark style="color:blue;">**\[Go to the post on how to set up a deputy administrator]**</mark>
+**☞** [<mark style="color:blue;">**\[Go to the post on how to set up a**</mark>** Associate Administrator**<mark style="color:blue;">**\]**</mark>](../manual/appmanage/pushmember/associate-administrator.md)<mark style="color:blue;">****</mark>
 
 </details>
 
 <details>
 
-<summary>Tell me how to sign in as a deputy administrator in the app.</summary>
+<summary>Tell me how to sign in as a Associate administrator in the app.</summary>
 
 Unlike the homepage, the app doesn't have a login page dedicated to the deputy administrator.
 
@@ -116,9 +116,9 @@ From the login screen, you can log in with the username and password of the user
 
 Since the rating has already been changed from User to Administrator, you can see that the rating has been changed to 'Administrator' by logging in using the normal method.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/4.png" alt="" data-size="original">
+![](../.gitbook/assets/en\_관리자변경.png)
 
-For instructions on how to set up the app assistant administrator, please refer to the post ^^ ☞ <mark style="color:blue;">\[Go to the post on how to set up a deputy administrator]</mark>
+For instructions on how to set up the app assistant administrator, please refer to the post ☞ [<mark style="color:blue;">\[Go to the post on how to set up a</mark> Associate <mark style="color:blue;">administrator\]</mark>](../manual/appmanage/pushmember/associate-administrator.md)<mark style="color:blue;"></mark>
 
 </details>
 
@@ -144,8 +144,6 @@ If you see the \[Settings] menu while logged in from the app, there is a \[Cance
 
 You can unsubscribe from the app by selecting the appropriate menu.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1-%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4.png" alt="" data-size="original">
-
 Withdrawal of membership is only available if you are logged in from the app.
 
 If you do not become a member, there is no concept of withdrawal of membership.
@@ -166,7 +164,7 @@ If you select the button, you will receive your temporary password in the email 
 
 Therefore, if you have set your ID as a regular ID, you will not be able to use the password finder, so please check it and set it to 'ID form-email'.&#x20;
 
-☞ <mark style="color:blue;">\[Go to the detailed manual of finding app password]</mark>
+☞ [<mark style="color:blue;">\[Go to the detailed manual of finding app password\]</mark>](../manual/appoperation/find-apppassword.md)<mark style="color:blue;"></mark>
 
 </details>
 
@@ -176,25 +174,29 @@ Therefore, if you have set your ID as a regular ID, you will not be able to use 
 
 **1.Register your profile image when you register**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B3%80%EA%B2%BD5.png" alt="" data-size="original">
+****![](../.gitbook/assets/Picture66.png)****
 
 When you sign up, you can register the image you want by selecting the top profile image \[Register] button.
 
+
+
 **2.Edit your membership information: Change your profile image after signing up**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD.png" alt="" data-size="original">
+****![](../.gitbook/assets/Picture67.png)****
 
 If you want to change your profile image while logged in after signing up,
 
 Please East Sea to the Settings - Edit Member Information menu.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%80%EA%B2%BD1.png" alt="" data-size="original">
+
+
+![](../.gitbook/assets/Picture68.png)
 
 In the Edit Membership window, you can change your profile image by selecting the \[Register] button at the top.
 
 The name (nickname) can also be modified on that page.&#x20;
 
-<mark style="color:blue;">\[Go to the app profile picture registration and change instructions manual]</mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the app profile picture registration and change instructions manual\]</mark>](../manual/appoperation/changing-appprofilepicture.md)<mark style="color:blue;"></mark>
 
 </details>
 
