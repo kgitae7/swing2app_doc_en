@@ -44,6 +44,8 @@ Suspension of an app due to an overcapacity is the same as the expiration of the
 
 (See image)
 
+![](../.gitbook/assets/EN\_이용기간만료.png)
+
 **The app won't be deleted, but when you launch it, you'll get a "Your subscription has expired" message and the app won't run.**
 
 Users who download the app from the Store will also be restricted from using the app when the message appears.
@@ -82,7 +84,7 @@ You can check the post capacity on that page.
 
 <summary>Where and how do I check the app capacity? </summary>
 
-You can check the app capacity by going to the <mark style="color:blue;">\[Service Management-Resource Management]</mark> page.
+You can check the app capacity by going to the <mark style="color:blue;"></mark> [<mark style="color:blue;">\[Service-Manage Storage\]</mark>](https://www.swing2app.com/view/storage\_manager) <mark style="color:blue;"></mark> page.
 
 You can see what's available in the app, what it's currently using, and what's remaining available.
 
@@ -92,7 +94,7 @@ You can see what's available in the app, what it's currently using, and what's r
 
 <summary>How do I set up a deputy administrator?</summary>
 
-On the swing app operation page, go to <mark style="color:blue;">the Membership Management – \[Member Inquiry] menu.</mark>
+On the swing app operation page, go to <mark style="color:blue;"></mark> [<mark style="color:blue;">the</mark> Push & Members - View all members <mark style="color:blue;">menu.</mark>](https://www.swing2app.com/view/member\_list)<mark style="color:blue;"></mark>
 
 You can select the user you want to set as a deputy administrator and then change the permissions to administrator in the permission group settings
 
@@ -124,7 +126,9 @@ After confirmation, the development team will guide you through the availability
 
 This is a problem caused by YouTube not allowing you to embed apps or built-in sites. If you change the YouTube link url to the following format, it will work smoothly:&#x20;
 
-**Example) **<mark style="color:blue;">**https://youtu.be/W8Ysr18ZxxU?t=1\*\*\*\* → https://www.youtube.com/embed/W8Ysr18ZxxU?t=1**</mark>
+**Example)** <mark style="color:blue;">https://youtu.be/W8Ysr18ZxxU?t=1</mark>
+
+&#x20;<mark style="color:blue;">→ https://www.youtube.com/embed/W8Ysr18ZxxU?t=1</mark>
 
 If you change the link format a little bit as above, you can watch the video from within the webpage without problems.
 
