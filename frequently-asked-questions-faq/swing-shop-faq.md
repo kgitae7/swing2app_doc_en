@@ -72,7 +72,7 @@ The method depends on which product you want to register, so please look at the 
 
 Swing shopping mall can be applied for on the app operation page > the internal menu> 'Shopping mall (payment system) application'. The shopping mall service-payment module is applied by selecting Enabled/Unused.&#x20;
 
-<mark style="color:blue;">**\[Go to apply for shopping mall service]**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to apply for shopping mall service\]**</mark>](https://www.swing2app.com/view/swing\_shop\_apply)<mark style="color:blue;">****</mark>
 
 </details>
 
@@ -156,123 +156,37 @@ Therefore, if you plan to launch an app that applies digital products, you shoul
 
 <details>
 
-<summary>Can I apply for a pay app (payment module) in the free version of the app?</summary>
+<summary>Can I apply for a PAYPAL (payment module) in the free version of the app?</summary>
 
 Swing Shop access is also available in the free version of the app.
 
-However, **when you apply for a pay app (applying the actual payment module), you can only apply for the paid version of the app.**
+However, **when you apply for a PAYPAL(applying the actual payment module), you can only apply for the paid version of the app.**
 
 In other words, when you check the payment service as 'unused', you can use all the free versions\*\*, and when you check 'Use', you can only apply for the paid version of the app.\*\*
 
-When you use the payment service (pay app application), it is commercialized, so it can only be applied to the paid version of the app.
+When you use the payment service (PAYPAL application), it is commercialized, so it can only be applied to the paid version of the app.
 
 </details>
 
 <details>
 
-<summary>What is PayApp?</summary>
+<summary>What is PAYPAL?</summary>
 
-PayApp is an electronic payment service agency that supports on/offline payment services.
+PAYPAL is an electronic payment service agency that supports on/offline payment services.
 
-Since it provides payment services such as online card payment, passless deposit, and mobile phone payment, there is a shopping mall function within the app, so when you need to make a payment, you must connect an electronic payment system (module) such as a pay app.
+Since it provides payment services such as online card payment, passless deposit, and mobile phone payment, there is a shopping mall function within the app, so when you need to make a payment, you must connect an electronic payment system (module) such as a PAYPAL.
 
-Swing-to-App has partnered with Pay App to support payments by linking PayApp payment methods to apps created by Swing-to-App.
+Swing2App has partnered with PAYPAL to support payments by linking PAYPAL payment methods to apps created by Swing2App.
 
 So if you're creating a shopping mall app, you'll need to sign up for a pay-per-store store.
 
 When you apply your subscribed ID to the app, the app will be able to make the actual payment.
 
-In addition to regular card payments, the Pay app supports all Naver Pay, Kakao Pay, SmilePay, and Payco payment methods, so you don't need to apply for other services.
-
 </details>
 
 <details>
 
-<summary>Electronic Payment Module offered by Swing Shop – How do I get a PayApp contract?</summary>
-
-When you apply for a shopping mall, you will choose whether to use the payment service or not.
-
-If you are using a payment service, you must link the payment module to the app to enable actual payment.
-
-Since Swing To App is affiliated with PayApp, an electronic payment service agency, you will need to access the PayApp homepage and sign up with a retailer.&#x20;
-
-\- Pay App homepage <mark style="color:blue;">https://www.payapp.kr/</mark>&#x20;
-
-\- Sign-up Guide https:<mark style="color:blue;">//www.payapp.kr/homepage/guide/guide2.html</mark>&#x20;
-
-\-<mark style="color:blue;">https://www.payapp.kr/homepage/guide/guide3.html</mark> of submission documents
-
-Please check the above sign-up instructions and submission documents to proceed with the registration process directly on the Pay App.
-
-</details>
-
-<details>
-
-<summary>Pay App – Is it not possible to make international payments?</summary>
-
-Yes, international payment outlets do not have access to the Pay App service.
-
-Retailers operating with international payments cannot sign up for Pay App, so you will need to use in-app payment or other payment module services.
-
-\_This policy was announced on February 22, 2018 in Pay App.
-
-</details>
-
-<details>
-
-<summary>Pay App – Can non-business (individuals) sign up?</summary>
-
-Non-business owners (individuals) can also subscribe to the Pay App service.
-
-However, after the initial sign-up, the Pay App may induce you to register as a business, and if you do not have a business registration, you may be subject to tax liability.
-
-In addition ★, **non-business owners will not be able to use credit card payments. \_Financial Supervisory Authority Corrective Action to Implement Policy 2018.03.12**
-
-**There is no card payment, and it defaults to mobile phone payment when you sign up.**
-
-If you wish to pay by card, please register your business.
-
-Please check the policy and refer to the Usage.
-
-</details>
-
-<details>
-
-<summary>Can I pay by selecting only Kakao Pay?</summary>
-
-KakaoPay is provided within the YesPayApp Service.
-
-Therefore, even if you do not have to apply for a separate KakaoPay service, you can use KakaoPay even if you only apply for the Pay app.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A6%BC1-1.jpg" alt="" data-size="original">
-
-Image Note)Apply Pay App – Select Payment Method
-
-If you don't use the Pay app and only apply Kakao Pay to the app separately, please check the method below.
-
-First, in order to apply the KakaoPay service, the swing paid subscription must be paid.
-
-\*KakaoPay service can be used from the extended type of swing paid subscription and above.
-
-If you pay in the basic form, you will not be able to use the KakaoPay service and will only apply to the Swing Paid Pass – Extended, Premium.
-
-And since KakaoPay is not an affiliated service in Swing, the user must contact the KakaoPay service directly to obtain merchant approval.
-
-After the merchant approval is completed, you will receive the store ID, contact us via the Swing to App and we will guide you.&#x20;
-
-⇒ <mark style="color:blue;">**Kakaopei New Application Homepage**</mark>
-
-</details>
-
-<details>
-
-<summary>Please let us know the industry that you cannot sign up for Pay App.</summary>
-
-Pay App Sign-up Notes Check for Non-Eligible Industries https://payapplite.com/notice/view?articleNo=61
-
-Depending on the PayApp subscription policy, you may be rejected for review.
-
-Because of the judging machine related to payment, the examination is carried out carefully on the payapp side.
+<summary>Please let us know the industry that you cannot sign up for PAYPAL.</summary>
 
 Please check the industries that are not eligible for registration.
 
@@ -294,12 +208,6 @@ Please check the industries that are not eligible for registration.
 
 **8) Business agency expenses (visa application agency, product purchase agency, etc.)**
 
-There are many cases where people who have applied for the Pay App in Swing have been rejected for review in the same case as above.
-
-Therefore, please check that the above items are not present in order to apply the payment system.
-
-Keep in mind that in all electronic payment systems, not just pay apps, screening can be lengthy and tricky, so even if you try to sell a product, you may not get it approved.
-
 </details>
 
 <details>
@@ -307,23 +215,5 @@ Keep in mind that in all electronic payment systems, not just pay apps, screenin
 <summary>What are the shopping mall payment methods?</summary>
 
 Regular card payment, bank transfer, and micropayment (mobile phone payment) are standard.
-
-And the Pay app offers all NaverPay, KakaoPay, SmilePay, and Payco payment methods.
-
-If you apply Pay App only to your app, you can use all of the above payment methods.
-
-</details>
-
-<details>
-
-<summary>How do I contact you about Pay App and manage it after signing up?</summary>
-
-You can contact us through the official website of Pay App. (Card fee, settlement date, inquiry to increase fee, etc.)&#x20;
-
-**\*Homepage:** <mark style="color:blue;">https://www.payapp.kr</mark>
-
-**\*Customer Center:** 1800-3772
-
-In addition, users who have signed up for the Pay App can also manage their payment history on the Seller Management page by logging in to the site.
 
 </details>

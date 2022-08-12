@@ -58,7 +58,7 @@ You can log in by entering your deputy administrator ID, password, and app ID.
 
 **\* See images)**
 
-****![](<../.gitbook/assets/미리보기영문4 (1).png>)****
+****![](../.gitbook/assets/미리보기영문4.png)****
 
 How to set up the app assistant administrator and how to log in, please refer to the manual below!
 
