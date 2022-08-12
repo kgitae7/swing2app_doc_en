@@ -152,7 +152,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 (The App Store will be dropped off upon request)&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period\]</mark>](app-installation-and-download-faq.md#after-switching-to-a-paid-app-i-get-a-blocked-by-play-protect-message-when-i-download-the-app.)<mark style="color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period\]</mark>](../manual/appoperation/freeversionapp-change.md)<mark style="color:blue;"></mark>
 
 </details>
 
@@ -162,8 +162,6 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 App Sharing is a feature that lets you share apps you create for free with each other on your Android phone so that you can pass on your apps to other users.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A010-1.png" alt="" data-size="original">
-
 If you apply the settings or the app sharing menu when creating the app, you can use the function to send a link to share the app with another app.
 
 You can use it by taking the link and installing the app.
@@ -172,7 +170,7 @@ You can use it by taking the link and installing the app.
 
 **iPhones can only download apps released on the App Store.**
 
-<mark style="color:blue;">**\[Go to see how to install the app to share]**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to see how to install the app to share\]**</mark>](../manual/appoperation/share-app.md)<mark style="color:blue;">****</mark>
 
 </details>
 
@@ -186,17 +184,11 @@ On Android phones, you can download the app directly from the app installation l
 
 \*The app cannot be installed on iPhone, it is only available on Android phones.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC1.png" alt="" data-size="original">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC2.png" alt="" data-size="original">
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A7%81%ED%81%AC3.png" alt="" data-size="original">
-
 **\*Important\* Progress on PC, Web Browser: Please use Chrome!!**
 
 You can copy and install the link address you received by copying it to various paths.&#x20;
 
-<mark style="color:blue;">\[Go to the app installation link address to see the app download manual]</mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the app installation link address to see the app download manual\]</mark>](../manual/appoperation/applink-install.md)<mark style="color:blue;"></mark>
 
 </details>
 
@@ -210,15 +202,17 @@ Swing2App Official App - In addition to using the app preview function, you can 
 
 **1)Swing to App homepage - Use to receive APK files from app production history**
 
-After the app is finished creating, access the Swing-to-App homepage on your mobile, and select the \[Get APK File] button on the app creation history page.
+![](../.gitbook/assets/글로벌설치1.png)
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1%EC%84%A4%EC%B9%98.png" alt="" data-size="original">
+After the app is finished creating, access the Swing-to-App homepage on your mobile, and select the \[Get APK File] button on the app creation history page.
 
 If you choose Get APK file, the file download will start and you can install the app directly on your mobile.
 
+
+
 **2)Download the app from email**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BA%A1%EC%B2%9811.png" alt="" data-size="original">
+****![](../.gitbook/assets/Picture40.png)****
 
 When the app is published, the completed APK file is sent to the user's email.
 
@@ -228,15 +222,13 @@ There are many ways to download the app.
 
 For more detailed instructions, please refer to the manual below.&#x20;
 
-<mark style="color:blue;">\[Go to the manual on how to install the app on your phone]</mark>
+[\[Go to the manual on how to install the app on your phone\]](../manual/appoperation/appinstall.md)
 
 </details>
 
 <details>
 
 <summary>After switching to a paid app, I get a 'Blocked by Play Protect' message when I download the app.</summary>
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%A0%EB%A3%8C%EC%95%B1-%EB%AF%B8%EC%84%A4%EC%B9%981.png" alt="" data-size="original">
 
 When you try to install a paid app that has been switched to it, you may get a 'Blocked by Play Protect' message, as shown in the image above.
 
@@ -251,8 +243,6 @@ When you release an app to the Play Store, you won't see that message.
 <details>
 
 <summary>After switching to a paid app, I download the app and get the message "The app is not installed."</summary>
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B5%AC%EA%B8%80%EC%A0%95%EC%B1%855-506x1024.png" alt="" data-size="original">
 
 The message is also a case in which Google blocked the installation of the app on its own.
 
@@ -272,8 +262,6 @@ Disable Protect security settings in the PlayStore app for easy trouble.
 
 The free version of the app allows you to check the storage capacity by checking the application information.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1-%EC%A0%80%EC%9E%A5%EC%9A%A9%EB%9F%89.png" alt="" data-size="original">
-
 Long press the app icon installed on your Android phone and a banner window will pop up, and you can check it in the application information window when you select the icon with the shape of an exclamation point.
 
 The free version of the app is only available for download on Android phones, so the iPhone is not applicable.
@@ -290,13 +278,9 @@ Please check the storage capacity listed on the App Store for your iPhone.
 
 If you have applied the 'Settings' menu to your app from a regular prototype app or a push app, you can check the version in Settings.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%842.png" alt="" data-size="original">
-
 Apps that do not apply the setting menu, webview apps, can be checked through the application information, which is a function inside the phone.
 
 \*Long press the app icon installed on your Android phone to check the app information.
-
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%B2%84%EC%A0%84.png" alt="" data-size="original">
 
 The iPhone can only download the app through the App Store, so please check the version downloaded from the App Store.
 
