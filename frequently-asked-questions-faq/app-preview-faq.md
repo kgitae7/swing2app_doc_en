@@ -18,15 +18,15 @@ Even if you don't have to cumbersome pick up and install APK files, you can chec
 
 ★For a detailed description of the swing preview, please check the relevant manual.&#x20;
 
-**☞ **<mark style="color:blue;">**What is the swing preview service?**</mark>&#x20;
-
-**☞ **<mark style="color:blue;">**See how to use the swing preview**</mark>
+**☞** [<mark style="color:blue;">**See how to use the swing preview**</mark>](../manual/swingpreview.md)<mark style="color:blue;">****</mark>
 
 </details>
 
 <details>
 
 <summary>How can I use the swing preview?</summary>
+
+![](../.gitbook/assets/앱미리보기자름900\_en.png)
 
 1\) Please download the official 'Swing to App' app from the App Store and Play Store. \*If the app is already installed, please update to the latest version
 
@@ -58,11 +58,11 @@ You can log in by entering your deputy administrator ID, password, and app ID.
 
 **\* See images)**
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B09.png" alt="" data-size="original">
+****![](<../.gitbook/assets/미리보기영문4 (1).png>)****
 
-**How to set up the app assistant administrator and how to log in, please refer to the manual below!**
+How to set up the app assistant administrator and how to log in, please refer to the manual below!
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* <mark style="color:blue;">**\[Check out the Swing Preview Detailed Method Manual]**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  [<mark style="color:blue;">\[Check out the Swing Preview Detailed Method Manual\]</mark>](../manual/swingpreview.md)<mark style="color:blue;"></mark>
 
 </details>
 
