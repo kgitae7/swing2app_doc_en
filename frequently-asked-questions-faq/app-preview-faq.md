@@ -58,7 +58,7 @@ You can log in by entering your deputy administrator ID, password, and app ID.
 
 **\* See images)**
 
-****![](<../.gitbook/assets/미리보기영문4 (1).png>)****
+****![](../.gitbook/assets/미리보기영문4.png)****
 
 How to set up the app assistant administrator and how to log in, please refer to the manual below!
 
@@ -76,11 +76,15 @@ That menu doesn't require you to be logged in as an administrator! **You can sca
 
 QR code previews are only available for apps built from regular prototypes. \*Webview and apps created with push apps are not available
 
+
+
 **★ How to use QR code**
 
-Launch the swing-to-app app – Preview the app – Select the \[Preview with QR Code] button → When you bring your phone to the QR code image and touch it, the app you created will be previewed on your phone.
+****![](../.gitbook/assets/scan.png)****
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B010.png" alt="" data-size="original"> <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%8A%A4%EC%9C%99%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B04-1.png" alt="" data-size="original">
+![](../.gitbook/assets/미리보기영문5.png)
+
+Launch the swing2app app – Preview the app – Select the \[Preview with QR Code] button → When you bring your phone to the QR code image and touch it, the app you created will be previewed on your phone.
 
 </details>
 
@@ -140,8 +144,11 @@ On the app preview page, you can log in with the same swing account: administrat
 
 Apps created with Push or WebView are not supported on the iPhone because they can only be downloaded from the app.
 
-**\[iPhone – Swing Preview App Launchscreen]**\
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png)
+
+
+**\[iPhone – Swing Preview App Launchscreen]**
+
+![](../.gitbook/assets/미리보기영문2.png)
 
 </details>
 
