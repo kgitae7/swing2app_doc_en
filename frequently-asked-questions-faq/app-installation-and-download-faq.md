@@ -10,13 +10,13 @@
 
 \*If the app is already installed, please update to the latest version.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [App store launch link**(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [App store launch link**(URL)**](https://itunes.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-swing2app/id1089434204?l=ko\&ls=1\&mt=8)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> \*\*\*\* [Play store launch link**(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [Play store launch link**(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
 2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing-to-App website subscription account (ID, password).&#x20;
 
-**\*Note: To log in, you must enter the account you signed up for in the Swing-to-App homepage** <mark style="color:blue;">http://www.swing2app.co.kr.</mark>
+**\*Note: To log in, you must enter the account you signed up for in the Swing-to-App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
 
 **It's not an account signed up for in the official Swing-to-App app\~!**
 
@@ -28,7 +28,7 @@
 
 For more information on how to install the app, please check the manual link below.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:blue;">See how to install the app</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [<mark style="color:blue;">See how to install the app</mark>](../manual/appoperation/appinstall.md)<mark style="color:blue;"></mark>
 
 </details>
 
@@ -50,13 +50,15 @@ Launch the app, select the \[App Preview] menu at the top, log in with your Swin
 
 \*Only Prototype - Apps created with Push or WebView are not available for preview (only apps created by regular prototypes - slides, tops, footers, etc.)
 
-**2) When using the paid version of the app - register the test version with the user's Apple ID 'test-flight'\\**
+
+
+**2) When using the paid version of the app - register the test version with the user's Apple ID 'test-flight'**
 
 You can test using test-flight provided by the App Store.
 
 Please purchase a paid app pass, an App Store upload ticket, and apply for an App Store upload.
 
-Email after completion of upload application: Please email the App Store test-flight request to the help@swing2app.co.kr.
+Email after completion of upload application: Please email the App Store test-flight request to the help@swing2app.com
 
 Please collect and send us all the Apple accounts (email addresses) of users who want to use the iPhone app.
 
@@ -64,11 +66,7 @@ The audit takes 3 to 5 days, and once it's complete, you can install the app on 
 
 The test-flight is only available for 90 days, and if you do extend, you will need to purchase an App Store upload ticket and reapply for the upload.
 
-\* This applies to the paid version and requires you to purchase an App Store upload ticket and apply for an upload. ( Swing Paid Use Pass must be paid.)
-
-**\[App Store test-flight User Guide]**&#x20;
-
-<mark style="color:blue;">https://wp.swing2app.co.kr/knowledgebase/appstore-testflight/</mark>
+\* This applies to the paid version and requires you to purchase an App Store upload ticket and apply for an upload. (Swing Paid Use Pass must be paid.)
 
 </details>
 
@@ -86,7 +84,7 @@ Of course, if your app has been uploaded to the Play Store, you won't be able to
 
 In addition, you can select and proceed with the protection security message as 'Ignore and install'.&#x20;
 
-**☞ **<mark style="color:blue;">**\[How to install APK file Android phone]**</mark>
+**☞** [<mark style="color:blue;">**\[How to install APK file Android phone\]**</mark>](../manual/appoperation/appinstall.md)<mark style="color:blue;">****</mark>
 
 </details>
 
@@ -154,7 +152,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 (The App Store will be dropped off upon request)&#x20;
 
-<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period]</mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period\]</mark>](app-installation-and-download-faq.md#after-switching-to-a-paid-app-i-get-a-blocked-by-play-protect-message-when-i-download-the-app.)<mark style="color:blue;"></mark>
 
 </details>
 
