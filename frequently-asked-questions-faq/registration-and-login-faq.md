@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Can I change the ID (email) subscribed to on the Swing-to-App homepage?</summary>
+<summary>Can I change the ID (email) subscribed to on the Swing2App homepage?</summary>
 
 Some enterprise customers may request a change in their Swing subscribed ID as their app rep changes.
 
@@ -16,7 +16,7 @@ The password is the same as the previous one, and you can reset it to the desire
 
 <details>
 
-<summary>How do I unsubscribe from the Swing-to-App homepage?</summary>
+<summary>How do I unsubscribe from the Swing2App homepage?</summary>
 
 To unsubscribe , **you can select your profile in the upper right corner of the Swing homepage app operation page → edit your internal information → select Cancel Membership.**
 
@@ -44,15 +44,23 @@ If you lost the password for your Swing-to-Site account!
 
 1\) Select to access the homepage → find password
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/55.png" alt="" data-size="original">
+![](../.gitbook/assets/forg.png)
+
+
 
 2\)Enter your email address, and get a temporary password issued by that email
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B82.png" alt="" data-size="original">
+![](../.gitbook/assets/Screenshot-2020-10-19-at-1.41.26-PM.png)
 
-3\)You can change your password again on the \[Edit My Information] page - Login Information. <mark style="color:blue;">https://www.swing2app.co.kr/view/myinfo\_login\_info</mark>
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B83.png" alt="" data-size="original">
+
+3\)You can change your password again on the \[Edit My Information] page - Login Information.&#x20;
+
+[<mark style="color:blue;">https://www.swing2app.co.kr/view/myinfo\_login\_info</mark>](https://www.swing2app.com/view/myinfo\_login\_info)<mark style="color:blue;"></mark>
+
+<mark style="color:blue;"></mark>![](../.gitbook/assets/forg2.png)<mark style="color:blue;"></mark>
+
+<mark style="color:blue;"></mark>
 
 </details>
 
