@@ -50,19 +50,19 @@ From the swing shop menu, you can go into Product Management and register the pr
 
 The method depends on which product you want to register, so please look at the product registration manual provided by the Swing to App and work on it.&#x20;
 
-<mark style="color:blue;">1) Register a physical product</mark>&#x20;
+<mark style="color:blue;">1)</mark> [<mark style="color:blue;">Register a physical product</mark> ](../manual/swingshop/registration.md)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;">2) Register the reservation product - Date reservation product</mark>&#x20;
+<mark style="color:blue;">2)</mark> [<mark style="color:blue;">Register the reservation product - Date reservation product</mark> ](../manual/swingshop/reservationproduct.md)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;">3) Register the reservation product - Date & time reservation product</mark>&#x20;
+<mark style="color:blue;">3)</mark> [<mark style="color:blue;">Register the reservation product - Date & time reservation product</mark> ](../manual/swingshop/timereservation-product.md)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;">4) Register Digital Product-PDF File</mark>&#x20;
+<mark style="color:blue;">4)</mark> [<mark style="color:blue;">Register Digital Product-PDF File</mark> ](../manual/swingshop/digital-pdf.md)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;">5) Register Digital Product-Permission Change</mark>&#x20;
+<mark style="color:blue;">5)</mark> [<mark style="color:blue;">Register Digital Product-</mark>permission change](../manual/swingshop/authorized-sales.md)
 
-<mark style="color:blue;">6) Register digital products-video files</mark>&#x20;
+<mark style="color:blue;">6)</mark> [<mark style="color:blue;">Register digital products-video files</mark> ](../manual/swingshop/videofiles-registration.md)<mark style="color:blue;"></mark>
 
-<mark style="color:blue;">7) Digital Product-Coupon Registration</mark>
+<mark style="color:blue;">7)</mark> [<mark style="color:blue;">Digital Product-Coupon Registration</mark>](../manual/swingshop/coupon-registration.md)<mark style="color:blue;"></mark>
 
 </details>
 
