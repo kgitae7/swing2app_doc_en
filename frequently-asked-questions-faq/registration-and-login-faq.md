@@ -206,7 +206,9 @@ The name (nickname) can also be modified on that page.&#x20;
 
 Yes, you can.
 
-However, in order to re-register with the same ID, the administrator must delete all the relevant member (withdrawn member) information from the web dashboard - member inquiry. <mark style="color:blue;">Push & Member → Member Inquiry → Select the user who has</mark>&#x20;
+However, in order to re-register with the same ID, the administrator must delete all the relevant member (withdrawn member) information from the web dashboard - member inquiry.
+
+[<mark style="color:blue;">Push & Member →</mark>View all members<mark style="color:blue;">→ Select the user who has</mark> ](https://www.swing2app.com/view/member\_list)
 
 1\) withdrawn from the member inquiry list. In the Membership Information window, from the "Cancel and delete account" menu,&#x20;
 
@@ -214,7 +216,7 @@ However, in order to re-register with the same ID, the administrator must delete
 
 3\) Select the "Delete the ID and all information" confirmation button.
 
-
+![](../.gitbook/assets/Group-2835.png)
 
 \*Even if the user who has unsubscribed, the information will remain in the app data, so they will not be able to sign up with the same ID.
 
