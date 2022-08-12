@@ -214,12 +214,12 @@ However, in order to re-register with the same ID, the administrator must delete
 
 3\) Select the "Delete the ID and all information" confirmation button.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EC%82%AD%EC%A0%9C3.png" alt="" data-size="original">
+
 
 \*Even if the user who has unsubscribed, the information will remain in the app data, so they will not be able to sign up with the same ID.
 
 Therefore, if you need to re-register with the same ID, you must delete the member ID and all information from the app through the deletion of the member.&#x20;
 
-<mark style="color:blue;">\[Go to the manual on how to re-sign up with the same ID after unsubscribing from the app]</mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to re-sign up with the same ID after unsubscribing from the app\]</mark>](../manual/appoperation/sameid-rejoin.md)<mark style="color:blue;"></mark>
 
 </details>

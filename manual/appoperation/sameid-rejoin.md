@@ -14,7 +14,7 @@ However, if the user wants to re-register with the same ID, the administrator ca
 
 I’ll tell you how to re-enroll a user who has withdrawn from membership through the manual!
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Leave the app membership**</mark>
 
@@ -26,15 +26,13 @@ For membership withdrawal, there is a’Membership withdrawal’ menu in the app
 
 You can unsubscribe by selecting the corresponding menu.
 
-
-
-![](https://support.swing2app.com/wp-content/uploads/2021/05/Group-2840@3x.png)
+![](../../.gitbook/assets/Group-2840@3x.png)
 
 Withdrawal is complete.
 
 If you try to re-register with the same ID again, as you can see on the screen, a message saying “ID exists” will appear and you will not be able to register again with the same ID.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
 
@@ -60,11 +58,11 @@ In the “Account withdrawal and deletion” menu in the member information wind
 
 Therefore, if you need to re-register with the same ID, you must delete the member ID and all information from the app through member deletion.
 
-***
+![](../../.gitbook/assets/구분선.PNG)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2021/05/Group-2843e@3x.png)
+![](../../.gitbook/assets/Group-2843e@3x.png)
 
 After the administrator completes the member deletion, the withdrawn user will access the app again and sign up.
 
@@ -74,7 +72,7 @@ When signing up with the same ID that you withdrew from the membership registrat
 
 <mark style="color:orange;">**▶Re-registration complete!**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2021/05/Group-2841@3x.png)
+![](../../.gitbook/assets/Group-2841@3x.png)
 
 You can see that the same (test17) re-registration is possible.
 
