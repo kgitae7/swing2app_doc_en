@@ -30,7 +30,7 @@ You will need to purchase and apply for a Store upload ticket that you want to l
 
 We recommend that you purchase unlimited packages that come with upload tickets.&#x20;
 
-<mark style="color:blue;">**\[Go to the package purchase page]**</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to the package purchase page\]**</mark>](https://www.swing2app.com/view/payment\_list\_by\_recommend\_voucher)<mark style="color:blue;">****</mark>
 
 </details>
 
