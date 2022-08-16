@@ -8,19 +8,19 @@
 
 \-Free is only available as an Android phone installation file, and paid can be commercialized and released on Play Store, App Store, etc.
 
-\-The paid version can be distributed to stores such as the Play Store, the App Store, etc., so you can release apps that you have created in the Store.
+\-The paid version can be distributed to stores such as the Play Store, the App Store, etc. This means you can release apps that you have created in the Store.
 
-**Secondly, there is a difference in capacity.**
+**Secondly, there is a difference in the storage capacity.**
 
-The Free version comes with a basic 100MB, while the paid version offers 2GB to 50 GB. (Depending on the product, the amount of the paid version app varies)
+The Free version comes with a basic 100MB capacity, while the paid version offers 2GB to 50 GB. (Depending on the product, the amount of the paid version app varies)
 
 **The third difference is, that number of app productions is different.**
 
 Paid users can create up to 10 apps per account, and free users can create up to 3 apps per account.
 
-In addition, there are differences in the number of bulletin board productions, the establishment of group chat rooms, and the limit of the number of users.&#x20;
+In addition, there are differences in the number of bulletin board productions, the number of group chat rooms, and the limit of the number of users.&#x20;
 
-Most features are also available in the free version, so try it out for free and switch to paid if necessary.
+Most features are available in the free version, so try it out for free and switch to paid when ready.
 
 **☞ **<mark style="color:blue;">**How to use the Swing2App service?**</mark>
 
@@ -28,23 +28,23 @@ Most features are also available in the free version, so try it out for free and
 
 <details>
 
-<summary><strong>Please tell us the time the app is released for each store. [App Store]</strong></summary>
+<summary><strong>How long do I need to wait for my app to be released in each store?</strong> </summary>
 
 **\[App Store]**
 
-App Store review period 7 days
+The app Store review period is a minimum of 7 days.
 
-If there are no issues with the review, the release will be released within 7 days, but the release date may be even later because the review is often rejected.
+If there are no issues with the review, the app will be released within 7 days. In some cases, the app release can take even more than 7 days, because the app gets often rejected during the review phase.&#x20;
 
-Therefore, please allow plenty of time to apply, and be sure to check the feedback on the reasons for the rejection of the app.
+Therefore, please consider these points while applying for app store upload, and make sure to check the review feedback for the reasons for the rejection of the app.
 
 **\[PlayStore]**
 
-Play Store review period takes 7 days
+Play Store review period takes a minimum of 7 days.
 
-If there are no issues with the review, the release will be immediately after the above review period, but the PlayStore may also be delayed in the release date if the review is declined.
+If there are no issues with the review, the app will be released on the store immediately after the above review period, but the app upload on the Play Store may also be delayed in the release date if the review is declined.
 
-Please allow some time to apply.
+Therefore, please consider these points while applying for the app upload.
 
 </details>
 
@@ -52,11 +52,9 @@ Please allow some time to apply.
 
 <summary>What is a Store Upload Agent?</summary>
 
-A paid version of the app (an app that has paid for a paid app subscription) will be available for commercialization by launching in stores such as the Play Store and the App Store.
+A paid version of the app (an app with paid app subscription) will be available for commercialization. Users can launch their paid apps in the stores such as the Play Store and the App Store.
 
-At this time, those who have difficulty launching directly to the store can apply for an upload agency by swing.
-
-On behalf of Swing-to-App, we'll put your app on the Store.
+If users face difficulty while uploading their app directly to the store, they can apply for the store upload request form. By doing that, on your behalf, the Swing2App team will upload your app to the store.&#x20;
 
 **In other words, putting an app created by a user on the Store instead is called an upload agency.**
 
