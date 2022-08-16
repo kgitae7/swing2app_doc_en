@@ -201,11 +201,11 @@ The fifth way is to create and apply a user page - an editor page.
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) HTML Editor Page applied Home Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![](../../../.gitbook/assets/에디터.png)
 
 &#x20;**** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802.png)
+![](../../../.gitbook/assets/홈화면6.png)
 
 1\)STEP3 Page Menu Selection
 
@@ -228,6 +228,8 @@ If you don't have an HTML editor page you've created, create one first and apply
 Selecting New above takes you to the HTML Editor Page Authoring Tool screen.
 
 You can create an editor page in that authoring tool, and then apply it in your app.
+
+
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **HTML Editor Page Maker Screen**
 
