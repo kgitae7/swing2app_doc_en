@@ -1,6 +1,6 @@
 # How to create an app home screen
 
-**How to create an app home screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to create an app home screen**
 
 1\. Apply an image
 
@@ -69,77 +69,75 @@ However, if you want to make the phone screen more or less full, please work wit
 
 The second way is to apply the bulletin board to your home screen!
 
-**App launch screen) Home screen with bulletin board applied**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with bulletin board applied**
 
-****
-
-****
+![](../../../.gitbook/assets/게시판.PNG)
 
 \*Note: Writing is not provided when applying the bulletin board to the home screen.
 
 This means that the home screen only provides a detailed article view of the list of bulletin boards, and you cannot write posts on the bulletin board applied to the home screen.
 
-\*\*\*\* **How to apply**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%903-1.png)
+
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
+
+![](../../../.gitbook/assets/홈제작2.png)
 
 1\)STEP3 Page Menu Selection
 
 2\)Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you do not change the name, it will be displayed as the name of the board.
+3\)Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+\*If you do not change the name, it will be displayed as the name of the board.
 
-\*This function is not applicable to the home screen.
+4\)In the page design, select UI KIT – **** Board.
 
-5\)In the page design, select UI KIT – Bulletin Board.
-
-6\) Select the bulletin board and select the \[Apply] button.
+5\)Select the bulletin board and select the \[Apply] button.
 
 \*Hover your mouse over the bulletin board screen to see the Apply button.
 
-7\) Press the \[Save] button at the top of the screen and you're done!
+6\)Press the \[Save] button at the top of the screen and you're done!
 
 If you don't have a board you created, create one first and then apply it to your app.
 
 Selecting New above takes you to the Manage Board screen.
 
-&#x20;**App Operation-Board Management Screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App Manager-Bulletin Board Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%904.png)
+![](../../../.gitbook/assets/게시판관리화면.png)
+
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** User Page – Apply Image Page
 
 The third way is to create an image page and apply it to the home screen.
 
-**App launch screen) Image page applied home screen**
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Image page applied home screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![](../../../.gitbook/assets/홈화면3-1.PNG)
 
-&#x20;**How to apply**
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **** **How to apply**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+![](../../../.gitbook/assets/홈화면3.png)
 
 1\)STEP3 Page Menu Selection
 
 2\)Select \[HOME] menu
 
-3\) The menu name does not need to be changed. \*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
+3\) The menu name does not need to be changed.&#x20;
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
 
-\*This function is not applicable to the home screen.
+4\)Select Image Page from the page design.
 
-5\)Select Image Map from the page design.
-
-6\) Select the image page to apply to the home screen and select the \[Apply] button.
+5\)Select the image page to apply to the home screen and select the \[Apply] button.
 
 \*Hover your mouse over the image page screen to see the Apply button.
 
-\*If you don't have a page created, please create it by pressing the \[New] button.
+\*If you don't have a page created, please create it by pressing the \[Add new page] button.
 
-7\) Press the \[Save] button at the top of the screen and you're done!
+6\)Press the \[Save] button at the top of the screen and you're done!
 
 If you don't have an image page that you have created, create an image page first and then apply it to your app.
 
@@ -147,41 +145,43 @@ Selecting New above takes you to the Image Page Maker screen.
 
 You can create an image page in the authoring tool, and then apply it in your app.
 
-**Image Page Maker Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** . User Page – Apply a web template page
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **Image Page Maker Screen**
+
+![](../../../.gitbook/assets/이미지페이지1.png)
+
+![](../../../.gitbook/assets/구분선.PNG)
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** User Page – Apply a web template page
 
 The fourth method is to create and apply a user page - a web template page.
 
-**App launchscreen) Home screen with web template page applied**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launchscreen) Home screen with web template page applied**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF.png)
+![](../../../.gitbook/assets/템플릿.PNG)
 
-&#x20;**How to apply**
+&#x20;**** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF1.png)
+![](../../../.gitbook/assets/홈화면4.png)
 
 1\)STEP3 Page Menu Selection
 
 2\)Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you do not rename the menu, it will be displayed as the name you saved when the template page was created.
+3\) Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+\*If you do not rename the menu, it will be displayed as the name you saved when the template page was created.
 
-\*This function is not applicable to the home screen.
+4\) Under Page Design, select an Page templates.
 
-5\) Under Page Design, select an industry-specific template.
-
-6\) Select the template you want to apply to the home screen and select the \[Apply] button.
+5\) Select the template you want to apply to the home screen and select the \[Apply] button.
 
 \*Hover your mouse over the template page screen to see the Apply button.
 
-\*If you don't have a page created, please create it by pressing the \[New] button.
+\*If you don't have a page created, please create it by pressing the \[Add new page] button.
 
-7\) Press the \[Save] button at the top of the screen and you're done!
+6\) Press the \[Save] button at the top of the screen and you're done!
 
 If you don't have an image page that you created, create a template page first and apply it to your app.
 
@@ -189,19 +189,21 @@ Selecting New above takes you to the Template Page Authoring Tool.
 
 You can create a template page in that authoring tool, and then apply it in your app.
 
-**Template Page Authoring Screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **Template Page Authoring Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+![](../../../.gitbook/assets/EN-페이지-템플렛.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**User Page – Apply HTML Editor Page
+![](../../../.gitbook/assets/구분선.PNG)
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**User Page – Apply HTML E**d**tor Page
 
 The fifth way is to create and apply a user page - an editor page.
 
-**App launch screen) HTML Editor Page applied Home Screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) HTML Editor Page applied Home Screen**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-&#x20;**How to apply**
+&#x20;**** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802.png)
 
@@ -211,19 +213,15 @@ The fifth way is to create and apply a user page - an editor page.
 
 3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you do not rename the menu, it will be displayed as the name you saved when you created the editor page.
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+4\) In the page design, choose HTML Editor.
 
-\*This function is not applicable to the home screen.
-
-5\) In the page design, choose HTML Editor.
-
-6\) Select the editor page that you want to apply to the home screen and select the \[Apply] button.
+5\) Select the editor page that you want to apply to the home screen and select the \[Apply] button.
 
 \*Hover your mouse over the editor page screen to see the Apply button.
 
-\*If you don't have a page created, please create it by pressing the \[New] button.
+\*If you don't have a page created, please create it by pressing the \[Add new page] button.
 
-7\) Press the \[Save] button at the top of the screen and you're done!
+6\) Press the \[Save] button at the top of the screen and you're done!
 
 If you don't have an HTML editor page you've created, create one first and apply it to your app.
 
@@ -231,9 +229,11 @@ Selecting New above takes you to the HTML Editor Page Authoring Tool screen.
 
 You can create an editor page in that authoring tool, and then apply it in your app.
 
-**HTML Editor Page Maker Screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **HTML Editor Page Maker Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
+![](../../../.gitbook/assets/EN-HTML.png)
+
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Apply the app introduction page
 
@@ -243,11 +243,11 @@ Therefore, users can use the app introduction page as it is, and they can change
 
 If you use the home screen in a different style and then apply the home screen back to the app introduction page, please apply it in the following way.
 
-**App launch screen) Home screen with app introduction page applied**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with app introduction page applied**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C1.png)
 
-&#x20;**How to apply**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C-1.png)
 
@@ -291,7 +291,7 @@ When you create your first app, you need to \[create an app] to reflect it. When
 
 **​**
 
-&#x20;**How do I delete content and delete banner buttons?**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">  **How do I delete content and delete banner buttons?**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 
