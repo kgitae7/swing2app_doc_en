@@ -16,7 +16,7 @@ Below, we'll show you how to apply each bulletin board UI to your app.
 
 The bulletin board is a feature that allows administrators to write for in-app community use, and users who use the app can also register their posts.
 
-The Swing-to-App provides a variety of bulletin board style UI.
+The Swing2App provides a variety of bulletin board style UI.
 
 You can create a board for each UI-specific style and apply it to your app to make use of it.
 

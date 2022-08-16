@@ -20,41 +20,38 @@
 
 You can create a screen by choosing from the different features that come with the page design.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4%EC%A0%9C%EC%9E%911.png)
+![](../../../.gitbook/assets/홈제작1.png)
+
+![](../../../.gitbook/assets/구분선.PNG)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1**.Home screen - Apply image
 
 Apply the Home screen The first way is to upload an image.
 
-***
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">**App launch screen)Image applied home screen**
 
-&#x20;**App launch screen)Image applied home screen**
+****
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%99%88%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80new2.png)
+\
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
-***
-
-&#x20;**How to apply**
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%85%EB%A1%9C%EB%93%9C.png)
+![](../../../.gitbook/assets/홈제작1-1.png)
 
 1\)STEP3 Page Menu Selection
 
 2\)Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you don't rename it, it will appear as the app name.
+3\)Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+\*If you don't rename it, it will appear as the app name.
 
-\*This function is not applicable to the home screen.
+4\)Select the \[Upload Image] menu from the page design.
 
-5\)Select the \[Upload Image] menu from the page design.
+5\)When the Attach File window appears, select the image file you want.
 
-6\) When the Attach File window appears, select the image file you want.
+6\)Select the \[Apply] button
 
-7\) Select the \[Apply] button
-
-8\) Press the \[Save] button at the top of the screen and you're done!
+7\)Press the \[Save] button at the top of the screen and you're done!
 
 {% hint style="info" %}
 \*The images are different in size than the size of the cellphone, so there is no exact recommended size.
@@ -66,13 +63,17 @@ However, if you want to make the phone screen more or less full, please work wit
 \- Since it is resized to the mobile screen in line with the horizontal screen, the vertical length can be a little bit or longer for each phone, resulting in scrolling.
 {% endhint %}
 
+![](../../../.gitbook/assets/구분선.PNG)
+
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Apply bulletin board
 
 The second way is to apply the bulletin board to your home screen!
 
 **App launch screen) Home screen with bulletin board applied**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%ED%8C%902.png)
+****
+
+****
 
 \*Note: Writing is not provided when applying the bulletin board to the home screen.
 
