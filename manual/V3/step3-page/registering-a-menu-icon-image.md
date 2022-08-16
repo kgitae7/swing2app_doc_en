@@ -88,15 +88,15 @@ I've registered an image for each category.
 
 It is well displayed on the screen without breaking the resolution.
 
+In addition, I registered an image of a menu icon in an app that prototyped slides.
+
+I think it would be nice to put an icon image to fit your prototype.
+
 **\*Icon images can only be applied to squares of the same width x height length, and sizes should be at least 20px to 512px or less.**
 
 The image size I registered is 512\*512px.
 
 
-
-In addition, I registered an image of a menu icon in an app that prototyped slides.
-
-I think it would be nice to put an icon image to fit your prototype.
 
 {% hint style="danger" %}
 <mark style="color:red;">**Instructions**</mark>
@@ -107,3 +107,4 @@ If you use this feature, you can switch to the V3 version.&#x20;
 
 Be sure to proceed with the initial update at the time of the transition.
 {% endhint %}
+
