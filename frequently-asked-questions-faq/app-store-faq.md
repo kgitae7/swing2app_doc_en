@@ -40,7 +40,7 @@ When you apply for an App Store upload, please agree to the proxy registration n
 
 However, regarding proxy registration, you must check and agree to all of the following notes.
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%8C%80%EB%A6%AC%EB%93%B1%EB%A1%9D.png" alt="" data-size="original">
+![](<../.gitbook/assets/앱스토어 등록 주의사항.png>)
 
 </details>
 
