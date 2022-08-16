@@ -10,21 +10,29 @@ In addition to the built-in icon image in the app authoring program, the user ca
 
 Check out the manure to see how to organize the menu and how to register icon images.
 
-### App launch screen) icon image Check registered apps
+![](../../../.gitbook/assets/구분선.PNG)
 
-​It's a footer prototype app,
+### ![](<../../../.gitbook/assets/단락1-1 (1).png>)App launch screen) icon image Check registered apps
+
+![](../../../.gitbook/assets/메뉴아이콘1.png)
+
+​It's a footer prototype app.
 
 If you look at the bottom footer bar, you can see that the icon image is registered in the menu.
 
-<mark style="color:blue;">**In the previous v2 version, the icon could only be selected as an image provided by the Swing-to-App.**</mark>
+<mark style="color:blue;">In the previous v2 version, the icon could only be selected as an image provided by the Swing2App.</mark>
 
-<mark style="color:blue;">**In the v3 update, if you have an icon image you want to add, you can upload the file directly and use it.**</mark>
+<mark style="color:blue;">In the v3 update, if you have an icon image you want to add, you can upload the file directly and use it.</mark>
 
 Below we will show you how to register an icon image in the menu.
 
-### Registering a menu icon image
+![](../../../.gitbook/assets/구분선.PNG)
+
+### ![](../../../.gitbook/assets/단락1-1.png) Registering a menu icon image
 
 The menu icon image can be applied in step STEP3 of the page.
+
+![](../../../.gitbook/assets/20221415.png)
 
 1\)Select menu (+You can create a menu by selecting the button)
 
@@ -44,7 +52,13 @@ In this manual, you created an industry-specific template in advance and applied
 
 7\)Select the Save button to finish\*Save will be automatically reflected in the app as well. You don't have to re-create the app.
 
-​
+
+
+​STEP3 Page steps simply need to be saved after you work, and they are automatically reflected in the app, so no updates are required.
+
+You can also check it on a virtual machine, but most of all, you have to make sure that the image is displayed in the app!!
+
+We recommend that you run the app and test it.
 
 {% hint style="info" %}
 **\*Icon images can only be applied to squares of the same width\*height length, and sizes should be at least 20px to 512px or less.**
@@ -62,15 +76,11 @@ However, when using images taken from external sites, please be careful if they 
 
 ​
 
-After the save is completed, you can check the screen reflecting the icon through the right web preview (virtual machine) screen in real time.
+![](../../../.gitbook/assets/구분선.PNG)
 
-STEP3 Page steps simply need to be saved after you work, and they are automatically reflected in the app, so no updates are required.
+### ![](../../../.gitbook/assets/단락1-1.png) App launchscreen) to check the icon image
 
-You can also check it on a virtual machine, but most of all, you have to make sure that the image is displayed in the app!!
-
-We recommend that you run the app and test it.
-
-### \*\*\*\* App launchscreen) to check the icon image
+![](../../../.gitbook/assets/메뉴아이콘2.png)
 
 The screen on which the icon image applied to the menu is applied.
 
@@ -78,7 +88,7 @@ I've registered an image for each category.
 
 It is well displayed on the screen without breaking the resolution.
 
-The image size that goes into the icon is not the recommended size as indicated above,
+**\*Icon images can only be applied to squares of the same width x height length, and sizes should be at least 20px to 512px or less.**
 
 The image size I registered is 512\*512px.
 
@@ -93,5 +103,7 @@ I think it would be nice to put an icon image to fit your prototype.
 
 The icon image registration function is an addition to the V3 version and is not available in the V2 version.
 
-If you use this feature, you can switch to the V3 version. Be sure to proceed with the initial update at the time of the transition.
+If you use this feature, you can switch to the V3 version.&#x20;
+
+Be sure to proceed with the initial update at the time of the transition.
 {% endhint %}
