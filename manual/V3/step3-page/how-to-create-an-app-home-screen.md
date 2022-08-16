@@ -269,7 +269,7 @@ If you use the home screen in a different style and then apply the home screen b
 
 > **The introduction, description, address, email address, phone number, website address, etc. listed on the app introduction page can be modified and used in \[Advanced Settings].**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
+![](../../../.gitbook/assets/앱소개수정방법.png)
 
 You can modify the items on the About App page from the Advanced Settings menu of the app creation page.
 
@@ -289,13 +289,15 @@ When you create your first app, you need to \[create an app] to reflect it. When
 
 **​**
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">  **How do I delete content and delete banner buttons?**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How do I delete content and delete banner buttons?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
+![](../../../.gitbook/assets/앱소개-배너삭제방법.png)
 
-If you want to clear all the banner buttons, press the \[Initialize] button for each item and then press \[Save] to remove the banner from the app.
+If you want to clear all the banner buttons, press the \[RESET] button for each item and then press \[Save] to remove the banner from the app.
 
-**If I edit the introductory text of the app and save it, won't it be reflected immediately?**
+
+
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **If I edit the introductory text of the app and save it, won't it be reflected immediately?**
 
 App Introduction Title Phrase Modification will be reflected only if you save it on the first 1 modification and then press the \[Request App Creation] button to update it to the new version.
 
@@ -314,6 +316,8 @@ If you delete it, it will be removed along with the share button and the site ad
 {% hint style="danger" %}
 **Instructions for applying the home screen**
 
+****
+
 **1) Home Screen – Applying a web link is not recommended.**
 
 \-When you put a website on the home screen, the new screen may not open and end abnormally, or the site may not open in the app due to the security settings within the site.
@@ -324,7 +328,7 @@ Therefore, please use only the menus mentioned above on the home screen.
 
 \*\*Also!! There's a site that prohibits embedding when applying web links.
 
-\*Naver, the following portal sites, and the sites provided by the portal (modoo, storefarm web, etc.), YouTube, social media sites (Instagram, KakaoTalk, Facebook), etc. are the representative sites that have been banned from embedding!
+\*Naver, the following portal sites, and the sites provided by the portal, YouTube, social media sites (Instagram, **** Facebook), etc. are the representative sites that have been banned from embedding!
 
 In particular, the Naver blog or the next café that you run may not be able to connect properly to your home because it is blocked by Naver and the next itself.
 
@@ -333,6 +337,8 @@ In general, shopping mall sites may also not be applicable inside the app due to
 \* Apps applied to websites with such external security should not be released on the Play Store or App Store.
 
 \*If the web link is linked to the app menu and checked in 'View in a new window', it can be used without problems.
+
+
 
 **2) For those who want to build an app by walking through a website – we recommend that you build it as a webview app or a push app.**
 
@@ -344,11 +350,15 @@ Especially for shopping mall sites, the same security behavior as the purchase w
 
 So if you want to use your website as your main one, you can create it by applying it as 'WebView' or 'Push' in Design Theme - Prototype.
 
+
+
 **3) The home screen can be freely decorated using the menus.**
 
 You can apply an image page, apply a template page, and then freely change to another menu.
 
 If you just press Save, it will be automatically reflected in the app as well, so you don't need to update it separately.
+
+
 
 **4) The home screen has the main screen set to the 'About the App' page.**
 
