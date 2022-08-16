@@ -30,7 +30,7 @@ Apply the Home screen The first way is to upload an image.
 
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">**App launch screen)Image applied home screen**
 
-****
+![](../../../.gitbook/assets/이미지.png)
 
 \
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
@@ -245,29 +245,27 @@ If you use the home screen in a different style and then apply the home screen b
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with app introduction page applied**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C1.png)
+![](../../../.gitbook/assets/앱소개.PNG)
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C-1.png)
+![](../../../.gitbook/assets/홈화면5.png)
 
 1\)STEP3 Page Menu Selection
 
 2\)Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you don't rename the menu, it will automatically display as the app name.
+3\) Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
 
-4\) \[Preferences, Permission Settings] in the menu settings are menus that do not need to be entered separately, so please move on to the next.
+\*If you don't rename the menu, it will automatically display as the app name.
 
-\*This function is not applicable to the home screen.
+4\) In the page design, select the \[Basic Functions] – \[Page] menu.
 
-5\) In the page design, select the \[Basic Functions] – \[Page] menu.
+5\) Select 'App **** Introduction' and then select the \[Apply] button.
 
-6\) Select Introduction to the app and then select the \[Apply] button.
+\*Hover your mouse over the App introduction screen to see the Apply button.
 
-\*Hover your mouse over the app introduction screen to see the Apply button.
-
-7\) Press the \[Save] button at the top of the screen and you're done!
+6\) Press the \[Save] button at the top of the screen and you're done!
 
 > **The introduction, description, address, email address, phone number, website address, etc. listed on the app introduction page can be modified and used in \[Advanced Settings].**
 
