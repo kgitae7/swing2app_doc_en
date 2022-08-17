@@ -12,13 +12,13 @@ You can monetize ads by applying an advertising platform to your app.
 
 <details>
 
-<summary>What is the 'Admob Plugin' offered by the Swing2App app?</summary>
+<summary>What is the 'Admob Plugin' offered by the Swing-to-App app?</summary>
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/2.png" alt="" data-size="original">
 
 **The Google Admob application plugin is a product that allows you to mount Google Admob ads in your app.**
 
-When you purchase an Admob Enabled Plugin product, you can set up Admob ads in an app created by the Swing2App.
+When you purchase an Admob Enabled Plugin product, you can set up Admob ads in an app created by the Swing to App.
 
 Users can freely set and use their ad IDs and use their own ad IDs.
 
@@ -336,7 +336,7 @@ Admob generates revenue only when users click on ads that are embedded in the ap
 
 For those who operate, the profit difference is huge, from a few hundred thousand won a month to \~ a few million won a month.
 
-Just by starting an ad, you don't make a profit, so please consider it sufficiently.
+Just by hanging an ad, you don't make a profit, so please consider it sufficiently.
 
 </details>
 
@@ -358,7 +358,7 @@ Some apps have more than 10,000 people, so in order to make money from Admobs, y
 
 Admob Consultation is not available to assist you.
 
-Our job is to only support the setting service for the App-Admob platform created by Swing2App.
+Our job is to only support the setting service for the AppA-Admob platform created by Swing-to-App.
 
 However, if you have any questions related to the Admob plugin, please leave them in the inquiry and we will assist you with guidance.
 
