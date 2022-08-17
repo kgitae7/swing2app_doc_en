@@ -6,7 +6,7 @@
 
 **Swing2App Official App** - You can use the app preview to see which apps you've created.
 
-1\) Please download the official 'Swing to App' app from the App Store and Play Store.
+1\) Please download the official 'Swing2App' app from the App Store and Play Store.
 
 \*If the app is already installed, please update to the latest version.
 
@@ -14,11 +14,11 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [Play store launch link**(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing-to-App website subscription account (ID, password).&#x20;
+2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing2App website subscription account (ID, password).&#x20;
 
-**\*Note: To log in, you must enter the account you signed up for in the Swing-to-App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
+**\*Note: To log in, you must enter the account you signed up for in the Swing2App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
 
-**It's not an account signed up for in the official Swing-to-App app\~!**
+**It's not an account signed up for in the official Swing2App app\~!**
 
 3\) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.
 
@@ -40,11 +40,11 @@ The app can also be tested on iPhone.
 
 Here are 2 ways to do it.
 
-**1)When using the free version app - Use the Swing to App app preview**
+**1)When using the free version app - Use the Swing2App App app preview**
 
 Download and install the official \[Swing to App] app from the App Store.
 
-Launch the app, select the \[App Preview] menu at the top, log in with your Swing-to-App account - you can preview the app you created as a preview on your iPhone.
+Launch the app, select the \[App Preview] menu at the top, log in with your Swing2App account - you can preview the app you created as a preview on your iPhone.
 
 \*You can check all the apps you create for free.
 
@@ -94,7 +94,7 @@ In addition, you can select and proceed with the protection security message as 
 
 An update message window appears when the app runs, so users can get the update to the latest version.
 
-Currently, when making updates in Swing-to-App AppProduction, administrators can choose 'Recommended', 'Required', and 'Do not show updates' themselves.
+Currently, when making updates in Swing2App App Production, administrators can choose 'Recommended', 'Required', and 'Do not show updates' themselves.
 
 Depending on the option chosen, the contents of the message window will vary, and if 'Required' is selected, the user must update before they can use the app normally.
 
@@ -144,7 +144,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 3\)Select the \[Update App] button on the app creation page (when you create a new app, it will switch to the free version)
 
-4\)Swing-to-App Official App – From App Preview – App Download Progress
+4\)Swing2App Official App – From App Preview – App Download Progress
 
 5\)Launch the free version of the app again and it will run normally.
 
@@ -178,7 +178,7 @@ You can use it by taking the link and installing the app.
 
 <summary>Where can I get a link to install the app?</summary>
 
-Swing-to-app homepage - When you receive an APK file from your app's creation history, you can copy the link address from the download to install the app.
+Swing2App homepage - When you receive an APK file from your app's creation history, you can copy the link address from the download to install the app.
 
 On Android phones, you can download the app directly from the app installation link.
 
@@ -248,7 +248,7 @@ The message is also a case in which Google blocked the installation of the app o
 
 If you don't launch the Play Store, Google will recognize it as an unknown path and arbitrarily block the installation, which will result in a case where you can't install it properly.
 
-**Paid apps made with Swing-to-App that are not available on the Play Store have been identified as unauthenticated paths on Android phones and have been blocked from installation.**
+**Paid apps made with Swing2App that are not available on the Play Store have been identified as unauthenticated paths on Android phones and have been blocked from installation.**
 
 Disable Protect security settings in the PlayStore app for easy trouble.
 
