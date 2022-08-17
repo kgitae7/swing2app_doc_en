@@ -8,7 +8,7 @@ Some enterprise customers may request a change in their Swing subscribed ID as t
 
 Since the username change is linked to the personal information account, the user cannot change it directly.
 
-If you make a request to the Swing-to-App app, we will send you a consent form to change your account, and we will be able to make the changes once we have received the necessary documents.
+If you make a request to the Swing2App app, we will send you a consent form to change your account, and we will be able to make the changes once we have received the necessary documents.
 
 The password is the same as the previous one, and you can reset it to the desired password in Change your personal information after logging in.
 
@@ -28,7 +28,7 @@ When you unsubscribe, all apps and content you created will be deleted, so pleas
 
 <details>
 
-<summary>Can I re-register after unsubscribing from the Swing homepage?</summary>
+<summary>Can I re-register after unsubscribing from the Swing2App homepage?</summary>
 
 The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID in the future.
 
@@ -38,7 +38,7 @@ The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID 
 
 <summary>Swing2app homepage account - I lost my password.</summary>
 
-If you lost the password for your Swing-to-Site account!
+If you lost the password for your Swing2App Site account!
 
 **You can find your temporary password by email through \[Forgot Password], log in, and change your information Edit \[New Password].**
 
@@ -74,7 +74,7 @@ Therefore, the password must be verified with the account you connected to.
 
 (If it's a Google account, please go to Google Gmail and check the account you're using)
 
-In the Swing-to-App you can't find your password because you're only logged in with an account connected, and you can't change your password.
+In the Swing2App you can't find your password because you're only logged in with an account connected, and you can't change your password.
 
 </details>
 
