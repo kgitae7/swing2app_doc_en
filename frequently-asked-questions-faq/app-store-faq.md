@@ -32,11 +32,11 @@ If you can't pay before the expiration of the subscription period, the app will 
 
 Yes you can.
 
-If it's difficult for users to create their own Apple developer account, or if the developer is incurred, they can launch your app to the App Store with a Swing2App account.
+If it's difficult for users to create their own Apple developer account, or if the developer is incurred, they can launch your app to the App Store with a swing-to-app account.
 
 \*Google cannot register as an account proxy
 
-When you apply for an App Store upload, please agree to the proxy registration notices registered in the application and you will register with your Swing2App account.
+When you apply for an App Store upload, please agree to the proxy registration notices registered in the application and you will register with your Swing-to-App account.
 
 However, regarding proxy registration, you must check and agree to all of the following notes.
 
@@ -48,11 +48,11 @@ However, regarding proxy registration, you must check and agree to all of the fo
 
 <summary>App Store Developer Name at the time of proxy registration: I am distributed under 'Swing2app Co Ltd.', can I change it?</summary>
 
-If you register on behalf of the App Store with a Swing2App account, the name of the App Store developer will be distributed as 'Swing2app Co Ltd'.
+If you register on behalf of the App Store with a Swing-to-App account, the name of the App Store developer will be distributed as 'Swing2app Co Ltd'.
 
 Because you register as a swing-to-app account, you can't specify a distributor name per app.
 
-Therefore, you should use the Swing2App development mission as it is.
+Therefore, you should use the Swing-to-App development mission as it is.
 
 **If you want users to distribute it under their preferred name, please create an Apple developer account.**
 
@@ -78,11 +78,11 @@ Please allow time to wait for the review.
 
 <details>
 
-<summary>Can I transfer my account to a Swing2App account on the App Store after the app launches?</summary>
+<summary>Can I transfer my account to a swing-to-app account on the App Store after the app launches?</summary>
 
 Yes you can.
 
-After launching with a Swing2App Developer account, if you've registered for your Apple Developer account, you can move your app to that account.
+After launching with a Swing-to-App Developer account, if you've registered for your Apple Developer account, you can move your app to that account.
 
 However, moving the app to that account also requires you to re-register the app, so you will need to purchase an upload ticket and apply for upload. \_(App Store upload ticket costs KRW 20,000)
 
