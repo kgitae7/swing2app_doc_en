@@ -18,7 +18,7 @@ You can easily apply for a shopping mall, and you can use the mall service for f
 
 ◆ The swing shop can also be modified and updated by the user from time to time and provides all the necessary tools for operation.
 
-◆ Functions provided by Swing – Marketing uses such as pushes, pop-ups, etc. are all available.
+◆ Functions provided by Swing2App – Marketing uses such as pushes, pop-ups, etc. are all available.
 
 </details>
 
@@ -26,7 +26,7 @@ You can easily apply for a shopping mall, and you can use the mall service for f
 
 <summary>How do I apply for a swing shop?</summary>
 
-You can apply for the swing shopping mall → the menu → the \*\*App Operation Page at 'Shopping Mall (Payment System) Application'\*\*.
+You can apply for the swing shopping mall → the menu → the \*\*App Manager Page at 'Shopping Mall (Payment System) Application'\*\*.
 
 The shopping mall service \[payment module] is applied by selecting to use/not use.
 
@@ -44,7 +44,7 @@ Swing shop applications do not have a separate examination or approval, so you c
 
 <summary>How do I register my product after applying for the Swing Shop?</summary>
 
-When a swing shop is applied, a swing shop menu is created on the app operation page.
+When a swing shop is applied, a swing shop menu is created on the app manager page.
 
 From the swing shop menu, you can go into Product Management and register the product after registering the category.
 
@@ -70,7 +70,7 @@ The method depends on which product you want to register, so please look at the 
 
 <summary>Where can I apply for the Swing Mall?</summary>
 
-Swing shopping mall can be applied for on the app operation page > the internal menu> 'Shopping mall (payment system) application'. The shopping mall service-payment module is applied by selecting Enabled/Unused.&#x20;
+Swing shopping mall can be applied on the app manager page > the internal menu> 'Shopping mall (payment system) application'. The shopping mall service-payment module is applied by selecting Enabled/Unused.&#x20;
 
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to apply for shopping mall service\]**</mark>](https://www.swing2app.com/view/swing\_shop\_apply)<mark style="color:blue;">****</mark>
 
