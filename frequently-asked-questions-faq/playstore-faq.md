@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>If I apply for a PlayStore upload to the Swing2App app, will the app be released immediately?</summary>
+<summary>If I apply for a PlayStore upload to the Swing-to-App app, will the app be released immediately?</summary>
 
-We'll act on behalf of Swing2App and upload the app to the Play Store.
+We'll act on behalf of Swing-to-App and upload the app to the Play Store.
 
 It's not going to be released right away, it's going to be reviewed by Google apps.
 
@@ -204,7 +204,7 @@ Action is difficult because the app is unloaded without any prior warning.
 
 Therefore, during use, please carefully check the update and policy notification e-mail sent by Google to be proactive.
 
-The Swing2App will always provide you with a plan of action in line with Google's policy changes, so if you have difficulty confirming what this is about, please leave an inquiry to the Swing2App website.
+The Swing-to-App will always provide you with a plan of action in line with Google's policy changes, so if you have difficulty confirming what this is about, please leave an inquiry to the Swing-to-App website.
 
 </details>
 
