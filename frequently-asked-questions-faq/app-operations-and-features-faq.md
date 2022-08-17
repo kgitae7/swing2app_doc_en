@@ -2,13 +2,13 @@
 
 <details>
 
-<summary>Are push shipments unlimited? Is there a limit to the number of people?</summary>
+<summary>Are push messages unlimited? Is there a limit to the number of people?</summary>
 
 Yes, push shipments are unlimited.
 
 Push has **no limit to the number of dispatches and is available to an unlimited number of people.**
 
-In addition, all the features offered by the Swing-to-App are free, so push sending is free, and you can send pushes freely.
+In addition, all the features offered by the Swing2App are free, so push sending is free, and you can send pushes freely.
 
 </details>
 
@@ -94,7 +94,7 @@ You can see what's available in the app, what it's currently using, and what's r
 
 <summary>How do I set up a deputy administrator?</summary>
 
-On the swing app operation page, go to <mark style="color:blue;"></mark> [<mark style="color:blue;">the</mark> Push & Members - View all members <mark style="color:blue;">menu.</mark>](https://www.swing2app.com/view/member\_list)<mark style="color:blue;"></mark>
+On the Swing2App app Manager page, go to <mark style="color:blue;"></mark> [<mark style="color:blue;">the</mark> Push & Members - View all members <mark style="color:blue;">menu.</mark>](https://www.swing2app.com/view/member\_list)<mark style="color:blue;"></mark>
 
 You can select the user you want to set as a deputy administrator and then change the permissions to administrator in the permission group settings
 
@@ -108,9 +108,9 @@ We'll attach a link to the detailed method, so it's easy to understand if you lo
 
 <details>
 
-<summary>I want to add features that SwingTwo doesn't offer, what can I do?</summary>
+<summary>I want to add features that Swing2App doesn't offer, what can I do?</summary>
 
-We are customizing for those who want a service that goes beyond a swing-to-app solution.
+We are customizing for those who want a service that goes beyond a Swing2App solution.
 
 Customization means app development, providing customization in 1:1 customization. You can do this by asking the Swing team.
 
@@ -196,7 +196,7 @@ After editing the content, please go to App Creation and press the \[Update App]
 
 Yes you can.
 
-If you want to create an app that is available in English, please use it on the Swing-to-App global site. Swing-to-App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
+If you want to create an app that is available in English, please use it on the Swing2App global site. Swing2App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
 
 Global sites are created with the app default language all set to English, so they are automatically set to English without any further changes.
 
@@ -218,11 +218,11 @@ After editing the content, please go to App Creation and press the \[Update App]
 
 <details>
 
-<summary>Can I amend the App Terms of Use and Privacy Policy?</summary>
+<summary>Can I modify the App Terms of Use and Privacy Policy?</summary>
 
 Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Operations - Service Management - Policy Management - App Subscription Policies page - Terms of Service.</mark>
 
-For each question, we put the content in the Swing-to-App basic settings, so the content is all entered.
+For each question, we put the content in the Swing2App basic settings, so the content is all entered.
 
 Please check the contents and modify the App Terms of Use to suit the app you created.
 
@@ -238,7 +238,7 @@ Write a post - If you choose to write with the **HTML editor**, you can change t
 
 When writing in general, writing directly from the app doesn't apply style.
 
-\*\*Swing-to-app homepage web dashboard - **only available for writing with** **HTML editor.**
+\*\*Swing2App homepage web dashboard - **only available for writing with** **HTML editor.**
 
 After you create a bulletin board, go to the board where you want to write in the Manage Posts menu.
 
@@ -260,7 +260,7 @@ So when you assign a thumbnail image to your post! Please be sure to register as
 
 (See image)
 
-<mark style="color:red;">\*\* This feature is not available in the app, only on the swing homepage - pc version web, mobile version web.</mark>
+<mark style="color:red;">\*\* This feature is not available in the app, only on the Swing2App homepage - pc version web, mobile version web.</mark>
 
 </details>
 
@@ -312,7 +312,7 @@ The bulletin board can be copied.
 
 The copy board function is set up for each bulletin board, making it easy to copy a board.
 
-\*Swing app operation page - from the \[Post Management] menu - Go to the board you want to copy.
+\*Swing2App Manager page - from the \[Post Management] menu - Go to the board you want to copy.
 
 By pressing the \[Copy Board Board] button at the top of the bulletin board, you can select the target board to be copied.
 
