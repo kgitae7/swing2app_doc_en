@@ -60,7 +60,7 @@ In addition to the basic subscription, other products can also be changed after 
 
 <summary>What is a PlayStore upload ticket, an App Store upload ticket?</summary>
 
-**This is an agency fee for registering apps created in Swing-to-App on the Play Store and App Store.**
+**This is an agency fee for registering apps created in Swing2App on the Play Store and App Store.**
 
 If it is difficult to launch in person, please purchase the ticket and apply for upload, and we will launch it on our behalf.
 
@@ -80,7 +80,7 @@ If you need to upload multiple apps, you'll need to purchase an upload ticket fo
 
 <summary>After I buy upload tickets, where do I apply for uploads?</summary>
 
-<mark style="color:blue;">\*Go to the App Operation →Version Management→App Creation History</mark> menu and select the \[Request for Play Store Upload], \[Application for App Store Upload] button.
+<mark style="color:blue;">\*Go to the App Manager page →Version Management→App Creation History</mark> menu and select the \[Request for Play Store Upload], \[Application for App Store Upload] button.
 
 Fill in the application form and complete the upload application.
 
@@ -92,9 +92,9 @@ Please apply for upload after payment, as we will be able to perform the upload 
 
 <summary>What is a Mobile Web Registration Ticket?</summary>
 
-It is a service that allows you to register an app created by Swing-to-App by making it a mobile website.
+It is a service that allows you to register an app created by Swing2App by making it a mobile website.
 
-You can purchase a separate domain, purchase a mobile web registration ticket, request a mobile web registration, and we will East Sea the application you created on the web as it is.
+You can purchase a separate domain, purchase a mobile web registration ticket, request a mobile web registration, and we will upload the application you created on the web as it is.
 
 </details>
 
