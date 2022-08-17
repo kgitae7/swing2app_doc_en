@@ -4,15 +4,15 @@
 
 <summary>What is Swing Preview (App Preview)?</summary>
 
-Swing Preview is an \[App Preview] service that allows you to check the apps created by the Swing-to-App in real time.
+Swing Preview is an \[App Preview] service that allows you to check the apps created by Swing2App in real-time.
 
-After downloading the official Swing-to-App app – from the App Preview menu – please log in to the account you signed up for on the Swing homepage.
+After downloading the official Swing2App app – from the App Preview menu – please log in to the account you signed up for on the Swing homepage.
 
-On the app preview page, you can see a list of all the apps created by Swing-to-App.
+On the app preview page, you can see a list of all the apps created by Swing2App.
 
 You can preview, download and check it directly on your phone from within the app.
 
-Even if you don't have to cumbersome pick up and install APK files, you can check out the apps you've created in real time!
+Even if you don't have to cumbersome pick up and install APK files, you can check out the apps you've created in real-time!
 
 \*App preview is also available, especially on iPhones that have not been supported so far. (No down\~!)
 
@@ -28,7 +28,7 @@ Even if you don't have to cumbersome pick up and install APK files, you can chec
 
 ![](../.gitbook/assets/앱미리보기자름900\_en.png)
 
-1\) Please download the official 'Swing to App' app from the App Store and Play Store. \*If the app is already installed, please update to the latest version
+1\) Please download the official 'Swing2App' app from the App Store and Play Store. \*If the app is already installed, please update to the latest version
 
 2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your swing website subscription account (ID, password).
 
@@ -52,7 +52,7 @@ Here! For your username and password, please enter the ID and password associate
 
 **The app ID can be found on the swing app creation page → in the basic information in step 1, and you can check the app ID.**
 
-Same as how to log in as a deputy administrator on the SwingTwo website!
+Same as how to log in as a deputy administrator on the Swing2App website!
 
 You can log in by entering your deputy administrator ID, password, and app ID.
 
@@ -170,7 +170,7 @@ You can use the existing app installation method and the swing preview together,
 
 <summary>How do users who have subscribed to the Swing-to-App homepage with Easy Login sign in from the app preview?</summary>
 
-If you used to log in with a simple login when you signed up for the Swing-to-App, please select the Naver, Google, and Facebook icons to log in.
+If you used to log in with a simple login when you signed up for the Swing2App, please select the Naver, Google, and Facebook icons to log in.
 
 **\*The iPhone does not come with a simple login function.**
 
