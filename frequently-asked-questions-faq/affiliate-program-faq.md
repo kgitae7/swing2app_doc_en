@@ -48,7 +48,7 @@ This is the affiliate program manager page.
 
 You can check the affiliate URL through the admin information.
 
-Just link that URL to the banner.
+Just link that URL to East Sea banner.
 
 You can check out the various menus in the top menu bar.
 
@@ -64,9 +64,9 @@ In the future, the manager can check the distribution rate per incident, the num
 
 Yes yes.
 
-Users who are counted as users of the affiliate program are only new members who have joined Swing2App for the first time.
+Users who are counted as users of the affiliate program are only new members who have joined Swing for the first time.
 
-Members who have already signed up for Swing2App have already signed up and will not be counted as affiliate users.
+Members who have already signed up for Swing have already signed up and will not be counted as affiliate users.
 
 By accessing the user's affiliate URL, only new members who have registered from that URL will be counted.
 
@@ -86,7 +86,7 @@ Users who are using free coupons for a fee will not be counted in the settlement
 
 <details>
 
-<summary>How does the Swing2App Affiliate Program review work?</summary>
+<summary>How does the Swing Affiliate Program review work?</summary>
 
 When you apply for the Swing Affiliate Program, a representative will conduct the review.
 

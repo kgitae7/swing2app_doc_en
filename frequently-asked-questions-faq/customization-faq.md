@@ -24,9 +24,9 @@ Simple features and custom features that have already been provided by Swing can
 
 <summary>How do I get a customized consultation and quote?</summary>
 
-Customized consultation is possible only by sending the proposal, storyboard, etc. about the app development to the swing-to-app email first.
+Customized consultation is possible only by sending the proposal, storyboard, etc. about the app development to the Swing2App email first.
 
-You must have a specific app production plan so that after confirming the contents, a development engineer can assist you with the consultation. \*Please prepare an app production proposal, storyboard, etc. and send it to the Swing-to-App email address help@swing2app.co.kr .
+You must have a specific app production plan so that after confirming the contents, a development engineer can assist you with the consultation. \*Please prepare an app production proposal, storyboard, etc. and send it to the Swing2App email address help@swing2app.co.kr .
 
 If you e-mail, the custom development engineer will check the contents and guide you through whether development is possible, the development period, the development cost estimate, etc., and we will assist you with the consultation.
 
