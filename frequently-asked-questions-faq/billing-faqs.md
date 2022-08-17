@@ -4,7 +4,7 @@
 
 <summary>Refund Policy</summary>
 
-Unused passes and tickets purchased from the Swing-to-App can be refunded.
+Unused passes and tickets purchased from Swing2App can be refunded.
 
 Please note, however, that no refunds will be given after the vouchers and prizes have been used.
 
@@ -48,7 +48,7 @@ If you have any other problems, please contact the Swing Customer Center.
 
 <summary>Where do I pay?</summary>
 
-For payment, you can see the app operation page – at the top of the dashboard, there is a \[Payment] menu.
+For payment, you can see the app manager page – at the top of the dashboard, there is a \[Payment] menu.
 
 Go to the Swing Pass, Ticket Purchase page/Swing Plugin purchase page, select the product you want and pay for it. Payment methods include \[Credit Card Payment, Mobile Phone Payment, Passless Deposit, Kakao Pay, Swing-to-App Electronic Payment (Pay App)]. You can choose a convenient method and make a payment.
 
@@ -148,7 +148,7 @@ When the paid period ends, the app will also be suspended.
 
 The app will not be deleted, so if you repurchase your subscription, the app will automatically be restored and run normally.
 
-The number of days you can use the paid app is listed on the dashboard screen at the top of the Swing-to-App site app operation.
+The number of days you can use the paid app is listed on the dashboard screen at the top of the Swing2App site app operation.
 
 From the date of use D-7, you will receive an e-mail announcing the end of the service period, so you can pay before the end of the use date.
 
