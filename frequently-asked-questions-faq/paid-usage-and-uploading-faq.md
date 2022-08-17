@@ -4,7 +4,7 @@
 
 <summary>I purchased a pass and a ticket to upload the sto. Do you have anything more to do when you pay?</summary>
 
-After making the payment , **you will need to apply for upload to the Play Store and App Store in the App **<mark style="color:blue;">**Manager - Version Control – \[App Creation History] menu.**</mark>
+After making the payment , **you will need to apply for upload to the Play Store and App Store in the App **<mark style="color:blue;">**Operation - Version Control – \[App Creation History] menu.**</mark>
 
 An upload request must come in before the representative can register your app with Sto.
 
@@ -16,7 +16,7 @@ Therefore, after purchasing the pass and the upload ticket, please complete the 
 
 <summary>When I apply for a PlayStore upload, will the app be released immediately?</summary>
 
-We'll act on behalf of Swing2App and upload the app to the Play Store.
+We'll act on behalf of Swing-to-App and upload the app to the Play Store.
 
 You will be reviewed by Google Apps.
 
@@ -104,7 +104,7 @@ You can also go directly to the market from that page, and you can see a variety
 
 The App Store doesn't allow you to upload directly even if you have an Apple developer account.
 
-Users cannot upload directly, and can only upload on a Swing2App basis.
+Users cannot upload directly, and can only upload on a swing-to-app basis.
 
 Apple, unlike Google, doesn't register app files, but instead requires the developer's app development source, security content related to development, etc., so users can't upload it directly.
 
@@ -120,7 +120,7 @@ Please understand that it can only be uploaded by the developer (Swing to App).
 
 <summary>Can the app be updated from time to time after I register for the Store?</summary>
 
-Apps created by Swing2App can be modified and updated from time to time.
+Apps created by Swing-to-App can be modified and updated from time to time.
 
 However, there is something that needs to be updated in the version, not a real-time reflection.
 
@@ -168,13 +168,13 @@ When uploading a newly updated app, please make sure it is different from the pr
 
 <summary>I want to edit the information for an app released on the Play Store.</summary>
 
-Since the app is registered with the user's Google developer account, the Play Store can directly modify and update the information afterward.
+Since the app is registered with the user's Google developer account, the Play Store can directly modify and update the information afterwards.
 
 For instructions on how to edit and update your PlayStore information, please refer to the \*\*\*\* manual below.&#x20;
 
 **☞**<mark style="color:blue;">**Go to the PlayStore app update**</mark>
 
-If you find it difficult to do it yourself, please apply to upload to the Swing2App and we will update it.
+If you find it difficult to do it yourself, please apply to upload to the Swing-to-App and we will update it.
 
 \*Play Store upload ticket 10,000 won purchase and application
 
