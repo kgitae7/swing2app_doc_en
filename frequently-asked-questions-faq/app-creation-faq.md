@@ -6,7 +6,7 @@
 
 Yes yes.
 
-Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
+Design Themes Offered by Swing2App – Prototypes can only be used in one style of choice.
 
 This prevents you from using a combination of styles.
 
@@ -38,7 +38,7 @@ Images that go into the app don't have the recommended size.
 
 **Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
 
-In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
+In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone screen.
 
 **Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
 
@@ -100,7 +100,7 @@ For each type of mobile phone, the waiting screen is displayed in different Inte
 
 It should look as short as 1 to 3 seconds.
 
-Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
+Due to the mobile app policy, the standby screen is a mandatory item, so when you create a Swing2App app, you must also register an image to be displayed on the standby screen.
 
 Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
 
@@ -112,7 +112,7 @@ Guidelines on how to create a standby screen can be found in detail in the manua
 
 <summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
 
-**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
+**The recommended size for standby screen images is the official recommended size for all models because the phone screen is different for each mobile phone model. (2282\*2282)**
 
 However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
 
@@ -148,7 +148,7 @@ After you create the app, modify and update it, you are free to use it.
 
 <summary>Where do I make modifications (updates) after app creation?</summary>
 
-The Swing-to-App does not have an app modification (update) task page.
+The Swing2App does not have an app modification (update) task page.
 
 When making corrections, please do the same by going to the app creation page.
 
