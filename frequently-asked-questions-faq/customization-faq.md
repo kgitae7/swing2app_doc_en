@@ -4,19 +4,21 @@
 
 <summary>What is customization?</summary>
 
-The original meaning of customization is a kind of custom-made service that creates products according to the needs of the customer, which means "to customize."
+Customization is a ‘custom-made service’ to create products according to the needs of customers.
 
-Customization of Swing means the same thing, and we will work on 1:1 app development to reflect what users want.
+You can ask Swing2App to customize and develop your app as per your requirement.
 
-You can add features in addition to the built-in services in Swing, or if you need to develop your app as a whole, you can ask Swing to customize it to develop & build the app you want.
+If you wish to add features other than built-in services provided in Swing2App, or if you need an overall app development, you can ask us to customize your app.
 
-Swing customization is 100% developed with what you want.
+We will create a custom app with your desired content and calculate a quote based on your app development.
 
-Therefore, when users make a request to customize app development, they should create a proposal, storyboard, etc. to let them know how they want to create the app.
+Therefore, if you have a customization request, kindly create a proposal, storyboard, etc. for our better understanding.&#x20;
 
-Customization will generate a quote based on the content of the app development. Our engineers will assist you in the detailed consultation of the development period and the work details. For customized consultations, please first prepare and send the app production proposal, storyboard, etc. by help@swing2app.co.kr e-mail.
+Customization will generate a quote based on the content of the app development. Our engineers will assist you in the detailed consultation of the development period and the work details.&#x20;
 
-Simple features and custom features that have already been provided by Swing can be guided directly from the Help Center, but please understand that the overall development of the app and the complex content configuration cannot be assisted in consultation without a specific proposal.
+For customized consultations, please first prepare and send the app production proposal, storyboard, etc. to <mark style="color:blue;">help@swing2app.com</mark>.
+
+Simple features or custom features that have already been provided by Swing2App can be guided directly from the Help Center, but please understand that the overall development of the app and the complex content configuration cannot be assisted in consultation without a specific proposal.
 
 </details>
 
