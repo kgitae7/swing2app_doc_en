@@ -276,9 +276,9 @@ You can also free up capacity by deleting unnecessary posts from the App Operati
 
 **If you do not pay for the subscription again after the expiration of the paid app usage period, the use of the app will be suspended.**
 
-Apps released to the Store won't be deleted or lost, **but when you launch the app early, you'll get a "Your subscription has expired" message and the app won't run.**
+Apps released to the Store won't be deleted or lost, **but when you launch the app early, you'll get a "Your subscription has expired" message, and the app won't run.**
 
-**Users who have previously downloaded the app from Stowe will also be restricted from using the app when the message appears.**
+**Users who have previously downloaded the app from Store will also be restricted from using the app when the message appears.**
 
 If you pay for your subscription again, you will not receive the message, and you will be able to use the app again normally.
 
@@ -296,11 +296,11 @@ However, since it is a conversion to a free app, it is not possible to distribut
 
 <details>
 
-<summary>Are all the features offered by the Swing-to-App free of charge?</summary>
+<summary>Are all the features offered by the Swing2App free of charge?</summary>
 
 **Yes, you can use them all for free.**
 
-SwingTwo is free to create and operate apps.
+Swing2App is free to create and operate apps.
 
 Therefore, users can use all the functions for free without any restrictions.
 
@@ -312,7 +312,7 @@ Therefore, users can use all the functions for free without any restrictions.
 
 After the app is finished creating, you can register and upload the AAB file after purchasing the paid app subscription.
 
-How to register (launch) a PlayStore app is provided in the manual. (We will not provide you with any consultation related to the registration of the Play Store app)
+How to register (launch) a Play Store app is provided in the manual. (We will not provide you with any consultation related to the registration of the Play Store app)
 
 Please proceed by looking at the manual.&#x20;
 
@@ -324,7 +324,7 @@ Please proceed by looking at the manual.&#x20;
 
 <summary>Is the free app sharing feature only available on Android phones?</summary>
 
-The ability to share (app sharing, bulletin boards, post sharing, etc.) in the four free version apps is only available on Android phones.
+The ability to share (app sharing, bulletin boards, post sharing, etc.) for free version apps is only available on Android phones.
 
 It can only be shared with Android Android ↔ phones.
 
