@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>If I apply for a PlayStore upload to the Swing-to-App app, will the app be released immediately?</summary>
+<summary>If I apply for a PlayStore upload to the Swing2App app, will the app be released immediately?</summary>
 
-We'll act on behalf of Swing-to-App and upload the app to the Play Store.
+We'll act on behalf of Swing2App and upload the app to the Play Store.
 
 It's not going to be released right away, it's going to be reviewed by Google apps.
 
@@ -46,13 +46,13 @@ When uploading to the Play Store, please fill in the application form – Google
 
 \*How to register for a PlayStore developer account
 
-1\. Create a Google account (gmail). (If you already have Gmail, you don't need to sign up.) 2. <mark style="color:blue;">https://play.google.com/apps/publish/</mark> to access the developer console site
+1\. Create a Google account (Gmail). (If you already have Gmail, you don't need to sign up.) 2. <mark style="color:blue;">https://play.google.com/apps/publish/</mark> to access the developer console site
 
-3\. Developer Registration Lifetime Pass is $25 payment.
+3\. Developer Registration Lifetime Pass is a $25 payment.
 
-4.Enter your developer profile and you're done.
+4\. Enter your developer profile and you're done.
 
-The advantage of creating a developer account is that users can upload their own apps, and they can modify them from time to time and update to a new version of the app without having to buy a market-upload ticket for Swing.
+The advantage of creating a developer account is that users can upload their own apps, and they can modify them from time to time and update to a new version of the app without having to buy a market-upload ticket.
 
 You can also manage your own apps while checking your own app installations and statistics.&#x20;
 
@@ -64,15 +64,13 @@ You can also manage your own apps while checking your own app installations and 
 
 <summary>I want to rename the PlayStore developer</summary>
 
-Google can modify the name of the first developer you signed up for and use it. Google Developer ConsoleAfter accessing the site (<mark style="color:blue;">https://play.google.com/apps/publish/</mark>), **go to \[Settings] on the left side of the screen → the dashboard → \[Developer Account] and the Developer Page.**
+Google can be used by editing the name of the first developer.\
+Access the Google Developer Console site ([https://play.google.com/apps/publish/)](https://play.google.com/apps/publish/)\
+**→ Select Settings in the left category → You can edit the developer’s name on the developer profile page and save it.**\
+\*Developer name is not reflected immediately after editing.\
+It may take up to 7 days with Google’s approval, so if you need to change your name, please save it in advance.
 
-On the developer page – edit the developer name and click the Save button to finish.
-
-In addition to the name, the developer page can be used by modifying the address, contact information, etc.
-
-**Developer names are reflected within 1 day (usually a few hours) of reflection time after modification.**
-
-For more information on how to change a developer's name, please refer to the manual.&#x20;
+Please refer to the manual for details on how to change the developer name.
 
 **☞ Go to the **<mark style="color:blue;">**\[Google Developer Name Change Manual]**</mark>
 
@@ -96,47 +94,40 @@ Here is a link to a simple Android Market upload registration tip\*\*.\*\*&#x20;
 
 <details>
 
-<summary>Does the PlayStore allow users to upload apps themselves without acting on the swing?</summary>
+<summary><strong>Can Play Store user upload their own app without swing2app?</strong></summary>
 
-Yes you can do it yourself.
+Yes, of course.&#x20;
 
-The Play Store requires only a Google developer account, and users can upload directly.
+If you have a Google Developer account, the Play Store allows you to upload directly.
+
+Instructions for releasing the app on the Play Store are also included in the help manual so you can follow along while viewing the manual.
 
 **\[PlayStore Update Manual]**&#x20;
 
 <mark style="color:blue;">https://wp.swing2app.co.kr/knowledgebase/palystore-update/</mark>
 
-How to launch your app on the Play Store is also listed in the Help Manual, so you can follow it by looking at it.
+If you’re having difficulty uploading yourself, you can ask for an upload agent on Swing2App.
 
-If you find it difficult to upload directly, you can request an upload agency with a swing.
-
-(PlayStore upload agency fee: 1 time 10,000 won)
+(Play store upload agency cost: $5/each time)
 
 </details>
 
 <details>
 
-<summary>How do I update apps that have been released on the Play Store?</summary>
+<summary>How do I update apps that has been released on the Play Store?</summary>
 
-To update your app to the Play Store in a new way, please re-register for uploading.
+If you would like to update your app to the Play Store, please resubmit your upload to Swing2App.\
+Please purchase a Play Store upload request ticket ($5 per request) and reapply for upload.\
+However, Play Store has all the developer accounts of the user, so you can update them yourself. You don’t have to buy an upload ticket if you do it yourself, and you can update it from time to time.
 
-Please purchase a PlayStore upload application ticket (1 time KRW 10,000) and re-apply for the upload.
-
-The Play Store has all of your developer accounts and you can upload them yourself, so you can update them yourself.
-
-**If you do it yourself, you don't need to buy an upload ticket, and you can update it from time to time**.
-
-Updating a new version of an app to the Play Store is simple.
-
-\- Log in to the Google Developer Console site and register the new version of the app in the Products menu.
-
-\- The update will also be re-examined and will take about 2-3 days.
-
-**\*Store registration information can also be modified.**
-
-Store Uploads – Changes to the app's description, screenshot image, category, etc. will activate the Submit Update button at the top.
-
-Unlike uploading an aab file, if you have modified a store definition, you must press the appropriate button to process the update.&#x20;
+Updating a new version of your app to the Play Store is easy.\
+\-Login to the Google Developer Console site and register a new version of the app in the APK menu.\
+\-Then it is automatically updated to the new version after the 3-4 hour review period.\
+\
+**\*Store registration information can also be edited.**\
+Uploaded to the store – When you change the app description, screenshot image, category, etc., the Submit Update button at the top is activated.\
+Unlike uploading APK files, if you edit the store settings, the update will be processed only by pressing the corresponding button.\
+The same will be reflected after the 3-4 hour review period.
 
 <mark style="color:blue;">**\[Go to the PlayStore App Update Manual]**</mark>
 
@@ -144,7 +135,7 @@ Unlike uploading an aab file, if you have modified a store definition, you must 
 
 <details>
 
-<summary>During the PlayStore update, I get a message that the existing version or package is the same.</summary>
+<summary>During the PlayStore update, I got a message that the existing version or package is the same.</summary>
 
 If you try to upload the same version of the aab file as the one already registered, the message will appear.
 
@@ -204,7 +195,7 @@ Action is difficult because the app is unloaded without any prior warning.
 
 Therefore, during use, please carefully check the update and policy notification e-mail sent by Google to be proactive.
 
-The Swing-to-App will always provide you with a plan of action in line with Google's policy changes, so if you have difficulty confirming what this is about, please leave an inquiry to the Swing-to-App website.
+The Swing2App will always provide you with a plan of action in line with Google's policy changes, so if you have difficulty confirming what this is about, please leave an inquiry to the Swing2App website.
 
 </details>
 
