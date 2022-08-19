@@ -58,7 +58,7 @@ If users face difficulty while uploading their app directly to the store, they c
 
 **In other words, putting an app created by a user on the Store instead is called an upload agency.**
 
-Therefore, **if you request an upload agency, you can apply by purchasing \[App Store Upload Ticket $20], \[Play Store Upload Ticket $10] on the Swing Payment – Swing Pass, Ticket Purchase page.**
+Therefore, **if you request an upload agency, you can apply by purchasing \[App Store Upload Ticket 20,000 KRW], \[Play Store Upload Ticket 10,000 KRW] on the Swing Payment – Swing Pass, Ticket Purchase page.**
 
 After purchasing, you will need to apply for an upload to complete the application. Go to the Version Control →App Creation History menu**,** and **select the \[Request to upload to Play Store] or \[Request for App Store Upload] button in the Market Registration box.**
 
@@ -90,13 +90,15 @@ AAB files are not available in the free version of the app, but only in the paid
 
 Please update the app once more after purchasing the paid app subscription provided by the Swing To App. \*Select \[Update App button] in App Creation
 
-When the authoring is complete, a button will be created on the app production history page → On the Manager page-> Click on the version control → Click on the production history
+When the authoring is complete, a button will be created on the app production history page → the version control → app operation.
 
 </details>
 
 <details>
 
 <summary>If I purchase my subscription again long after the expiration of the subscription period, will the app be able to use it normally?</summary>
+
+If I purchase my subscription again long after the expiration of the subscription period, will the app be able to use it normally?
 
 Yes, the expiration of the subscription period does not delete the app, so you can purchase it later.
 
@@ -120,7 +122,7 @@ When an app is deleted from the Store, it can sometimes be difficult to restore 
 
 <summary>How do I unsubscribe from the Swing2app Home homepage?</summary>
 
-To cancel your membership, you can select your profile in the upper right corner of the Swing2app homepage app manager page → click on Edit information → select [Withdrawal from membership](https://www.swing2app.com/view/user\_secession).
+To cancel your membership, you can select your profile in the upper right corner of the Swing2app homepage app operation page → edit your internal information → select [Withdrawal from membership](https://www.swing2app.com/view/user\_secession).
 
 ![](../.gitbook/assets/회원탈퇴.png)
 
@@ -140,11 +142,11 @@ Even if you're the creator of the app, **you will need to change the rating as a
 
 **\[How to set up the app manager]**
 
-1. Please register in the app first.
+1.Please register in the app first.
 
-2\. On the swing homepage, go to the → app manager page →Push & Member → Click on the View all members option.
+2.On the swing homepage, go to the → app operation page →Push & Member → Member Inquiry Page.
 
-3\. On the View all members page, select the member you want to change to an administrator, and then select the → 'Administrator' from the 'User' of the current group information → and select the \[Change Group] button.
+3.On the member inquiry page, select the member you want to change to an administrator, and then select the → 'Administrator' from the 'User' of the current group information → and select the \[Change Group] button.
 
 When you have finished making the change, you are done changing the administrator level. \~!!&#x20;
 
@@ -156,7 +158,7 @@ When you have finished making the change, you are done changing the administrato
 
 Can I delete an app I've created?
 
-Yes, you can delete the apps you created yourself. To uninstall an app, <mark style="color:blue;">**go to the \[Manager page]-> Click on \[My menu]-> Click on the \[Manage app] option-> here you can check all of your created apps and delete them-> Click on the \[Remove app] button.**</mark>
+Yes, you can delete the apps you created yourself. To uninstall an app, <mark style="color:blue;">**go to the \[Manage Retained Apps] page → the menu → the App Operation page and there is a \[App Uninstall] button.**</mark>
 
 You can select the button to delete the app.
 
@@ -178,29 +180,31 @@ You can select the button to delete the app.
 
 \*Android phones can be checked by installing the app on the phone, and it is available as a preview on the iPhone.
 
-**1) Check on the swing2app preview (app preview)**
+**1) Check the app preview**
 
 ****![](../.gitbook/assets/앱미리보기자름900\_en.png)****
 
-Please download the \[Swing2App] official app from the App Store and Play Store.
+Please download the \[Swing to App] official app from the App Store and Play Store.
 
-After launching the app → Select the top of the category \[App Preview] menu → Please log in with your account subscribed to swing2app in the admin login window.
+After launching the app, select the \[App Preview] menu at the top of the → category → in the administrator login window, log in with the account you have subscribed to for the Swing2App.
 
-In the app preview, you can see a list of apps created by swing2app.
+In the app preview, you can see a list of apps created by the swing-to-app app.
 
-**-iPhone: Check by pressing the Preview button**
+**-iPhone: You can check it by pressing the preview button**
 
-**-Android: Preview or check app download**
+**- Android: Preview or check app download**
 
-\*Please note that the iPhone is only previewed, not downloaded.&#x20;
+\*Please note that the iPhone will only be previewed and not downloaded.
 
-(Apps created with push and web view cannot be checked on iPhone.
+(Apps created with Push and WebView cannot be viewed on iPhone)
+
+
 
 **2) Install Android phone APK file \*Only available on Android phones**
 
 When you make a request to create an app, an APK file will be sent to the user by e-mail.
 
-You can download the APK file to your phone and install the app. You can also download APK files from swing2app-> go to <mark style="color:blue;">app manager page → version control →app production history</mark>
+You can download the APK file to your phone and install the app. You can also download APK files from swing <mark style="color:blue;">app operation page → version control →app production history</mark>
 
 </details>
 
@@ -210,23 +214,23 @@ You can download the APK file to your phone and install the app. You can also do
 
 Yes, iPhones are not allowed to install and download the free version of the app.
 
-The free version of the app created by Swing2App can only be downloaded and installed on Android phones.
+The free version of the app created by Swing To App can only be downloaded and installed on Android phones.
 
-**The iPhone is only required to use apps downloaded from the official App Store due to the policy.**
+**The iPhone is only required to use apps downloaded from the official AppStore due to the policy.**
 
 **Instead, iPhone users can check out the app in a preview.**
 
-If you use \[App Preview] in the official Swing2App app, you can check the apps created on the iPhone by 'Preview'.
+If you use \[App Preview] in the official Swing-to-App app, you can check the apps created on the iPhone by 'Preview'.
 
-**\[How to use the swing2app app preview]**
+**\[How to use the swing preview]**
 
-1\)Please download the official \[Swing2App] app from the App Store.
+1\)Please download the official \[Swing to App] app from the App Store.
 
-2\)After launching the app → Select the top of the category \[App Preview] menu → Please log in with your account subscribed to swing2app in the admin login window.
+2\)After launching the app, select the \[App Preview] menu at the top of the → category → In the administrator login window, please log in with the account you have subscribed to the Swing-to-App account.
 
-3\)In the app preview, you can see the list of apps created by the swing2app app.
+3\)In the app preview, you can see the list of apps created by the swing-to-app app.
 
-**\*Prototype**- Apps built with Push, WebView cannot be viewed with the swing app preview.
+\*Prototype- Apps built with Push, WebView cannot be viewed with the swing preview.
 
 </details>
 
@@ -234,7 +238,7 @@ If you use \[App Preview] in the official Swing2App app, you can check the apps 
 
 <summary>How do I modify and update my app after it is created?</summary>
 
-The Swing2App has no app modification and update restrictions and is freely available by modifying its content.
+The Swing-to-App has no app modification and update restrictions and is freely available by modifying its content.
 
 Since there is no separate task page for modifying (updating) the content of the app, please go to the \[App Creation Page] and proceed with the same when you make the modification.
 
@@ -276,9 +280,9 @@ You can also free up capacity by deleting unnecessary posts from the App Operati
 
 **If you do not pay for the subscription again after the expiration of the paid app usage period, the use of the app will be suspended.**
 
-Apps released to the Store won't be deleted or lost, **but when you launch the app early, you'll get a "Your subscription has expired" message, and the app won't run.**
+Apps released to the Store won't be deleted or lost, **but when you launch the app early, you'll get a "Your subscription has expired" message and the app won't run.**
 
-**Users who have previously downloaded the app from Store will also be restricted from using the app when the message appears.**
+**Users who have previously downloaded the app from Stowe will also be restricted from using the app when the message appears.**
 
 If you pay for your subscription again, you will not receive the message, and you will be able to use the app again normally.
 
@@ -296,11 +300,11 @@ However, since it is a conversion to a free app, it is not possible to distribut
 
 <details>
 
-<summary>Are all the features offered by the Swing2App free of charge?</summary>
+<summary>Are all the features offered by the Swing-to-App free of charge?</summary>
 
 **Yes, you can use them all for free.**
 
-Swing2App is free to create and operate apps.
+SwingTwo is free to create and operate apps.
 
 Therefore, users can use all the functions for free without any restrictions.
 
@@ -312,7 +316,7 @@ Therefore, users can use all the functions for free without any restrictions.
 
 After the app is finished creating, you can register and upload the AAB file after purchasing the paid app subscription.
 
-How to register (launch) a Play Store app is provided in the manual. (We will not provide you with any consultation related to the registration of the Play Store app)
+How to register (launch) a PlayStore app is provided in the manual. (We will not provide you with any consultation related to the registration of the Play Store app)
 
 Please proceed by looking at the manual.&#x20;
 
@@ -324,7 +328,7 @@ Please proceed by looking at the manual.&#x20;
 
 <summary>Is the free app sharing feature only available on Android phones?</summary>
 
-The ability to share (app sharing, bulletin boards, post sharing, etc.) for free version apps is only available on Android phones.
+The ability to share (app sharing, bulletin boards, post sharing, etc.) in the four free version apps is only available on Android phones.
 
 It can only be shared with Android Android ↔ phones.
 
