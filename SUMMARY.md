@@ -14,7 +14,7 @@
   * [Unlimited Usage and Package FAQ](frequently-asked-questions-faq/unlimited-usage-and-package-faq.md)
   * [PlayStore FAQ](frequently-asked-questions-faq/playstore-faq.md)
   * [App Store FAQ](frequently-asked-questions-faq/app-store-faq.md)
-  * [Admob FAQ](frequently-asked-questions-faq/admob-faq.md)
+  * [AdMob FAQ](frequently-asked-questions-faq/admob-faq.md)
   * [Affiliate Program FAQ](frequently-asked-questions-faq/affiliate-program-faq.md)
   * [Customization FAQ](frequently-asked-questions-faq/customization-faq.md)
 
