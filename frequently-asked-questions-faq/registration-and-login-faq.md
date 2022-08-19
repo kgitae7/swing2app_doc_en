@@ -4,11 +4,11 @@
 
 <summary>Can I change the ID (email) subscribed to on the Swing2App homepage?</summary>
 
-Some enterprise customers may request a change in their Swing subscribed ID as their app rep changes.
+Some enterprise customers may request a change in their Swing2App subscribed ID as their app representatives change.
 
 Since the username change is linked to the personal information account, the user cannot change it directly.
 
-If you make a request to the Swing-to-App app, we will send you a consent form to change your account, and we will be able to make the changes once we have received the necessary documents.
+If you make a request to the Swing2App app, we will send you a consent form to change your account, and we will be able to make the changes once we have received the necessary documents.
 
 The password is the same as the previous one, and you can reset it to the desired password in Change your personal information after logging in.
 
@@ -18,7 +18,7 @@ The password is the same as the previous one, and you can reset it to the desire
 
 <summary>How do I unsubscribe from the Swing2App homepage?</summary>
 
-To unsubscribe , **you can select your profile in the upper right corner of the Swing homepage app operation page → edit your internal information → select Cancel Membership.**
+To unsubscribe , **you can select your profile in the upper right corner of the Swing homepage app manager page → edit information → select Cancel Membership.**
 
 The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID in the future.
 
@@ -28,7 +28,7 @@ When you unsubscribe, all apps and content you created will be deleted, so pleas
 
 <details>
 
-<summary>Can I re-register after unsubscribing from the Swing homepage?</summary>
+<summary>Can I re-register after unsubscribing from the Swing2App homepage?</summary>
 
 The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID in the future.
 
@@ -38,7 +38,7 @@ The ID you withdrew cannot be recovered, and you cannot rejoin with the same ID 
 
 <summary>Swing2app homepage account - I lost my password.</summary>
 
-If you lost the password for your Swing-to-Site account!
+If you lost the password for your Swing2App Site account!
 
 **You can find your temporary password by email through \[Forgot Password], log in, and change your information Edit \[New Password].**
 
@@ -74,7 +74,7 @@ Therefore, the password must be verified with the account you connected to.
 
 (If it's a Google account, please go to Google Gmail and check the account you're using)
 
-In the Swing-to-App you can't find your password because you're only logged in with an account connected, and you can't change your password.
+In the Swing2App you can't find your password because you're only logged in with an account connected, and you can't change your password.
 
 </details>
 
@@ -90,15 +90,15 @@ When logging in as a deputy administrator on the Swing2App homepage, please log 
 
 → App ID refers to the ID that the administrator entered when creating the app in the App Creation - Step 1 Basic Information.
 
-2\) Deputy Administrator ID: Enter the ID that the deputy administrator registered with in the app.
+2\) Associate  Administrator ID: Enter the ID that the deputy administrator registered within the app.
 
 3\)Password: Enter the password set by the deputy administrator when registering for the app.
 
 After you have finished typing, press the Login button and you will be taken to the admin page.
 
-\*Note: The app must be built before you can log in as a deputy administrator.
+**\*Note:** The app must be built before you can log in as a deputy administrator.
 
-If you are not in the state where you created the app, the app ID will not be recognized, so please use the deputy administrator login after you have created the app.
+If you are not in the state where you created the app, the app ID will not be recognized, so please use the Associate administrator login after you have created the app.
 
 For information on how to set up a deputy administrator to manage the app, please refer to this post^^&#x20;
 
@@ -110,7 +110,7 @@ For information on how to set up a deputy administrator to manage the app, pleas
 
 <summary>Tell me how to sign in as a Associate administrator in the app.</summary>
 
-Unlike the homepage, the app doesn't have a login page dedicated to the deputy administrator.
+Unlike the homepage, the app doesn't have a login page dedicated to the Associate administrator.
 
 From the login screen, you can log in with the username and password of the user designated as the deputy administrator.
 
@@ -124,13 +124,13 @@ For instructions on how to set up the app assistant administrator, please refer 
 
 <details>
 
-<summary>Do the creators of the app also need to register in the app before they can use the app?</summary>
+<summary><strong>Do I need to sign up for an app I’ve created before I can use it?</strong></summary>
 
-The administrator who created the four apps can also use it by registering for membership in the app and setting it up as an app administrator.
+The administrator who created the app can also sign up for the app and then use it as app admin.
 
-\*The web and app are not interconnected.
-
-After installing the app, be sure to register and use the app even if it is your own.
+\*The web and apps are not interlocked.\
+Once you’ve installed the app, be sure to sign up for the app you’ve created and use the app.\
+In the previous version of 1.0, the administrator who created the app can log in without having to sign up.
 
 </details>
 
@@ -156,13 +156,13 @@ If you do not become a member, there is no concept of withdrawal of membership.
 
 In order to find your password in the app, your username must be specified as \*\*'Email'\*\*.
 
-I can send a temporary password to my subscribed email.
+So you can send a temporary password to your subscribed email.
 
 Launch the app and at the bottom of the login screen, there is a 'Forgot Password' button.
 
 If you select the button, you will receive your temporary password in the email where you have subscribed.
 
-Therefore, if you have set your ID as a regular ID, you will not be able to use the password finder, so please check it and set it to 'ID form-email'.&#x20;
+Therefore, if you have set your ID as a regular ID, you will not be able to use the password finder, so please check it and set it to 'ID form->email'.&#x20;
 
 ☞ [<mark style="color:blue;">\[Go to the detailed manual of finding app password\]</mark>](../manual/appoperation/find-apppassword.md)<mark style="color:blue;"></mark>
 
@@ -186,7 +186,7 @@ When you sign up, you can register the image you want by selecting the top profi
 
 If you want to change your profile image while logged in after signing up,
 
-Please East Sea to the Settings - Edit Member Information menu.
+Please click on the Settings - Edit Member Information menu.
 
 
 
@@ -210,7 +210,7 @@ However, in order to re-register with the same ID, the administrator must delete
 
 [<mark style="color:blue;">Push & Member →</mark>View all members<mark style="color:blue;">→ Select the user who has</mark> ](https://www.swing2app.com/view/member\_list)
 
-1\) withdrawn from the member inquiry list. In the Membership Information window, from the "Cancel and delete account" menu,&#x20;
+1\) Withdrawn from the member inquiry list. In the Membership Information window, from the "Cancel and delete account" menu,&#x20;
 
 2\) Select the Delete Member button.
 
@@ -218,7 +218,7 @@ However, in order to re-register with the same ID, the administrator must delete
 
 ![](../.gitbook/assets/Group-2835.png)
 
-\*Even if the user who has unsubscribed, the information will remain in the app data, so they will not be able to sign up with the same ID.
+\*Even if the user has unsubscribed, the information will remain in the app data, so they will not be able to sign up with the same ID.
 
 Therefore, if you need to re-register with the same ID, you must delete the member ID and all information from the app through the deletion of the member.&#x20;
 
