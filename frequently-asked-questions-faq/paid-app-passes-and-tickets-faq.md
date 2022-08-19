@@ -58,9 +58,9 @@ In addition to the basic subscription, other products can also be changed after 
 
 <details>
 
-<summary>What is a PlayStore upload ticket, an App Store upload ticket?</summary>
+<summary>What is a Play Store upload ticket, an App Store upload ticket?</summary>
 
-**This is an agency fee for registering apps created in Swing-to-App on the Play Store and App Store.**
+**This is an agency fee for registering apps created in Swing2App on the Play Store and App Store.**
 
 If it is difficult to launch in person, please purchase the ticket and apply for upload, and we will launch it on our behalf.
 
@@ -80,7 +80,7 @@ If you need to upload multiple apps, you'll need to purchase an upload ticket fo
 
 <summary>After I buy upload tickets, where do I apply for uploads?</summary>
 
-<mark style="color:blue;">\*Go to the App Operation →Version Management→App Creation History</mark> menu and select the \[Request for Play Store Upload], \[Application for App Store Upload] button.
+<mark style="color:blue;">\*Go to the App Manager page →Version Management→App Creation History</mark> menu and select the \[Request for Play Store Upload], \[Application for App Store Upload] button.
 
 Fill in the application form and complete the upload application.
 
@@ -92,9 +92,9 @@ Please apply for upload after payment, as we will be able to perform the upload 
 
 <summary>What is a Mobile Web Registration Ticket?</summary>
 
-It is a service that allows you to register an app created by Swing-to-App by making it a mobile website.
+It is a service that allows you to register an app created by Swing2App by making it a mobile website.
 
-You can purchase a separate domain, purchase a mobile web registration ticket, request a mobile web registration, and we will East Sea the application you created on the web as it is.
+You can purchase a separate domain, purchase a mobile web registration ticket, request a mobile web registration, and we will upload the application you created on the web as it is.
 
 </details>
 
@@ -110,7 +110,7 @@ The basic subscription does not apply to the mobile web registration application
 
 <details>
 
-<summary>How long do I use the mobile web?</summary>
+<summary>For how long can I use the mobile web?</summary>
 
 The period of use of the mobile web is the same as the period of use of the paid app.
 
@@ -134,7 +134,7 @@ Since you need a domain to connect to a mobile website, you can buy a domain fir
 
 <details>
 
-<summary>If I update the app, do I need to repurchase a store upload ticket?</summary>
+<summary>If I update the app, do I need to re-purchase a store upload ticket?</summary>
 
 If you update your app, you'll need to update it on the launch store as well, so you'll need to buy an upload ticket and reapply for upload.
 
@@ -148,7 +148,7 @@ In addition to app updates, you will also need to purchase an upload ticket to r
 
 <details>
 
-<summary>If I update the app, do I need to repurchase my mobile web registration ticket?</summary>
+<summary>If I update the app, do I need to re-purchase my mobile web registration ticket?</summary>
 
 Yes, you need to purchase a mobile web registration ticket and apply for upload.
 
@@ -184,11 +184,11 @@ You can choose from 2GB to \~100GB of required capacities to purchase.
 
 <details>
 
-<summary>Will the storage supplement be available for 1 month?</summary>
+<summary>Will the storage capacity be available for 1 month?</summary>
 
 Yes, your purchased capacity will be available for 1 month.
 
-If you need another dose after 1 month, you will need to repurchase and use the required capacity.
+If you need another dose after 1 month, you will need to re-purchase and use the required capacity.
 
 </details>
 
@@ -198,7 +198,7 @@ If you need another dose after 1 month, you will need to repurchase and use the 
 
 Capacity add-ons do not add up to capacity.
 
-For example) If you purchase 3 2GB storage products, you will be divided into 1 month of time by adding 2GB of capacity for 1 month, and then adding another 2GB in the following month.
+For example) If you purchase three 2GB storage products, it will be divided into 1 month of time by adding 2GB of capacity for 1 month and then adding another 2GB in the following month.
 
 The combined capacity does not add up to 6 GB, which applies in 1-month increments.
 
@@ -234,7 +234,7 @@ As it is a product with a period of use, please pay according to the time you ne
 
 A product that allows you to send SMS text messages to users of your app.
 
-It is 20,000 won for 1,000 shipments.
+It is $20 for 1,000 shipments.
 
 </details>
 
@@ -242,9 +242,9 @@ It is 20,000 won for 1,000 shipments.
 
 <summary>How do I buy more than 1,000 SMS texts?</summary>
 
-You can check the purchase quantity at checkout to purchase more shipments.
+You can check the purchased quantity at checkout to purchase more shipments.
 
-Example) For two purchases, 2,000 purchases will be made and the cost will be calculated as KRW 40,000.
+Example) For two purchases, 2,000 purchases will be made and the cost will be calculated as $40.
 
 </details>
 
