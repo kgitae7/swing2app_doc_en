@@ -154,6 +154,6 @@ When making corrections, please do the same by going to the app maker page.
 
 You can overwrite existing apps and keep updating.
 
-After saving, press the \[Update button] to re-create the new version.
+After saving, press the \[App Update] button to re-create the new version.
 
 </details>

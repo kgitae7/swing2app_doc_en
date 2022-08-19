@@ -2,13 +2,13 @@
 
 <details>
 
-<summary>Are push shipments unlimited? Is there a limit to the number of people?</summary>
+<summary>Are push messages unlimited? Is there a limit to the number of people?</summary>
 
 Yes, push shipments are unlimited.
 
 Push has **no limit to the number of dispatches and is available to an unlimited number of people.**
 
-In addition, all the features offered by the Swing-to-App are free, so push sending is free, and you can send pushes freely.
+In addition, all the features offered by the Swing2App are free, so push sending is free, and you can send pushes freely.
 
 </details>
 
@@ -62,7 +62,7 @@ If the capacity is exceeded, we will notify you by e-mail or text.
 
 Yes you can.
 
-East Sea to the App Operation Page - Service Management - Resource Management page.
+On the App Manager Page - Service option - Manage storage page.
 
 You can check the post capacity on that page.
 
@@ -94,7 +94,7 @@ You can see what's available in the app, what it's currently using, and what's r
 
 <summary>How do I set up a deputy administrator?</summary>
 
-On the swing app operation page, go to <mark style="color:blue;"></mark> [<mark style="color:blue;">the</mark> Push & Members - View all members <mark style="color:blue;">menu.</mark>](https://www.swing2app.com/view/member\_list)<mark style="color:blue;"></mark>
+On the Swing2App app Manager page, go to <mark style="color:blue;"></mark> [<mark style="color:blue;">the</mark> Push & Members - View all members <mark style="color:blue;">menu.</mark>](https://www.swing2app.com/view/member\_list)<mark style="color:blue;"></mark>
 
 You can select the user you want to set as a deputy administrator and then change the permissions to administrator in the permission group settings
 
@@ -108,13 +108,13 @@ We'll attach a link to the detailed method, so it's easy to understand if you lo
 
 <details>
 
-<summary>I want to add features that SwingTwo doesn't offer, what can I do?</summary>
+<summary>I want to add features that Swing2App doesn't offer, what can I do?</summary>
 
-We are customizing for those who want a service that goes beyond a swing-to-app solution.
+We are customizing for those who want a service that goes beyond a Swing2App solution.
 
-Customization means app development, providing customization in 1:1 customization. You can do this by asking the Swing team.
+Customization means app development, providing customization in 1:1 customization. You can do this by asking the Swing2App team.
 
-If you would like to develop an app or have the features you need, please send your proposal or storyboard help@swing2app.co.kr swing email.
+If you would like to develop an app or have the features you need, please send your proposal or storyboard <mark style="color:blue;">help@swing2app.com</mark> swing2app email.
 
 After confirmation, the development team will guide you through the availability of development, quotations, etc.
 
@@ -126,9 +126,9 @@ After confirmation, the development team will guide you through the availability
 
 This is a problem caused by YouTube not allowing you to embed apps or built-in sites. If you change the YouTube link url to the following format, it will work smoothly:&#x20;
 
-**Example)** <mark style="color:blue;">https://youtu.be/W8Ysr18ZxxU?t=1</mark>
+**Example)** <mark style="color:red;"></mark> <mark style="color:red;"></mark><mark style="color:red;"><mark style="color:blue;">https://youtu.be/W8Ysr18ZxxU?t=1<mark style="color:blue;"></mark>
 
-&#x20;<mark style="color:blue;">→ https://www.youtube.com/embed/W8Ysr18ZxxU?t=1</mark>
+&#x20;<mark style="color:blue;">→</mark> <mark style="color:red;">https://www.youtube.com/embed/W8Ysr18ZxxU?t=1</mark>
 
 If you change the link format a little bit as above, you can watch the video from within the webpage without problems.
 
@@ -136,13 +136,13 @@ If you change the link format a little bit as above, you can watch the video fro
 
 <details>
 
-<summary>Can I apply Admob to my app?</summary>
+<summary>Can I apply AdMob to my app?</summary>
 
-You can set up and operate the Admob plugin directly in your own apps.
+You can set up and operate the AdMob plugin directly in your own apps.
 
-Admob can be set directly by purchasing the \[Google Admob Applied Plugin] product from the Swing Plugin purchase page.
+Admob can be set directly by purchasing the \[Google Admob Applied Plugin] product from the Swing2App Plugin purchase page.
 
-For more information on how to set up an admob, please refer to the manual.&#x20;
+For more information on how to set up an AdMob, please refer to the manual.&#x20;
 
 **☞ **<mark style="color:blue;">**\[Go to Google Admob Setup How-to Help]**</mark>
 
@@ -152,13 +152,13 @@ For more information on how to set up an admob, please refer to the manual.&#x20
 
 <summary>You want your app to be used only by the people you want. (Private app)</summary>
 
-Yes you can.
+Yes, you can make a private app.
 
 Only users who have installed the app can be approved and designated to use the app by the administrator.
 
 First, in \[Service Management - Policy Management], set the app subscription policy - app privacy to 'Private'.
 
-If you set it to private, users who install the app will have to sign up unconditionally. (If you do not register, you will not be able to use the app)
+If you set it to private, users who install the app will need to sign up first. (If you do not register, you will not be able to use the app)
 
 Even if the registration is complete, the administrator must approve the member before he or she can use the app.
 
@@ -178,15 +178,15 @@ Yes you can.
 
 The content text used in the app can be modified and used by the administrator himself, and it can be changed to a foreign language.&#x20;
 
-Go to <mark style="color:blue;">App</mark> <mark style="color:blue;">Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
+Go to <mark style="color:blue;">App</mark> <mark style="color:blue;">Manager page→Services→Manage Text, and you'll see all the phrases and messages displayed and used in your app.</mark>
 
 \-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
 
 \-If you modify only a few phrases, you can search for and find the contents by pressing the \*control + F button.
 
-After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
+After editing the content, please go to the App Maker page and press the \[Update App] button to update to the new version.&#x20;
 
-<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+<mark style="color:blue;">**\[Go to the App text Modification Manual Manual]**</mark>
 
 </details>
 
@@ -196,7 +196,7 @@ After editing the content, please go to App Creation and press the \[Update App]
 
 Yes you can.
 
-If you want to create an app that is available in English, please use it on the Swing-to-App global site. Swing-to-App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
+If you want to create an app that is available in English, please use it on the Swing2App global site. Swing2App Global Site: <mark style="color:blue;">https://www.swing2app.com/</mark>
 
 Global sites are created with the app default language all set to English, so they are automatically set to English without any further changes.
 
@@ -204,7 +204,7 @@ Global sites are created with the app default language all set to English, so th
 
 If you want to change to another foreign language, such as Chinese or Japanese, or if you only want to change a few to English, you can do so in String Management.&#x20;
 
-Go to <mark style="color:blue;">App Operations→Service Management→Manage App Strings, and you'll see all the phrases and messages displayed and used in your app.</mark>
+Go to <mark style="color:blue;">App</mark> <mark style="color:blue;">Manager page→Services→Manage Text, and you'll see all the phrases and messages displayed and used in your app.</mark>
 
 \-If you modify the entire text of the app, please press the \[Download] button to accept it as an Excel file, modify it and register the file again.
 
@@ -212,17 +212,17 @@ Go to <mark style="color:blue;">App Operations→Service Management→Manage App
 
 After editing the content, please go to App Creation and press the \[Update App] button to update to the new version.&#x20;
 
-<mark style="color:blue;">**\[Go to the App String Modification Manual Manual]**</mark>
+<mark style="color:blue;">**\[Go to the App text Modification Manual Manual]**</mark>
 
 </details>
 
 <details>
 
-<summary>Can I amend the App Terms of Use and Privacy Policy?</summary>
+<summary>Can I modify the App Terms of Use and Privacy Policy?</summary>
 
-Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Operations - Service Management - Policy Management - App Subscription Policies page - Terms of Service.</mark>
+Yes you can. The App Terms of Use can be modified in the <mark style="color:blue;">App Manager page - Services - Subscription settings - App Subscription Policies page - Terms of Service.</mark>
 
-For each question, we put the content in the Swing-to-App basic settings, so the content is all entered.
+For each question, we put the content in the Swing2App basic settings, so the content is all entered.
 
 Please check the contents and modify the App Terms of Use to suit the app you created.
 
@@ -236,9 +236,9 @@ After modifying the contents on that page, click the **\[Set Policy]** button to
 
 Write a post - If you choose to write with the **HTML editor**, you can change the style of the text.
 
-When writing in general, writing directly from the app doesn't apply style.
+When writing in general, writing directly from the app doesn't apply the style.
 
-\*\*Swing-to-app homepage web dashboard - **only available for writing with** **HTML editor.**
+\*\*Swing2App homepage dashboard - **only available for writing with** **HTML editor.**
 
 After you create a bulletin board, go to the board where you want to write in the Manage Posts menu.
 
@@ -260,7 +260,7 @@ So when you assign a thumbnail image to your post! Please be sure to register as
 
 (See image)
 
-<mark style="color:red;">\*\* This feature is not available in the app, only on the swing homepage - pc version web, mobile version web.</mark>
+<mark style="color:red;">\*\* This feature is not available in the app, only on the Swing2App homepage - pc version web, mobile version web.</mark>
 
 </details>
 
@@ -280,41 +280,39 @@ At this time, the image designated as the thumbnail will also appear as the repr
 
 <summary>When attaching a bulletin board video, the screen is cut off.</summary>
 
-Usually, when you attach a video to a bulletin board, the video size is automatically adjusted to the horizontal size of the phone. Sometimes a video is cropped and visible, or the aspect X ratio doesn't fit. In this case, you can modify the size and put it in.
+Usually, when a video is attached to a bulletin board, the video size is automatically adjusted to match the width size of the mobile phone.
 
-1\. First, please copy the 'Source Code' when you copy the video link.
+Occasionally, a video may be cut off, or the aspect ratio may not fit properly. In this case, you can modify the size yourself.
 
-2\. And when attaching a video from the bulletin board, please put it as \[embedded code].
+**1. First, when copying the video link, please copy the ‘source code’.**
 
-3\. At this time, you can modify the horizontal and vertical sizes listed in the link and insert them. If you do it at 340px horizontally and 240px vertically, it will fit into your phone's screen. (Nowadays, the size of the mobile phone has increased, so even if it is 380 X 220, it fits well\~)
+**2. And when you attach a video on the bulletin board please put in the embedded code.**
 
-</details>
-
-<details>
-
-<summary>Can't download images attached to the bulletin board?</summary>
-
-You can download and save the image attached to the bulletin board.
-
-Please select an image from the bulletin board post detail view.
-
-Then there's the down button in the top right corner.
-
-You can also select the appropriate button to download the photos you uploaded to the bulletin board to your mobile phone.
+**3. At this point, you can modify the horizontal and vertical size listed on the link. If you set the width to 340px and the height to 240px, it fits into the phone screen(the size of the cell phone grows nowadays, and it fits well with 380X 220).**
 
 </details>
 
 <details>
 
-<summary>Can't I copy a board to another board?</summary>
+<summary>Can I download images attached to the bulletin board?</summary>
+
+You can download and save image attached to the Bulletin Board.
+
+Please attach the image to the bulletin board and select the image from the bulletin board post details. Then there’s the down button in the top right corner. You can also select the button to download photos posted on the bulletin board to your mobile phone.
+
+</details>
+
+<details>
+
+<summary>Can I copy a board to another board?</summary>
 
 The bulletin board can be copied.
 
 The copy board function is set up for each bulletin board, making it easy to copy a board.
 
-\*Swing app operation page - from the \[Post Management] menu - Go to the board you want to copy.
+\*Swing2App Manager page - from the \[Post Management] menu - Go to the board you want to copy.
 
-By pressing the \[Copy Board Board] button at the top of the bulletin board, you can select the target board to be copied.
+By pressing the \[Copy Board] button at the top of the bulletin board, you can select the target board to be copied.
 
 When you copy, all posts on the board are copied to that board.
 
@@ -330,7 +328,7 @@ You can copy and move the written post to another board.
 
 You can select individual posts, or you can select multiple posts at once and copy them to a specific bulletin board.
 
-**1)App Operation Page – In Manage Posts, select the board from which you want to copy the text**
+**1)App mANAGER Page – In Manage Posts, select the board from which you want to copy the text**
 
 **2) Select the 'Listed' view of posts**
 
@@ -364,9 +362,9 @@ After you go to the board where you want to delete the post from the post manage
 
 Yes you can.
 
-App Operation - By using \[Post Down] provided by Post Management, you can download and archive posts written on the bulletin board as Excel files.
+App Manager page - By using \[Post Down] provided by Post Management, you can download and archive posts written on the bulletin board as Excel files.
 
-**→ the app operation page, you can check the \[Post Down] button in the list of posts created → the post management→ board move.**
+**→ the app manager page→ the posts option→ Written posts-> you can check the \[Post Download] button in the list of posts created**&#x20;
 
 However, when the post is down, the image other than the text is not downloaded.
 
@@ -376,9 +374,9 @@ However, when the post is down, the image other than the text is not downloaded.
 
 <summary>Can I completely move a post to another board? (Copy X)</summary>
 
-You can use the Move Posts feature to move posts to other bulletin boards.
+You can use the \[Move the Posts] feature to move posts to other bulletin boards.
 
-Copy a post is the ability to copy a post to another bulletin board, so that the article is retained on an existing board.
+Copy a post is the ability to copy a post to another bulletin board so that the article is retained on an existing board.
 
 Moving a post is the same as the cut function.
 
@@ -386,7 +384,7 @@ When you move a post to a different board, the post on the existing board is del
 
 **How to use Move Posts**
 
-1\) App Operation – Select the board you created in Post Management and move it. (Select the board you want to move the post to)
+1\) App Manager page – Select the board you created in Post Management and move it. (Select the board you want to move the post)
 
 2\) Select \[List]
 
