@@ -1,26 +1,16 @@
-# Page Design - View My Posts Page
+# Page Features - View My Posts
 
-We'll tell you how to use the 'View Interest' provided by the Swing-to-App app.
+**What is View My Writing?**
 
-**View Posts – A bookmark feature that brings together all the posts you 'liked' a post.**
+The View My Posts feature shows you the posts you've written in the app, a page where you can see your list of posts at once.
 
-**When a user presses the 'Like' button, they can see all the posts they have liked on the Mindfulness Board.**
+We will tell you how to use the 'View My Article' provided by the basic function of the page.
 
-Check the manual – how to apply the Attention Writing feature to the app and use it!
+Check out the how-to manual on how to apply the View My Posts feature to your app and how it will look in the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** What is a View Interest?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the My Posts app
 
-**It's a feature that brings together and shows all the posts that the user has pressed the 'like' button on the app post.**
-
-It's a common bookmarking feature.
-
-If any of your posts are from what you want to see again later, or if you want to save them, just press the 'Like' button.
-
-You can see it all in the Watchlist view
-
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** How to apply the Watchlist app
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 
 Move the app creation screen
 
@@ -32,42 +22,59 @@ Move the app creation screen
 
 4\) Select \[Basic Functions] - \[Page] in the page design.
 
-5\) Find the 'View Interest' page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+5\) Find the 'View My Articles' page and select the \[Apply] button.
+
+(Hover the mouse cursor over the page and the Apply button opens)
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
+{% hint style="info" %}
 \*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
+\*Menu icon during the production phase, menu settings are not required.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.png)
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 
-After you do a 'like' check, go to the View Posts Interested, and you'll be able to see all the posts you've just checked on Likes.
+\*If you created your app before 2019.11.30, please recreate your app with the new version first! (Update required)
 
-\*The View Watches bulletin board is displayed in the Timeline UI style.
+In previous versions, I don't see the View My Posts feature. So, after you create a new one, please apply the View My Posts feature on the app creation page.
+{% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png)
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen
 
-If you don't have a 'liked' post, you'll be marked as missing a post.
+Go to the View My Posts menu applied to the app and you'll be able to see all the posts you've written.
 
-Even if the user who clicked "Like" and another user log in, they will not see the favorite post.
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** Instructions
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
 
-1\) In order to use 'View Interesting Articles', you will need to recreate the app and use it in the new version. (Soft update is possible when creating the app)
+You must be logged in as the user who wrote the article. Not available to guests.
 
-\*If you have created or updated your app after 2019.1.7 as of the update, you only need to save it after applying 'View Interest'.
+If you select View My Posts applied to your app, you can see all the posts that the user has written in the app.
 
-2\) The post 'like' check is only available to users who are logged in after registering for membership in the app.
+{% hint style="danger" %}
+<mark style="color:red;">**Instructions**</mark>
 
-Therefore, the view of the article is also available only to the user and not to the guest.
+1\) View My Posts is only available to users who are logged in after registering for membership in the app. (Not available to guests.)
 
-3\) Please check the logged in user account.
+2\) Please check the logged in user account. You must be logged in as the same user to see the list of articles you've written.
 
-The user who likes must be logged in as the same user in order to see the likes list in the Watchlist of Followers.
+3\) View My Posts is not applicable to the app home screen. Applicable to menus only.
 
-4\) Watches view is not applicable to the app – home screen. Applicable to menus only.
+4\) The View My Posts board is displayed in the Timeline UI style. The style (UI) displayed cannot be modified.
 
-5\) The list of 'liked' posts – will be displayed in the order in which the posts were registered and when they were registered.
+5\) If you have created an app before 2019.11.30, an app update is required to use the feature.
+{% endhint %}
+
+***
+
+**Related Articles**
+
+* [페이지기능 – 설문조사](https://wp.swing2app.co.kr/documentation/v3manual/survey/)
+* [페이지기능 – 채팅목록](https://wp.swing2app.co.kr/documentation/v3manual/chat-list/)
+* [페이지기능 – 관리자 채팅](https://wp.swing2app.co.kr/documentation/v3manual/adminchat/)
+* [페이지기능 – 앱소개](https://wp.swing2app.co.kr/documentation/v3manual/intro/)
+* [페이지기능 – 앱공유하기](https://wp.swing2app.co.kr/documentation/v3manual/appshare/)
+* [페이지 기능-쿠폰조회하기](https://wp.swing2app.co.kr/documentation/v3manual/couponview/)
