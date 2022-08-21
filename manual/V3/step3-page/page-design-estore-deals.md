@@ -1,4 +1,4 @@
-# Page Feature - Store Deals
+# Page Design - eStore Deals
 
 **Shopping mall function – how to use the product**
 
