@@ -1,4 +1,4 @@
-# Page Features - View My Posts
+# Page Design - View My Posts Page
 
 **What is View My Writing?**
 
