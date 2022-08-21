@@ -1,4 +1,4 @@
-# Page Feature - Store Page
+# Page Design - eStore Page
 
 **Pages provided by Swing Shop**
 
