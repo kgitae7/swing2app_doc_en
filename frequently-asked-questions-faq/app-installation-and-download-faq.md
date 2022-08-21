@@ -6,7 +6,7 @@
 
 **Swing2App Official App** - You can use the app preview to see which apps you've created.
 
-1\) Please download the official 'Swing to App' app from the App Store and Play Store.
+1\) Please download the official 'Swing2App' app from the App Store and Play Store.
 
 \*If the app is already installed, please update to the latest version.
 
@@ -14,11 +14,11 @@
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [Play store launch link**(URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.n24b9904fe8b52497d87aaa75f795b5f96)
 
-2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing-to-App website subscription account (ID, password).&#x20;
+2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing2App website subscription account (ID, password).&#x20;
 
-**\*Note: To log in, you must enter the account you signed up for in the Swing-to-App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
+**\*Note: To log in, you must enter the account you signed up for in the Swing2App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
 
-**It's not an account signed up for in the official Swing-to-App app\~!**
+**It's not an account signed up for in the official Swing2App app\~!**
 
 3\) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.
 
@@ -40,11 +40,11 @@ The app can also be tested on iPhone.
 
 Here are 2 ways to do it.
 
-**1)When using the free version app - Use the Swing to App app preview**
+**1)When using the free version app - Use the Swing2App App app preview**
 
-Download and install the official \[Swing to App] app from the App Store.
+Download and install the official \[Swing2App] app from the App Store.
 
-Launch the app, select the \[App Preview] menu at the top, log in with your Swing-to-App account - you can preview the app you created as a preview on your iPhone.
+Launch the app, select the \[App Preview] menu at the top, and log in with your Swing2App account - you can preview the app you created as a preview on your iPhone.
 
 \*You can check all the apps you create for free.
 
@@ -54,7 +54,7 @@ Launch the app, select the \[App Preview] menu at the top, log in with your Swin
 
 **2) When using the paid version of the app - register the test version with the user's Apple ID 'test-flight'**
 
-You can test using test-flight provided by the App Store.
+You can test using the test-flight provided by the App Store.
 
 Please purchase a paid app pass, an App Store upload ticket, and apply for an App Store upload.
 
@@ -94,7 +94,7 @@ In addition, you can select and proceed with the protection security message as 
 
 An update message window appears when the app runs, so users can get the update to the latest version.
 
-Currently, when making updates in Swing-to-App AppProduction, administrators can choose 'Recommended', 'Required', and 'Do not show updates' themselves.
+Currently, when making updates in Swing2App App Production, administrators can choose 'Recommended', 'Required', and 'Do not show updates' themselves.
 
 Depending on the option chosen, the contents of the message window will vary, and if 'Required' is selected, the user must update before they can use the app normally.
 
@@ -106,7 +106,7 @@ Only when it is updated will users be able to use the changed content.
 
 <details>
 
-<summary>When I try to register a free version of the app on the Play Store, I get a message that says 'Certificate for Debug' and I can't register.</summary>
+<summary><strong>The apk file received as a free version tries to register on the market (Google, Naver, etc.), so the message ‘Certificate for Debugging’ appears, and it cannot be registered.</strong></summary>
 
 The debug message is the one you get when you try to market a free version of the app.
 
@@ -144,7 +144,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 3\)Select the \[Update App] button on the app creation page (when you create a new app, it will switch to the free version)
 
-4\)Swing-to-App Official App – From App Preview – App Download Progress
+4\)Swing2App Official App – From App Preview – App Download Progress
 
 5\)Launch the free version of the app again and it will run normally.
 
@@ -158,7 +158,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 <details>
 
-<summary>Please tell us how to install the app on your Android phone to share.</summary>
+<summary>Please tell us how to share app on your Android phone.</summary>
 
 App Sharing is a feature that lets you share apps you create for free with each other on your Android phone so that you can pass on your apps to other users.
 
@@ -178,11 +178,11 @@ You can use it by taking the link and installing the app.
 
 <summary>Where can I get a link to install the app?</summary>
 
-Swing-to-app homepage - When you receive an APK file from your app's creation history, you can copy the link address from the download to install the app.
+Swing2App homepage - When you receive an APK file from your app's creation history, you can copy the link address from the download to install the app.
 
 On Android phones, you can download the app directly from the app installation link.
 
-\*The app cannot be installed on iPhone, it is only available on Android phones.
+**\*The app cannot be installed on iPhone, it is only available on Android phones.**
 
 **\*Important\* Progress on PC, Web Browser: Please use Chrome!!**
 
@@ -200,11 +200,11 @@ Swing2App Official App - In addition to using the app preview function, you can 
 
 **How to download and install the app as an APK file is only available on your Android phone. \*iPhone not available**
 
-**1)Swing to App homepage - Use to receive APK files from app production history**
+**1)Swing2App homepage - Use to receive APK files from app production history**
 
 ![](../.gitbook/assets/글로벌설치1.png)
 
-After the app is finished creating, access the Swing-to-App homepage on your mobile, and select the \[Get APK File] button on the app creation history page.
+After the app is finished creating, access the Swing2App homepage on your mobile, and select the \[Get APK File] button on the app creation history page.
 
 If you choose Get APK file, the file download will start and you can install the app directly on your mobile.
 
@@ -248,7 +248,7 @@ The message is also a case in which Google blocked the installation of the app o
 
 If you don't launch the Play Store, Google will recognize it as an unknown path and arbitrarily block the installation, which will result in a case where you can't install it properly.
 
-**Paid apps made with Swing-to-App that are not available on the Play Store have been identified as unauthenticated paths on Android phones and have been blocked from installation.**
+**Paid apps made with Swing2App that are not available on the Play Store have been identified as unauthenticated paths on Android phones and have been blocked from installation.**
 
 Disable Protect security settings in the PlayStore app for easy trouble.
 
@@ -258,7 +258,7 @@ Disable Protect security settings in the PlayStore app for easy trouble.
 
 <details>
 
-<summary>Where can I find out how much apps I have downloaded?</summary>
+<summary>Where can I find out how many apps I have downloaded?</summary>
 
 The free version of the app allows you to check the storage capacity by checking the application information.
 
