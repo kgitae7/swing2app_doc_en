@@ -1,4 +1,4 @@
-# Page Design - Surveys Page
+# Page Features - Surveys
 
 **What is a survey?**
 

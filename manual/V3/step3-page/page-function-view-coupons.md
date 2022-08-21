@@ -1,4 +1,4 @@
-# Page Design - View Coupons Page
+# Page Function - View Coupons
 
 **What is the Coupon View menu?**
 

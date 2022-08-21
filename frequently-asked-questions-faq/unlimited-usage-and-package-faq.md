@@ -38,7 +38,7 @@ We recommend that you purchase unlimited packages that come with upload tickets.
 
 <summary>Is there any cost to use the app in the future when I purchase a webview or push unlimited subscription?</summary>
 
-Since it is an unlimited product, so you can use it for a lifetime when you purchase a subscription.
+Yes, it is an unlimited product, so you can use it for a lifetime when you purchase a subscription.
 
 There are no additional usage fees to be paid.
 
@@ -52,11 +52,11 @@ However, if the app is updated, the app must be updated by the store, so you may
 
 Yes you can.
 
-For example, if you add an iPhone while using \[Push Only Unlimited Android $250]→ you can purchase the \[Push Only Unlimited iPhone $350] product.
+For example, if you add an iPhone while using \[Push Only Unlimited Android 250,000 KRW]→ you can purchase the \[Push Only Unlimited Android 350,000 KRW] product.
 
 If you purchase additional products, they can be used together in an integrated format.
 
-In addition, the App Store upload ticket ( $20) must be purchased separately.
+In addition, the App Store upload ticket (KRW 20,000) must be purchased separately.
 
 (App Store upload launch agency cost)
 
@@ -104,7 +104,7 @@ However, since partial refunds are not possible for the remaining period of use,
 
 <summary>Can I use unlimited integration and change to only one platform for iPhone or Android?</summary>
 
-It is not possible.
+It is not possible to change to that path.
 
 Users can make apps invisible by deleting or unpublishing apps from individually released stores.
 
@@ -156,9 +156,9 @@ After purchasing the product, you can set up Admob ads directly in the app, and 
 
 This is a four-time offer, and if you need an update after the initial registration (launch) of the app, you will need to purchase a store-specific upload ticket and re-apply for the upload.
 
-\-App Store upload ticket: $20
+\-App Store upload ticket: KRW 20,000
 
-\-PlayStore Upload Ticket: $10
+\-PlayStore Upload Ticket: KRW 10,000
 
 \*Play Store does not require you to purchase upload tickets if you do it yourself.
 
@@ -166,7 +166,7 @@ This is a four-time offer, and if you need an update after the initial registrat
 
 <details>
 
-<summary>Why Does other Package offer have a different pass than the Basic Pass?</summary>
+<summary>Does the Courtyard Package offer have a different pass than the Basic Pass?</summary>
 
 The services offered are a little different from the four basic products.
 
@@ -182,11 +182,11 @@ Due to the different services provided, please make sure to check the product de
 
 Packaged goods can only be purchased from apps built from regular prototypes.
 
-\-If you use a small amount of capacity and need a lot of time to use the app: Recommended product of $330 in a budget package
+\-If you use a small amount of capacity and need a lot of time to use the app: Recommended product of 330,000 won in a garden package
 
-\-When using large capacity: Large storage package for a $550 product is recommended
+\-When using large capacity: Large capacity package 550,000 won product is recommended
 
-\-When operating a profitable app with Admob applied: We recommend the AdMob Power Package for $580.
+\-When operating a profitable app with Admob applied: We recommend the Admob Power Package 580,000 won.
 
 For an introduction and detailed information on each product, please refer to the pricing policy below.&#x20;
 

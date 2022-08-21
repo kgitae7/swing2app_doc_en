@@ -1,4 +1,4 @@
-# Page Design - Image Page
+# Page Feature - Image Page
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**What is an image page?**
 

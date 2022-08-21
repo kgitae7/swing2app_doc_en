@@ -1,4 +1,4 @@
-# Page Design - Attendance Check Page
+# Page Function - Attendance Check
 
 **What is an attendance check?**
 

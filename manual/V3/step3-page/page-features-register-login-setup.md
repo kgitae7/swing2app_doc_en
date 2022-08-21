@@ -1,4 +1,4 @@
-# Page Design - Sign Up, login & Settings Page.
+# Page features - Register, login, setup
 
 ***
 

@@ -1,4 +1,4 @@
-# Page Design - View Favorite Page
+# Page features - View Watches
 
 We'll tell you how to use the 'View Interest' provided by the Swing-to-App app.
 

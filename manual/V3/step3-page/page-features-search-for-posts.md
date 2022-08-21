@@ -1,4 +1,4 @@
-# Page Design - Search Posts Page
+# Page Features - Search for Posts
 
 The Swing To App offers a variety of board styles, and users are free to create a board and write a post\~!
 

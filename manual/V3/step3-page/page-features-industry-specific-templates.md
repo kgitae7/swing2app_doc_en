@@ -1,4 +1,4 @@
-# Page Design- Page Templates
+# Page Features-Industry-Specific Templates
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
 

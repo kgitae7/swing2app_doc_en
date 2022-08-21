@@ -134,22 +134,22 @@ As a result, you can continue to receive dividends (commissions) for items that 
 
 <details>
 
-<summary>After the affiliate program approval, how can we promote Swing2App?</summary>
+<summary>The affiliate program has been approved. So how do you promote your swing?</summary>
 
-In the affiliate program applicant's email, we will provide a Swing2App promotion banner image.
+We will provide a swing promotion banner image to the affiliate program applicant's email.
 
-Then you need to place that banner on your site's homepage and enter the URL of the affiliate link.
+The applicant places a banner on a site such as the homepage he or she operates, and enters the URL of the affiliate link.
 
-(Once approved, the applicants will receive a unique URL to the swing2App, and the applicant will receive dividends when your site users will use the provided link to  visit our  site.)
+(Once approved, the applicant's unique URL to the swing will be registered, and the applicant will be able to receive dividends through the influx of other users entering the link.)
 
-In addition to posting banners on your site, you can also share the link with other users.
+In addition to posting banners on your site, you can also share the link with other users with Katok.
 
-SNS – You can use Facebook, Instagram, and other platforms to promote our service.
+SNS – You can use Facebook, Instagram and more to promote yourself.
 
-The more promotion you do, the more people will use the provided link, and accordingly, you'll receive a decided portion of the profit.&#x20;
+The more publicity you do, the more people you come in, so you can promote it in a variety of ways.
 
 **For promotional instructions, please check out the post below.**&#x20;
 
-<mark style="color:blue;">**\[How to promote Swing2App by using the affiliate program]**</mark>
+<mark style="color:blue;">**\[How to promote your swing using affiliate program]**</mark>
 
 </details>

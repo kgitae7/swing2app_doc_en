@@ -1,4 +1,4 @@
-# Page Design - Share Your App Function
+# Page features - Sharing apps
 
 **What is app sharing?**
 

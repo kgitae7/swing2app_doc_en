@@ -1,4 +1,4 @@
-# Page Design - Admin Chat Page
+# Page Feature - Admin Chat
 
 **How to use the 1:1 chat between managers and app members \[Manager Chat]**
 

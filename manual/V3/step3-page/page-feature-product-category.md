@@ -1,4 +1,4 @@
-# Page Design - Product Category
+# Page Feature - Product Category
 
 **How to use the product category**
 

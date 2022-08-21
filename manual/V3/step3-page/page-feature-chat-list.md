@@ -1,4 +1,4 @@
-# Page Design - Chat List Page
+# Page feature - Chat List
 
 **1:1 Chat – Chat List How-to Manual**
 

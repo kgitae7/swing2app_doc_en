@@ -18,7 +18,7 @@ You can easily apply for a shopping mall, and you can use the mall service for f
 
 ◆ The swing shop can also be modified and updated by the user from time to time and provides all the necessary tools for operation.
 
-◆ Functions provided by Swing2App – Marketing uses such as pushes, pop-ups, etc. are all available.
+◆ Functions provided by Swing – Marketing uses such as pushes, pop-ups, etc. are all available.
 
 </details>
 
@@ -26,11 +26,11 @@ You can easily apply for a shopping mall, and you can use the mall service for f
 
 <summary>How do I apply for a swing shop?</summary>
 
-You can apply for the swing shopping mall **Swing Homepage Manager – My Menu – Swing Store menu.**
+You can apply for the swing shopping mall → the menu → the \*\*App Operation Page at 'Shopping Mall (Payment System) Application'\*\*.
 
-**Enter the store name and email address of the person in charge and select the Activate button.**
+The shopping mall service \[payment module] is applied by selecting to use/not use.
 
-**As soon as the application is completed, the \[Swing Shop] menu is created on the app operation page.**
+Please check 'unused' at first and use the swing shop.
 
 When the app is finished and the app is commercialized, you can purchase a paid app subscription and change it to 'Use'.
 
@@ -44,7 +44,7 @@ Swing shop applications do not have a separate examination or approval, so you c
 
 <summary>How do I register my product after applying for the Swing Shop?</summary>
 
-When a swing shop is applied, a swing shop menu is created on the app manager page.
+When a swing shop is applied, a swing shop menu is created on the app operation page.
 
 From the swing shop menu, you can go into Product Management and register the product after registering the category.
 
@@ -70,7 +70,7 @@ The method depends on which product you want to register, so please look at the 
 
 <summary>Where can I apply for the Swing Mall?</summary>
 
-Swing shopping mall can be applied on the app manager page > **My Menu – Swing Store menu.** The shopping mall service-payment module is applied by selecting **Activate/Deactivate option.**&#x20;
+Swing shopping mall can be applied for on the app operation page > the internal menu> 'Shopping mall (payment system) application'. The shopping mall service-payment module is applied by selecting Enabled/Unused.&#x20;
 
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to apply for shopping mall service\]**</mark>](https://www.swing2app.com/view/swing\_shop\_apply)<mark style="color:blue;">****</mark>
 
@@ -142,9 +142,7 @@ In accordance with the App Store and Play Store payment policies, if the app sel
 
 (Even if you can sign up for the Pay App, the Store won't allow it.)
 
-Therefore, if you plan to launch an app that applies digital products, you should not apply an electronic payment system such as a pay app, but rather develop and apply the in-app payment module provided by Apple and Google separately to your app.&#x20;
-
-\-Please use the inquiry board ([<mark style="color:blue;">http://www.swing2app.co.kr/view/service\_qa</mark>](https://www.swing2app.com/view/service\_qa)) for in-app consultation, and live chat during business hours.
+Therefore, if you plan to launch an app that applies digital products, you should not apply an electronic payment system such as a pay app, but rather develop and apply the in-app payment module provided by Apple and Google separately to your app. -Please use the inquiry board (http://www.swing2app.co.kr/view/service\_qa) for in-app consultation, and live chat during business hours.
 
 \- In-app requires development work, and development costs vary depending on the volume inside the app. Cost guidance is available after the consultation.
 

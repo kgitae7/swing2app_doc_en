@@ -24,80 +24,78 @@ Simple features or custom features that have already been provided by Swing2App 
 
 <details>
 
-<summary>How do get a customized consultation and quote?</summary>
+<summary>How do I get a customized consultation and quote?</summary>
 
-The customization consultation can be discussed by sending the plan, storyboard, etc. for app development by swing2app email.
+Customized consultation is possible only by sending the proposal, storyboard, etc. about the app development to the Swing2App email first.
 
-The entire app development and complex development is difficult to consult by phone or katok.
+You must have a specific app production plan so that after confirming the contents, a development engineer can assist you with the consultation. \*Please prepare an app production proposal, storyboard, etc. and send it to the Swing2App email address help@swing2app.co.kr .
 
-\*Please prepare an app creation plan, storyboard, etc. and send it to [help@swing2app.com](https://support.swing2app.com/custormizing/?preview\_id=4445\&preview\_nonce=82585d04da&\_thumbnail\_id=-1\&preview=true) with your swing2app email address. (Contact us with your contact information)
-
-If you send an email, the custom development engineer will check the contents and will provide you with a list of development options, development period, and development cost estimates
+If you e-mail, the custom development engineer will check the contents and guide you through whether development is possible, the development period, the development cost estimate, etc., and we will assist you with the consultation.
 
 </details>
 
 <details>
 
-<summary>What is the approximate cost of customization?</summary>
+<summary>Don't know the approximate cost of customization?</summary>
 
-Swing2App custom is not price constrained, so there is no cost.
+Custom is not a price reconnaissance system.
 
-And because it’s a 1:1 development work that reflects the user’s custom content, there are no development estimates.
+And since it's a 1:1 development that reflects the user's custom content, there is no development estimate.
 
-Estimates can range from a few hundred dollars to a few thousand dollars depending on the content of the production, so there is no custom cost.
+Estimates vary in amount from a few hundred thousand won to a few thousand won depending on the content of the production, so there is no custom set cost.
 
-Therefore, please note that we only provide customized quotes through consultation.
-
-</details>
-
-<details>
-
-<summary>Can you customize the app the same as per user request?</summary>
-
-Yes, we can customize your app as per your requirement. Please tell us the name of the app you want to benchmark and we’ll be happy to guide you.
-
-We can check the app and see if the same app development is possible, accordingly our engineer will guide you.
-
-For apps with simple design and production methods, engineers can check and guide you with custom costs.
-
-**However, for apps that have a lot of internal development sources besides the content and complexity of the app, it may be difficult to calculate the exact development cost.**
-
-(The internal development source of a particular app cannot be verified only by looking at the app, and it can only be verified until the actual development is made.)
-
-\*And make it clear whether you want the design and the configuration forms to be the same, if only the shapes are similar, or if you want to put only a specific menu on both.
-
-You can send your email to [help@swing2app.com](https://support.swing2app.com/custormizing/?preview\_id=4445\&preview\_nonce=82585d04da&\_thumbnail\_id=-1\&preview=true) and give us your custom inquiry, but please let us know the exact app development request.
+Therefore, we will only guide you through consultation to guide you through a customized quote.
 
 </details>
 
 <details>
 
-<summary>Is there an additional cost if I add the same customized content to another app?</summary>
+<summary>Is the app the same as a specific app?</summary>
 
-If you add it to another app with the same content after customizing it, you will be charged $100 for the license.
+Sometimes you show us an app on the market and ask if you want to make it the same as this app.
 
-The reason for the additional cost of applying it to other apps with the same content is that it is not a development fee, but a license fee.
+We can check the app and see if the same app development is possible, and the engineer will be able to guide you.
 
-License fees are essential policies to prevent indiscriminate use of custom programs.
+For apps that have a simple design and build methodology, an engineer can check in and guide you through the cost of your customizations.
 
-The cost of customizing development is based on one app and will receive an additional license fee when you expand.
+However, **\*\*In the case of an app that has a lot of development sources internally in addition to the content that is complicated and shown, it can be difficult to estimate the exact development cost.**
 
-Therefore, please note that there is an additional cost of $100 for the license copy.
+(This is because the internal development source of a particular app cannot be verified by looking at the app alone, and only when the actual development is in.)
+
+\*\* And you need to make it clear that you want to make the design and composition the same, if you want to make the shapes similar, or if you want to keep certain menus the same.
+
+You can give us the name of your app and give us a custom inquiry, but please let us know the exact app development request.
 
 </details>
 
 <details>
 
-<summary>How to handle a customization failure?</summary>
+<summary>Is there an additional cost if I add the same content to another app after customization?</summary>
 
-If there are any errors or failures in the application of customization, it will be dealt with immediately.
+If you add the same content to another app after the customization operation, the license fee of KRW 100,000 will be added.
 
-However, we cannot continue to monitor users’ apps in the swing2app.
+The reason why applying the same content back to another app adds to the cost is that you are charged a licensing fee, not a development fee.
 
-Therefore, if users who have been customized have problems using the app, they will need to contact our customer service or contact us via email to confirm and process it.
+License fees are a necessary policy to prevent indiscriminate use of customization programs.
 
-We will of course handle the failures and maintenance incurred by customization at no additional cost.
+The target of the custom development fee is based on 1 app, and you will receive an additional license fee when you scale.
 
-\*We can’t handle any errors that occurred outside of us other than failures of errors like  (swing2app, and custom content) and the developer will notify you after confirmation.
+Therefore, please keep in mind that the license copy fee will incur an additional cost of 100,000 won.
+
+</details>
+
+<details>
+
+<summary>How do I handle a customization failure?</summary>
+
+If any errors or failures occur in the customized content, we will take immediate action and deal with them.
+
+However, we can't monitor users' apps on the swing and keep them in control.
+
+Therefore, if customized users have any problems using the app, they must contact our customer service center or contact us via e-mail so that we can confirm and deal with them.
+
+Failure handling and maintenance caused by customization is of course handled by us at no additional cost.
+
+\*Errors that occur outside of us (swing app, customization content) that are not failures or errors cannot be handled by us, and the contents will be confirmed and guided by the developer.
 
 </details>

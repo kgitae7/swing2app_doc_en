@@ -4,13 +4,13 @@
 
 <summary>Design Theme – Can a prototype only select one UI style?</summary>
 
-Yes.
+Yes yes.
 
-Design Themes Offered by Swing2App – Prototypes can only be used in one style of choice.
+Design Themes Offered by Swing – Prototypes can only be used in one style of choice.
 
 This prevents you from using a combination of styles.
 
-Sometimes there's a UI style that combines slides + header.
+Sometimes there's a UI style that combines slides + towers.
 
 If you use this mix of styles, this is an app that has been developed separately through customization. Various styles can be applied through customization.
 
@@ -32,13 +32,13 @@ If the app name exceeds 10 characters, please make the app name less than 10 cha
 
 <details>
 
-<summary>I want to put full image on the app home screen, but is there any optimized size guide?</summary>
+<summary>I want to put an image full on the app home screen, but is there an optimized size?</summary>
 
-Images that go into the app don't have any specific recommended size.
+Images that go into the app don't have the recommended size.
 
 **Because the standard sizes of mobile phones are all different, it is not possible to know the same image size for all models.**
 
-In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone screen.
+In the case of images, it is a form of scaling the vertical to fit the horizontal length of the phone's LCD screen.
 
 **Please adjust the recommended size to 1080px wide and 1980-2200px vertical based on mobile screen resolution.**
 
@@ -56,23 +56,23 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 <summary>I can't delete the app.</summary>
 
-Uninstalling an app is only possible if you have at least 2 apps created in your account.
+Uninstalling an app is only possible if you have at least 2 apps.
 
 If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;"></mark> [<mark style="color:blue;">\[Manage Apps\]</mark>](https://www.swing2app.com/view/app\_stat) <mark style="color:blue;"></mark> page.
 
-\*Please note that paid users should not want the app to be uninstalled until the end of the paid period.
+\*Please note that paid users do not want the app to be uninstalled until the end of the paid period.
 
 </details>
 
 <details>
 
-<summary>The icon image is cropped and not properly visible.</summary>
+<summary>The icon image is cropped from the phone and visible.</summary>
 
 When creating an icon image, you need to put a background color and a center image in the background.
 
 Make sure that the center image is not too large.
 
-**\*Important\*** Background color is not transparent but must be colored.
+\*Important\* Background color is not transparent, but must be colored.
 
 When installed on your phone, the app icon will be rounded to make it visible.
 
@@ -82,7 +82,7 @@ When installed on your phone, the app icon will be rounded to make it visible.
 
 Therefore, if you work with the center image too large, it will be rounded and all the corners will be cut off.
 
-Please design an icon image accordingly.
+Please design with that in mind.
 
 The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
 
@@ -100,7 +100,7 @@ For each type of mobile phone, the waiting screen is displayed in different Inte
 
 It should look as short as 1 to 3 seconds.
 
-Due to the mobile app policy, the standby screen is a mandatory item, so when you create a Swing2App app, you must also register an image to be displayed on the standby screen.
+Due to the mobile app policy, the standby screen is a mandatory item, so when you create a swing-to-app app, you must also register an image to be displayed on the standby screen.
 
 Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
 
@@ -112,7 +112,7 @@ Guidelines on how to create a standby screen can be found in detail in the manua
 
 <summary>I worked on the standby screen image to the recommended size, but the image was cropped on my phone and I can see it.</summary>
 
-**The recommended size for standby screen images is the official recommended size for all models because the phone screen is different for each mobile phone model. (2282\*2282)**
+**The recommended size for standby screen images is the official recommended size for all models because the LCD screen is different for each mobile phone model. (2282\*2282)**
 
 However, since the liquid crystals are square, tablet screens, etc. are all different sizes, when you create an image, you need to make sure that the main image does not fill up the wallpaper.
 
@@ -138,7 +138,7 @@ Therefore, please make a standby screen by checking the guidelines - how to make
 
 <summary>Are there any restrictions on app updates?</summary>
 
-No, there are no restrictions. You can update your app unlimited times.
+Yes, you can use it without restrictions.
 
 After you create the app, modify and update it, you are free to use it.
 
@@ -148,12 +148,12 @@ After you create the app, modify and update it, you are free to use it.
 
 <summary>Where do I make modifications (updates) after app creation?</summary>
 
-The Swing2App does not have an app modification (update) task page.
+The Swing-to-App does not have an app modification (update) task page.
 
-When making corrections, please do the same by going to the app maker page.
+When making corrections, please do the same by going to the app creation page.
 
 You can overwrite existing apps and keep updating.
 
-After saving, press the \[App Update] button to re-create the new version.
+After saving, press the Update button to re-create the new version.
 
 </details>
