@@ -31,13 +31,13 @@ The product category page is available in the app creation STEP3 page step - eSt
 7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
-\*페이지 적용 후에 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*Menu icon during the production phase, menu settings are not required.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
@@ -46,7 +46,7 @@ The product category page is available in the app creation STEP3 page step - eSt
 
 **After applying for the swing shop,**
 
-You can register a product category in the app operation → Swing Shop - Product Management → Product Category Registration Management.
+App Manager page → Go to \[Shop] option - Click on \[Products] option → You can register the product category in the product category option.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
 
