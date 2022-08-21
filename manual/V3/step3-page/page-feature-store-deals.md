@@ -1,6 +1,6 @@
-# Page Design - eStore Deals
+# Page Feature - Store Deals
 
-**eStore function – how to use the product**
+**Shopping mall function – how to use the product**
 
 It is a menu that is only available to those who use the swing shop (shopping mall), and you can apply the registered products to the app.
 
@@ -8,23 +8,23 @@ Please check how to apply the product page to the app and the app launch screen 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply products to the app
 
-The product page is available in the app creation STEP3 page step - eStore function.
+The product page is available in the app creation STEP3 page step - shopping mall function.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1.png)
 
-1\)Go to STEP3 Page&#x20;
+1\)STEP3 Page Selection
 
-2\)Select Menu or Create a new menu. Click on the \[+] button to add a new menu.
+2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
 
 3\) Enter a menu name.
 
-4\) Select \[eStore] feature from the page design option
+4\) Select \[Shopping Mall Features] from the page design
 
-5\) Please select \[Product] option.
+5\) Please select \[Product].
 
 <mark style="color:red;">\*Please register your product in the swing shop first. If the product doesn't exist, it can't be applied to the app.</mark>
 
-6\) After previewing the product to be applied, click on the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+6\) After confirming the product to be applied, select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
@@ -38,31 +38,31 @@ The product page is available in the app creation STEP3 page step - eStore funct
 In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Where can I register my products?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register my products?
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3-1.png)
 
 **After applying for the swing shop,**
 
-App Manager page → Go to \[Shop] option - Click on \[Products] option → You can register products in the product item registration option.
+App Operation → Swing Shop - Product Management → You can register products from the product registration screen.
 
 Products can be registered by selecting physical, digital, and reservation systems by type.
 
-**To modify a registered product:**
+**If you modify a registered product,**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951-1.png)
 
-1\) Shop - In \[Product] Management Selection
+1\) Swing Shop - Product Management Selection
 
-2\) Select \[Product List] from the left menu.
+2\) Select \[Product Lookup] from the left menu.
 
 3\) Select the product name you want to edit from the product inquiry list.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%952-1.png)
 
-You will be taken to the Edit Product Item Registration screen.
+You will be taken to the Edit Product Registration screen.
 
-The product item registration screen and the edit screen work on the same page.
+The product registration screen and the edit screen work on the same page.
 
 It becomes the registration screen when registering a new product, and switches to the edit screen when modifying an already registered product.
 

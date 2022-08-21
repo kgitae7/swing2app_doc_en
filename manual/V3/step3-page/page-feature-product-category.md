@@ -1,28 +1,28 @@
-# Page Feature - Product Category
+# Page Design - Product Category
 
 **How to use the product category**
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+It is a menu that is only available to those who use the swing shop (eStore), and it is a page where all the products registered in a particular category are shown.
 
 Please see how to apply the product category to the app and the app launch screen with the page applied.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply product categories to your app
 
-The product category page is available in the app creation STEP3 page step - shopping mall function.
+The product category page is available in the app creation STEP3 page step - eStore function.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
 
-1\)STEP3 Page Selection
+1\)Go to the STEP3 Page Selection
 
-2\)Select Menu – Create a new menu. (+ Select the shape button to add a menu)
+2\)Select Menu or Create a new menu. Click on the \[+] button to add a new menu.
 
 3\) The menu name does not need to be changed.
 
 \*Since the category name appears to be the menu name, even if you enter a name, it will not be reflected in the app menu name.
 
-4\) Select \[Shopping Mall Features] from the page design
+4\) Select \[eStore] feature from the page design option.
 
-5\) Please select \[Product Category].
+5\) Please select the \[Product Category] option.
 
 \*Categories must be created in advance when registering for Swing Shop products. If there is no product category, it will not be applicable.
 
