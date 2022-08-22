@@ -1,6 +1,6 @@
-# Page features - View Watches
+# Page Design - View Favorite Page
 
-We'll tell you how to use the 'View Interest' provided by the Swing-to-App app.
+We'll tell you how to use the 'View Interest' provided by Swing2App.
 
 **View Posts – A bookmark feature that brings together all the posts you 'liked' a post.**
 
