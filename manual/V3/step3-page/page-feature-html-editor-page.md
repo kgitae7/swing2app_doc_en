@@ -1,8 +1,8 @@
-# Page Feature - HTML Editor Page
+# Page Design - HTML Editor
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **What is an HTML Editor Page?**
 
-One of the features provided by the Swing-to-App user page is a menu that allows users to create their own web pages.
+One of the features provided by the Swing2App user page is a menu that allows users to create their own web pages.
 
 Just like typing a post on a blog or café, you are free to place and create articles and images.
 
@@ -10,7 +10,7 @@ You can apply a variety of web links, videos, text effects, and more.
 
 The main feature is that the user is free to create whatever style they want.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Editor Page Specials**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Editor Page Styles:**
 
 HTML editor pages can be created in any style you want.
 
@@ -30,11 +30,11 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)app launch screen) Apply HTML Editor Page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Apply HTML Editor Page (app launch screen)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_07\_17\_17\_31\_06\_778.gif)
 
-It's an HTML editor page applied to the official Swing-to-App app.
+It's an HTML editor page applied to the official Swing2App app.
 
 We'll refer to the editor page above to make the production the same style.
 
