@@ -373,16 +373,9 @@ Go to the MakerV3 screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
 
-**The same modifications can be made by going to the App Creation Maker – Image page \[Modify] and covering it over the page you created.**
+Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on \[More] button-> Click on \[Update] button.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
 
-When you hover the mouse cursor over the image page, there is an Manage button.
-
-Select the \[Manage] button and then select the \[Modify] button →.
-
-Go to the Image Page Authoring Tool screen.
-
 Modifying the image page doesn't mean you have a separate page.
 
-You can update it by going in the same way as the creation page, overwriting it on top of the existing page and making corrections.
