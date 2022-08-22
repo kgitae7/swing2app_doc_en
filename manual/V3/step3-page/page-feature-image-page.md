@@ -379,3 +379,5 @@ Modifying a template is the same as going to the App MakerV3 – Select \[Page T
 
 Modifying the image page doesn't mean you have a separate page.
 
+You'll get redirected to the Template editor page-> Modify your old template easily.
+
