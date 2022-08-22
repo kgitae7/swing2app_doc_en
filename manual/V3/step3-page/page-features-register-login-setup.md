@@ -1,30 +1,30 @@
-# Page Design - Sign Up, login & Settings Page.
+# Page features - Register, login, setup
 
 ***
 
-**Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by Swing2App.**
+**Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by the Swing-to-App app.**
 
-Sign up, log in, and setting pages are some of the most common app features.
+Sign up, sign in, and set up are some of the most common app features.
 
-In addition to these functions, you can select a variety of functions from the swing page design and apply them to your app.
+In addition to these functions, you can select a variety of functions from the swing page and apply them to your app.
 
-We'll show you how to apply the sign-up, login, and settings pages provided by the swing page design to the app and the app launch screen.
+We'll show you how to apply the sign-up, login, and settings pages provided by the swing page to the app and the app launch screen.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1. Basic Feature->** Page: Sign up
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1.** Swing Page: Registration
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
 
-Go to the MakerV3 screen.&#x20;
+Move the app creation screen
 
-1\)Go to the STEP3 page&#x20;
+1\)STEP3 Go to the page step.
 
-2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature] - \[Page] in the page design option.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-5\) Find the Signup page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+5\) Find the registration page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
@@ -38,33 +38,33 @@ Go to the MakerV3 screen.&#x20;
 
 This is the app launch screen with the registration function applied.
 
-\*\*Basic Settings Items of Sign up- ID, Password, Password Confirmation, Name (Nickname)\*\* if you do not modify anything.
+Registration will be marked as \*\*Basic Settings Items- ID, Password, Password Confirmation, Name (Nickname)\*\* if you do not modify anything.
 
 The items on the registration form can be modified by the operator himself.
 
-\*App Manager page → services option → Subscription settings option → modify the information in the membership form.
+\*App operation → service management → policy management → modification in the registration form
 
-You can find out more about how to set up the membership form by checking the manual link below.
+You can find out more about how to set up the registration form by checking the manual link below.
 
-**☞**<mark style="color:blue;">**Setting up the membership form**</mark>
+**☞**<mark style="color:blue;">**Setting up the registration form**</mark>
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2. Basic Feature->** Page: Login
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2.** Swing Page: Login
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
-Go to the MakerV3 screen.&#x20;
+Move the app creation screen
 
-1\)Go to the STEP3 page&#x20;
+1\)STEP3 Go to the page step.
 
-2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature] - \[Page] in the page design option.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-5\) Find the Login page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+5\) Find the login page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
@@ -72,11 +72,11 @@ Go to the MakerV3 screen.&#x20;
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-**▶ App launch screen) Login**
+**▶ App launchscreen) Login**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
 
-The app launch screen with the sign-up feature applied.
+The app launch screen with the sign-in feature applied.
 
 The ID and password entry screen will be displayed.
 
@@ -92,21 +92,21 @@ After registering and completing the login, the login listed in the menu name wi
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3. Basic Feature->** Page: Settings
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3.** Swing Page: Settings
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EC%A0%95.png)
 
-Go to the MakerV3 screen.&#x20;
+Move the app creation screen
 
-1\)Go to the STEP3 page&#x20;
+1\)STEP3 Go to the page step.
 
-2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature] - \[Page] in the page design option.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
-5\) Find the Settings page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+5\) Find the settings page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
@@ -114,23 +114,23 @@ Go to the MakerV3 screen.&#x20;
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-**▶App launch screen) Settings**
+**▶App launchscreen) Settings**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
 
-The app launch screen with the settings features applied.
+The app launch screen with the settings feature applied.
 
-Settings include both Signup and Login options.
+Settings include both registration and login.
 
-So it's okay not to use the sign-up or log-in functions in the menu, just apply the settings to the app.
+So it's okay not to use the sign-up or login functions, just apply the settings to the app.
 
-In addition to these features, we also provide **push-notification settings, notification list checking, app sharing, app version check, and admin login.**
+In addition to these features\*notifications, we also provide notification-push settings, notification list checking, app sharing, app version check, admin login, and app shutdown.
 
 Therefore, when creating an app, we recommend that you apply the setting function to the app and create it!
 
-Administrator login is a feature that allows you to log in as an administrator and operate the app.
+Administrator login is a feature that allows you to log in as an administrator and operate in the app.
 
 You can check the details of how to use the function by checking the manual link below.
 
@@ -139,7 +139,7 @@ You can check the details of how to use the function by checking the manual link
 {% hint style="warning" %}
 **\*Important Information**
 
-1\)Membership signup, login, and settings provided on the swing page are not applicable to the home screen.
+1\)Membership registration, login, and settings provided on the swing page are not applicable to the home screen.
 
 It is only applicable to app menus (categories), so please use it only as a menu.
 
@@ -147,7 +147,7 @@ It is only applicable to app menus (categories), so please use it only as a menu
 
 Or use the 'Settings' menu that comes with the registration and login menu.
 
-3\) The membership registration form can be modified on the [<mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark>](https://www.swing2app.com/view/app\_policy) of the \[Subscription Settings] page, and when the ID form is modified, it is reflected on the login screen.
+3\) The membership registration form can be modified in the <mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark> of the \[Registration Form Settings] page, and when the ID form is modified, it is reflected on the login screen.
 
 4\)Since the settings page is provided with a fixed content UX, the item cannot be modified like registering.
 

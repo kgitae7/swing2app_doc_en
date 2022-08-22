@@ -1,10 +1,10 @@
-# Page Features - Search for Posts
+# Page Design - Search Posts Page
 
-The Swing To App offers a variety of board styles, and users are free to create a board and write a post\~!
+The Swing2App offers a variety of board styles, and users are free to create a board and write a post\~!
 
 The post search function, which finds the search terms you want, can also be useful.
 
-The Swing-to-App offers 2 different post search functions.
+The Swing2App offers 2 different types of search post functions.
 
 **1. Integrated board search: Filter search terms across all boards applied to your app.**
 
