@@ -116,31 +116,31 @@ The \*\[Default] button is a button that reverts back to the template style that
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
 
-\-The page name at the top is the page name displayed in the app, so please modify it and use it.
+\-The **page name** at the top is the page name that will be displayed in the app, so please modify it accordingly.
 
-\- Modification of anything that goes into the area is of course possible.
+\- ​Each area of ​​the page is designed to be editable
 
-\-Text: Both the text size and color can be specified, and the title area is provided to adjust the margins.
+\-**Text**: Both the text size and color can be specified, and the title area is provided to adjust the margins.
 
-\- Both adding and deleting buttons are possible.
+\- Both adding and deleting template buttons are possible.
 
-\- You can link to the page you want using \[Link Wizard] in each area,
+\- You can link pages by using the **\[Link Wizard]** feature.
 
-\- If you don't need the entry, check 'Deactivate' in Enable or Not, and the area will be deleted from the template.
+\-**Menu tab**: If you don't want the header area in your template, check the 'Disable' button to Deactivate it.&#x20;
 
-There's no other simple app creation like this, because you just have to modify it on top of a template that's already fully tooled, right?^^
+\*Note: The area will be deleted from the template, you can get back it by clicking on the 'Enable' option.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%841.png)
 
 **\*\*\*\* Create a different style template page**
 
-5\) The templates in different styles are the same, when you select a page, it will appear on the screen.
+5\) The templates in different styles follow the same process of modification. When you select a page, it will appear on the screen.
 
-If you look at the right, you can modify and apply them one by one in the areas that can be modified.
+If you look at the settings provided on the, you can modify and apply them one by one in the areas that can be modified.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
 
-**6) Even when you attach an image, you can register the desired image by pressing the image button.**
+**6) To attach an image, you can register the desired image by pressing the image button.**
 
 Each template has an image size that lists the images. It's good if you fit the image according to the size.
 
@@ -150,15 +150,15 @@ Here you can register by adjusting it to the size of the image.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
 
-**7) The Link Wizard refers to the links that can be applied to each banner (button).**
+**7) The Link Wizard refers to the feature, by which links can be applied to each banner (button).**
 
-If you select the \[Link Wizard] button, you can select the page (link) you want to link with as shown in the image above.
+If you select the **\[Link Wizard]** button, you can select the page, feature, or link that you want to link with as shown in the image above.
 
-In addition to the regular website web links, the Swing-to-App app can integrate all the features used within the app.
+In addition to the regular website web links, the Swing2App app can integrate all the features used within the app.
 
 **8) When all the work is done, be sure to press the \[Save] button.**
 
-You need to press Save to save the page perfectly!!
+You need to press the \[Save] button to save the page perfectly!!
 
 Items are reflected on the page as soon as they are modified.
 
@@ -166,29 +166,31 @@ When all is done, press the \[Save] button and the page is finished saving as yo
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page to app
 
 ![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
 
-Applying it to the template page app
 
-Move the app creation screen
 
-1\)STEP3 Go to the page step.
+On the App MakerV3 screen
 
-2\)Home Screen – Select HOME
+1\)Go to the STEP3 page.
+
+2\)Home Screen –> Select HOME
 
 3\)Enter the menu name (the name that will be shown at the top of the home screen)
 
-4\)Select \[Industry-specific template] from the page design.
+4\)Select \[Page template] from the page design.
 
 5\)Select the 'Refresh' button on the right to see the template you have created.
 
-6\) Select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+6\) Click on the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
-\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen. You can also apply a template page to a menu.
+<mark style="color:red;">\*I have selected the home screen and applied the template page, but I can apply it to the menu in addition to the home screen?</mark>
+
+You can also apply a template page to a menu.
 
 \*Select the Preview button to see how the page will look with a web preview (virtual machine).
 
@@ -196,7 +198,7 @@ Move the app creation screen
 
 \*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
 
-**\*\*\*\* App launchscreen) Template Page EffectScreen**
+**\*\*\*\* App launch** <mark style="color:red;"></mark> **screen) Template Page**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 
@@ -204,16 +206,10 @@ Move the app creation screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
 
-Modifying a template is the same as going to the App Creation Maker – Industry-Specific Templates page \[Modify] and overwriting it on top of the page you created.
+Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on \[More] button-> Click on \[Update] button.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
 
-​When you hover your mouse cursor over the template page, there is an Manage button.
-
-**Select the \[Manage] button and then select the \[Modify] button →.**
-
-Go to the Web Template Page Authoring Tool screen.
-
 Template modifications don't have a separate page.
 
-You can update it by entering the same as the creation page, overwriting it on top of an existing page and making modifications.
+You'll get redirected to the Template editor page-> Modify your old template easily.

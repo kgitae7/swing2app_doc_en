@@ -4,9 +4,7 @@
 
 <summary>App Store – How do I create an Apple developer account?</summary>
 
-I'll post a link to how to create an Apple developer account.
-
-Please check the link.&#x20;
+Kindly check the below-mentioned link to know how to create an Apple developer account.
 
 **☞ **<mark style="color:blue;">**See how to create an Apple developer account**</mark>
 
@@ -16,27 +14,27 @@ Please check the link.&#x20;
 
 <summary>How much does it cost to register an Apple developer account?</summary>
 
-The 1-year subscription to the Apple developer account costs KRW 129,000.
+The 1-year subscription to the Apple developer account costs 99 USD.
 
-An Apple developer account costs 1 year and must be renewed every 1 year.
+An Apple developer account must be renewed every 1 year.
 
-If you can't pay before the expiration of the subscription period, the app will be dropped from the App Store.
+If you don't pay before the expiration of the subscription period, the app will be removed from the App Store.
 
-(Apps that have gone down can be re-registered after paying the fee)
+(Apps that have been removed can be re-registered after paying the fee)
 
 </details>
 
 <details>
 
-<summary>Can the App Store register on behalf of a swing-to-app account?</summary>
+<summary>Can the Swing2App team register my app on the App Store on my behalf?</summary>
 
-Yes you can.
+Yes, we can.
 
-If it's difficult for users to create their own Apple developer account, or if the developer is incurred, they can launch your app to the App Store with a swing-to-app account.
+If it's difficult for users to create their own Apple developer account, or if there is some other issue, users can launch their app to the App Store with a Swing2App account.
 
-\*Google cannot register as an account proxy
+**\*Google cannot register as an account proxy.**
 
-When you apply for an App Store upload, please agree to the proxy registration notices registered in the application and you will register with your Swing-to-App account.
+When you apply for an App Store upload, please agree to the proxy registration notices registered in the application and you will register with your Swing2App account.
 
 However, regarding proxy registration, you must check and agree to all of the following notes.
 
@@ -46,19 +44,17 @@ However, regarding proxy registration, you must check and agree to all of the fo
 
 <details>
 
-<summary>App Store Developer Name at the time of proxy registration: I am distributed under 'Swing2app Co Ltd.', can I change it?</summary>
+<summary><strong>App Store Developer Name: It is distributed as ‘Hyu Stay HYU STAY’. Can I change it?</strong></summary>
 
-If you register on behalf of the App Store with a Swing-to-App account, the name of the App Store developer will be distributed as 'Swing2app Co Ltd'.
+If you’ve registered with Apple as a Swing2App account, you can’t specify the distributor name for each app because you’re registered as a Swing2App public account.&#x20;
 
-Because you register as a swing-to-app account, you can't specify a distributor name per app.
+So, you’ll need to use the Swing2App developer name.&#x20;
 
-Therefore, you should use the Swing-to-App development mission as it is.
+**If you would like to specify a distributor, please create an Apple Developer Account.**&#x20;
 
-**If you want users to distribute it under their preferred name, please create an Apple developer account.**
+When uploading the App Store, the Apple Developer Account you created: Enter your ID and password, and we’ll upload it to that account.&#x20;
 
-When uploading to the App Store, fill in the Apple developer account you created: Enter your ID and password and we'll upload it to that account.
-
-The developer name naturally applies as the username.&#x20;
+The developer name is, of course, applied as a user name.
 
 **☞ **<mark style="color:blue;">**\[Go to see how to create an Apple developer account]**</mark>
 
@@ -66,33 +62,35 @@ The developer name naturally applies as the username.&#x20;
 
 <details>
 
-<summary>How long does the App Store take for an app to launch?</summary>
+<summary>How long does the App Store take to launch the app?</summary>
 
-It usually takes less than a week (7 days).
+The App Store will be uploaded to Swing2App and checked by the team in charge.
 
-However, it may take longer than the time above because Apple often refuses to review.
+After the review period, it usually takes one to two weeks to launch.&#x20;
 
-Please allow time to wait for the review.
+Usually, if there is no problem, it will be released within 2 weeks.&#x20;
 
-</details>
-
-<details>
-
-<summary>Can I transfer my account to a swing-to-app account on the App Store after the app launches?</summary>
-
-Yes you can.
-
-After launching with a Swing-to-App Developer account, if you've registered for your Apple Developer account, you can move your app to that account.
-
-However, moving the app to that account also requires you to re-register the app, so you will need to purchase an upload ticket and apply for upload. \_(App Store upload ticket costs KRW 20,000)
-
-In the Upload Application notebox, you can fill in the existing released app transfer request, and fill in the account:ID and password you created.
+However, Apple may take more than the above time because the review is often rejected.
 
 </details>
 
 <details>
 
-<summary>Is it not officially released on the App Store and can only be used by internal employees and employees?</summary>
+<summary>After the launch of the app, is it possible to transfer my app to my developer account from the Swing2App account on the App Store?</summary>
+
+Yes, you can.
+
+After launching with a Swing2App Developer account, if you've registered for your Apple Developer account, you can move your app to that account.
+
+However, moving the app to that account also requires you to re-register the app, so you will need to purchase an upload ticket and apply for the store upload request form \_(App Store upload ticket costs 20 USD)
+
+In the Upload Application request form, you can fill in the existing released app transfer request, and fill in the account:ID and password you created.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">Is it not officially released on the App Store and can only be used by internal employees and employees?</mark></summary>
 
 The App Store does not approve the official launch of in-house apps for internal use within the company and used only by employees.
 
@@ -152,43 +150,35 @@ Each subsequent invitation to a user account, you will incur a cost because you 
 
 <details>
 
-<summary>Can I change the name of an Apple (App Store) developer? (If you have your own Apple account)</summary>
+<summary><strong>I have released an app on the App Store with my account. How do I change the Developer’s name?</strong></summary>
 
-**For Apple, you can't change the developer name after you sign up.**
+You might want to change your developer’s name while you’re using the App Store with your account.\
+**For Apple, you can’t change the developer’s name along the way like Google.**\
+You can only continue using the developer’s name you registered when you first created your developer account.\
+You will not be able to change your developer’s name along the way for no particular reason.&#x20;
 
-Corporations can register their developer names with corporate names and individuals with English names, so they cannot be changed to other names for convenience.
-
-**Instead , Apple can change your account from "Individual" to → "Corporation."**
-
-Please note that you cannot change a developer's name along the way without any particular reason other than for this reason.
+**Instead, Apple can change the account from individual to organization.**\
+If you initially signed up as an individual and then changed to an organization, you can edit your developer’s name.
 
 </details>
 
 <details>
 
-<summary>Why are there so many rejections when reviewing the App Store? *Refusal to review</summary>
+<summary><strong>Rejection case- Why are there so many rejection when reviewing the App Store?</strong> </summary>
 
-Apple, unlike Google, has a very tricky way to vet apps. The review will be rejected for a variety of reasons. Let me tell you one of the most prominent examples of refusal to review.
+Unlike Google, Apple has a lot of app reviews. Judging is refused for a variety of reasons. The most notable cases of rejection of the screening:
 
-1\) Metadata Policy Violation: If there is no content/content within the app, or there is sexually relevant content, images, or offensive content&#x20;
+1. Violation of metadata policy: If there is no content within the app, or sexually related content, images, and offensive content.
+2. Design minimum feature violation: When the app is the same as the website (if you create an app like a website, you can’t be recognized as an app)
+3. Web link error: You can’t find the address because you entered the web link URL that is linked to the app incorrectly, or it’s the wrong web link address.
+4. Use Apple’s Unique Images: When using images such as icons created by Apple
+5. Unauthorized use of copyrighted images: Similar to the above, when you are using copyrighted images, such as brand logos and icons from other companies.
+6. Image quality: When working with app icons, standby screen images, etc., the image quality is poor or low-quality image.
+7. Request for personal information for membership: When requesting personal information such as the user’s phone number in the sign-up window
+8. Private app: You must submit a demo account together to check the contents of the app.
 
-2\) Design minimum feature violation: When the app is the same as the website (if you create an app like a website, it will not be recognized as an app)&#x20;
-
-3\) Weblink error: If you mistyped the weblink URL associated with the app and the address could not be found, or if it says it is the wrong weblink address,&#x20;
-
-4\) Use an Apple-specific image:&#x20;
-
-5\) Unauthorized use of copyrighted
-
-images: If you use copyrighted images such as icons, etc., similar to the above and use copyrighted images such as brand logos and icons from other companies&#x20;
-
-6\) Image quality: If the image is created with poor or poor quality when working with app icons, standby screen images, etc.&#x20;
-
-7\) Require personal information to sign up: If the registration window asks for personal information such as the user's phone number&#x20;
-
-8\) Private app: You will need to submit a demo account together to verify the contents of the app.&#x20;
-
-The Play Store is judged by a similar policy to Apple, so please check with the Play Store as well. In addition, there are many more cases of Apple refusal to review, so please refer to the relevant post for more information.
+The Play Store is reviewed by a similar policy as Apple, so please check the Play Store as well. \
+There are many more cases of Apple rejection, so please refer to the relevant post for more details.
 
 **☞ **<mark style="color:blue;">**See Apple App Store App Release Refusal Case**</mark>
 
@@ -196,37 +186,31 @@ The Play Store is judged by a similar policy to Apple, so please check with the 
 
 <details>
 
-<summary>The app that was released to the App Store and was in use went down. Why?</summary>
+<summary><strong>The app that was released and used in the App Store has been dropped. Why is that?</strong></summary>
 
-Apple developers, unlike Google, have a 1-year membership period. \*Google uses it for a lifetime
+Apple developers, unlike Google, have a one-year term. \* Google is used for a lifetime.\
+So, Apple needs to renew the subscription period by paying the developer account fee every year.\
+If a well-released app goes down, it is likely that the contract has expired.\
+\
+Please go to the Apple iTunes site and log in with your Developer account to check the period. [https://itunesconnect.apple.com](https://itunesconnect.apple.com/)\
+if the contract has expired, you will be prompted to renew your membership on the main page.
 
-As a result, Apple needs to pay a developer account membership fee every 1 year to renew the subscription period.
-
-If a well-released app has gone down, it's likely that your contract has expired.
-
-Enter the Apple iTunes site, log in with your developer account and check the duration. <mark style="color:blue;">https://itunesconnect.apple.com</mark>
-
-If your contract has expired, a window will appear on the main page asking you to renew your membership.
-
-Please renew your membership on the Apple Developer website. <mark style="color:blue;">https://developer.apple.com/</mark>
-
-\*Apple developer fee: KRW 129,000 per year
+Please renew your membership at the Apple Developer website. [https://developer.apple.com/](https://developer.apple.com/)\
+**\*Apple Developer Fees; $129 per year.**
 
 </details>
 
 <details>
 
-<summary>Does the App Store allow users to upload apps themselves?</summary>
+<summary><strong>Can’t the user upload apps directly to the App Store?</strong></summary>
 
-The App Store doesn't allow you to upload directly even if you have an Apple developer account.
+Even if you have an Apple developer account, users can't upload their app directly to the App store.&#x20;
 
-Users cannot upload directly, they can only upload on their own in Swing.
+Users can only upload their app on the App store on behalf of Swing2App.&#x20;
 
-Unlike Google, Apple does not allow users to upload directly because app uploads require the developer's development source, security content related to \*\*\*\* development, etc.
+Unlike Google, Apple doesn’t allow users to directly upload apps because they need the developer’s development source and security-related content, and so on.&#x20;
 
-Please note that it can only be uploaded by the developer (swing).
-
-(App Store upload agency: 1 time 20,000 won)
+Please note that you can only upload from the developer (swing2app). **(App store upload fee: $20 per request)**
 
 </details>
 
@@ -234,10 +218,10 @@ Please note that it can only be uploaded by the developer (swing).
 
 <summary>How do I update an app that has been released on the App Store?</summary>
 
-As previously described, the App Store does not allow users to upload directly, so if you have an update, you will need to re-apply for it.
+As mentioned earlier, the App Store cannot be uploaded directly by the user, so if there is an update, you will need to reapply for the upload to Swing2App.
 
-**Please purchase the App Store Upload Application Ticket (1 time 20,000 KRW) and re-apply for the upload.**
+**Please reapply for the upload after purchasing the App Store upload request ticket ($20).**
 
-Each update costs you to upload, so if you have any modifications, it's a good idea to work on them all at once.
+Uploading costs are required for each update, so if there are any changes, it is recommended to work at once.
 
 </details>

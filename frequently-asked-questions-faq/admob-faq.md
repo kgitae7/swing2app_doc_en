@@ -1,28 +1,28 @@
-# Admob FAQ
+# AdMob FAQ
 
 <details>
 
-<summary>What is Google Admob?</summary>
+<summary>What is Google AdMob?</summary>
 
-Admob is an advertising platform provided by Google that allows you to place ads in your app.
+AdMob is an advertising platform provided by Google that allows you to place ads in your app.
 
-You can monetize ads by applying an advertising platform to your app.
+You can monetize your ads by applying an ad platform to your app.
 
 </details>
 
 <details>
 
-<summary>What is the 'Admob Plugin' offered by the Swing-to-App app?</summary>
+<summary>What is the 'AdMob Plugin' offered by the Swing2App?</summary>
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/2.png" alt="" data-size="original">
 
-**The Google Admob application plugin is a product that allows you to mount Google Admob ads in your app.**
+**The Google AdMob plug-in is a custom product that allows you to place Google AdMob ads in your app.**
 
-When you purchase an Admob Enabled Plugin product, you can set up Admob ads in an app created by the Swing to App.
+If you purchase an AdMob plug-in product, you can set AdMob ads on an app produced by Swing2App.&#x20;
 
-Users can freely set and use their ad IDs and use their own ad IDs.
+Users can insert their own ad ID and set up and use the advertisement exposure pattern freely.
 
-Please check the details of how to set up Admob ads and proceed with them.&#x20;
+Please check the details of how to use the AdMob advertisement setting.
 
 **☞ **<mark style="color:blue;">**Learn how to set up Admob Plugin ads**</mark>
 
@@ -34,107 +34,102 @@ Please check the details of how to set up Admob ads and proceed with them.&#x20;
 
 **There are 2 products related to the Admob plugin.**
 
-1\) Google Admob application plug-in (220,000 won): A la carte product that is only available with the Admob plug-in
+1\) Plug-in with Google Add-Mob ($220): Single-product product with AdMob plug-in only
 
-Since Admob is a la carte, you will need to purchase a paid app pass and a store upload ticket separately.
+Since it’s an ad-mob product, you need to purchase a paid app coupon and store upload tickets separately.
 
-2\) Admob Power Package (580,000 won): Admob application plug-in + Swing basic subscription (2 years/24 months) + 1 upload ticket (App Store upload ticket, Play Store upload ticket) is a package product that comes with it.
+2\) Add-Mob Power Package ($580): Plug-in with AdMob + basic swing pass (2 years/24 months) + 1 upload ticket (App store upload ticket, Play Store upload ticket) are provided together.
 
-In addition to Admob, both passes and store uploads are included, so if you buy just one packaged item, you don't have to buy another.
+There is no need to purchase other products if you purchase only one package product because it includes both a pass and a store upload as well as an add-mob.
 
-\=**> Therefore, the product can be used after the user selects the desired style of product.**
+**Therefore, you can select the product of the style you want and use it after purchasing it.**
 
-To purchase the product, please select the link below and you will be taken to the swing payment page.
+To purchase the product, please select the link below and you will be taken to the swing2app payment page.
 
 **☞ **<mark style="color:blue;">**\[Google Admob Application Plugin Product Page]**</mark>&#x20;
 
 **☞ **<mark style="color:blue;">**\[Admob Package Products Page]**</mark>
 
-Android and iPhone 2 modes Admob is applicable, and the integration settings are available.
+Applicable to two modes of AdMob for Android and iPhone, and integrated settings.
 
-You can only set up the platform you want.
+You can just set the platform you want.
 
-However, if you only have one platform, the cost is the same.
-
-</details>
-
-<details>
-
-<summary>Can I still use the Admob plugin once I purchase it?</summary>
-
-Admob plugin products require only one purchase and can be used continuously by applying app ads.
-
-There is no additional charge for setting up an admob.
+However, even if you only have one platform, the cost is the same.
 
 </details>
 
 <details>
 
-<summary>How do ads appear in the app?</summary>
+<summary>Fow how long can I use Admob plugin once I purchase it?</summary>
 
-It will appear as a default banner ad + a front-facing pop-up ad.
+If you buy the AdMob plug-in product just once, you can continue to use it by applying the app advertisement.
+
+There is no additional cost associated with setting up AdMobs.
+
+</details>
+
+<details>
+
+<summary><strong>How does ads appear in the apps?</strong></summary>
+
+It will Display as default banner ads + front pop-up ads.
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2019/11/%EC%95%A0%EB%93%9C%EB%AA%B9%EC%88%98%EC%A0%95_19.11.png" alt="" data-size="original">
 
-**\*Head-to-head ads can be freely set by the app operator for the impression pattern.**
+**\*Front advertisement allows the app operator to set the exposure pattern freely.**
 
-**1)Impressions on the first launch of the app**
+**1)Exposure to advertisements when launching the app for the first time**\
+\->Full advertisements are exposed when the app is first launched.
 
-\-When you launch the > app for the first time, you will see an overheader.
+**2) When switching to the app for the first time is in progress.**\
+\->After launching the app, a pop-up advertisement will appear once the screen is switched by selecting the first menu or page.
 
-**2) When the app first screen switch is in progress**
+**3)Exposure of advertisements by number of screen transitions**\
+\->You can set the number of ad exposures that appear as the screen transitions.\
+When set to ‘Example’5’, full-page advertisements are exposed when the screen is switched 5 times.
 
-\-After launching the > app, select the first menu, page, etc., and once the screen is switched, a front pop-up ad will appear.
+**4) Expose advertisements every scheduled time**\
+\->If you set a scheduled time, the full-page advertisement will be exposed after that time.
 
-**3)Ad impressions by number of screen conversions**
-
-\-You can set the number of ad impressions that pop up as the > screen switches.
-
-Example)'When set to '5', the full-blown ad will be displayed when the screen is switched five times.
-
-**4)Impressions every certain amount of time**
-
-\->If you set a certain amount of time, after that time, you will see a full-blown ad.
-
-Example) If you set it to 60 seconds, your ad will be shown 60 seconds after the app launches. (Impressions every 60 seconds)
+**Example) If you set it up for 60 seconds, the advertisement will be exposed 60 seconds after the app is launched. (Expose ad every 60 seconds)**
 
 </details>
 
 <details>
 
-<summary>How does Admob ad revenue come from, and does the revenue go all the way to the user?</summary>
+<summary><strong>How do AdMob ads generate revenue, and how does the user earn them?</strong></summary>
 
-Ads aren't just profitable just because you run your app.
+Just by running an ad on your app doesn’t mean you’re profitable.
 
-**\*You will need to tap on the actual ad (banner, front) to go to that ad page to be captured as ad revenue.**
+**\*You’ll need to touch the actual ad (banner, front) to go to the corresponding ad page to get the ad revenue.**
 
-The revenue from the ads is 100% taken by the user.
+You’ll get 100% of the revenue from your ads.
 
 </details>
 
 <details>
 
-<summary>I want to apply for Admob Please tell us how to apply.</summary>
+<summary>How can I apply AdMob Plugin to my app?</summary>
 
-1\) App creation completed
+1\) Completed the production of the app
 
-2\) Payment of Admob application plug-in (220,000 won) product or Admob package product (580,000 won)
+2\) Payment of plug-in products with AdMob ($220) or AdMob package products ($580)
 
-3\) Join the Admob official site→ create an ad unit ID, copy the app ID by platform
+3\) Subscribe to the official ad mob site → Create advertising unit ID, copy app ID by platform.
 
-4\)Setting up ads in Admob plugin settings
+4\) Setting up ads in AdMob plug-in settings
 
-App Operation →Service Management→ Go to Admob Plugin Settings
+Manager →Services→ Go to AdMob Plug-in settings
 
-Enter \[Set Ad Unit ID], \[Set Impression Pattern], and Save
+Enter Set ad unit ID, Set ad exposure pattern, and save
 
-5\) After setting the ad, \[Request to create an app]: Update the app to the ad-applied version
+5\) After setting up the ad, \[App Creation Request]: Update the app with the advertised version
 
-6\) Ad setting is complete. Download the app on your Android phone and test if it works well with ads
+6\) Ad setting is complete. Download the app from your Android phone and test it to see if it’s working well
 
-7\) Store registration: Play Store, App Store, etc. to upload the store you wish to release
+7\) Register store: Upload stores you wish to launch, such as Play Store, App Store, etc.
 
-For details on setting up the Admob plugin, please check the manual below.
+​Please check the manual below for details on setting the AdMob plug-in.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **\*\*\*\* **<mark style="color:blue;">**\[Go to Admob Plugin Ad Setting Method]**</mark>
 
@@ -142,21 +137,21 @@ For details on setting up the Admob plugin, please check the manual below.
 
 <details>
 
-<summary>Why do I need to create an Admob ad unit ID?</summary>
+<summary>Why do I need to create an AdMob ad unit ID?</summary>
 
-In order to put ads in your app, you need your app's unique ad unit ID.
+An **AdMob** **ad unit ID** is a unique **ID** number assigned to each of your **ad units** when they’re created in **AdMob**. The **ad unit ID** is added to your app’s code and used to identify **ad** requests from the **ad unit**. In order to place ads in your app, you need your app's unique ad unit ID.
 
 It has a unique ID that applies to Android phones and iPhones.
 
 Depending on the form of the advertisement, there is also an ID.
 
-Therefore, the user creates their own ad unit ID and applies the ad unit ID to the app so that the ad can be seen normally.
+Therefore, the user directly creates an ad unit ID and applies the corresponding ad unit ID to the app so that the advertisement is normally displayed.
 
 In order to set up Admob ads in your app, you will need the information below.
 
-**(1) Front-page ad unit ID (Android, iPhone)**
+**(1) Android banner, front ad ID (Android, iPhone)**
 
-**(2) Banner ad ad unit ID (Android, iPhone)**
+**(2) iPhone banner, full ad ID is required**
 
 **(3) Android App ID, IOS App ID**
 
@@ -164,7 +159,7 @@ In order to set up Admob ads in your app, you will need the information below.
 
 <details>
 
-<summary>How do I create an Admob ad unit?</summary>
+<summary>How do I create an AdMob ad unit?</summary>
 
 To learn how to sign up and create an ad unit, check out the manual below.
 
@@ -174,33 +169,38 @@ To learn how to sign up and create an ad unit, check out the manual below.
 
 <details>
 
-<summary>After setting up Admob, can I only check if the ads are showing up on my Android phone?</summary>
+<summary>After setting up AdMob, <strong>can I see ads only on My Android phone?</strong></summary>
 
-Y**ou will need to check the test version on your Android phone.**
+Yes, you’ll need to check the test version on your **Android phone** when you’re done with the ad.
 
-The iPhone must be released on the App Store before it can be advertised in the app. (Apps that have not been released due to Apple's policy will not be advertised.)
+The **iPhone** must be released on the App Store before the app will display an ad. (Apps that are not released under Apple’s policy will not be able to see ads) Therefore, the iPhone must be released in the App Store to see the ads.
 
-So the iPhone has to be released on the App Store to see the ads.
+**Users should check the screen where the advertisement is applied to the Android phone.**
 
-**Users should check the advertised screen on their Android phone.**
-
-Ads with iPhone + Android integration settings are the same on the iPhone if the ads look good on an Android phone.
+iPhone and Android integrated setting ads are the same. So, if the ads are visible on Android phones then it will be the same on iPhone.
 
 </details>
 
 <details>
 
-<summary>If I click a lot of ads, I get a lot of revenue, can the operator keep clicking on them?</summary>
+<summary><strong>If I repeated click on ads will I earn a lot of money?</strong></summary>
 
 **Never artificially click on ads.**
 
-Because of invalid traffic, Google will drop ads without notice if there is any suspicious behavior on a particular device (mobile phone). (Indiscriminate ad clicks)
+If you repeated click on your ads that may artificially inflate a publisher’s earnings, will be counted as **an** **invalid click** by Google.
 
-Therefore, you should not continue to choose ads artificially or indiscriminately in order to earn advertising revenue.
+If there is any suspicious behavior on a particular device (mobile phone), Google will drop the ad without notice because of invalid traffic.
 
-If your ad goes down with invalid traffic, there's no other way to do it, and we can't help you.
+Invalid traffic includes, but is not limited to:
 
-You'll have to wait for Google to repost your ad. \*This may take up to a month.
+* Clicks or impressions generated by publishers clicking their own live ads
+* Repeated ad clicks or impressions generated by one or more users
+* Publishers encouraging clicks on their ads (examples may include: any language encouraging users to click on ads, ad implementations that may cause a high volume of accidental clicks, etc.)
+* Automated clicking tools or traffic sources, robots, or other deceptive software.
+
+If your ad goes down due to invalid traffic, there’s no other way you can get it back, and we can’t help you.
+
+You will have to wait for Google to post it back again which may take a month. So, we advise not to click on your ads repeatedly.
 
 </details>
 
@@ -208,23 +208,15 @@ You'll have to wait for Google to repost your ad. \*This may take up to a month.
 
 <summary>I've created all the ad unit IDs, but the ads aren't being posted.</summary>
 
-Admob may not send ads right away even if you complete the settings.
+There are times when ad mobs don’t send ads directly from Google even when they are done setting up.\
+It may take up to a week to check your ad mob account and app.\
+If you don’t enter the information below, it may take a long time for the advertisement to appear, so please check it below!
 
-The review period for checking your Admob account and app can take up to a week.
+1. **If you are missing your payment information when you sign up for AdMob, your ad will not show.**\
+   **Please complete your registration by making sure your payment information is not missing.**
+2. &#x20;**You need to review the ad management. In order for your ad to actually post to your app, you’ll need to review your ad list.**
 
-If you do not enter the information below, it may take a long time for the ad to appear, so please check the information below!
-
-**1) If the payment information is missing when signing up for Admob, no ads will be displayed.**
-
-Please make sure that your payment information is not missing to complete your registration.
-
-**2) You should review the ad management.**
-
-In order for your ads to actually be published in your app, you will need to review the list of ads.
-
-Please change the unreviewed ads to Review, and check the list of blocked ads.
-
-After applying for Admob, please check the check method and operation precautions in the manual below.
+Please change an unreviewed ad to a review, and check the list of blocked ads. Please check the instructions and instructions after applying for AdMob in the manual below.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ \*\*\*\* <mark style="color:blue;">****</mark> ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)<mark style="color:blue;">**\[Admob Ad Operation Precautions]**</mark>
 
@@ -232,123 +224,109 @@ After applying for Admob, please check the check method and operation precaution
 
 <details>
 
-<summary>Do I only need to manage ads the first time after signing up for Admob?</summary>
+<summary><strong>Can the ads be managed only after signing up for Admob the first time?</strong></summary>
 
 Of course, you should do it after you sign up, but you should check your ads from time to time.
 
-During operation, if an ad that was initially well posted has an unreviewed line item, the ad may be dropped from the app.
+If your ad is initially posted while you’re in operation, it may drop out of your app if you have an unreviewed line item.
 
 </details>
 
 <details>
 
-<summary>Is there anything wrong with saying that there are no ads to review in the unreviewed ads?</summary>
+<summary><strong>The unreviewed ad says there is no ad to review. Is it okay?</strong></summary>
 
-Nothing will appear when there are no ads to review yet, or when all the ads have already been reviewed.
+It means that you don’t have any ads to review yet, or nothing will appear when all of your ads have already been reviewed. If you wait a day or so, your ads will usually be posted to your app.
 
-If you wait a day or so, an ad will usually be posted on the app.
-
-If no ads are posted in the app, please go back into Admob Blocked Ad Management and check that there are no unreviewed ads.
+If your ad doesn’t post in your app, please come back to AdMob Block Ads Management and check to see if there are any unreviewed ads.
 
 </details>
 
 <details>
 
-<summary>Does the Admob application not apply to webview apps and push version apps?</summary>
+<summary><strong>Is AdMob application not applicable in web-view app and push version app?</strong></summary>
 
-Yes, only apps built from generic prototypes can run admob ads.
+Only apps built from generic prototypes can run AdMob ads.
 
-Apps created by hanging web links intact, such as webview version and push version, cannot be admob applied.
+Apps created by web links, such as webview version and push version, are not applicable to AdMob. (It’s a web-powered app, so it’s not suitable for AdMobs that advertise on the app\~!)
 
-Admob is an ad that you hang on the app.
+Admob is an ad that you place on the app.
 
 Web apps that run as websites (webviews, push apps) must use AdSense, not Admob.
 
-In other words, if you place a Google AdSense ad directly on the site that you can hang on the homepage, and then create a push or webview app, the app will also display the ad.
-
 </details>
 
 <details>
 
-<summary>Can I correct the head-end impression pattern?</summary>
+<summary><strong>Can I modify the exposure pattern of the full-page advertisement?</strong></summary>
 
-ex) Make the head-to-head ad pop up every 30 seconds, and make the head-end ad pop up after switching page 4
+**ex) Make a full-page ad appear every 30 seconds, and make a full-page ad appear after switching to page 4 times.**
 
-Yes you can. Banner ads have no exposure pattern, so you can only modify the full-blown ads.
+Yes, it’s possible. Banner ads don’t have an exposure pattern, so you can only modify full-page ads.
 
-Head-to-head ads can be set by modifying the impression pattern directly by the app operator.
+Front advertisement can be set by the app operator by directly modifying the exposure pattern.
 
-Please modify it in the \[Admob Plugin Settings] screen to operate.
+Please modify it and operate it on the \[AdMob Plug-in Settings] screen.
 
 <img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%95%A0%EB%93%9C%EB%AA%B9%EA%B4%91%EA%B3%A0%EB%8B%A8%EC%9C%842.png" alt="" data-size="original">
 
-If you register for the first time, or make your first modifications, you will need to save and re-create the app.
+If you register for the first time or modify it for the first time, you need to save it and re-produce the app.
 
-You'll need to recreate the app in a new version to reflect the changes.
+You have to re-produce the app in a new version to reflect the changes.
 
-If you make subsequent modifications, just save them and they will be automatically reflected in the app. (Relaunching after the app exits reflects the changed ad pattern)
+If you edit it later, it will be automatically reflected in the app as soon as you save it. (App shutdown and re-run to reflect changed advertising patterns)
 
-**\*Front ad impression settings**
+​**\*Front ad exposure settings**
 
-**1)Impressions on the first launch of the app**
+**1)Exposure to advertisements when launching the app for the first time**\
+\->Full advertisements are exposed when the app is first launched.
 
-\-When you launch the > app for the first time, you will see an overheader.
+**2) When switching to the app for the first time is in progress.**\
+\->After launching the app, a pop-up advertisement will appear once the screen is switched by selecting the first menu or page.
 
-**2) When the app first screen switch is in progress**
+**3)Exposure of advertisements by number of screen transitions**\
+\->You can set the number of ad exposures that appear as the screen transitions.\
+When set to ‘Example’5’, full-page advertisements are exposed when the screen is switched 5 times.
 
-\-After launching the > app, select the first menu, page, etc., and once the screen is switched, a front pop-up ad will appear.
-
-**3)Ad impressions by number of screen conversions**
-
-\-You can set the number of ad impressions that pop up as the > screen switches.
-
-Example)'When set to '5', the full-blown ad will be displayed when the screen is switched five times.
-
-**4)Impressions every certain amount of time**
-
-\->If you set a certain amount of time, after that time, you will see a full-blown ad.
-
-Example) If you set it to 60 seconds, your ad will be shown 60 seconds after the app launches. (Impressions every 60 seconds)
+**4) Expose advertisements every scheduled time**\
+\->If you set a scheduled time, the full-page advertisement will be exposed after that time.\
+Example) If you set it up for 60 seconds, the advertisement will be exposed 60 seconds after the app is launched. (Expose ad every 60 seconds)
 
 </details>
 
 <details>
 
-<summary>I want to update an app with Admob applied, but will the Admob ads remain the same?</summary>
+<summary><strong>If I want to update my App that has been applied to AdMob but will AdMob ads remain the same?</strong></summary>
 
-If you update your app, don't worry, Admob ads will still have the settings in place.
+If you update your app, your AdMob ads are exactly what you’ve set up, so don’t worry.
 
-You don't need to repurchase the Admob plugin for each app update.
-
-If you relaunch the app with a new update, the set admob will be retained.
+You don’t need to repurchase Admob plug-ins for every app update. If you update and re-release the app, the set-up admob will will still be retained.
 
 </details>
 
 <details>
 
-<summary>How much revenue does Admob generate?</summary>
+<summary>How much revenue does AdMob generate?</summary>
 
 We don't know how much advertising revenue our users have.
 
 Since our users are running Admob themselves, we can't see how much revenue they make.
 
-Admob generates revenue only when users click on ads that are embedded in the app.
+AdMob generates revenue only when users click on ads that are embedded in the app.
 
-For those who operate, the profit difference is huge, from a few hundred thousand won a month to \~ a few million won a month.
+For those who operate, the profit difference varies from a few dollars to a few thousand dollars per month.&#x20;
 
-Just by hanging an ad, you don't make a profit, so please consider it sufficiently.
+Please consider just by starting an ad, you don't make a profit, in depends on various factors.
 
 </details>
 
 <details>
 
-<summary>How many people need to install the app to make a profit?</summary>
+<summary><strong>How many people need to install the app to generate revenue?</strong></summary>
 
-Admob-operated apps have an average of 5,000 to more than 10,000 app users.
+On average, AdMob-operated apps have between 5,000 and more than 10,000 users.&#x20;
 
-However, the revenue from the number of installers of the app is likewise unknown to us.
-
-Some apps have more than 10,000 people, so in order to make money from Admobs, you need to drive a lot of app installations.
+However, we don’t know the revenue for the number of app installs. Some apps have more than 10,000 people, so you’ll need to drive a lot of app installs to make money with AdMob.
 
 </details>
 
@@ -356,14 +334,12 @@ Some apps have more than 10,000 people, so in order to make money from Admobs, y
 
 <summary>Do you offer Admob counseling?</summary>
 
-Admob Consultation is not available to assist you.
+Admob counseling is not available. We only set up the AdMob platform for apps created by Swing2App.
 
-Our job is to only support the setting service for the AppA-Admob platform created by Swing-to-App.
-
-However, if you have any questions related to the Admob plugin, please leave them in the inquiry and we will assist you with guidance.
+If you have any questions related to the Admob plugin, please leave them in the inquiry and we will assist you with guidance.
 
 After that, all aspects of ad operations and revenue must be managed by the user himself.
 
-When applying for Admob, please check the contents and precautions on the official Google Admob site before applying.
+Subsequently, the user should manage all the advertisements and profits. When applying for AdMob, please check the contents and precautions on the Google AdMob official site before applying.
 
 </details>

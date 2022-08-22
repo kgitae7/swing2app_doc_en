@@ -84,7 +84,7 @@
     * [Page Design - Surveys Page](manual/V3/step3-page/page-features-surveys.md)
     * [Page Design - View My Posts Page](manual/V3/step3-page/page-features-view-my-posts.md)
     * [Page Design - Attendance Check Page](manual/V3/step3-page/page-function-attendance-check.md)
-    * [Page Design- Wen Link](manual/V3/step3-page/page-features-links.md)
+    * [Page Design- Web Link](manual/V3/step3-page/page-design-web-link.md)
   * [STEP4 Complete App Creation](manual/V3/step4-complete-app-creation/README.md)
     * [How to create an additional app](manual/V3/step4-complete-app-creation/how-to-create-an-additional-app.md)
     * [How to update an app](manual/V3/step4-complete-app-creation/how-to-update-an-app.md)

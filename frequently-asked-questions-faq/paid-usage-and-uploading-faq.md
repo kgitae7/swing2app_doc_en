@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>I purchased a pass and a ticket to upload the sto. Do you have anything more to do when you pay?</summary>
+<summary>I purchased a pass and a ticket to upload to the store. Do I have to do anything more after making the payment?</summary>
 
-After making the payment , **you will need to apply for upload to the Play Store and App Store in the App **<mark style="color:blue;">**Operation - Version Control – \[App Creation History] menu.**</mark>
+After making the payment , **you will need to apply for upload to the Play Store and App Store in the App **<mark style="color:blue;">**Manager - Version Control – \[App Creation History] menu.**</mark>
 
 An upload request must come in before the representative can register your app with Sto.
 
@@ -16,7 +16,7 @@ Therefore, after purchasing the pass and the upload ticket, please complete the 
 
 <summary>When I apply for a PlayStore upload, will the app be released immediately?</summary>
 
-We'll act on behalf of Swing-to-App and upload the app to the Play Store.
+We'll act on behalf of Swing2App and upload the app to the Play Store.
 
 You will be reviewed by Google Apps.
 
@@ -46,7 +46,7 @@ Please allow some time to apply.
 
 <summary>What is the difference between the paid version and the free version?</summary>
 
-**Think of it as the biggest difference between the paid and free versions being able to upload to the market and what you don't have.**
+**The biggest difference between the paid and free versions is being able to upload to the market and what you don't have.**
 
 Free is only available as an Android phone installation file, and paid money can be commercialized and released in stores such as the Play Store, App Store, etc.
 
@@ -66,7 +66,7 @@ Paid users can create up to 10 apps per account, while free users can create up 
 
 However, the free version also has most of the features available, so try it out for free and switch to paid if you need it ^^
 
-Please check the Swing Service Policy for details.&#x20;
+Please check the Swing2App Service Policy for details.&#x20;
 
 **☞ **<mark style="color:blue;">**\[Swing Pricing]**</mark>
 
@@ -74,7 +74,7 @@ Please check the Swing Service Policy for details.&#x20;
 
 <details>
 
-<summary>What are the days of my 1-month subscription?</summary>
+<summary>How many days are in the 1-month subscription?</summary>
 
 When you purchase a 1-month paid app subscription, the total number of days of use is 30 days.
 
@@ -88,11 +88,11 @@ In particular, some people ask if it is not 365 days because you paid for 1 year
 
 <summary>How do I check which version of the app has been listed in the Store?</summary>
 
-For those who have uploaded through Swing, you can access each platform (App Store, Play Store) to see the version of the app that has been released.
+For those who have uploaded through Swing2App, you can access each platform (App Store, Play Store) to see the version of the app that has been released.
 
-Even if you don't have access to each store, you can also check it on the swing app operation page.&#x20;
+Even if you don't have access to each store, you can also check it on the swing2app Manager page.&#x20;
 
-\* You can check the market version for each platform > <mark style="color:blue;">the version control > market registration management page of the app operation page.</mark>
+\* You can check the market version for each platform <mark style="color:blue;">>On Manager page> the version control > market registration management page.</mark>
 
 You can also go directly to the market from that page, and you can see a variety of information, including information registered in the store.
 
@@ -104,13 +104,13 @@ You can also go directly to the market from that page, and you can see a variety
 
 The App Store doesn't allow you to upload directly even if you have an Apple developer account.
 
-Users cannot upload directly, and can only upload on a swing-to-app basis.
+Users cannot upload directly, and can only upload on a Swing2App basis.
 
 Apple, unlike Google, doesn't register app files, but instead requires the developer's app development source, security content related to development, etc., so users can't upload it directly.
 
 Please understand that it can only be uploaded by the developer (Swing to App).
 
-(App Store upload agency: 1 time 20,000 won)&#x20;
+(App Store upload agency: 1 time $20)&#x20;
 
 **☞ **<mark style="color:blue;">**\[Go to see how to apply for App Store upload]**</mark>
 
@@ -120,7 +120,7 @@ Please understand that it can only be uploaded by the developer (Swing to App).
 
 <summary>Can the app be updated from time to time after I register for the Store?</summary>
 
-Apps created by Swing-to-App can be modified and updated from time to time.
+Apps created by Swing2App can be modified and updated from time to time.
 
 However, there is something that needs to be updated in the version, not a real-time reflection.
 
@@ -146,9 +146,9 @@ Since the Play Store can be updated directly by the user, and the App Store can 
 
 <summary>Is the free version of the app not available on the Store?</summary>
 
-The free version of the app produced by the four Swing To apps cannot be commercialized. (Available for personal use only)
+The free version of the app produced by Swing2apps cannot be commercialized. (Available for personal use only)
 
-Therefore, if you use it for the purpose of launching it on the store, you will need to purchase a subscription to the paid app provided by the Swing to App.
+Therefore, if you use it for the purpose of launching it in the store, you will need to purchase a subscription to the paid app provided by the Swing to App.
 
 After switching to a paid app, you can launch it in the Store with that app.
 
@@ -168,15 +168,15 @@ When uploading a newly updated app, please make sure it is different from the pr
 
 <summary>I want to edit the information for an app released on the Play Store.</summary>
 
-Since the app is registered with the user's Google developer account, the Play Store can directly modify and update the information afterwards.
+Since the app is registered with the user's Google developer account, the Play Store can directly modify and update the information afterward.
 
 For instructions on how to edit and update your PlayStore information, please refer to the \*\*\*\* manual below.&#x20;
 
 **☞**<mark style="color:blue;">**Go to the PlayStore app update**</mark>
 
-If you find it difficult to do it yourself, please apply to upload to the Swing-to-App and we will update it.
+If you find it difficult to do it yourself, please apply to upload to the Swing2App and we will update it.
 
-\*Play Store upload ticket 10,000 won purchase and application
+\*Play Store upload ticket $10 purchase and application
 
 </details>
 
@@ -188,6 +188,6 @@ The App Store requires an app update review to correct the information.
 
 Since the App Store does not allow users to make their own modifications, modifying only the release information will also require you to purchase an App Store upload ticket and re-apply for the upload.
 
-\*App Store Upload Ticket 20,000 won purchase and application
+\*App Store Upload Ticket $20 purchase and application
 
 </details>

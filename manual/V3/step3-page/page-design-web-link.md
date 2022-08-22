@@ -1,12 +1,12 @@
-# Page Features-Links
+# Page Design- Web Link
 
 **Link Wizard: How to apply your Internet address, phone number, text, or email address**
 
-The link feature provided by the Swing-to-App allows you to apply a generic website URL and phone number, text message number, and email address.
+The link feature provided by Swing2App allows you to apply a generic website URL and phone number, text message number, and email address.
 
 Creating an App – Step 3 Page – Page Features: We'll show you how to use links.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Applying an Internet address (site URL) link
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Apply an Internet address (site URL) link
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png)
 
@@ -66,7 +66,7 @@ This will generate a link address, but for web addresses that are opened using t
 
 ***
 
-#### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> App launch screen - Apply Internet addressScreen
+#### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> App launch screen - Apply Internet address Screen
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew3.png)
 
@@ -208,7 +208,7 @@ Move the app creation screen
 
 6\)Enter the recipient's email address.
 
-<mark style="color:red;">\*Title, content is optional.</mark>
+<mark style="color:red;">\*Title content is optional.</mark>
 
 7\) Select the \[Apply URL] button.
 
@@ -258,7 +258,7 @@ If a security program such as payment is activated, it will not be able to be us
 
 So make sure you don't use a web link on your home screen!
 
-In in-app categories except the home screen, you can launch view as a new window or view as an external app.
+In in-app categories except for the home screen, you can launch view as a new window or view as an external app.
 
 2.Even if you apply other web links, there are links that do not apply normally to the menu, or that the site connection is not successful.
 
@@ -266,7 +266,7 @@ In in-app categories except the home screen, you can launch view as a new window
 
 **2) Web links that are only available within a specific company (links with external web server shield)**
 
-**3)Privacy websites that prohibit other external embedding**
+**3)Privacy websites that prohibit other external embeddings**
 
 These sites will not work properly if you link to the app if you get an error or if you see it.
 

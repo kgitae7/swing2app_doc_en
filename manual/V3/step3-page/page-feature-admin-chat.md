@@ -1,4 +1,4 @@
-# Page Feature - Admin Chat
+# Page Design - Admin Chat Page
 
 **How to use the 1:1 chat between managers and app members \[Manager Chat]**
 
@@ -142,7 +142,7 @@ Administrators can chat on the web (swing homepage) or use it in the app.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW3.png)
 
-Swing Homepage App <mark style="color:blue;">Operation Page → Push & Member → Member Inquiry ->Go to the menu.</mark>
+Swing Homepage App <mark style="color:blue;">Maker Page → Push & Member → Member Inquiry ->Go to the menu.</mark>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cca635bc95d24b41faf85085df5e224c.png)
 
@@ -216,7 +216,7 @@ You can start chatting by selecting the member you want to talk to again.
 
 The app administrator login allows the administrator to communicate with members in the app as well.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5.** Saggle Alarm Push Notification - Manager, Member
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5.** Alarm Push Notification - Manager, Member
 
 When you chat, both the app manager – the app member can receive a push for chat message notifications.
 
@@ -227,13 +227,13 @@ When you chat, both the app manager – the app member can receive a push for ch
 
 **1. 1:1 chat is a manager chat, which is a chat feature between the manager and the app member.**
 
-It is available on the app and swing-to-app app operation page (web).
+It is available on the app and Swing2App Manager page (web).
 
 \*When using the app: \[Settings- App Manager Menu] After logging in, select the desired user in \[User Management] and chat
 
 \*Please proceed to the homepage using the method mentioned above.
 
-**2. Please apply the chat menu with the operator (1:1 chat) as \[Manager Chat] on the → page of \*App Creation Page → STEP3.**
+**2. Please apply the chat menu with the operator (1:1 chat) as \[Manager Chat] on the → page of \*App MakerV3 Page → STEP3.**
 
 **3. You can also use \[Group Chat], where you can talk to the administrator and several users.**
 

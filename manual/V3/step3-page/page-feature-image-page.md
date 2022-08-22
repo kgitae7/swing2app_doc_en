@@ -1,22 +1,21 @@
-# Page Feature - Image Page
+# Page Design - Image Page
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**What is an image page?**
 
-Image pages are user-editor authoring tools that you create yourself.
+Image page is a custom editor tool that you can use to create an image for your app.
 
-You can edit an image to apply a link to it, and apply a tooltip.
+You can edit an image by applying a link and tooltip to it.
 
 The ability to apply a variety of links to images can be useful when building apps.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Leverage TIP**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Utilization Tip**&#x20;
 
-1\. When you need to apply multiple web links to an image, ex) You can apply multiple links instead of just one, such as going to the homepage, going to the blog, etc.
 
-2\. When applying multiple bulletin board links to an image, ex) Multiple bulletin board links such as announcement board, free bulletin board, etc. can be applied
 
-3\. If you want to provide a more detailed description on top of the image, you can apply the 'tooltip' to get the message
-
-4\. Banner work – Create an image in banner style, specify the appropriate area and apply a link
+1. When multiple web links need to be applied to one image ex) Applicable to multiple links instead of one, such as homepage and blog.
+2. When applying multiple bulletin board links to one image ex) Bulletin board links such as notice boards and free bulletin boards can be applied.
+3. If you want to put a more detailed description of the image, you can apply the tooltip so that the message appears.
+4. Can work on a banner – Create an image in banner style and specify the area to apply the link.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **If you want to put an image full on your home screen when creating an image page, you can work with the mobile screen resolution standard of 1080px horizontally and 1980-2200px vertically.**
 
@@ -30,21 +29,21 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page Steps
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Steps: Apply Image Page&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page app launchscreen
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page: App launch screen
 
 ***
 
-**\***Swing-to-App Official App – Image Page Application Screen
+**\***Swing2App Official App – Image Page Application Screen
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW9.png)
 
-\*This is the image page screen applied to the official Swing to App app.
+\*This is the image page screen applied to the official Swing2App app.
 
 ​
 
@@ -68,15 +67,15 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
 
-You can create a page template in App Authoring.
+You can create a page template on the App MakerV3 screen.
 
-1\)STEP3 Page Step by Step
+1\)Go to the STEP3 Page&#x20;
 
-2\)Select Page Design \[Image Map]
+2\)Under the Page Design option-> Click on the \[Image Map] feature
 
-3\) Select \[+New].
+3\) Click on the \[+] button.
 
-Clicking \[+New] opens the Image Page Authoring Tool screen.
+You'll get redirected to the Image Page editor Tool screen.
 
 Below we'll show you how to create an image page and how to apply that page to your app after it's built.
 
@@ -86,7 +85,7 @@ Below we'll show you how to create an image page and how to apply that page to y
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
 
-The authoring tool screen opens where you can create an image page.
+In this editor tool screen, you can easily create an image page.
 
 **1.Register an image**
 
@@ -104,11 +103,11 @@ If you need to re-upload a modified image in addition to what you have already d
 
 ***
 
-**2. Create an image page**
+**2. Modify the image page**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
 
-Working with image pages
+Modification process of the image page:
 
 **All you need to do is check the 'Shape Tool' which sets the banner area on top of the image, the 'Link Action' which allows you to link to the area, and the 'Default Style' which sets the area style.**
 
@@ -144,21 +143,21 @@ If you don't want the tool to be visible when you select the mouse, you can set 
 
 **4. Apply the link**
 
-Once you've set up a zone, let's see how to apply a link inside the zone you set.
+Once you've set up a shape, let's see how to apply a link inside the shape zone you set.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%806.18.09.png)
 
-**For links, please select \[Link Action] on the right and apply them.**
+**For links, please select the \[Link Action] option provided on the right side settings screen.**
 
-1\) Mouseover Fix: This is a menu that applies how it works when you touch the mouse.
+**1) Mouse hover:** This is a menu that applies how it works when you touch the mouse.
 
 Select \[Do nothing] because you will only apply the \[View: Do Nothing, Show Tooltips] link.
 
-2\) Click Action: This is a menu that applies how it works when the mouse is clicked.
+**2) Click Action:** This is a menu that applies how it works when the mouse is clicked.
 
 Select \[Move Link] because you need to go to the link when selecting \[View: Do Nothing, Show Tooltip, Move Link].
 
-3\) Link Wizard: A tool that allows you to select the app menu, web link, etc. page to be linked.
+**3) Link Wizard:** A tool that allows you to select the app menu, web link, etc. page to be linked.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%808.18.09.png)
 
@@ -188,11 +187,11 @@ For example, **if you select a banner and you want it to go to your blog, you ca
 
 ***
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with a flinch**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with help of video**
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b824e2f0d6ea8e64bc29df25fd9d65b8.gif)
 
-**You can use the mouseover style to color the Background Color.**
+**You can use the mouse over style to color the Background Color.**
 
 **If you set it to '0' in Background Opacity, you can also set the banner to be transparent.**
 
@@ -208,7 +207,7 @@ If you use the **\*\*\[Duplicate Style button]\*\* in the list, you can get the 
 
 All you have to do is change the link settings, which makes it a little easier!
 
-**5. Fabrication Completed**
+**5. Complete Production**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%8010.18.09.png)
 
@@ -226,11 +225,11 @@ So let's go back to the app creation page and apply that image page to the app!!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
 
-Move the app creation screen
+Go to the MakerV3 screen
 
-1\)STEP3 Go to the page step.
+1\) Click on the STEP3 page&#x20;
 
-2\)Home Screen – Select HOME
+2\)Home Screen – Select **HOME**
 
 3\)You do not need to change the menu name.
 
@@ -262,7 +261,7 @@ In addition to linking a link banner to an image page, I'll also show you how to
 
 What is a tooltip?
 
-T**he tooltip is used as a way to attach a message window-shaped icon above the image and provide an additional description.**
+**The tooltip is used as a way to attach a message window-shaped icon above the image and provide an additional description.**
 
 **Example of applying tooltips)**
 
@@ -276,7 +275,7 @@ Select the \[New] button in the Image Page Creation Tool and import the image.
 
 **1)Select the area where you want to apply the tooltip over the image by dragging the area to the tool menu.**
 
-—Let me explain the medues to use in the right menu bar—
+—Let me explain the menu types for you to use in the right menu bar—
 
 **2) Link Action**
 
@@ -292,7 +291,7 @@ Since the tooltip should be shown when touched, select \[Show tooltip] from the 
 
 **3)Basic style**
 
-It's a tool area style. Check the options only for background color, background transparency.
+It's a tool area style. Check the options only for background color and background transparency.
 
 If you want the tooltip to show the area where it will be shown, please add color and transparency.
 
@@ -336,11 +335,11 @@ Image pages created with the tooltip can also be applied to your app.
 
 The method for applying it to your app is the same as the one we showed you above.
 
-Move the app creation screen
+Go to the MakerV3 screen
 
-1\)STEP3 Go to the page step.
+1\) Click on the STEP3 page&#x20;
 
-2\)Home Screen – Select HOME
+2\)Home Screen – Select **HOME**
 
 3\)You do not need to change the menu name.
 
@@ -374,16 +373,11 @@ Move the app creation screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
 
-**The same modifications can be made by going to the App Creation Maker – Image page \[Modify] and covering it over the page you created.**
+Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on \[More] button-> Click on \[Update] button.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
 
-When you hover the mouse cursor over the image page, there is an Manage button.
-
-Select the \[Manage] button and then select the \[Modify] button →.
-
-Go to the Image Page Authoring Tool screen.
-
 Modifying the image page doesn't mean you have a separate page.
 
-You can update it by going in the same way as the creation page, overwriting it on top of the existing page and making corrections.
+You'll get redirected to the Template editor page-> Modify your old template easily.
+
