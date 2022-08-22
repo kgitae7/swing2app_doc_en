@@ -1,12 +1,12 @@
-# Page Design - App Introduction Page
+# Page Feature-App Introduction
 
 **What is an app introduction?**
 
 **The app introduction is a home screen style provided by the swing page, and is one of the menus that decorate the main home screen.**
 
-It can show you the app introduction, site address (URL), address, phone number, and email address, making it the most basic home screen configuration design.
+It can show you the app introduction ment, site address (URL), address, phone number, and email address, making it the most basic home screen configuration design.
 
-Since I don't know what to put on the home screen when I first build my app with Swing2App, I provide the app introduction page with a default setting to show users the home screen guidelines.
+Since I don't know what to put on the home screen when I first build my app with Swing-to-App, I provide the app introduction page with a default setting to show users the home screen guidelines.
 
 The home screen is of course! In addition to the app introduction page, you can freely change and create various other menus – image pages, web templates, HTML editor pages, images, bulletin boards, web links, etc.
 
@@ -52,9 +52,9 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 **This is the screen where the app introduction page is applied.**
 
-**Representative of the app icon image, the style is that the app introduction, the website link (URL) at the bottom, and the navigation buttons at the bottom are placed.**
+**Representative of the app icon image, the style is that the app introduction ment, the website link (URL) at the bottom, and the navigation buttons at the bottom are placed.**
 
-The app introduction is the home main screen that we provide by default to those who are creating apps with a Swing2App for the first time.
+The app introduction is the home main screen that we provide by default to those who are creating apps with a swing-to-app for the first time.
 
 Therefore, you do not have to apply the home screen as an 'Introduction to the App' and use it.
 
@@ -76,7 +76,7 @@ You can modify the items on the app introduction page from the \[Advanced Settin
 
 2\)Settings: App Service Information
 
-3\)You can modify it by pressing the \[EDIT] button.
+3\)You can modify it by pressing the itemized \[EDIT] button.
 
 4\)After modification, press the top \[Save] button and it will be reflected in the app.
 
