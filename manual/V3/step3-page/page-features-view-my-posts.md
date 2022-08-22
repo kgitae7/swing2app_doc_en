@@ -1,6 +1,6 @@
-# Page Design - View My Posts Page
+# Page Features - View My Posts
 
-**What is the View My Posts Page?**
+**What is View My Writing?**
 
 The View My Posts feature shows you the posts you've written in the app, a page where you can see your list of posts at once.
 
@@ -8,7 +8,7 @@ We will tell you how to use the 'View My Article' provided by the basic function
 
 Check out the how-to manual on how to apply the View My Posts feature to your app and how it will look in the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the View My Posts page to the app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the My Posts app
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
 

@@ -1,4 +1,4 @@
-# Page Function - Attendance Check
+# Page Design - Attendance Check Page
 
 **What is an attendance check?**
 
@@ -16,17 +16,17 @@ Please check the registration method for attendance check through the manual bel
 
 You can create an attendance check page first, and then apply it to your app.
 
-Attendance check registration can be made in App Operation – Service Management and please check the detailed manual.
+Attendance check registration can be made in App Manager – Service Management. Also, please check the detailed manual.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
 
 {% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply to the attendance check menu app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply the attendance check menu to the app
 
 Once the attendance check registration is complete, you will need to apply it to the app, right?
 
-App Creation – East Sea to the STEP3 page, we'll apply attendance checks to the app!
+App Creation – On the MakerV3 screen, go to the STEP3 page, we'll apply attendance checks to the app!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
 
@@ -64,11 +64,11 @@ You can go directly from the app creation to the attendance check page.
 
 Select the \[Manage] button on the attendance check page → Select the \[Manage attendance check] button will take you to the app-operated attendance check page.
 
-If you need to register a new attendance check or make any corrections, you can manage it by going directly from the App Creation Maker.
+If you need to register a new attendance check or make any corrections, you can manage it by going directly from the App Maker.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen – check attendance check
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen – check attendance&#x20;
 
-Let's launch the app and see how attendance check is executed in the app!
+Let's launch the app and see how the attendance check is executed in the app!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
 
@@ -78,19 +78,19 @@ If you check the attendance check post, you can check the content and image of t
 
 You can participate by commenting on \[Join Attendance Check Event] at the bottom of the post.
 
-**▶출석체크 이벤트 마감**
+**▶Attendance check event closed**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
 
 When you close an event, the app will also display a window called 'Closed Event'.
 
-**▶ Check the app operator dashboard**
+**▶ Check the app manager dashboard**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
 
-App operators can check the comments on attendance check posts on the App Operations Dashboard – Attendance Check page.
+App operators can check the comments on attendance check posts on the App Manager Dashboard – Attendance Check page.
 
-\*You can check the confirmation X in the application, and the app operation page in the Swing-to-App homepage.
+\*You can check the confirmation X in the application, and the app operation page in the Swing2App homepage.
 
 Once you have selected your username, you will be able to view your membership information.
 
