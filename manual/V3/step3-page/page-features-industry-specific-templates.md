@@ -1,50 +1,50 @@
-# Page Features-Industry-Specific Templates
+# Page Design- Page Templates
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">How to use the product category
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">What is a template page?
 
-It is a menu that is only available to those who use the swing shop (shopping mall), and it is a page where all the products registered in a particular category are shown.
+It is a web page creation tool provided by the user page- it is a design template creation tool for each industry.&#x20;
 
-Please see how to apply the product category to the app and the app launch screen with the page applied.
+Users can create a web page by inputting only text and images according to the guidelines on the page where the design is applied.
+
+Users can create pages more easily by providing templates for each style and industry for web pages that are difficult to create directly in terms of design.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page authoring steps
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page creation steps
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
 
 **\[Creating a Template Page]**
 
-1\) App Creation – Go to STEP3 Page
+1\) On the MakerV3 page – Go to STEP3 Page
 
-2\)Select Page Design \[Industry Specific Template]
+2\)Under the Page Design option, select the \[Page Template] option.
 
-3\)Click \[+New] to open the Page Maker screen.
+3\)Click on the \[+] Add new page-> to open the template editor screen.
 
 4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
 
 **\[Apply your created template page app to]**
 
-템플릿 페이지 제작을 했다면, 앱에 적용해야 하겠죠?
-
 If you've created a template page, you'll need to apply it to your app, right?
 
-1\)Create App – Go to the STEP3 page step.
+1\)On the MakerV3 page – Go to STEP3 Page
 
-2\)Home screen – Select HOME \*Select the submenu or select the home screen depending on where you apply the web template.
+2\)Select HOME or submenu \*Select the submenu or select the home screen depending on where you apply the web template.
 
-3\)Enter the menu name
+3\)Enter the name of the menu&#x20;
 
-4\)Select \[Industry-specific template] from the page design.
+4\)Under the Page Design option, select the \[Page Template] option.
 
-5\)Select the 'Refresh' button on the right to see the template you have created.
+5\)Click on the 'Refresh' button on the right to see the template you have created.
 
-6\)After confirming the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
+6\)After previewing the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
 
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launchscreen - Apply template page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 
@@ -62,17 +62,15 @@ From the home screen, each menu was all applied to the app using the Hotel03 tem
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
 
-You can create a page template in App Authoring.
+You can create a page template on the App MakerV3 screen.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
 
-11\)STEP3 Page Step by Step
+1\)On the MakerV3 page – Go to STEP3 Page
 
-2\)Select Page Design \[Industry Specific Template]
+2\)Under the Page Design option, select the \[Page Template] option.
 
-3\) Select \[+New].
-
-Click \[+New] to open the Page Authoring Tool screen.
+3\)Click on the \[+] Add new page-> to open the template editor screen.
 
 Below we'll show you how to build a template and how to apply it to your app after it's built.
 
@@ -80,9 +78,9 @@ Below we'll show you how to build a template and how to apply it to your app aft
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
 
-Selecting the New button takes you to the -> Template Authoring Tool.
+Select **\[+New]** at the bottom of the site to open the **‘New Page‘** window.
 
-You can add a template page here to create it.
+Select a template from here and start modifying your template as per your requirement.
 
 I'll tell you how to use it in detail below\~!
 
@@ -90,7 +88,7 @@ I'll tell you how to use it in detail below\~!
 
 1\)Select the \[New] button on the left side of the production screen.
 
-2\) Press the page type to check various page styles.
+2\) Click on the page type to check various page styles.
 
 **\*The Swing To App is constantly updated and available on industry-specific pages.**
 
@@ -104,15 +102,15 @@ I'll tell you how to use it in detail below\~!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
 
-4\) You can see the template page added to the Authoring Tools screen like this.
+4\) You can see the template page added to the Template editor screen like this.
 
 If you look at the right side of the screen, you can modify and use each of them.
 
-\*The \[Copy], \[Delete] buttons are available at the bottom left of the screen.
+\*The \[Copy] and \[Delete] buttons are available at the bottom left of the screen.
 
 The \*\[Default] button is a button that reverts back to the template style that was originally set.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it with a squeak\~!**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it\~!**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
 
