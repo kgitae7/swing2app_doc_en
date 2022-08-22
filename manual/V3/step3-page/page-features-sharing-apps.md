@@ -1,8 +1,8 @@
-# Page features - Sharing apps
+# Page Design - Share Your App Function
 
 **What is app sharing?**
 
-App sharing is a feature that allows you to share apps created with swing-to-app to a variety of applications.
+App sharing is a feature that allows you to share apps created with Swing2App to a variety of applications.
 
 You can use your app to share it with other users.
 
@@ -54,7 +54,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 If you select \[Share App] that you applied to the menu, the list of apps that can be shared will open.
 
-<mark style="color:green;">\*The app list does not look the same on all phones, but will be displayed differently depending on the user's mobile phone device and model.</mark>
+<mark style="color:green;">\*The app list does not look the same on all phones but will be displayed differently depending on the user's mobile phone device and model.</mark>
 
 <mark style="color:green;">\*The first window that opens displays the representative application, and if you select \[Share Other], you can select other applications.</mark>
 
@@ -72,7 +72,7 @@ A new window will pop up and you will be asked to select Run App and Down.
 
 If the app is already installed on your phone, press the \[Launch App] button to go directly to the app.
 
-<mark style="color:green;">\*If you share to a user who has not installed the app, the user can download and install the app by pressing the \[Download App (APK)] button.</mark>
+<mark style="color:green;">\*If you share with a user who has not installed the app, the user can download and install the app by pressing the \[Download App (APK)] button.</mark>
 
 <mark style="color:green;">\*If the app is released on the Play Store, please press the \[Install and launch the app] button. Go to the PlayStore launch link.</mark>
 
@@ -106,9 +106,9 @@ Therefore, you can also use the app sharing function as a basic function in the 
 
 The app you created in the free version can only be shared on Android phones. (Android Phone Android ↔ Phone)
 
-\-If you share to a user who has not installed the app, you can download the app and install it by pressing the download button of the app (APK).
+\-If you share with a user who has not installed the app, you can download the app and install it by pressing the download button of the app (APK).
 
-\-When you share to a user who has installed the app, simply press the button to launch the app and you will immediately go to the app.
+\-When you share with a user who has installed the app, simply press the button to launch the app and you will immediately go to the app.
 
 \-If the app is released on the Play Store, you can go to the Play Store to download the app.
 
@@ -120,8 +120,8 @@ If your app is released on the App Store, iPhone users can also share it. (When 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-**★ Share apps, share bulletin boards and posts For the full process manual, please check out the manual below\~!**
+**★ Share apps, share bulletin boards, and posts For the full process manual, please check out the manual below\~!**
 
 ☞ <mark style="color:blue;">**\[Go to the manual on how to download the app to share]**</mark>&#x20;
 
-☞ <mark style="color:blue;">**\[Go to the bulletin board, post sharing manual on how to use it]**</mark>
+☞ <mark style="color:blue;">**\[Go to the bulletin board and post sharing manual on how to use it]**</mark>
