@@ -64,7 +64,7 @@
   * [STEP3 Page](manual/V3/step3-page/README.md)
     * [How to create an app home screen](manual/V3/step3-page/how-to-create-an-app-home-screen.md)
     * [Registering a menu icon image](manual/V3/step3-page/registering-a-menu-icon-image.md)
-    * [How to use Hiding app menus](manual/V3/step3-page/how-to-use-disable-app-menus.md)
+    * [How to use: Menu Exposure Settings](manual/V3/step3-page/how-to-use-disable-app-menus.md)
     * [Set menu settings: Access permissions](manual/V3/step3-page/permission-setting.md)
     * [Page Design - UI KIT](manual/V3/step3-page/ui-kit.md)
     * [Page Design - eStore Page](manual/V3/step3-page/page-feature-store-page.md)
