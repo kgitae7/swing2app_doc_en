@@ -1,4 +1,4 @@
-# Page Design - Surveys Page
+# Page Features - Surveys
 
 **What is a survey?**
 
@@ -6,7 +6,7 @@ Survey management is a feature that allows you to conduct surveys of users who u
 
 Objective surveys can be conducted with feedback from users, and surveys can be conducted for various purposes, such as satisfaction surveys, promotional surveys, etc.
 
-The Swing2App provides a tool for surveying, so you can create a questionnaire simply by entering the question and answer questions..
+The Swing-to-App provides a tool for surveying, so you can create a questionnaire simply by entering the question and answer questions..
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Create a survey
 
@@ -18,7 +18,7 @@ First and foremost, create a survey on the app operation page.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
 
-1\) <mark style="color:blue;">App Manager Page → Service Management → Survey Management</mark> Go to the menu.
+1\) <mark style="color:blue;">App Operation Page → Service Management → Survey Management</mark> Go to the menu.
 
 2\) Select the Add Survey button.
 
@@ -40,7 +40,7 @@ You can select the calendar icon or clock icon to set up an event.
 
 \+Surveys can be set to push
 
-Select +Push Settings, select the sender and enter the title, content, and image to send the push.
+Select +Push Settings, select the sender, enter the title, content, and image to send the push.
 
 \+If you need to notify a large number of users of your survey as an announcement, it's a good idea to use push.
 
@@ -134,7 +134,7 @@ Selecting the item takes you to the survey.
 
 You also need to know how to view and manage your survey results, right?
 
-<mark style="color:blue;">App Manager Page → Service Management → Survey Management</mark> Go to the menu.
+<mark style="color:blue;">App Operation Page → Service Management → Survey Management</mark> Go to the menu.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW.png)
 
