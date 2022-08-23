@@ -1,4 +1,4 @@
-# Page Design - View Coupons Page
+# Page Function - View Coupons
 
 **What is the Coupon View menu?**
 
@@ -10,7 +10,7 @@ The View Coupons menu allows users to see a list of coupons they have received a
 
 So if you're running a coupon-issuing app, you'll have to apply that menu in the app's creation, right?
 
-This function is available on page **MakerV3 screen-> STEP3 → Basic Feature→ View coupon page.**
+This function is available on page **STEP3 → the app creation → page basic functions.**
 
 I'll show you how to apply the coupon lookup menu to the app and use it\~!
 
@@ -18,21 +18,21 @@ I'll show you how to apply the coupon lookup menu to the app and use it\~!
 
 **Find out how to create and apply coupons!**
 
-The coupon must be registered by the administrator by first creating a coupon for use in the app in the manager screen, and then moving on to the app makerv3 to apply the coupon lookup page to the app.
+The coupon must be registered by the administrator by first creating a coupon for use in the app in the app operation, and then moving on to the app creation to apply the coupon lookup page to the app.
 
-And in the manager screen of the app, the administrator can issue coupons to the user and process the usage.
+And in the operation of the app, the administrator can issue coupons to the user and process the usage.
 
 **STEP.1 Create a coupon**
 
-Manager page → Services → Coupon → Enter the coupon details to be issued by selecting the \[Add Coupon] button.
+→ the app operation page, select the Service Management → Coupon Management → \[Add Coupon] button and enter the contents of the coupon to be issued
 
 **STEP.2 Issuing coupons**
 
-From the coupon management page → select the \[Send Coupon] button → 1) Select the recipient settings → 2) Select the member you want to send push → 3) Select \[Send Coupon] → 4) Push message Subject → 5) Push Message Content → 6) Register Image → 7) Select \[Send Coupon].​
+On the coupon management page, select the → \[Send Coupon] button → in the Send Coupon window 1)Select Recipient Settings → 2) Select the member you want to send the push → 3)Select the \[Send Coupon] item.→ 4)Push Message Subject → 5)→ the contents of the push message 6)Select the Image Registration → 7)Select the \[Send Coupon] button
 
 **STEP.3 Processing coupon redemption**
 
-On the Coupon Management page, select 1) \[Use Coupon] button → 2) Enter Coupon Serial Number → 3) \[View and Use Coupon].
+On the coupon management page, 1)Select the \[Use Coupon] button→ 2)Enter the coupon serial number→ 3)Select \[View and use coupon] and you are done.
 
 Alternatively, you can select the App Manager menu in the app to process coupon redemption.
 
@@ -42,15 +42,15 @@ Alternatively, you can select the App Manager menu in the app to process coupon 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B0%EC%A1%B0%ED%9A%8C.png)
 
-On the MakerV3 screen.
+Move the app creation screen
 
-1\)Go to STEP3 Page&#x20;
+1\)STEP3 Go to the page step.
 
-2\)Select Menu or Create a new menu. Click on the \[+] button to add a new menu.
+2\)Create a new menu. (+ Select the shape button to add a menu)
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature] from under the page design.
+4\) Select \[Basic Functions] - \[Page] in the page design.
 
 5\) Find the 'View coupon' page and select the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
@@ -60,7 +60,7 @@ On the MakerV3 screen.
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. App launch screen**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. 앱 실행화면**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B01.png)
 
@@ -83,7 +83,7 @@ If the coupon you receive is used by the administrator, you can see that it has 
 {% hint style="info" %}
 Have you checked how to use the Coupon Lookup menu?
 
-On the app makerv3 page, you can apply the Page Basic Feature - View Coupons menu to your app to see the coupons that users have received.
+On the app creation page, you can apply the Page Basic Function - View Coupons menu to your app to see the coupons that users have received.
 
 And the manual showed me how to apply the Lookup Coupon menu to the app on the swing page.
 
