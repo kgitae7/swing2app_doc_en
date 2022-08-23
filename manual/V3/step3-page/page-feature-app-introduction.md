@@ -8,33 +8,33 @@ It can show you the app introduction, site address (URL), address, phone number,
 
 Since I don't know what to put on the home screen when I first build my app with Swing2App, I provide the app introduction page with a default setting to show users the home screen guidelines.
 
-The home screen is of course! In addition to the app introduction page, you can freely change and create various other menus – image pages, web templates, HTML editor pages, images, bulletin boards, web links, etc.
+In addition to the app introduction page, you can freely change and create various other menus – image pages, web templates, HTML editor pages, images, bulletin boards, web links, etc.
 
 \*Since the app introduction is the default sample page, we recommend that you change it to another menu.
 
-**Go to the HomeScreen Authoring Manual :** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
+**Go to the HomeScreen editing Manual :** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[App Introduction Page] to your app
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-Move the app creation screen
+On the MakerV3 screen.
 
-1\)STEP3 Go to the page step.
+1\)Go to STEP3 Page&#x20;
 
-2\)Create a new menu. (+ Select the shape button to add a menu)
+2\)Select Menu or Create a new menu. Click on the \[+] button to add a new menu.
 
 \*The app introduction can also be applied to the HOME menu.
 
 3\) Enter the menu name
 
-4\) Select \[Basic Functions] - \[Page] in the page design.
+4\) Select \[Basic Feature]-> \[Page] option from under the page design.
 
-5\) Find the 'About App' page and select the \[Apply] button.
-
-(Hover the mouse cursor over the page and the Apply button opens)
+5\) Click on the \[Function] option-> Select \[App Info] page. Click on the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
+
+
 
 {% hint style="info" %}
 \*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).

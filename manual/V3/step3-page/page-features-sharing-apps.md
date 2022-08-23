@@ -28,23 +28,21 @@ For more information on how to download the app to share, please refer to the ma
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-1.png)
 
-On the MakerV3 screen.
+Move the app creation screen
 
-1\)Go to STEP3 Page&#x20;
+1\)STEP3 Go to the page step.
 
-2\)Select Menu or Create a new menu. Click on the \[+] button to add a new menu.
+2\)Create a new menu. (+Select the Shape button to add a menu)
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature] from under the page design.
+4\) Select \[Basic Function] - \[Function] in the page design.
 
-5\) Click on the \[Function] option-> Select \[Share App] function. Click on the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
+5\) Select the 'Share App' menu \[Apply] button.
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-\*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
-
-\*Even after applying, you can still see how the page is applied to the app through the virtual machine.
+\*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
 \*Menu icon during the production phase, menu settings are not required.
 
