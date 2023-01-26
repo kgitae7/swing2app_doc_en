@@ -333,3 +333,7 @@
   * [AdMob Plug-in check](store/admob/admob-plugin-check.md)
   * [What is AdMob plugin setting?](store/admob/admob-pluginsettings.md)
   * [How to join AdMobs, create an Ad Unit ID](store/admob/admob-register.md)
+
+***
+
+* [Swing2App Update](swing2app-update.md)
