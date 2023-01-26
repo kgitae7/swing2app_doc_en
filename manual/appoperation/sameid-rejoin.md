@@ -14,7 +14,7 @@ However, if the user wants to re-register with the same ID, the administrator ca
 
 I’ll tell you how to re-enroll a user who has withdrawn from membership through the manual!
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Leave the app membership**</mark>
 
@@ -32,7 +32,7 @@ Withdrawal is complete.
 
 If you try to re-register with the same ID again, as you can see on the screen, a message saying “ID exists” will appear and you will not be able to register again with the same ID.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
 
@@ -58,7 +58,7 @@ In the “Account withdrawal and deletion” menu in the member information wind
 
 Therefore, if you need to re-register with the same ID, you must delete the member ID and all information from the app through member deletion.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
 

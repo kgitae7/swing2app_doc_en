@@ -1,2 +1,6 @@
-# Page 1
+---
+description: Frequently Asked Questions
+---
+
+# FAQ(Frequently Asked Questions)
 

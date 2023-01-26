@@ -20,7 +20,7 @@ Users should modify and set the Terms of Use as per their App Service.
 
 Swing2App provides the ability to <mark style="color:red;">write the terms of use and privacy policy on the app subscription policy page so that users can edit and write the contents themselves.</mark>
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 **Where and how do the App Terms of Use and Privacy Policy look like?**
 

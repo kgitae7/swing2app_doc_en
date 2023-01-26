@@ -12,7 +12,7 @@ The App Maker V3 Production Manual will show you how to enter the STEP1 basic in
 
 Here you need to enter the basic information required to create an app, such as the app name, icon image, splash screen image, and app ID.
 
-![](../../.gitbook/assets/구분선.PNG)
+![](<../../.gitbook/assets/구분선 (1).PNG>)
 
 ### STEP1 Basic Information
 

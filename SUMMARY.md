@@ -1,22 +1,23 @@
 # Table of contents
 
-* [Frequently Asked Questions FAQ](README.md)
-  * [Frequently Asked Questions (FAQ)](frequently-asked-questions-faq/frequently-asked-questions-faq.md)
-  * [App Creation FAQ](frequently-asked-questions-faq/app-creation-faq.md)
-  * [App Operations & Features FAQ](frequently-asked-questions-faq/app-operations-and-features-faq.md)
-  * [App installation and download FAQ](frequently-asked-questions-faq/app-installation-and-download-faq.md)
-  * [Registration and Login FAQ](frequently-asked-questions-faq/registration-and-login-faq.md)
-  * [App Preview FAQ](frequently-asked-questions-faq/app-preview-faq.md)
-  * [Swing Shop FAQ](frequently-asked-questions-faq/swing-shop-faq.md)
-  * [Billing FAQs](frequently-asked-questions-faq/billing-faqs.md)
-  * [Paid App Passes & Tickets FAQ](frequently-asked-questions-faq/paid-app-passes-and-tickets-faq.md)
-  * [Paid usage and uploading FAQ](frequently-asked-questions-faq/paid-usage-and-uploading-faq.md)
-  * [Unlimited Usage and Package FAQ](frequently-asked-questions-faq/unlimited-usage-and-package-faq.md)
-  * [PlayStore FAQ](frequently-asked-questions-faq/playstore-faq.md)
-  * [App Store FAQ](frequently-asked-questions-faq/app-store-faq.md)
-  * [AdMob FAQ](frequently-asked-questions-faq/admob-faq.md)
-  * [Affiliate Program FAQ](frequently-asked-questions-faq/affiliate-program-faq.md)
-  * [Customization FAQ](frequently-asked-questions-faq/customization-faq.md)
+* [FAQ(Frequently Asked Questions)](README.md)
+  * [Frequently Asked Questions (FAQ)](faq-frequently-asked-questions/frequently-asked-questions-faq.md)
+  * [App Creation FAQ](faq-frequently-asked-questions/app-creation-faq.md)
+  * [App Operations & Features FAQ](faq-frequently-asked-questions/app-operations-and-features-faq.md)
+  * [App installation and download FAQ](faq-frequently-asked-questions/app-installation-and-download-faq.md)
+  * [Registration and Login FAQ](faq-frequently-asked-questions/registration-and-login-faq.md)
+  * [App Preview FAQ](faq-frequently-asked-questions/app-preview-faq.md)
+  * [Swing Shop FAQ](faq-frequently-asked-questions/swing-shop-faq.md)
+  * [Billing FAQs](faq-frequently-asked-questions/billing-faqs.md)
+  * [Paid App Passes & Tickets FAQ](faq-frequently-asked-questions/paid-app-passes-and-tickets-faq.md)
+  * [Paid usage and uploading FAQ](faq-frequently-asked-questions/paid-usage-and-uploading-faq.md)
+  * [Unlimited Usage and Package FAQ](faq-frequently-asked-questions/unlimited-usage-and-package-faq.md)
+  * [PlayStore FAQ](faq-frequently-asked-questions/playstore-faq.md)
+  * [App Store FAQ](faq-frequently-asked-questions/app-store-faq.md)
+  * [AdMob FAQ](faq-frequently-asked-questions/admob-faq.md)
+  * [Affiliate Program FAQ](faq-frequently-asked-questions/affiliate-program-faq.md)
+  * [Customization FAQ](faq-frequently-asked-questions/customization-faq.md)
+* [Swing2App Update](swing2app-update.md)
 
 ## Swing2App Manual <a href="#manual" id="manual"></a>
 
@@ -333,7 +334,3 @@
   * [AdMob Plug-in check](store/admob/admob-plugin-check.md)
   * [What is AdMob plugin setting?](store/admob/admob-pluginsettings.md)
   * [How to join AdMobs, create an Ad Unit ID](store/admob/admob-register.md)
-
-***
-
-* [Swing2App Update](swing2app-update.md)

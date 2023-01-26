@@ -4,7 +4,7 @@ description: Swing2App Regular Update for Week 4 of January 2023
 
 # Swing2App Update
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **New AdMob Ad Impression Permissions Released**&#x20;
 
@@ -109,5 +109,5 @@ After the initial reflection, there is no need to update separately.
 
 5\)Those who have produced (updated) the app after 20th January, 2023 as of the function update date can immediately check the ad exposure permission setting function on the AdMob plugin setting screen.&#x20;
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 

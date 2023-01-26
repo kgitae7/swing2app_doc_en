@@ -10,7 +10,7 @@ In addition to the built-in icon image in the app authoring program, the user ca
 
 Check out the manure to see how to organize the menu and how to register icon images.
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](<../../../.gitbook/assets/단락1-1 (1).png>)App launch screen) icon image Check registered apps
 
@@ -26,7 +26,7 @@ If you look at the bottom footer bar, you can see that the icon image is registe
 
 Below we will show you how to register an icon image in the menu.
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](../../../.gitbook/assets/단락1-1.png) Registering a menu icon image
 
@@ -76,7 +76,7 @@ However, when using images taken from external sites, please be careful if they 
 
 ​
 
-![](../../../.gitbook/assets/구분선.PNG)
+![](<../../../.gitbook/assets/구분선 (1).PNG>)
 
 ### ![](../../../.gitbook/assets/단락1-1.png) App launchscreen) to check the icon image
 
