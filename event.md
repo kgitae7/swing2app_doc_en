@@ -18,6 +18,8 @@ Please check the event details and participation process.
 
 <figure><img src=".gitbook/assets/EN_웹앱애드몹무료증정_23.02.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:green;">**▶ Event Details**</mark>
 
 **Purchase unlimited WebView & Push-Only unlimited paid app ticket**
