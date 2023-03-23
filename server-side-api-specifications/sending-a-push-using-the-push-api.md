@@ -1,8 +1,8 @@
 # Sending a push using the Push API
 
-<mark style="color:blue;">Using the push API to send swing-to-app push</mark>
+<mark style="color:blue;">Using the push API to send Swing2App push notifications.</mark>
 
-Swing to App provides the following to send push messages sent from the dashboard in the form of APIs.
+Swing2App provides the following method to send push messages sent from the dashboard in the form of APIs.
 
 In the case of API use not agreed in advance and indiscriminate mass shipment, the use may be restricted.
 
