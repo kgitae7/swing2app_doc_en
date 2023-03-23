@@ -348,4 +348,4 @@
 * [Webview (webview, push only) development tool](webview-webview-push-only-development-tool/README.md)
   * [Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
     * [WordPress Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
-  * [Javascript 연동 API 문서](webview-webview-push-only-development-tool/javascript-api.md)
+  * [Javascript Integration API Documentation](webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)

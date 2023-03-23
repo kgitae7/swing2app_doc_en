@@ -1,13 +1,13 @@
-# Javascript 연동 API 문서
+# Javascript Integration API Documentation
 
-스윙투앱에서 제공하는 웹뷰와 푸시전용 프로토타입의 앱을 제어할 수 있는 javascript API 입니다.
+It is a javascript API that allows you to control the web view provided by the swing-to-app and the push-only prototype app.
 
-공통적으로 아래의 js 파일을 include 하여 사용하시고 아래의 API 명세를 통해서
+In general, include and use the following js file, and through the API specification below.
 
-필요한 기능을 실행하시면 됩니다.
+Just perform the functions you need.
 
 {% hint style="info" %}
-공통 js 파일 HTML 파일에 아래의 js 파일을 포함시켜주세요
+Common js file Please include the following js file in your HTML file
 {% endhint %}
 
 {% code overflow="wrap" %}
@@ -16,13 +16,13 @@
 ```
 {% endcode %}
 
-## 웹뷰 Javascript API 명세서
+## WebView Javascript API Specifications
 
-## 웹뷰 제어관련 Method
+## Webview Control Related Methods
 
-* #### 웹뷰 뒤로가기
+* #### Back to Webview
 
-웹뷰에서 이전 페이지로 이동 웹브라우저에서 뒤로가기 기능과 동일한 동작
+Move to the previous page in webview Same behavior as back in web browser
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -30,9 +30,9 @@ swingWebViewPlugin.app.webview.back();
 ```
 {% endcode %}
 
-* #### 웹뷰 앞으로 가기
+* #### Webview Forward
 
-웹뷰에서 앞의 페이지로 이동 웹브라우저에서 앞으로가기 기능과 동일한 동작
+Move to the front page in web view Same behavior as forward in the web browser
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -40,9 +40,9 @@ swingWebViewPlugin.app.webview.forward();
 ```
 {% endcode %}
 
-* #### 웹뷰 홈으로 이동
+* #### Go to Webview Home
 
-웹뷰에서 스윙투앱에 셋팅된 홈 페이지(설정된 초기 페이지)로 이동하는 기능
+Ability to navigate from web view to the home page (set initial page) set in the swing-to-app
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -50,11 +50,11 @@ swingWebViewPlugin.app.navigateToHome()
 ```
 {% endcode %}
 
-## 어플리케이션 관련 Method
+## Application-related methods
 
-* #### 플랫폼 정보 가져오기
+* #### Get platform information
 
-웹상에서 플랫폼 정보를 가져오기 위한 함수
+Functions for getting platform information from the web
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -73,9 +73,9 @@ else
 ```
 {% endcode %}
 
-* #### 버전 및 기기정보 가져오기
+* #### Get version and device information
 
-앱의 버전및 기기의 H/W 그리고 S/W 정보를 가져오는 함수
+A function that gets the version of the app and the H/W and S/W information of the device
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -102,9 +102,9 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
 ```
 {% endcode %}
 
-* #### 앱 종료 기능
+* #### Ability to close the app
 
-실행중인 앱을 종료하는 명령어
+Command to terminate a running app
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -112,9 +112,9 @@ swingWebViewPlugin.app.methods.doExitApp();
 ```
 {% endcode %}
 
-* #### 외부 브라우저로 URL 실행하기
+* #### Run a URL with an external browser
 
-크롬 또는 사파리등 앱의 기본 브라우저로 특정 페이지를 열고 싶을때 아래의 함수를 이용할 수 있다.
+If you want to open a specific page with the default browser of an app such as Chrome or Safari, you can use the following function.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -122,11 +122,11 @@ swingWebViewPlugin.app.methods.doExternalOpen('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### 내장 브라우저로 URL 실행하기
+* #### Run URLs with the embedded browser
 
-안드로이드와 iOS 자체적으로 제공하는 앱 내장 브라우저를 이용해서 실행
+Run using Android and iOS's own built-in browser
 
-크롬과 사파리등을 반드시 이용해야 하는 경우 아래의 코드를 통해서 앱 내부에서 크롬과 사파리를 호출 할 수 있다.
+If you must use Chrome and Safari, you can call Chrome and Safari from inside the app through the code below.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -134,9 +134,9 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### 현재 페이지를 공유하기
+* #### Share the current page
 
-현재 웹 페이지를 공유하는 기능을 위한 아래의 코드를 실행
+Run the code below for the current Web page-sharing feature
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -144,9 +144,9 @@ swingWebViewPlugin.app.methods.doShareCurrentPage();
 ```
 {% endcode %}
 
-* #### 지정 URL 공유하기
+* #### Share a custom URL
 
-지정한 URL을 공유하고자 할 경우 아래와 같이 코드를 실행
+If you want to share the specified URL, run the code as shown below.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -154,13 +154,13 @@ swingWebViewPlugin.app.methods.doShareWithUrl('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### 어플리케이션의 알림 설정 상태를 확인하기
+* #### Checking the notification setting status of the application
 
-어플리케이션에서 푸시 알람 설정에 대한 상태를 확인하는 기능
+Ability to check the status of push alarm settings in the application
 
-푸시가 비활성화 되었을 경우 OS 자체적으로 푸시가 Off 되었을 경우와
+If push is disabled, if the push is turned off by the OS itself,
 
-앱 자체적인 설정으로 Off 가 되었을경우를 확인할 수 있다.
+You can check if the app is turned off with its own settings.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -181,7 +181,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 ```
 {% endcode %}
 
-Ex:) 푸시 설정에 따라 Off 설정일 경우 활성화 권장을 위한 코드예제
+Ex:) Code example for recommending activation when Off setting according to push setting
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -204,17 +204,17 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 ```
 {% endcode %}
 
-* #### 알람 설정 이동하기
+* #### Moving Alarm Settings
 
-어플리케이션 또는 시스템의 알람설정을 이동할 수 있는 기능
+Ability to move alarm settings of applications or systems
 
-(1) 어플리케이션 자체적인 알람 설정을 할 수 있는 화면으로 이동
+(1) Go to the screen where you can set the alarm by the application itself
 
 ```javascript
 swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 ```
 
-(2) 시스템(안드로이드, iOS) 자체적인 알람 설정을 할 수 있는 화면으로 이동
+(2) Go to the screen where you can set your own alarm for the system (Android, iOS)
 
 ```javascript
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
@@ -222,23 +222,23 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 
 ##
 
-## 애드몹 관련 Method
+## Methods related to AdMob
 
-웹사이트에서 직접 앱내의 애드몹 광고를 관리할 수 있는 명령어 입니다.
+This is a command that allows you to manage in-app ad mob ads directly from the website.
 
-아래의 내용을 참고하셔서 광고들을 활용해보세요.
+Please refer to the information below to use the ads.
 
 {% hint style="info" %}
-반드시 애드몹이 활성된 앱의 경우만 동작하는 명령어 입니다.
+This command only works for apps with ad mob enabled
 {% endhint %}
 
-* #### 배너광고 노출하기
+* #### Show banner ads
 
-어플리케이션내에 애드몹 배너 광고를 노출시키는 명령
+Commands to display AdMob banner ads in applications
 
-| Parameter | 설명             | 값 예시                                   |
-| --------- | -------------- | -------------------------------------- |
-| adId      | 배너광고 단위 아이디 입력 | ca-app-pub-3940256099942544/6300978111 |
+| Parameter | Explanation             | Example values                         |
+| --------- | ----------------------- | -------------------------------------- |
+| adId      | Enter banner ad unit ID | ca-app-pub-3940256099942544/6300978111 |
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -246,9 +246,9 @@ swingWebViewPlugin.app.admob.showBanner('ca-app-pub-3940256099942544/6300978111'
 ```
 {% endcode %}
 
-* #### 배너광고 종료하기
+* #### End banner ads
 
-어플리케이션내에 애드몹 배너 광고를 종료시키는 명령
+Command to stop ad mob banner ads in the application
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -256,13 +256,13 @@ swingWebViewPlugin.app.admob.closeBanner();
 ```
 {% endcode %}
 
-* #### 전면광고 노출하기
+* #### Show interstitial ads
 
-어플리케이션내에 애드몹 전면 광고를 노출시키는 명령
+Commands to display ad mob interstitial ads in applications
 
-| Parameter | 설명             | 값 예시                                   |
-| --------- | -------------- | -------------------------------------- |
-| adId      | 전면광고 단위 아이디 입력 | ca-app-pub-3940256099942544/6300978111 |
+| Parameter | Explanation                | Example values                         |
+| --------- | -------------------------- | -------------------------------------- |
+| adId      | Enter interstitial unit ID | ca-app-pub-3940256099942544/6300978111 |
 
 {% code lineNumbers="true" %}
 ```javascript
