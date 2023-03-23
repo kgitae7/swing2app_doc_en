@@ -18,7 +18,7 @@ Please read the manual below to find out how to make a secret bulletin board (1:
 
 ## STEP1.  Create a Secret Bulletin Board
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to **Manager,** select **Services** and click on **Bulletin Board** from the drop-down list
 2. Select **Create bulletin board** button on the bulletin board management page to open the bulletin board and function setting window.
@@ -95,7 +95,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Move to the Maker(V2) → Page menu.**
 
