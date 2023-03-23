@@ -39,7 +39,7 @@ The calendar can be used in various ways depending on the purpose of the app.
 
 **1)앱제작 V3버전 이용시**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 – STEP3 페이지 선택
 

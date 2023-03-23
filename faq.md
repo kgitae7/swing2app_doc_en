@@ -2,65 +2,49 @@
 
 <details>
 
-<summary><strong>푸시 발송은 스윙투앱에서 제작하는 모든 앱에서 발송할 수 있나요?</strong></summary>
+<summary>Can push sending be sent from all apps created by Swing2App?</summary>
 
-﻿스윙투앱 프로토타입 중 "웹뷰 전용"으로 제작한 웹뷰앱은 푸시 기능 이용이 불가하구요.
-
-웹뷰앱 외 모든 앱 - 일반 프로토타입 앱, 푸시전용앱은 푸시 발이 가능합니다.
+﻿Among the Swing2App prototypes, the web view app created as "webview only" cannot use the push function. All apps other than web view apps - General prototype apps and push-only apps can be push-footed.
 
 </details>
 
 <details>
 
-<summary>푸시 발송 수, 회원 수 제한이 있나요?</summary>
+<summary>Is there a limit to the number of push sends, the number of members?</summary>
 
-푸시는 발송 횟수, 회원 수 제한 없이 모두 무제한으로 이용 가능합니다.
-
-</details>
-
-<details>
-
-<summary>푸시 기능도 무료로 이용 가능한가요?</summary>
-
-﻿네, 푸시 기능도 비용 없이 무료로 모두 이용 가능합니다.
-
-무료버전앱에서도 발송이 가능하오니, 앱제작 하면서 푸시 기능을 이용해보시기 바랍니다.
+Push can be used an unlimited number of times and the number of members.
 
 </details>
 
 <details>
 
-<summary><strong>푸시는 앱을 설치한 사용자 모두에게 발송이 가능한가요?</strong></summary>
+<summary>Is the push feature available for free?</summary>
 
-네 푸시는 앱을 설치한 사용자에게 모두 발송됩니다.
-
-일반 프로토타입으로 제작한 앱에서는 – 회원가입을 하지 않은 손님 등급에게도 앱이 설치만 되어 있다면 모두 발송됩니다.
-
-푸시앱은 전체발송만 가능하기 때문에 전체 앱 설치한 사용자에게 모두 발송됩니다.
+﻿Yes, the push feature is also available for free and free of charge. You can also send it in the free version of the app, so please use the push function while creating the app.
 
 </details>
 
 <details>
 
-<summary>푸시 발송시 회원을 선택할 수 있나요?</summary>
+<summary>Can push be sent to all users who have installed the app?</summary>
 
-﻿일반 프로토타입 앱은 회원을 선택하여 발송할 수 있습니다.
-
-원하는 사용자, 그룹을 선택하여 푸시를 보낼 수 있습니다.
-
-단, 푸시 전용앱은 회원 선택이 불가하며, 전체 회원 발송만 가능합니다.
+Yes, pushes will be sent to all users who have installed the app. In a regular prototype app – even to non-registered guests, as long as the app is installed, it will be sent. Since the push app can only be sent in full, it will be sent to all users who have installed the entire app.
 
 </details>
 
 <details>
 
-<summary>원하는 날짜, 시간대에 푸시를 보낼 수 있나요?</summary>
+<summary>Can I select members when sending pushes?</summary>
 
-﻿네 가능합니다.
+﻿General prototype apps can be sent by selecting members. You can select any user, or group to send the push. However, the push-only app cannot select members, and can only send all members.
 
-푸시 예약설정으로 이용가능하구요.
+</details>
 
-발송 날짜, 발송 요일, 발송 시간, 반복주기 등을 설정할 수 있습니다.
+<details>
+
+<summary>Can I send a push on any date or time zone?</summary>
+
+﻿Yes, you can. It is available with push reservation settings. You can set the shipping date, shipping day, shipping time, repeat cycle, etc.
 
 </details>
 

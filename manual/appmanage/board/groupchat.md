@@ -93,7 +93,7 @@ If you created a group chat board, you should apply a chat room to the app. Let�
 
 ### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 STEP3 페이지 선택
 

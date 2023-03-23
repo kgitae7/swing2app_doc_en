@@ -186,7 +186,7 @@ You can edit and delete the location, and if you have an app that manages multip
 
 ### <mark style="color:blue;">**1.앱제작 V3버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작–STEP3 페이지 선택
 
