@@ -347,5 +347,5 @@
   * [Sending a push using the Push API](server-side-api-specifications/sending-a-push-using-the-push-api.md)
 * [Webview (webview, push only) development tool](webview-webview-push-only-development-tool/README.md)
   * [Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
-    * [워드프레스 웹사이트 회원 연동 가이드](webview-webview-push-only-development-tool/website-member-integration-guide/undefined.md)
+    * [WordPress Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
   * [Javascript 연동 API 문서](webview-webview-push-only-development-tool/javascript-api.md)

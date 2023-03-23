@@ -158,7 +158,7 @@ This created calendar will be applied to the app.
 
 **1)앱제작 V3버전 이용시**
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 – STEP3 페이지 선택
 
@@ -186,7 +186,7 @@ This created calendar will be applied to the app.
 
 **2)앱제작 V2버전 이용시**
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Go to **Maker(V2)** and click on **Page Menu.**
 
