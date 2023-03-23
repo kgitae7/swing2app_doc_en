@@ -1,10 +1,8 @@
 # Javascript Integration API Documentation
 
-It is a javascript API that allows you to control the web view provided by the swing-to-app and the push-only prototype app.
+It is a javascript API that allows you to control the web view and the push-only prototype app provided by Swing2App.
 
-In general, include and use the following js file, and through the API specification below.
-
-Just perform the functions you need.
+In short, include and use the following js file through the API specification below and perform the functions you need.
 
 {% hint style="info" %}
 Common js file Please include the following js file in your HTML file
@@ -20,9 +18,9 @@ Common js file Please include the following js file in your HTML file
 
 ## Webview Control Related Methods
 
-* #### Back to Webview
+* #### Webview Backwards
 
-Move to the previous page in webview Same behavior as back in web browser
+To Move to the previous page in the webview app. Same style as the back function in the web browser
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -32,7 +30,7 @@ swingWebViewPlugin.app.webview.back();
 
 * #### Webview Forward
 
-Move to the front page in web view Same behavior as forward in the web browser
+Move to the front page in the webview app. Same style as the forward function in the web browser
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -42,7 +40,7 @@ swingWebViewPlugin.app.webview.forward();
 
 * #### Go to Webview Home
 
-Ability to navigate from web view to the home page (set initial page) set in the swing-to-app
+Ability to navigate from the webview app to the home page (set initial page) set in the Swing2App.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -124,9 +122,9 @@ swingWebViewPlugin.app.methods.doExternalOpen('https://www.swing2app.com');
 
 * #### Run URLs with the embedded browser
 
-Run using Android and iOS's own built-in browser
+Run using Android and iOS's own built-in browser.
 
-If you must use Chrome and Safari, you can call Chrome and Safari from inside the app through the code below.
+If you must use Chrome and Safari, you can operate Chrome and Safari from inside the app through the code below.
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -156,9 +154,9 @@ swingWebViewPlugin.app.methods.doShareWithUrl('https://www.swing2app.com');
 
 * #### Checking the notification setting status of the application
 
-Ability to check the status of push alarm settings in the application
+Ability to check the status of push alarm settings in the application.
 
-If push is disabled, if the push is turned off by the OS itself,
+If the push is disabled or if the push is turned off by the OS itself,
 
 You can check if the app is turned off with its own settings.
 
@@ -204,7 +202,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 ```
 {% endcode %}
 
-* #### Moving Alarm Settings
+* #### Alarm Settings
 
 Ability to move alarm settings of applications or systems
 
@@ -224,7 +222,7 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 
 ## Methods related to AdMob
 
-This is a command that allows you to manage in-app ad mob ads directly from the website.
+This is a command that allows you to manage in-app AdMob ads directly from the website.
 
 Please refer to the information below to use the ads.
 
@@ -248,7 +246,7 @@ swingWebViewPlugin.app.admob.showBanner('ca-app-pub-3940256099942544/6300978111'
 
 * #### End banner ads
 
-Command to stop ad mob banner ads in the application
+Command to stop AdMob banner ads in the application
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -258,7 +256,7 @@ swingWebViewPlugin.app.admob.closeBanner();
 
 * #### Show interstitial ads
 
-Commands to display ad mob interstitial ads in applications
+Commands to display AdMob interstitial ads in applications
 
 | Parameter | Explanation                | Example values                         |
 | --------- | -------------------------- | -------------------------------------- |
