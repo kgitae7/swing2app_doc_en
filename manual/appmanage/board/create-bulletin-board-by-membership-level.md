@@ -15,16 +15,52 @@ Therefore, dividing ratings by member and setting up bulletin boards is a freque
 2. Apply a grade to a member to what grade to apply to each member.
 3. Once you have set up the membership grade, set the authority for each grade on the board.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">**\[이용방법 정리]**</mark>
+
+**STEP.1 그룹 만들기**
+
+앱운영 페이지 → 푸시&회원 → 권한 그룹 설정 메뉴로 이동합니다.
+
+1\) \[권한그룹생성하기] 버튼을 선택하면, 권한 그룹 설정 창이 뜹니다.
+
+2\)그룹명, 3)그룹설명 입력 후 4)저장 버튼을 누르면 그룹생성이 완료됩니다.
+
+
+
+**STEP.2 게시판에서 권한 그룹 설정하기**
+
+앱운영 페이지 → 서비스관리 → 게시판관리 메뉴
+
+2\)게시판 생성 버튼 선택
+
+3\)게시판 및 기능설정 창 기본정보 설정(게시판이름, 게시판 UI선택 등)
+
+4\)게시판 권한 설정 항목: 글쓰기 권한, 글상세보기 권한, 목록 보기 권한 셋팅
+
+
+
+**STEP.3 사용자에게 그룹 적용하기**
+
+앱운영 페이지 → 푸시&회원 → 회원조회 메뉴로 이동합니다.
+
+1\)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.
+
+2\)현재 그룹정보 박스에서 변경할 그룹을 선택
+
+3\)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.1 Create a member group**</mark>
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/b44-e1587042417552.png)
 
 1. Go to **Manager.**
 2. Select **Push & Members.**
 3. Click on **Permission groups.**
 4. Click on **Create Permission Groups.**
-
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b44-e1587042417552.png)
 
 You can create your membership level from 1-9.\
 You can manage a total of 11 by operating grade (administrator) and guests (members who do not sign up after installing the app).
@@ -41,7 +77,7 @@ Let’s add a member group with 8, 7, and 6 levels
    **\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\
 
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.2 Apply Member Levels**</mark>
 

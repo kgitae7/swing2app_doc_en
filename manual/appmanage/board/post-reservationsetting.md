@@ -1,8 +1,10 @@
+---
+description: How to schedule a post
+---
+
 # Bulletin Board – Post Schedule Settings
 
-**How to schedule a post**
-
-![](https://support.swing2app.com/wp-content/uploads/2020/09/hdbdj.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 You can set a schedule when you create a post.
 
@@ -10,9 +12,9 @@ If you hang a reservation, your posts will be exposed in the app on a set date a
 
 Please check the manual for setting up a reservation when writing a post.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**1. How to use reservation settings**
+## **1. How to use reservation settings**
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/vhjj.png)
 
@@ -40,9 +42,11 @@ You can see the Set Up: Set Up Schedule feature under Create Post.
 
 
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 
-**2. Check your reservation** &#x20;
+
+## **2. Check your reservation** &#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/bnbhj.png)
 
@@ -50,19 +54,20 @@ If you look at the list of articles written, a clock-shaped icon will be display
 
 \*You can modify the appointment time before the registered reservation time. (You can click the pencil icon to modify it.)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**3. App Launch Screen) Check the Apps** &#x20;
+## **3. App Launch Screen) Check the Apps** &#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2020/09/Group-274@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-274@3x.png" alt=""><figcaption></figcaption></figure>
 
 If you run the app and go to the bulletin board, your comments won’t be exposed until the time you set up your reservation.
 
 When the reservation is set, the post is automatically exposed on the bulletin board.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-**\* Information**
+
+{% hint style="danger" %}
+**Information**
 
 1\. Reservation post setting can be set only when registering a new post.
 
@@ -75,3 +80,5 @@ Reservation settings cannot be made for already registered posts.
 The reservation setting is meaningless because the post is processed privately until the specified time, and converted to public when the reserved time is reached.
 
 4\. The reservation setting function is only available on the web dashboard-post management.
+{% endhint %}
+

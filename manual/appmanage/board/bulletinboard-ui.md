@@ -1,8 +1,10 @@
+---
+description: Bulletin board type and design style provided by Swing2App
+---
+
 # Bulletin board type, design style
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/bb2-1.png)
-
-**Bulletin board type and design style provided by Swing2App**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 Swing2App provides various styles of bulletin boards so that users can freely create bulletin boards.&#x20;
 

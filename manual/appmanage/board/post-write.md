@@ -1,8 +1,10 @@
+---
+description: Bulletin Boards – How to Write a Post
+---
+
 # Bulletin Board – How to Enter Posts
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/bb4.png)
-
-**Bulletin Boards – How to Write a Post**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 There are many ways to write a post.
 
@@ -12,9 +14,9 @@ There are many ways to write a post.
 
 Please check the manual entry method below.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1 Creating a post on the app operation page (admin page)**</mark>
+## STEP1. Creating a post on the app operation page (admin page)
 
 1. Go to **Manager.**
 2. Select **Posts.**
@@ -30,7 +32,7 @@ Post management is a list of the created bulletin board, select the bulletin boa
 
 ****
 
-<mark style="color:orange;">**1. Select Board and Write**</mark>
+### <mark style="color:blue;">**1. Select Board and Write**</mark>
 
 Posts offer 2 styles in Swing2App.
 
@@ -44,7 +46,7 @@ Posts offer 2 styles in Swing2App.
 
 <mark style="color:red;"></mark>
 
-<mark style="color:orange;">**▶ Writing in the usual way**</mark>
+### <mark style="color:blue;">**2. Writing in the usual way**</mark>
 
 1. Enter Post: The first line is entered as the title, and the following lines are displayed as the body.
 2. Attach Photo: You can attach an image by tapping the camera icon. \* Up to 100 images can be registered.
@@ -52,7 +54,7 @@ Posts offer 2 styles in Swing2App.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/normal.png)
 
-&#x20;<mark style="color:orange;">**▶ Writing with the HTML Editor**</mark>
+### &#x20;<mark style="color:blue;">**3. Writing with the HTML Editor**</mark>
 
 1. &#x20;Enter Title: Enter the title to be displayed on the bulletin board.
 2. Enter Post: Enter the content to be in the body.
@@ -71,7 +73,7 @@ Posts offer 2 styles in Swing2App.
 
 <mark style="color:green;">****</mark>
 
-<mark style="color:green;">**▶ Posting a video to a post**</mark>
+<mark style="color:green;">**3-1 Posting a video to a post**</mark>
 
 If you press the Insert Video button provided in the HTML editor writing, you can attach a video.
 
@@ -87,7 +89,7 @@ After confirming that the video is attached properly, attach the content and ima
 
 ***
 
-<mark style="color:orange;">**4. List of posts written**</mark>
+### <mark style="color:blue;">**4. List of posts written**</mark>
 
 You can check the created post directly on the post-management page.
 
@@ -104,8 +106,6 @@ Posts can be edited, deleted, and pushed.
 <mark style="color:orange;">**▶ You can check it more easily if you look at the image.**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_07\_16\_46\_45\_744.gif)
-
-***
 
 <mark style="color:green;">**1. Introduction of functions provided by post management**</mark>
 
@@ -165,16 +165,16 @@ You can choose video attachment, photo attachment, or file attachment.
 
 \*The functions applied to post management are three functions: video attachment, file attachment, and photo attachment!
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP. 2 Write a post in the app**</mark>
+## STEP2. Write a post in the app
 
 * If you confirmed how to write a post on the app operation page, this time I will tell you how to write a post in the app!
 * You can install the free version of the app as well as the apps released on the App Store and Play Store with your phone (Android phone available) or check with a preview.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_08\_13\_15\_41\_24\_550.gif)
 
-<mark style="color:orange;">**1.App Bulletin Board – Writing Posts**</mark>
+### <mark style="color:blue;">**1. App Bulletin Board – Writing Posts**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/write-.png)
 
@@ -190,19 +190,19 @@ When writing is completed, select the bottom right button to complete saving.
 
 <mark style="color:red;">**\*Instructions**</mark>
 
-<mark style="color:red;">**When attaching images in the app, you can only select 5 images at a time.**</mark>&#x20;
+<mark style="color:red;">When attaching images in the app, you can only select 5 images at a time.</mark>&#x20;
 
-**On the web’s app operation page, you can select all 100 at a time, but on a mobile phone, the photos are very large and it takes a long time to load the app.**&#x20;
+On the web’s app operation page, you can select all 100 at a time, but on a mobile phone, the photos are very large and it takes a long time to load the app.&#x20;
 
-**Therefore, we limit the number of uploads to one at a time to speed uploading.**
+Therefore, we limit the number of uploads to one at a time to speed uploading.
 
-**Similarly, you can attach up to 100 post-attached images, so **<mark style="color:red;">**if you need to attach more than 5, please register your images by dividing them into 5 images.**</mark>&#x20;
-
-
+Similarly, you can attach up to 100 post-attached images, so <mark style="color:red;">if you need to attach more than 5, please register your images by dividing them into 5 images.</mark>&#x20;
 
 
 
-<mark style="color:blue;">**2. Edit, delete, and share posts**</mark>
+
+
+### <mark style="color:blue;">**2. Edit, delete, and share posts**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/write\_post2.png)
 
@@ -212,11 +212,13 @@ You can check the edit, delete, and share functions by selecting the top three d
 
 You can also share the post with other applications – katok, mail, and more.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 App production page – creating in the virtual machine**</mark>
+## STEP3. App production page – creating in the virtual machine
 
 * **You can write on the bulletin board in the virtual machine.**
+
+****
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/write\_post.png)
 

@@ -1,12 +1,10 @@
+---
+description: Uploading files to bulletin boards
+---
+
 # Bulletin Board – How to Attach Files
 
-![](https://support.swing2app.com/wp-content/uploads/2021/03/bb\_image\_attach.png)
-
-**Uploading files to bulletin boards**
-
-We will show you how to register by attaching a file to your post.
-
-
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**\*\*Notes on file attachment\*\***</mark>
 

@@ -1,7 +1,5 @@
 # How to write a bulletin board
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/bb7.png)
-
 **How to write a bulletin board**
 
 **▶ What is the Bulletin Board?**\
@@ -24,9 +22,9 @@ Depending on the question, the user can enter and save the answer.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-269@3x.png)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**1. How to write a bulletin board**</mark>
+## <mark style="color:blue;">**1. How to write a bulletin board**</mark>
 
 1. Go to **Manager** and select **Services.** From the drop-down list select **Bulletin Board.**
 2. If you need to create a new board on the board management page, click on  **Create Bulletin Board** button. If a bulletin board is created, click the **Settings** button on the bulletin board.
@@ -36,7 +34,6 @@ Depending on the question, the user can enter and save the answer.
 
 **☞** [**\[Go to see the bulletin board making\]**](create-bulletinboard.md)
 
-\
 \
 
 
@@ -58,9 +55,39 @@ In the app creation page, you need to link the relevant bulletin board to the ap
 
 In the **Maker(V2)** page, you need to link the relevant bulletin board to the app to be reflected. Please check the way to apply to the app below.
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;">**2. Applying a bulletin board to the app**</mark>
 
 
-### <mark style="color:blue;">**2. Applying a bulletin board to the app**</mark>
+
+**앱제작 V3버전 이용시**
+
+<figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+
+
+
+**앱제작 V2버전 이용시**
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/form1-e1587481656372.png)
 
 On the Swing2App **Maker(V2),** go to the **Page menu.**&#x20;
 
@@ -72,9 +99,13 @@ On the Swing2App **Maker(V2),** go to the **Page menu.**&#x20;
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/form1-e1587481656372.png)
+****
 
-### <mark style="color:blue;">**3. App Launch Screen**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+****
+
+## <mark style="color:blue;">**3. App Launch Screen**</mark>
 
 Run the app and select the member self-introduction board.
 

@@ -31,7 +31,43 @@ The calendar can be used in various ways depending on the purpose of the app.
 
 ***
 
+<mark style="color:blue;">****</mark>
+
 ### <mark style="color:blue;">**STEP.2 Apply the Calendar Bulletin Board to the App**</mark>
+
+앱에 캘린더를 적용해주세요.&#x20;
+
+**1)앱제작 V3버전 이용시**
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 – STEP3 페이지 선택
+
+2\)메뉴 선택 \*메뉴를 아직 안만들었다면, + 모양 버튼 선택하여 메뉴 추가 할 수 있습니다.&#x20;
+
+3\)메뉴 이름을 입력해주세요.
+
+4\)페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[캘린더]를 선택해주세요.&#x20;
+
+6\) 만들어놓은 캘린더를 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+\*캘린더게시판을 먼저 만들어주세요.&#x20;
+
+만들어놓은 캘린더가 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.&#x20;
+
+\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리-게시판관리에서도 게시판을 만들 수 있습니다.
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
+
+
+
+**2)앱제작 V2버전 이용시**
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Go to **Maker(V2)** and click on **Page Menu.**
 
@@ -43,15 +79,15 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b70-e1587044168184.png)
+****
 
 ***
 
-<mark style="color:blue;">**How to use the calendar application**</mark>
+### <mark style="color:blue;">**STEP3. How to use the calendar application**</mark>
 
 **We will show you how to use various calendar applications in earnest.**
 
-****
+
 
 <mark style="color:blue;">**1. Calendar application 1: Everyone can create an event**</mark>
 

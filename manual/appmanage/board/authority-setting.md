@@ -61,7 +61,7 @@ Please check the posted link below on how to create a membership level.\
 > Therefore, if you want to use the bulletin board only at a certain level, check the Allow use of designated authority function.\
 > Board designated authority using methods, Please check the following links posted.
 >
-> **☞**[**View how to use the authority to designate a bulletin board**](authority.md)\
+> **☞**[**View how to use the authority to designate a bulletin board**](broken-reference)\
 >
 >
 > \

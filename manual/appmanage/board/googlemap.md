@@ -30,7 +30,7 @@ Below, we will tell you all about the process of creating a map board and applyi
 
 
 
-### <mark style="color:blue;">**STEP.1 Create Google Map Board**</mark>
+## STEP1. Create Google Map Board
 
 **Google Maps is a function provided by the bulletin board.**
 
@@ -43,7 +43,7 @@ Below, we will tell you all about the process of creating a map board and applyi
 5. Fill **Google Map API Key.**
 6. Click on **Save.**
 
-<mark style="color:orange;">**1. Board function setting – Basic setting**</mark>
+### <mark style="color:orange;">**1. Board function setting – Basic setting**</mark>
 
 **If you select the \[Create Board] button, the bulletin board and function setting window will appear.**
 
@@ -63,7 +63,7 @@ If you want to show it to all app users, set it as ‘Guest’.
 
 <mark style="color:orange;">\*Please select the manual link below for details on the authority to designate the bulletin board.</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](authority.md)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](broken-reference)
 
 6\) When all contents are entered, click the \[Save] button.
 
@@ -77,7 +77,7 @@ If you want to show it to all app users, set it as ‘Guest’.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%BA%A122.jpg)
 
-<mark style="color:orange;">**2. About Google Map**</mark>&#x20;
+### <mark style="color:orange;">**2. About Google Map**</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%903\_%EC%98%81%EB%AC%B8.png)
 
@@ -88,9 +88,9 @@ Unlike the existing map board, **Google Map bulletin board should go to \[Google
 
 Paste the copied API key and select Save.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%BA%A122.jpg)
 
-<mark style="color:orange;">**3. Advanced**</mark>
+
+### <mark style="color:orange;">**3. Advanced**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%902\_%EC%98%81%EB%AC%B8.png)
 
@@ -118,17 +118,20 @@ Then, we will register the location on the Google Map bulletin board!
 
 ***
 
-### <mark style="color:blue;">**STEP.2 Register your location on Google Maps**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP2. Register your location on Google Maps
 
 1. Go to **Manager.**
 2. Select **Posts.**
 3. Click on the Google maps bulletin board created.\
-   \
-   To register a location, use the search toolbar above to enter an address or search by business name (keyword).&#x20;
+
+
+To register a location, use the search toolbar above to enter an address or search by business name (keyword).&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google2-e1587041891963.png)
 
-<mark style="color:blue;">**1. Location registration**</mark>
+### <mark style="color:blue;">**1. Location registration**</mark>
 
 1. Enter the address or search by company name (keyword) in the search box at the top of Google Maps.&#x20;
 2. When the location is created from the address. Click on the Red Tag marked on Map.
@@ -136,13 +139,13 @@ Then, we will register the location on the Google Map bulletin board!
 
 \*Search for Tiffany & Co. and add them to my location so you can show them in Google Maps.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/google3.png)
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2018/09/google3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 &#x20;
 
-**2. Location Registration – Enter Details**
+### <mark style="color:blue;">**2. Location Registration – Enter Details**</mark>
 
 **In the Location Registration window, you can enter a detailed description.**
 
@@ -159,9 +162,9 @@ Then, we will register the location on the Google Map bulletin board!
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google4.png)
 
-<mark style="color:red;">**★ If you do not have a homepage, phone number, photos you do not need to enter. Only the items entered are displayed on the bulletin board.**</mark>
+<mark style="color:red;">★ If you do not have a homepage, phone number, photos you do not need to enter. Only the items entered are displayed on the bulletin board.</mark>
 
-<mark style="color:red;">**★ If you register only one location, you do not need to enter a priority.**</mark>\
+<mark style="color:red;">★ If you register only one location, you do not need to enter a priority.</mark>\
 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google5.png)
@@ -175,9 +178,45 @@ You can edit and delete the location, and if you have an app that manages multip
 
 
 
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP3. Apply the Map Board to the App
 
 
-### <mark style="color:blue;">**STEP.3 Apply the Map Board to the App**</mark>
+
+### <mark style="color:blue;">**1.앱제작 V3버전 이용시**</mark>
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작–STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[위치등록]을 선택해주세요.&#x20;
+
+6\) 만들어놓은 위치등록 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+<mark style="color:red;">\*위치등록게시판을 먼저 만들어주세요. 만들어놓은 위치등록 게시판이 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>&#x20;
+
+<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+
+해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+
+
+
+### <mark style="color:blue;">**2.앱제작 V2버전 이용시**</mark>
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/google6-e1587041928317.png)
 
 Go to **Maker(V2)** and select the **Page Menu.**
 
@@ -189,11 +228,11 @@ Go to **Maker(V2)** and select the **Page Menu.**
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/google6-e1587041928317.png)
-
 ***
 
-### <mark style="color:blue;">**STEP.4 App Launch screen**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP4. App Launch screen
 
 Let’s open the app and see how the Google Maps bulletin board looks like.
 

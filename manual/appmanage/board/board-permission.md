@@ -1,10 +1,12 @@
+---
+description: >-
+  How to set up bulletin board permissions: write, view details of articles, and
+  view lists
+---
+
 # How to set up Bulletin Board Permission
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/b23.png)
-
-**How to set up bulletin board permissions: write, view details of articles, and view lists**
-
-****
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**★ How to use the board permission setting?**</mark>
 
@@ -26,9 +28,9 @@ In this way, you can specify different groups of users depending on the bulletin
 
 Setting Bulletin Board permission is very simple!! Please check out how to use it.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1 Go to Bulletin Board Management**</mark>
+## STEP1. Go to Bulletin Board Management
 
 1. Go to **Manager.**
 2. Select **Services.**
@@ -44,7 +46,9 @@ Create a new bulletin board and set the permission!
 
 ***
 
-### <mark style="color:blue;">**STEP.2 Board and Feature Settings Window: Setting Permissions**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP2. Board and Feature Settings Window: Setting Permissions
 
 Click **Create Bulletin Board** button to open the board and feature settings window.
 
@@ -70,9 +74,9 @@ It is provided as an administrator, user (the user who has registered in the app
 
 So you can set bulletin board permission: by which group the permission is assigned, the post detail view, and the post list view.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 Group Operations TIP**</mark>
+## STEP3. Group Operations TIP
 
 In addition to the built-in groups (administrators, users, guests) in the app, operators can create and add new groups.
 
@@ -90,7 +94,55 @@ For more information on how to create a group and how to apply it to a bulletin 
 
 ***
 
-### <mark style="color:blue;">**STEP.4 App Launch Screen**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP4. 앱에 게시판 적용하기
+
+위에서 제작한 게시판을 앱에 적용해야 앱에서 이용 가능하겠죠?
+
+****
+
+**앱제작 V3버전)**
+
+<figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 – STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 **\[UI KIT]** 선택
+
+5\)**\[게시판]**을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+**앱제작 V2버전)**
+
+<figure><img src="../../../.gitbook/assets/en_게시판V2버전 (1).png" alt=""><figcaption></figcaption></figure>
+
+On the Swing2App Maker(V2), go to the Page menu.&#x20;
+
+1. From the menu set by default, click the **Add a category** to add a new menu.
+2. Edit the name of the added item in **Menu Name.**
+3. Select **Bulletin Board** in the **Menu Type.**
+4. Click on **Link Wizard**(pencil icon).
+5. Select the board from the list of Bulletin Boards in the Link Wizard window.
+6. Click on **Reflect.**
+7. Click on **Apply** and then **Save.**
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP5. App Launch Screen
+
+<mark style="color:orange;">****</mark>
 
 <mark style="color:orange;">**1. List View: Set User Permissions**</mark>
 

@@ -11,7 +11,9 @@ Report Post – We’ll report the post and let you know the process.
 
 
 
-### <mark style="color:blue;">**1. App Launch Screen – Report Post**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## 1. App Launch Screen – Report Post
 
 Bulletin Board – In the post detail view, in the upper right corner, there is an icon marked with three-dot.\
 Click on the icon and you will have 2 options, **Report** and **Share.**
@@ -22,17 +24,21 @@ After completing the input, select **OK** to complete the report.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/report.png)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. Delete administrator report or cancel report**</mark>
+## 2. Delete administrator report or cancel report
 
 \*If the user has reported, the administrator should be able to check the report to manage whether to delete or keep the post.
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/b36-e1587042033219.png)
+
+
 
 1. Go to **Manager.**
 2. Select **Posts.**
 3. Click on **Manage Reports** from the drop-down list.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b36-e1587042033219.png)
+
 
 Go to the **Managing Reports** page to see the post reported by users.\
 You can check the bulletin board name, publisher name, reporter, report date and time, report details.\
@@ -49,3 +55,4 @@ You can check the bulletin board name, publisher name, reporter, report date and
 If you delete or cancel the report, the article disappears from \[Report Article Management].&#x20;
 
 The article will also be deleted from the app.
+

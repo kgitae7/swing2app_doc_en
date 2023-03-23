@@ -29,7 +29,7 @@ There are a total of seven post option settings.
 
 Please refer to the image below for more details on the app launch screen.
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. Post Details – Show registrant name**</mark>
 
@@ -43,7 +43,7 @@ If it’s a notice board where only one administrator writes, you don’t have t
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/f.png)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. Post details – Registration date and time**</mark>
 
@@ -139,6 +139,25 @@ If it is a bulletin board that needs to show the number of posts, you can set it
 
 The number of views varies depending on the date and time of registration and whether the name of the registrant is displayed.
 
+
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;">**8. 게시물 정렬 순서- 내림차순, 오름차순**</mark>
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%98%B5%EC%85%98-%EC%97%85%EB%8E%832.png)
+
+**\*내림차순: 최신글 순서로 정렬**
+
+**\*오름차순: 오래된 글 순서로 정렬됩니다.**
+
+기본 셋팅은 ‘내림차순’으로 설정되어 있기 때문에 오름차순으로 이용할 경우 변경하여 이용이 가능합니다.
+
+
+
 If no option is set, the default settings will be applied.
 
 You can edit the creation date to make it invisible for your convenience, or to make only the registered person’s name invisible.
+
+
+

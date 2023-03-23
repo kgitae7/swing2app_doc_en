@@ -1,7 +1,5 @@
 # How to create a Form in Bulletin Board
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/bb6.png)
-
 **▶ What is the bulletin board form?** &#x20;
 
 If you put the questionnaire that the administrator wants, it is a bulletin board function that is provided in the set form.
@@ -32,7 +30,9 @@ You can take advantage of image attachments and calendar (date setting).&#x20;
 
 
 
-### <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to set up the bulletin board**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to set up the bulletin board**</mark>
 
 1. Go to **Manager** and select **Services.** From the drop-down list select **Bulletin Board.**
 2. If you need to create a new board on the board management page, click on  **Create Bulletin Board** button. If a bulletin board is created, click the **Settings** button on the bulletin board.
@@ -42,9 +42,9 @@ You can take advantage of image attachments and calendar (date setting).&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b27-e1587041340115-1-1.png)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**2. Bulletin Form**</mark>
+## <mark style="color:blue;">**2. Bulletin Form**</mark>
 
 In the bulletin board form, select and add the necessary items. If you need additional questions besides the items, you can add them by customizing them as per requirement.\
 1\. **Write Content:** Enter a message explaining how to write the board.\
@@ -98,7 +98,39 @@ In the app creation page, you need to link the relevant bulletin board to the ap
 
 ***
 
-### <mark style="color:blue;">**3. Applying a bulletin board to the app**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:blue;">**3. Applying a bulletin board to the app**</mark>
+
+
+
+앱제작 V3버전 이용시
+
+<figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+
+
+
+앱제작 V2버전 이용시
+
+<figure><img src="../../../.gitbook/assets/en_게시판V2버전.png" alt=""><figcaption></figcaption></figure>
 
 Go to **Maker(V2)** and click on **Page Menu.**
 
@@ -110,11 +142,9 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b10-e1587040361800.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-***
-
-<mark style="color:blue;">**4. App Launch screen**</mark>
+## <mark style="color:blue;">**4. App Launch screen**</mark>
 
 **Let’s check how the form appears through the phone app launch screen.**
 
@@ -132,7 +162,7 @@ Like the inquiry board, you can configure items to receive questions. It can be 
 
 I’ll check the bulletin board creation form after posting is complete.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/234@3x.png)
+<figure><img src="../../../.gitbook/assets/234@3x.png" alt=""><figcaption></figcaption></figure>
 
 You can see that the answer has been entered for each item. ^^
 

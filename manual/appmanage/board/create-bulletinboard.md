@@ -1,18 +1,28 @@
+---
+description: 게시판 만들기, 앱 메뉴에 게시판 추가하기 등의 전 과정 안내
+---
+
 # Create a bulletin board
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/BB1.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**1. Create Bulletin board**</mark>
+## STEP1. Create Bulletin board
+
+
+
+### <mark style="color:blue;">**1. 게시판 생성**</mark>
 
 To create Bulletin board, follow below step:
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/q.png)
 
 1. Go to **Manager.**
 2. Select **Services.**
 3. From the drop-down list, select **Bulletin Board.** A list of default Bulletin Board will open.
 4. Click **Create Bulletin Board** on the top right corner of the Bulletin Board page.
-5. **Bulletin Board and Feature Settings** window will open.&#x20;
+5. **Bulletin Board and Feature Settings** window will open
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/q.png)
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b2-e1587040209175.png)
 
@@ -50,7 +60,7 @@ Please follow the below steps:
 
 ☞ **** [**Go to Board Setting Permission**](board-permission.md)
 
-☞ **** [**Use Board Authority**](authority.md)****
+☞ **** [**Use Board Authority**](broken-reference)****
 
 
 
@@ -108,7 +118,15 @@ All of these functions are provided in a manual, so please check them together w
 
 <mark style="color:red;">**\*TIP:**</mark>** ** Next to each menu is Blue **?** icon(question mark) icons are listed. If you press the button, you will be taken to the manual.
 
-​
+
+
+### ​<mark style="color:blue;">4. 그외 게시판 기능 알아보기</mark>
+
+일반 게시판 생성 외에 게시판에 사용되는 다양한 기능들이 많아요.​
+
+해당 기능들은 모두 매뉴얼로 제공하고 있으니 운영시 함께 확인해주세요!
+
+
 
 <mark style="color:orange;">**1. Set Post**</mark>
 
@@ -178,9 +196,49 @@ You can set different search options for each app.
 
 ***
 
-**Step.2 Apply the bulletin board created in the app**
+****
 
-<mark style="color:blue;">**01. If you create a bulletin board, should you apply the bulletin board to the app?**</mark>
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## **STEP2. Apply the bulletin board created in the app**
+
+&#x20;<mark style="color:blue;">**If you create a bulletin board, should you apply the bulletin board to the app?**</mark>
+
+### 1.앱제작 V3버전 이용시
+
+<figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+
+3\) 메뉴 이름을 입력해주세요.
+
+4\) 페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+<mark style="color:red;">\*게시판은 내가 만들어놓지 않았는데 게시판이 있는 것을 확인할 수 있어요.</mark>&#x20;
+
+<mark style="color:red;">스윙투앱에서 샘플로 기본 제공해드리는 게시판이에요.</mark>&#x20;
+
+<mark style="color:red;">따라서 게시판을 이용하기 전에는 \*앱운영-서비스관리- 게시판관리에서 사용할 게시판만 만들어주시고 사용하지 않는 게시판은 삭제해주세요.</mark>&#x20;
+
+<mark style="color:red;">게시판 운영 정리를 모두 한 뒤 앱에 적용할 게시판을 등록해주세요.</mark>&#x20;
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+
+
+
+
+### 2.앱제작 V2버전 이용시
+
+![](https://support.swing2app.com/wp-content/uploads/2018/09/b10-e1587040361800.png)
 
 On the Swing2App Maker(V2), go to the Page menu.&#x20;
 
@@ -192,19 +250,29 @@ On the Swing2App Maker(V2), go to the Page menu.&#x20;
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b10-e1587040361800.png)
+****
 
 The bulletin board you have created must be applied to the app menus on the app production page so that it is reflected in the app.
 
-Don’t forget to apply your bulletin board to the app.
+Don’t forget to apply your bulletin board to the app
 
 For more information on how to enter a post please refer to the relevant post.
 
 **☞**[**Go to the post input method**](post-write.md)
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**★ Notice Board ★**</mark>
+## STEP3.앱 실행화면)게시판 적용 화면
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png)
+
+게시판은 다양한 UI 스타일을 제공하고 있기 때문에 게시판마다 이렇게 다른 스타일로 앱에서 보여지게 됩니다.
+
+메뉴에 연동한 게시판을 선택하면 \[목록보기] 화면이 보이고 글 제목이나 이미지를 탭하면  → \[글 상세보기]로 이동하는 구조입니다.
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP4.  Notice Board&#x20;
 
 1\) If you are new on Swing2App, you do not have to create a bulletin board.
 
@@ -237,3 +305,7 @@ If you attached an image into the text (body), the image is recognized as text a
 If you upload a large number of images, the capacity will be counted accordingly.
 
 \*You can check the usage of the app on the ** **<mark style="color:purple;">**Manager → Services → Resources**</mark>
+
+<mark style="color:purple;">****</mark>
+
+<mark style="color:purple;">****</mark>

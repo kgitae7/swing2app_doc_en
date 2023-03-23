@@ -1,8 +1,10 @@
+---
+description: How to use the secret bulletin board
+---
+
 # Create a Secret Bulletin Board (1:1 Customer Service)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/cust\_service-1.png)
-
-**How to use the secret bulletin board**
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 A secret bulletin board is a 1:1 customer service style that can only be viewed and answered by administrators, and other users will not be able to see what is written on the bulletin board.
 
@@ -12,9 +14,11 @@ In particular, you can write a piece of personal information that should not be 
 
 Please read the manual below to find out how to make a secret bulletin board (1:1 Customer Service).
 
-***
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.1  Create a Secret Bulletin Board**</mark>
+## STEP1.  Create a Secret Bulletin Board
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to **Manager,** select **Services** and click on **Bulletin Board** from the drop-down list
 2. Select **Create bulletin board** button on the bulletin board management page to open the bulletin board and function setting window.
@@ -22,7 +26,7 @@ Please read the manual below to find out how to make a secret bulletin board (1:
 4. Please select the **List.**
 5. Press **Save** to finish.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b95-e1587044021684-1.png)
+
 
 Here you can choose and create the bulletin board style you want.
 
@@ -36,8 +40,6 @@ If the service purpose is not ‘custom’, the bulletin board UI style and tole
 
 Therefore, **when creating a bulletin board, the service is always used! Please select ‘Custom’ and select the bulletin board from the UI function below to create it**.
 
-> ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
->
 > <mark style="color:orange;">3.Secret Bulletin Board (1:1 Customer Service)</mark>
 >
 > **Please select ‘Custom’ from the service, and then select UI functions below.**
@@ -57,9 +59,43 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b96.png)
 
-### <mark style="color:blue;">**STEP.2 Apply the Secret Bulletin Board Created in the App**</mark>
+<mark style="color:blue;">****</mark>
+
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+
+## STEP2. Apply the Secret Bulletin Board Created in the App
 
 **Once you’ve created a secret bulletin board, how to apply it to your app?**
+
+****
+
+### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+1\)앱제작 화면 - STEP3 페이지 선택
+
+2\)메뉴 선택
+
+\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
+
+3\)메뉴 이름을 입력해주세요.
+
+4\)페이지 디자인에서 \[UI KIT] 선택
+
+5\)\[게시판]을 선택해주세요.&#x20;
+
+6\) 등록할 비밀시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요.&#x20;
+
+(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+
+7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+
+<mark style="color:blue;">****</mark>
+
+### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Move to the Maker(V2) → Page menu.**
 
@@ -72,13 +108,13 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 7. Select the **Apply** button at the bottom.
 8. Select the **Save** button.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b97-e1587044070665.png)
+<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">**STEP.3 App Launch screen – 1:1 Customer Service**</mark>
+## STEP3. App Launch screen – 1:1 Customer Service
 
-**After applying the app, launch the app to see how the 1:1 customer service (secret bulletin board) works.**
+After applying the app, launch the app to see how the 1:1 customer service (secret bulletin board) works.
 
-**On the 1:1 Inquiry Board, you can check what you wrote.**
+On the 1:1 Inquiry Board, you can check what you wrote.
 
 ****
 
@@ -94,7 +130,7 @@ The app administrator can view all posts posted by users.
 
 <mark style="color:orange;">2. Sign in as another user (without creating a post)</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/sc1-1.png)
+<figure><img src="../../../.gitbook/assets/sc1-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/sc2-1.png)
 
