@@ -126,7 +126,7 @@ For more information on how to create a group and how to apply it to a bulletin 
 
 **앱제작 V2버전)**
 
-<figure><img src="../../../.gitbook/assets/en_게시판V2버전 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/en_게시판V2버전.png" alt=""><figcaption></figcaption></figure>
 
 On the Swing2App Maker(V2), go to the Page menu.&#x20;
 

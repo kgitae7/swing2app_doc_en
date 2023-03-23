@@ -130,7 +130,7 @@ In the app creation page, you need to link the relevant bulletin board to the ap
 
 앱제작 V2버전 이용시
 
-<figure><img src="../../../.gitbook/assets/en_게시판V2버전.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/en_게시판V2버전 (1).png" alt=""><figcaption></figcaption></figure>
 
 Go to **Maker(V2)** and click on **Page Menu.**
 

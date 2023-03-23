@@ -340,7 +340,7 @@
 * [Event](event.md)
 * [구글 개발자-비즈니스 계정 만들기](undefined.md)
 * [푸시 발송 관련 FAQ](faq.md)
-* [구글 개발자 계정 본인 인증](undefined-1.md)
+* [Google Developer Account Identity Verification](google-developer-account-identity-verification.md)
 * [Move a post](move-a-post.md)
 * [Create a link for a post](create-a-link-for-a-post.md)
 * [Server Side API Specifications](server-side-api-specifications/README.md)
