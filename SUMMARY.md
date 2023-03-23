@@ -338,7 +338,7 @@
 ***
 
 * [Event](event.md)
-* [구글 개발자-비즈니스 계정 만들기](undefined.md)
+* [Create a Google Developer - Business Account](create-a-google-developer-business-account.md)
 * [푸시 발송 관련 FAQ](faq.md)
 * [Google Developer Account Identity Verification](google-developer-account-identity-verification.md)
 * [Move a post](move-a-post.md)
