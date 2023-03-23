@@ -1,16 +1,16 @@
-# 푸시 API를 이용하여 푸시 발송하기
+# Sending a push using the Push API
 
-<mark style="color:blue;">푸시 API 를 이용하여 스윙투앱 푸시 발송하기</mark>
+<mark style="color:blue;">Using the push API to send swing-to-app push</mark>
 
-스윙투앱에서는 대시보드에서 발송하는 푸시 메시지를 API 형태로 발송하는 것을 다음과 같이 제공하고 있습니다.
+Swing to App provides the following to send push messages sent from the dashboard in the form of APIs.
 
-사전에 협의되지 않은 방식의 API 사용과 , 무분별한 대량발송의 경우 사용에 제한을 받을 수 있습니다.
+In the case of API use not agreed in advance and indiscriminate mass shipment, the use may be restricted.
 
-해당 API 는 유료앱 사용자에게 제공되는 항목 입니다.
+This API is available to users of paid apps.
 
-* API 명세서
+* API Specification
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="스윙투앱앱으로 푸시를 발송하기 위한 API" %}
+{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="API for sending pushes to swing-to-app apps" %}
 {% swagger-description %}
 <mark style="color:orange;">
 
@@ -105,7 +105,7 @@ messageImageUrl:이미지 주소
 {% endswagger-response %}
 {% endswagger %}
 
-* Code 예제
+* Code example
 
 {% tabs %}
 {% tab title="Javascript-jQuery" %}
@@ -187,7 +187,7 @@ echo $response;
 
 ***
 
-<mark style="color:blue;">\[javascript 구현 예시 – 전체발송]</mark>
+<mark style="color:blue;">\[JavaScript Implementation Example – Send All]</mark>
 
 ```javascript
 var apiUserId = "help@swing2app.co.kr";
@@ -217,7 +217,7 @@ $.ajax({
 });
 ```
 
-<mark style="color:blue;">\[javascript 구현 예시 – 개별발송]</mark>
+<mark style="color:blue;">\[JavaScript Implementation Example – Individual Shipping]</mark>
 
 ```javascript
 var apiUserId = "help@swing2app.co.kr";
