@@ -1,30 +1,30 @@
-# Create a link to a post
+# Create a link for a post
 
 ## 1. Create a link in Manage posts
 
-**Select → board from the app operation page → Manage posts → select HTML editor writing**
+**Select a board from → the app Maker V3 page → Step 3 Page → Select the HTML Editor option**
 
-\*If you link a post to a board, select the board to link.
+\*If you want to link a post to a board, then first select the board and then link the post to it.
 
 \*If you only want to create a link and copy it to another place, you can select any board.
 
-(Since you are only creating a link, it doesn't matter which board you go to and write)
+(Since you are only creating a link, it doesn't matter which board pick to write post)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%A7%81%ED%81%AC%EC%83%9D%EC%84%B11.png)
 
-1\) Select the \[Insert link] button from the top post option bar.
+1\) Select the \[Insert link] button from the option bar.
 
 2\. Select the Link Wizard button.
 
-3\. In the Link Wizard window, tap \[Post].
+3\. In the Link Wizard window, click on \[Post].
 
 4\) Search for the post you want to link to. (Search by post title)
 
-5\) Select the Reflect button.
+5\) Click on the Reflect button.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%A7%81%ED%81%AC%EC%83%9D%EC%84%B12.png)
 
-6\. Select the \[Insert] button.
+6\. Click on the \[Insert] button.
 
 7\)On the post creation screen, you can see that a link to the post has been created.
 
@@ -34,7 +34,7 @@ Please copy the link and use it.
 
 ## 2. How can I use it?
 
-You can link all posts from the link wizard to the post search.
+You can link all posts from the link wizard to the board.
 
 If you link directly from a category, you can't link the post directly, so you can import the created link and apply it as a web link.
 
@@ -44,7 +44,7 @@ If you link directly from a category, you can't link the post directly, so you c
 
 2\. Select Menu.
 
-\*If you haven't created a menu, please create a new one. (Select the + shape button to add menu)
+\*If you haven't created a menu, please create a new one. (Select the \[+] shape button to add the menu)
 
 3\) Enter a menu name.
 

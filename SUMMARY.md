@@ -342,7 +342,7 @@
 * [푸시 발송 관련 FAQ](faq.md)
 * [구글 개발자 계정 본인 인증](undefined-1.md)
 * [게시물 이동](undefined-2.md)
-* [Create a link to a post](create-a-link-to-a-post.md)
+* [Create a link for a post](create-a-link-for-a-post.md)
 * [Server Side API Specifications](server-side-api-specifications/README.md)
   * [Sending a push using the Push API](server-side-api-specifications/sending-a-push-using-the-push-api.md)
 * [Webview (webview, push only) development tool](webview-webview-push-only-development-tool/README.md)
