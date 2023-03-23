@@ -1,14 +1,14 @@
 # Website Member Integration Guide
 
-Member linkage method (registering web users to swing to app service) Website members
+Website members linkage method (registering web users to Swing2App service).&#x20;
 
-It is a task to register by matching the device to the swing to app DB.
+It is a task to register by matching the device to the Swing2App DB.
 
 We request JavaScript insertion for member linkage.
 
 Please insert the following sentence in the common header (so that the script fits on all screens).
 
-The user ID below refers to the user you use on the web.
+The user ID below refers to your web users.&#x20;
 
 ### - Code inserted when logged in
 
