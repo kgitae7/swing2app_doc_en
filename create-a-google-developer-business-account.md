@@ -25,17 +25,17 @@ The account that paid the $25 registration fee on the Google console becomes a d
 
 <mark style="color:blue;">\*\*\*\*</mark>
 
-1. Google Play 개발자 계정을 만들려면 만 18세 이상이어야 합니다.
-2. 구글 개발자 계정 등록시, 여러 차례 인증을 거칩니다. 이메일 주소 인증, 핸드폰 번호 인증 등의 과정이 여러번 진행되기 때문에 반드시 실제 이용가능한 이메일주소, 연락처를 이용해주셔야 합니다.
-3. 본인 인증이 가능해야 합니다. 경우에 따라 구글에서 본인 법적 이름으로 발급된 유효한 국가 발급 신분증과 신용카드가 모두 요구할 수 있습니다.
-4. 구글 개발자 등록비 25달러가 있습니다. 한 번만 청구되며, 아래 목록에 있는 신용 또는 체크카드로 결제 가능합니다. (카드로만 결제됩니다)
-5. 본인 인증이 되지 않거나, 잘못된 정보를 제공하는 경우 등록 수수료가 환불되지 않습니다.
-6. 아래 목록에 있는 신용카드 또는 체크카드로 결제할 수 있습니다.
+1. To create a Google Play developer account, you must be at least 18 years old.
+2. When you register for a Google developer account, you will be verified several times. Since the process of verifying your email address and verifying your mobile phone number is carried out several times, you must use an email address and contact information that is actually available.
+3. You must be able to verify your identity. In some cases, Google may require both a valid national ID and a credit card issued in your legal name.
+4. There is a $25 Google developer registration fee. You will only be charged once, and you can pay with any of the credit or debit cards listed below. (Payment by card only)
+5. If you cannot verify your identity or provide incorrect information, the registration fee will not be refunded.
+6. You can pay with any of the credit or debit cards listed below.
 7. Mastercard
 8. Visa
 9. American Express
-10. Discover(미국만 해당)
-11. Visa Electron(미국 이외의 지역만 해당)
+10. Discover (US only)
+11. Visa Electron (outside the United States only)
 
 **Note:** Prepaid cards are not accepted. Card types may vary by region..
 {% endhint %}
