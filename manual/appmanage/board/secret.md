@@ -18,7 +18,7 @@ Please read the manual below to find out how to make a secret bulletin board (1:
 
 ## STEP1.  Create a Secret Bulletin Board
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to **Manager,** select **Services** and click on **Bulletin Board** from the drop-down list
 2. Select **Create bulletin board** button on the bulletin board management page to open the bulletin board and function setting window.
@@ -71,7 +71,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 - STEP3 페이지 선택
 
@@ -95,7 +95,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Move to the Maker(V2) → Page menu.**
 
@@ -130,7 +130,7 @@ The app administrator can view all posts posted by users.
 
 <mark style="color:orange;">2. Sign in as another user (without creating a post)</mark>
 
-<figure><img src="../../../.gitbook/assets/sc1-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sc1-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/sc2-1.png)
 

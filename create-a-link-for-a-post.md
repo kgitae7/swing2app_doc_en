@@ -40,7 +40,7 @@ If you link directly from a category, you can't link the post directly, so you c
 
 ### <mark style="color:blue;">1)</mark><mark style="color:blue;">When using app production V3 version</mark>
 
-1\) App creation screen - Select the STEP3 page
+1\) App Maker V3 screen - Select the STEP3 page
 
 2\. Select Menu.
 
@@ -48,13 +48,13 @@ If you link directly from a category, you can't link the post directly, so you c
 
 3\) Enter a menu name.
 
-4\. Select \[Link] from the page design.
+4\. Select \[Web Link] from the page design.
 
 5\) Select \[Internet Address].
 
 6\) Paste the link to the post you copied earlier in the website address field.
 
-7\. Tap the \[Apply URL] button.
+7\. Click on the \[Apply URL] button.
 
 8\) Press the \[Save] button to finish.
 
@@ -80,7 +80,7 @@ If you link directly from a category, you can't link the post directly, so you c
 
 8\. Press the \[Save] button and you're done.
 
-\*Icons are optional, please select only when applying an icon in front of the menu.
+\*Icons are optional.
 
 ### <mark style="color:blue;">**3)**</mark><mark style="color:blue;">App launch screen</mark>
 
