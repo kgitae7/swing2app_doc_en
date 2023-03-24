@@ -15,7 +15,7 @@ See how to create a Google Business developer account.
 
 **\*Google Play Developer Console site** <mark style="color:blue;">**https://play.google.com/console/developers**</mark>
 
-\*Just because you have a regular Gmail account doesn't make it a Google developer account!
+\*Just because you have a regular Gmail account, doesn't make it a Google developer account!
 
 The account that paid the $25 registration fee on the Google console becomes a developer account\~!
 {% endhint %}
@@ -37,7 +37,7 @@ The account that paid the $25 registration fee on the Google console becomes a d
 10. Discover (US only)
 11. Visa Electron (outside the United States only)
 
-**Note:** Prepaid cards are not accepted. Card types may vary by region..
+**Note:** Prepaid cards are not accepted. Card types may vary by region.
 {% endhint %}
 
 **\*For Google individual developer account registration, please check the manual guide below.**
@@ -50,7 +50,7 @@ The account that paid the $25 registration fee on the Google console becomes a d
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%951.png" alt=""><figcaption></figcaption></figure>
 
-Select Create an account – Select a business manager account and select the \[Next] button.
+Select Create an account – Select a business manager account and click on the \[Next] button.
 
 ### STEP1.Enter account information
 
@@ -62,9 +62,9 @@ Select Create an account – Select a business manager account and select the \[
 
 3\. Enter your password.
 
-4\. Tap Next.
+4\. Click on the Next button.
 
-If you don't use a work email address, you can create one by selecting "Create a new Gmail address."
+If you don't have a work email address, you can create one by selecting "Create a new Gmail address."
 
 ​
 
@@ -74,23 +74,23 @@ If you don't use a work email address, you can create one by selecting "Create a
 
 A verification code will be sent to the email address you entered above.
 
-Enter the code number, and then select the \[Next] button.
+Enter the code number, and then click on the \[Next] button.
 
 ​
 
-### STEP3.Enter basic information such as phone numb
+### STEP3.Enter basic information such as phone number
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%954.png" alt=""><figcaption></figcaption></figure>
 
-1\) Enter your mobile phone number \*Here, the country code is displayed in front of you, so please enter only the number without the country code.
+1\) Enter your mobile phone number \*Here, the country code is already set, so please enter the number without the country code.
 
 2\) Select your date of birth
 
 3\) Select the gender
 
-4\. Tap Next.
+4\. Click on the \[Next] button.
 
-It's called optional, but you'll need to enter everything to move on to the next.
+Some information is optional, but you'll need to enter everything to move on to the next.
 
 For the phone number, you need to get a verification code, so please enter the mobile phone number of the actual account manager.
 
@@ -100,17 +100,17 @@ For the phone number, you need to get a verification code, so please enter the m
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%955.png" alt=""><figcaption></figcaption></figure>
 
-Select \[Send] verification code to the phone number you entered.
+Click on the \[Send] verification code to the phone number you entered.
 
 ​
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%956.png" alt=""><figcaption></figcaption></figure>
 
-Enter the verification code (code) that came to your phone, and then select the \[OK] button.
+Enter the verification code (code) that came to your phone, and then click the \[OK] button.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%957.png)
 
-Select Skip
+Click Skip
 
 ### STEP5.Select Create Account
 
@@ -118,13 +118,13 @@ Select Skip
 
 Please check all agree to Google's Terms of Service.
 
-Please select \[Create Account].
+Please click on the \[Create Account].
 
 ## 2. Create a Play Console developer account
 
 ​
 
-You have entered your account basic information,
+You have entered your account's basic information,
 
 Now is the step to enter the organization (institution/organization) information.
 
@@ -134,7 +134,7 @@ Now is the step to enter the organization (institution/organization) information
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%959.png" alt=""><figcaption></figcaption></figure>
 
-Organization/Organization \[Get Started] Please select.
+Click on the Organization/Organization \[Get Started] button.
 
 ​
 
@@ -144,19 +144,19 @@ Organization/Organization \[Get Started] Please select.
 
 1\)Organization name: Please enter the actual company name and legal official name.
 
-2\) Select Organization Type: Select the square arrow to select the correct type.
+2\) Select Organization Type:  Click on the drop-down arrow to select the correct type.
 
-3\) Organization size: Select the square arrow to select the correct type.
+3\) Organization size: Click on the drop-down arrow to select the correct type.
 
 4\) Organization address: Enter the country, state/province, and city name according to the item
 
 5\) Organization phone number: Please enter the company's primary contact information.\*Enter including country code Example)+821012345678
 
-(Even if it is not necessarily the customer center number, you can enter the operator's personal mobile phone number)
+(If you don't have a customer center number, you can enter the operator's personal mobile phone number)
 
 6\) Organization website: Enter the URL of the website operated by the company. If you don't have a site, check 'No website'.
 
-Precautions)
+<mark style="color:red;">**Precautions)**</mark>
 
 This information does not affect your eligibility for the Developer Program.
 
@@ -170,7 +170,7 @@ These are just the details that Google collects.
 
 1\)Play Console and Android environment: Enter your experience using Play Console and Android.
 
-2\) Another Google Account: This item will ask if you have used Play Console with a Google account other than the one you are registering.
+2\) Another Google Account: If you have used Play Console with a Google account other than the one you are registering.
 
 \-Check 'No' if there is none.
 
@@ -178,7 +178,7 @@ These are just the details that Google collects.
 
 3\) If there is, please enter a different Google email address and authenticate. Once your email address is verified, you will be moved on.
 
-4\. Tap Next.
+4\. Click on the Next button.
 
 ​
 
@@ -190,17 +190,17 @@ These are just the details that Google collects.
 
 2\) Contact name: Enter the name of the person in charge who runs the account, Google Play is not displayed.
 
-3\)Contact email address: Enter the same email address as the company domain, and it must be different from the email address you are registering now. e.g. Swing-to-App domain: swing2app.co.kr / Email address: help@swing2app.co.kr
+3\)Contact email address: Enter the same email address as the company domain, which must differ from the email address you are registering now. e.g. Swing2App domain: swing2app.co.kr / Email address: help@swing2app.co.kr
 
-4\. Tap Verify email address.
+4\. Click on the Verify email address.
 
 5\. Select your preferred language.
 
-6\) Contact phone number: Enter the country code and enter the contact information. Example)+821012345678
+6\) Contact phone number: Enter the country code and contact information. Example)+821012345678
 
-7\. Tap Confirm phone number.
+7\. Click on Confirm phone number.
 
-8\) Select \[Next].
+8\) Click on the \[Next] button.
 
 Your email address and phone number must be verified before you can move on to the next one.
 
@@ -210,13 +210,13 @@ Your email address and phone number must be verified before you can move on to t
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%9513.png" alt=""><figcaption></figcaption></figure>
 
-1\) Check the number of apps: This is a question asking how many apps you will publish on Google Play in the future.
+1\) Check the number of apps: This question asks how many apps you will publish on Google Play in the future.
 
-2\)Monetize on Google Play: Ask if you plan to monetize your app.
+2\)Monetize on Google Play: This question asks if you plan to monetize your app.
 
 3\) App category: A question asking if you plan to submit the following types of apps: \*Unless it is a special case, please check 'Not applicable'.
 
-4\. Tap Next.
+4\. Click on the \[Next] button.
 
 ​
 
@@ -296,7 +296,7 @@ When the button is selected,
 
 You will be taken to the Google Play console page, and you will see a message that says you need to verify your identity, as shown in the image above.
 
-Select \[Verify Identity].
+Click on the \[Verify Identity] option.
 
 ​
 
@@ -312,7 +312,7 @@ The first thing you will do is verify your identity.
 
 Enter your residential address, and select South Korea for Country/Region.
 
-3.Select the Submit button.
+3\. Click on the Submit button.
 
 {% hint style="danger" %}
 <mark style="color:red;">\*Caution\*</mark>
@@ -323,7 +323,7 @@ For example, in the developer account input, you enter the country as "United St
 
 If the countries entered are different, Google will not process identity verification. \_This policy is to prevent illegal copying of accounts such as ghost accounts.
 
-Therefore, please enter the same country and addre
+Therefore, please enter the same country and address.
 {% endhint %}
 
 ### STEP3. Enter your Verification Code Number (OTP)
@@ -332,13 +332,13 @@ Therefore, please enter the same country and addre
 
 As the last authentication, a verification code (code) is sent to the mobile phone number entered by the user.
 
-Enter the 6-digit code sent to you and press the \[Confirm] button..
+Enter the 6-digit code sent to you and press the \[Confirm] button.
 
 ### STEP4.VERIFICATION COMPLETE
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure>
 
-Once the OTP code registration is completed, all identity verification is completed..
+Once the OTP code registration is completed, all identity verification is completed.
 
 ​
 
@@ -348,7 +348,7 @@ Once the OTP code registration is completed, all identity verification is comple
 
 Play console access is now available.
 
-You must complete identity verification before you can register the app.
+You must complete identity verification before you can register for the app.
 
 If identity verification is not completed, you will not be able to register the app even if the console is created.
 
@@ -359,29 +359,29 @@ In some cases, you may not be prompted to verify your identity.
 In this case, you can register the app immediately.
 
 {% hint style="danger" %}
-Important Instructions
+the Important Instructions
 
 1\)In order to register and launch the Play Store app, the user must have a Google developer account, and it is required, not optional.
 
 2\)The developer registration fee is $25, which is a fee payable to Google. Once you pay, you can use it for life.
 
-3\) The Google developer registration fee is not related to the swing-to-app service. (It is not related to the Swing2App service, and please contact Google customer service for all refunds.)
+3\) The Google developer registration fee is not related to the Swing2App service. (Please contact Google customer service for all refunds.)
 
-4\)Google developer accounts are not created in Swing-to-App. (We cannot make it because we need to enter personal information and verify your identity)
+4\)Google developer accounts are not created in Swing2App. (We cannot make it because we need to enter personal information and verify your identity)
 
-5\)When you want to release an app made with Swing to App on the Play Store, you can only release a paid app.
+5\)When you want to release an app made with Swing2App on the Play Store, you can only release a paid app.
 
 The free version of the app is a version that cannot be commercialized, so if you want to release it in the store, please purchase a paid app subscription.
 
-6\) When registering an app created by Swing to App on the Play Store, if it is difficult to do it yourself, you can upload it as an agent.
+6\) When registering an app created by Swing2App on the Play Store, if you find it difficult to do it yourself, the Swing2App team can upload your app on your behalf.
 
-For related information, please check the manual on how to apply for upload to the Play Store.
+For related information, please check the manual on how to apply for Play Store upload.
 
 **☞ \[See how to apply for Play Store upload]**
 
 7\) The developer account you created can register the app without any restrictions.
 
-However, if you violate the policy, you may delete the app and delete your developer account, so please be sure to check the Google Play policy.
+However, if you violate the policy, the Play store may delete your app and developer account, so please be sure to check the Google Play policy.
 {% endhint %}
 
 <mark style="color:red;">\*\*\*\*</mark>
