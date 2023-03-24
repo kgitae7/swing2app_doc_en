@@ -42,7 +42,7 @@ See how to use the post search menu.
 
 The Post Search menu in the app – let’s see how integrated post search looks.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 If you select the \[Post Search] menu you created, you will see a list of all bulletin posts applied to the app as shown in the image above.
 

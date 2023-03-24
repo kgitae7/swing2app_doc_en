@@ -17,14 +17,14 @@ Identity verification is not required for everyone when registering for a Google
 
 Identity verification varies from user to user, such as when you have an organizational (business) account, when you need to verify your identity, or when you first register for an account.
 
-Therefore, if you do not verify your identity when registering an account, everything is complete, and you can register the app immediately.
+Therefore, if you do not verify your identity when registering an account, you may not be able to register the app immediately.
 {% endhint %}
 
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
 
 In most cases, you only see the completion message that the account has been created, and then close the site.
 
-Don't end here! Select the <mark style="color:blue;">**\[Go to Play Console]**</mark> button.
+Don't end here! Click on the <mark style="color:blue;">**\[Go to Play Console]**</mark> button.
 
 ## **STEP1.** Identity verification
 
@@ -50,7 +50,7 @@ The first thing you will do is verify your identity.
 
 Enter your residential address, and select South Korea for the Country/Region.
 
-3.Select the Submit button.
+3\. Click on the Submit button.
 
 {% hint style="danger" %}
 **\***_**Caution**_**\***
