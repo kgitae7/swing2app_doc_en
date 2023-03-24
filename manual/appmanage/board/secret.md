@@ -71,7 +71,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 1\)앱제작 화면 - STEP3 페이지 선택
 
@@ -95,7 +95,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Move to the Maker(V2) → Page menu.**
 

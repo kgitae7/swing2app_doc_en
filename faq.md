@@ -50,15 +50,9 @@ Yes, pushes will be sent to all users who have installed the app. In a regular p
 
 <details>
 
-<summary>푸시 발송시 웹링크 혹은 앱 내 특정 페이지로 이동하게끔 적용이 가능한가요?</summary>
+<summary>When sending a push, is it possible to apply it to go to a web link or a specific page in the app?</summary>
 
-﻿네 가능합니다.
-
-푸시 보내기 메뉴에서 \[링크 마법사] 버튼을 선택하여 어떤 페이지 혹은 메뉴로 이동할지 선택할 수 있습니다.
-
-\*푸시전용앱은 링크 마법사 사용이 불가합니다.
-
-해당 앱은 링크 등록란에 웹링크 주소(URL)을 직접 입력하여 적용할 수 있습니다.
+Yes, you can. You can select the \[Link Wizard] button from the Send Push menu to choose which page or menu to go to. \*Push-only apps cannot use the link wizard. The app can be applied by directly entering the web link address (URL) in the link registration field.
 
 ﻿
 
@@ -66,37 +60,17 @@ Yes, pushes will be sent to all users who have installed the app. In a regular p
 
 <details>
 
-<summary><strong>[푸시전용앱]푸시 발송시 회원을 선택할 수 없나요?</strong></summary>
+<summary>[Push-only app] Can I not select a member when sending a push?</summary>
 
-푸시앱에서 푸시 발송 시 회원을 선택할 수 없고 전체발송만 가능합니다.
-
-푸시전용앱은 웹사이트(홈페이지)링크를 그대로 앱에 적용해서 만든앱이기 때문에 앱에서 가입하는 회원이 없어요.​
-
-따라서 앱에서는 회원을 인식할 수 없기 때문에 회원을 선택할 수 없고, 전체발송만 가능합니다.
-
-그리고 모두 ‘손님’으로 표시됩니다.
+When sending a push from the push app, you cannot select a member, only send the entire service. The push-only app is an app created by applying the website (homepage) link to the app as it is, so there are no members signing up for the app. Therefore, since the app cannot recognize the member, the member cannot be selected, and only the entire shipment is possible. And all are marked as 'guests'.
 
 </details>
 
 <details>
 
-<summary>[푸시전용앱] 회원 연동을 통해 스윙투앱 푸시를 연동할 수 있나요? (푸시 API연동)</summary>
+<summary>Can I link swing-to-app push through [Push-only App] member linkage? (Push API integration)</summary>
 
-﻿네 가능합니다.
-
-유료앱 이용자에 한해 제공이 가능하며, 요청주시면 푸시 API 연동 가이드를 보내드립니다.
-
-직접 셋팅하여 이용하실 수 있구요. 회원 연동이 되면 앱운영-회원조회에서 가입된 회원이 연동됩니다.
-
-또한 푸시 발송도 원하는 회원만 선택하여 발송할 수 있습니다.
-
-직접 셋팅이 불가하면 저희쪽으로 작업 대행 요청 주셔도 됩니다. 작업 대행시 개발비가 발생됩니다.
-
-해당 기능이 필요하실 경우 메일로 문의주세요. 안내 도와드리겠습니다.
-
-\*메일주소:help@swing2app.co.kr
-
-\*무료앱에는 제공이 불가하며, 유료앱 이용자분들에게만 제공됩니다.
+﻿Yes you can. It can only be provided to paid app users, and if requested, we will send you a push API integration guide. You can set it up and use it yourself. When the member is linked, the registered member in the app operation-member inquiry is linked. In addition, push sending can be sent only to the members who want to send it. If you can't set it yourself, you can ask us to do the work. Development costs are incurred when the work is commissioned. If you need this feature, please contact us by email. We're here to help you with the instructions. \*E-mail Address:help@swing2app.co.kr \*It cannot be provided in the free app, and is only available to paid app users.
 
 ﻿
 
@@ -104,172 +78,103 @@ Yes, pushes will be sent to all users who have installed the app. In a regular p
 
 <details>
 
-<summary><strong>[푸시전용앱]푸시 히스토리 – 발송내역에서 “발송 회원수”는 왜 항상 1명 혹은 2명만 뜨나요?</strong></summary>
+<summary>[Push-only app] push history – Why does "number of sending members" always appear in the shipping history only 1 or 2 people?</summary>
 
-푸시전용앱은 웹사이트(홈페이지)링크를 그대로 앱에 적용해서 만든앱이기 때문에 앱에서 가입하는 회원이 없어요.​
-
-따라서 앱에서는 회원을 인식할 수 없기 때문에 회원조회에서도 손님만 확인되며, 앱 회원수 자체가 없습니다.
-
-푸시 발송 내역 역시 인식되는 회원수 자체가 없기 때문에 발송 회원수가 1명으로 자동 셋팅됩니다.
-
-2명으로 보이는 경우, 테스트 기기 등록을 하셨을 경우 추가되어 2명으로 보여지게 됩니다.
-
-따라서 푸시앱 이용자분들은 발송 회원수가 의미가 없습니다.
+The push-only app is an app created by applying the website (homepage) link to the app as it is, so there are no members signing up in the app. Therefore, since the app cannot recognize members, only the customer is identified in the member view, and there is no number of app members itself. Since the push sending history is also not recognized, the number of sending members is automatically set to one. If you appear to be 2 people, if you have registered a test device, you will be added and shown as 2 people. Therefore, for push app users, the number of sending members is meaningless.
 
 </details>
 
 <details>
 
-<summary><strong>[푸시전용앱]푸시 발송시 "링크마법사" 기능은 사용할 수 없나요?</strong></summary>
+<summary>[Push-only app] When sending push, is the "Link Wizard" function not available?</summary>
 
-네 푸시앱은 웹사이트로 구성된 앱이며, 앱에 연동되는 메뉴가 없기 때문에 링크마법사는 이용할 수 없구요.
-
-\[링크등록] 입력란에 웹링크주소 (URL)만 넣어서 발송이 가능합니다.
-
-해당 기능은 일반 프로토타입으로 제작된 앱에서만 이용 가능합니다.
+Yes, the push app is an app composed of websites, and there is no menu linked to the app, so you cannot use the link wizard. You can send by entering only the web link address (URL) in the \[Link registration] field. This feature is only available for regular prototyped apps.
 
 </details>
 
 <details>
 
-<summary><strong>[푸시전용앱]푸시 발송시 "알림 확인 후 푸시 메시지 표시" 기능은 사용할 수 없나요?</strong></summary>
+<summary>[Push-only app] When sending a push, is the "Show push message after checking notification" function not available?</summary>
 
-해당 기능 역시 일반 프로토타입으로 제작된 앱에서만 이용이 가능하구요.
-
-푸시전용앱으로 제작된 앱에서는 이용이 불가합니다.
+This feature is also only available in apps built as regular prototypes. It cannot be used in apps created with push-only apps.
 
 </details>
 
 <details>
 
-<summary><strong>푸시히스토리에서 “발송 회원수”, “발송 장치수” 차이는 무엇인가요?</strong></summary>
+<summary>What is the difference between the "number of sending members" and "number of sending devices" in the push history?</summary>
 
-\-발송 회원수 : 푸시가 발송된 회원수 **\*회원가입을 한 회원수이며 손님은 집계되지 않습니다.**
-
-\*푸시앱은 회원이 없으므로 집계가 되지 않습니다 1 혹은 2로 기재됨
-
-\-발송 장치수: 핸드폰 기기로 실제 발송된 수 **\*푸시가 실제 몇명의 이용자에게 발송되었는지를 확인할 수 있습니다.**
-
-따라서 발송 장치수로 실제 푸시가 몇명에게 발송되었는지 확인할 수 있어요.
+\-Number of members sent: The number of members whose push was sent **\*The number of members who have signed up for membership, and guests are not counted.** **\*Push app has no members, so it cannot be counted as 1 or 2 -Number of sending devices**: The actual number of messages sent to mobile phone devices \*You can check how many users the push was actually sent to. Therefore, you can check how many people the push was sent to by the number of sending devices.
 
 </details>
 
 <details>
 
-<summary><strong>실제 앱 회원수가 훨씬 많은데, 푸시 발송 장치수는 많이 부족해요.(회원수 보다 발송 장치가 더 적을 경우)</strong></summary>
+<summary>The actual number of app members is much higher, but the number of push-sending devices is very insufficient. (If there are fewer shipping devices than the number of members)</summary>
 
-이 경우는 앱 사용자들이 **푸시 알림을 받지 않도록 설정했기 때문이에요.**
-
-푸시 알림을 받지 않도록 설정할 경우에는 실제로 핸드폰으로 발송된 푸시가 회원수 보다 더 적게 집계가 되요.
-
-앱을 설치했지만, **푸시 알림을 off**로 꺼놓은 경우 실제로 발송된 집계수는 적을 수 밖에 없습니다.
-
-그리고 앱을 삭제한 경우도 있을 수 있고, 앱을 오랜 시간 사용하지 않아 푸시가 발송되지 않는 경우도 있습니다.
+In this case, it's because **app users have not been able to receive push notifications.** If you disable receiving push notifications, the pushes sent to your phone will be counted less than the number of members. If you install the app but turn off push notifications, the actual tally sent will be small. And there may be cases where you deleted the app, and there may be cases where the push is not sent because the app has not been used for a long time.
 
 </details>
 
 <details>
 
-<summary><strong>실제 앱 회원수 보다 푸시 발송 장치수가 훨씬 많아요. (회원수보다 발송 장치수가 더 많은 경우)</strong></summary>
+<summary>There are far more push-sending devices than the actual number of app members. (When there are more sending devices than members)</summary>
 
-이 경우는 앱에 가입한 회원보다 **회원가입을 하지 않은 손님이 더 많기 때문이에요.**
-
-즉, 스윙투앱에서는 회원가입을 하지 않은 손님은 회원수로 집계가 되지 않고, 손님은 무조건 1명으로 통합 집계가 되요.
-
-실제 앱을 이용하는 사람이 1,000명 / 회원가입한 사람은 500명이라면 501명로 발송 회원수가 집계가 되는 것이죠. (손님은 무조건 회원수 1로 집계)
-
-따라서 회원수보다 핸드폰으로 발송된 푸시가 더 많은 경우 회원가입된 사용자보다 앱을 이용하는 손님이 더 많아서 그렇구요.
-
-**특히, 푸시버전으로 앱을 제작한 분들은 발송회원수는 1명 혹은 2명으로 표시가 되구요.**
-
-**발송장치수는 실제 핸드폰에 발송된 푸시집계로 확인할 수 있습니다.**
+In this case, it is **because there are more customers who have not signed up than members who have signed up for the app.** In other words, in the Swing to App, customers who have not registered as members are not counted as members, and customers are counted as one person unconditionally. If 1,000 people use the actual app / 500 people sign up, the number of members sent to 501 is counted. (Guests are counted as 1 member) Therefore, if there are more pushes sent to mobile phones than the number of members, it is because there are more customers using the app than registered users. **In particular, those who have created the app with the push version are displayed as 1 or 2 members. The number of sending devices can be checked by the push count sent to the actual mobile phone.**
 
 </details>
 
 <details>
 
-<summary><strong>푸시는 앱에서만 발송되나요?</strong></summary>
+<summary>Are pushes only sent from apps?</summary>
 
-네, 푸시는 핸드폰에 앱이 설치되어야 발송이 됩니다. \*가상머신, 앱 미리보기 상태에서는 발송 되지 않습니다.
-
-따라서 만든 앱을 핸드폰에 설치하거나 다운 받은 뒤, 푸시 발송을 진행해주시구요.
-
-앱은 종료한 상태에서 푸시를 보내주세요. (안드로이드폰에서 확인 가능, 아이폰은 앱스토어에 출시한 경우만 확인 가능)
+Yes, the push is only sent when the app is installed on your phone. \*Virtual machine, app will not be sent in preview state. Therefore, install or download the created app on your phone and proceed with the push send. Send a push while the app is closed. (Available on Android phones, iPhone can only be checked if released on the App Store)
 
 </details>
 
 <details>
 
-<summary><strong>푸시 테스트를 해볼 수 있나요?저만(관리자) 푸시가 오게끔 하고 싶은데 어떻게 하면 되나요?</strong></summary>
+<summary>Can I try a push test? I want to make the push come only for me (admin), what can I do?</summary>
 
-**1.일반 프로토타입 앱 푸시 테스트 방법**
+**1.How to test a general prototype app push**
 
-앱에서 회원가입을 먼저 해주세요.
+Please sign up in the app first. You can change the level of a member to an administrator, or you don't have to change it. (Regardless of push sending) Send push – Select the recipient in the default settings. Select and add the username you want to test to send pushes only to specific selected members. You can also upgrade this feature a bit further and later select specific groups to send pushes.
 
-가입한 회원의 등급은 관리자로 변경하셔도 되고, 변경하지 않아도 됩니다. (푸시 발송시에는 관계없음)
+**2.How to test push-only app push**
 
-푸시발송하기 – 기본설정에서 수신대상자를 선택해주세요.
+The push-only app can be sent out from the test device registration management. Please refer to the manual below. \[Manage push devices – check test push delivery]\
 
-테스트하고자 하는 아이디를 선택해서 추가하면 선택된 특정 회원에게만 푸시를 발송할 수 있습니다.
-
-이 기능을 조금 더 업그레이드 하여 나중에는 특정 그룹을 선택하여 푸시를 보낼 수도 있습니다.
-
-**2.푸시전용앱 푸시 테스트 방법**
-
-푸시전용앱은 테스트 기기 등록 관리에서 테스트 발송이 가능합니다.
-
-아래 매뉴얼을 참고해주세요.
-
-\[푸시 장치 관리 – 테스트 푸시 발송 확인하기]
 
 </details>
 
 <details>
 
-<summary><strong>푸시 히스토리: 발송완료, 앱 푸시 알림창에도 푸시가 들어와 있는데 알림이 오지 않아요.</strong></summary>
+<summary>Push history: Sent completed, app push There is also a push in the push notification window, but the notification does not come.</summary>
 
-푸시는 앱이 종료된 상태에서 보내셔야 알림으로 확인이 가능하구요.
-
-만약 앱이 실행된 상태에서 푸시를 보내면 팝업창 형태로 표시가 됩니다.
-
-그리고 핸드폰에 실제 앱이 설치 되었는지도 확인해주세요. (미리보기, 가상머신X)
-
-따라서 **정상적인 루트로 푸시 알림을 받고기 위해서는 앱을 종료한 상태에서 보내주시기 바랍니다.**
+Push must be sent while the app is closed so that you can check it as a notification. If you send a push while the app is running, it will be displayed in the form of a pop-up window. Also, make sure that the actual app is installed on your phone. (Preview, Virtual Machine X) Therefore, **in order to receive push notifications through normal root, please send them while the app is closed.**
 
 </details>
 
 <details>
 
-<summary><strong>푸시 보내기에서 내용을 입력했는데 푸시 발송이 되지 않아요.</strong></summary>
+<summary>I entered the contents in Send push, but the push cannot be sent.</summary>
 
-제목 및 메시지란에 이모티콘을 사용하지 않았는지 확인해주세요.
-
-핸드폰에서 사용하는 모바일 이모티콘을 넣을 경우 메시지 인식이 되지 않으며 푸시 발송이 되지 않아요.
-
-pc에서 사용되는 기호(특수문자)만 입력이 가능합니다. 따라서 이모티콘 사용에 주의해주세요.
+Make sure you don't use emojis in the subject line and message fields. If you put a mobile emoticon used on your phone, the message is not recognized and the push cannot be sent. Only symbols (special characters) used on a PC can be entered. Therefore, please be careful with the use of emoticons.
 
 </details>
 
 <details>
 
-<summary><strong>앱을 오랜기간 사용하지 않으면, 해당 사용자는 푸시 알림을 받지 못하나요?</strong></summary>
+<summary>If I don't use the app for a long time, won't the user receive push notifications?</summary>
 
-네 오랜 시간 앱을 사용하지 않으면, 앱 활성화 상태가→ 미활성화 상태로 변경되어 푸시 알림이 발송되지 않을 수 있습니다.
-
-기준 시간은 플랫폼, 기기마다 앱 미사용 기준일은 다 다릅니다.
-
-최소 7일 이상 사용하지 않을 경우부터 \~ 한달까지 기간은 다 다양하구요.
-
-앱을 다시 실행만 하면 이후 푸시 알림은 정상적으로 발송됩니다.
+Yes, if you do not use the app for a long time, the app activation status may change → to inactive, and push notifications may not be sent. The reference time is different for each platform and device. The period varies from at least 7 days of inactivity to \~ a month. Simply launch the app again and future push notifications will be sent normally.
 
 </details>
 
 <details>
 
-<summary><strong>사용자가 푸시 알림을 꺼놓았는데, 앱 관리자(개발자)가 알림을 다시 받도록 조치할 수는 없나요?</strong></summary>
+<summary>If a user has turned off push notifications, can't the app administrator (developer) get notifications again?</summary>
 
-네 해당 부분은 개발자가 강제할 수 있는 부분이 아닙니다.
-
-기능 여부를 사용할지 미사용할지는 어디까지나 앱 이용자의 선택이기 때문에 무조건 사용하도록 개발자가 강제할 수는 없습니다.
+Yes, this part is not something that developers can enforce. Whether to use a feature or not is up to the app user, so developers cannot force it to be used.
 
 </details>
