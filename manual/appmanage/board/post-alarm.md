@@ -37,7 +37,7 @@ Please check the manual on how to set a new alarm and how notifications are sent
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## 2. 새글 알람 설정
+## 2. Set a new alarm
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b33.png)
 
@@ -52,17 +52,17 @@ Please check the manual on how to set a new alarm and how notifications are sent
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. 앱에 게시판 적용하기
+## 3. Applying bulletin boards to your app
 
 
 
-<mark style="color:blue;">**-앱제작 V3버전 이용시**</mark>
+<mark style="color:blue;">**-When using app production V3 version**</mark>
 
 <figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)APP CREATION STEP3 Select page
 
-2\)메뉴 선택
+2\)Menu selection
 
 \*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
 
