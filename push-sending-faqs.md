@@ -1,34 +1,36 @@
-# 푸시 발송 관련 FAQ
+# Push sending FAQs
 
 <details>
 
-<summary>Can push sending be sent from all apps created by Swing2App?</summary>
+<summary>Can push-notification be sent from all apps created by Swing2App?</summary>
 
-﻿Among the Swing2App prototypes, the web view app created as "webview only" cannot use the push function. All apps other than web view apps - General prototype apps and push-only apps can be push-footed.
+﻿Among the Swing2App prototypes, the webview app created as "webview only" cannot use the push notification function. All apps other than webview apps - General prototype apps and push-only apps can use push-notification.
 
 </details>
 
 <details>
 
-<summary>Is there a limit to the number of push sends, the number of members?</summary>
+<summary>Is there a limit to send push notifications to members?</summary>
 
-Push can be used an unlimited number of times and the number of members.
-
-</details>
-
-<details>
-
-<summary>Is the push feature available for free?</summary>
-
-﻿Yes, the push feature is also available for free and free of charge. You can also send it in the free version of the app, so please use the push function while creating the app.
+You can send Push-notifications an unlimited number of times and to an unlimited number of members.
 
 </details>
 
 <details>
 
-<summary>Can push be sent to all users who have installed the app?</summary>
+<summary>Is the push notification feature available for free?</summary>
 
-Yes, pushes will be sent to all users who have installed the app. In a regular prototype app – even to non-registered guests, as long as the app is installed, it will be sent. Since the push app can only be sent in full, it will be sent to all users who have installed the entire app.
+﻿Yes, the push notification feature is available for free. You can also send it from the free version of the app.
+
+</details>
+
+<details>
+
+<summary>Can I send push notification to all users who have installed the app?</summary>
+
+Yes, push notifications will be sent to all users who have installed the app. In a regular prototype app – even to non-registered users (guests) as long as the app is installed, it will be sent.&#x20;
+
+But for the push app, the push notification will be sent in one go to all users who have installed the app.
 
 </details>
 
@@ -36,15 +38,15 @@ Yes, pushes will be sent to all users who have installed the app. In a regular p
 
 <summary>Can I select members when sending pushes?</summary>
 
-﻿General prototype apps can be sent by selecting members. You can select any user, or group to send the push. However, the push-only app cannot select members, and can only send all members.
+﻿For the General prototype apps, push notifications can be sent by selecting members. You can select any user, or group to send the push. However, the push-only app cannot select members, and can only send notifications to all members.
 
 </details>
 
 <details>
 
-<summary>Can I send a push on any date or time zone?</summary>
+<summary>Can I send a push notification on any date or time zone?</summary>
 
-﻿Yes, you can. It is available with push reservation settings. You can set the shipping date, shipping day, shipping time, repeat cycle, etc.
+﻿With help of Push Reservation settings, you can send push notifications based on the date and time zone of a specific region. You can set push notifications' shipping date, shipping day, shipping time, repeat cycle, etc.
 
 </details>
 
@@ -68,7 +70,7 @@ When sending a push from the push app, you cannot select a member, only send the
 
 <details>
 
-<summary>Can I link swing-to-app push through [Push-only App] member linkage? (Push API integration)</summary>
+<summary>Can I link Swing2App push through [Push-only App] member linkage? (Push API integration)</summary>
 
 ﻿Yes you can. It can only be provided to paid app users, and if requested, we will send you a push API integration guide. You can set it up and use it yourself. When the member is linked, the registered member in the app operation-member inquiry is linked. In addition, push sending can be sent only to the members who want to send it. If you can't set it yourself, you can ask us to do the work. Development costs are incurred when the work is commissioned. If you need this feature, please contact us by email. We're here to help you with the instructions. \*E-mail Address:help@swing2app.co.kr \*It cannot be provided in the free app, and is only available to paid app users.
 

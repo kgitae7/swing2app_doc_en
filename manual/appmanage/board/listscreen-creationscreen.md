@@ -98,7 +98,7 @@ At this time – Select List screen and Create screen.
 
 <mark style="color:blue;">**앱 실행화면**</mark>
 
-<mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (7).png>)<mark style="color:blue;">****</mark>
+<mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (1).png>)<mark style="color:blue;">****</mark>
 
 ‘작성화면’을 선택하면 글을 작성할 수 있는 화면(페이지)가 먼저 열리게 됩니다.
 

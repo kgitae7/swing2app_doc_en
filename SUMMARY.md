@@ -339,7 +339,7 @@
 
 * [Event](event.md)
 * [Create a Google Developer - Business Account](create-a-google-developer-business-account.md)
-* [푸시 발송 관련 FAQ](faq.md)
+* [Push sending FAQs](push-sending-faqs.md)
 * [Google Developer Account Identity Verification](google-developer-account-identity-verification.md)
 * [Move a post](move-a-post.md)
 * [Create a link for a post](create-a-link-for-a-post.md)
