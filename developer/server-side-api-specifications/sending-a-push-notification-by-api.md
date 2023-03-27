@@ -194,7 +194,7 @@ var apiUserId = "help@swing2app.com";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
 var messageJson = '{ "messageTitle" : "push title" , "messageContent" : "push content" , 
-"messageLinkUrl" : "http://m.naver.com" , "messageImageUrl" : "http://www.swing2app.com/abc.png" }';
+"messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl" : "https://www.swing2app.com/abc.png" }';
 var sendTargetList = '-1';
 var sendTargetTypeList = "ALL_TARGET";
 $.ajax({
