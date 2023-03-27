@@ -14,8 +14,8 @@ How to install WordPress plugins
 
 After the integration is completed, check if the users of the website are displayed on the Swing2App console member inquiry screen.
 
-{% embed url="https://www.swing2app.co.kr/view/member_list" %}
-Swing2App console member inquiry screen
-{% endembed %}
+
+
+{% embed url="https://www.swing2app.com/view/member_list" %}
 
 Thank You

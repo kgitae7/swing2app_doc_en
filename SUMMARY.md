@@ -335,6 +335,15 @@
   * [What is AdMob plugin setting?](store/admob/admob-pluginsettings.md)
   * [How to join AdMobs, create an Ad Unit ID](store/admob/admob-register.md)
 
+## Developer Document <a href="#developer" id="developer"></a>
+
+* [Server Side API Specifications](developer/server-side-api-specifications/README.md)
+  * [Sending a push notification By API](developer/server-side-api-specifications/sending-a-push-notification-by-api.md)
+* [Webview (Webview, Push only) Development tool](developer/webview-webview-push-only-development-tool/README.md)
+  * [Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
+    * [WordPress Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
+  * [Javascript Integration API Documentation](developer/webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)
+
 ***
 
 * [Event](event.md)
@@ -343,9 +352,3 @@
 * [Google Developer Account Identity Verification](google-developer-account-identity-verification.md)
 * [Move a post](move-a-post.md)
 * [Create a link for a post](create-a-link-for-a-post.md)
-* [Server Side API Specifications](server-side-api-specifications/README.md)
-  * [Sending a push using the Push API](server-side-api-specifications/sending-a-push-using-the-push-api.md)
-* [Webview (webview, push only) development tool](webview-webview-push-only-development-tool/README.md)
-  * [Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
-    * [WordPress Website Member Integration Guide](webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
-  * [Javascript Integration API Documentation](webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)

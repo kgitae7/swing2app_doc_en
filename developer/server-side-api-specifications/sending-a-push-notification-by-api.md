@@ -1,4 +1,4 @@
-# Sending a push using the Push API
+# Sending a push notification By API
 
 <mark style="color:blue;">Using the push API to send Swing2App push notifications.</mark>
 
@@ -117,7 +117,7 @@ form.append("api_key", "api_key");
 form.append("send_target_list", "test");
 form.append("send_target_type_list", "MEMBER");
 form.append("send_type", "push");
-form.append("message_json", "{\"messageTitle\" : \"타이틀 내용\" , \"messageContent\" : \"보내는 내용. 네이버 테스트\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}");
+form.append("message_json", "{\"messageTitle\" : \"push title\" , \"messageContent\" : \"push content\" , \"messageLinkUrl\" : \"http://www.swing2app.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}");
 
 var settings = {
   "url": "https://www.swing2app.com/swapi/push_send",
@@ -146,7 +146,7 @@ HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/pu
   .field("send_target_list", "test")
   .field("send_target_type_list", "MEMBER")
   .field("send_type", "push")
-  .field("message_json", "{\"messageTitle\" : \"타이틀 내용\" , \"messageContent\" : \"보내는 내용. 네이버 테스트\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}")
+  .field("message_json", "{\"messageTitle\" : \"push title\" , \"messageContent\" : \"push content\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}")
   .asString();
 
 ```
@@ -167,7 +167,7 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
-  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'UserAccount','api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_json' => '{"messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}'),
+  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'UserAccount','api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_json' => '{"messageTitle" : "push title" , "messageContent" : "push content" , "messageLinkUrl" : "http://www.swing2app.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}'),
 ));
 
 $response = curl_exec($curl);
@@ -179,7 +179,7 @@ echo $response;
 {% endtab %}
 
 {% tab title="ETC" %}
-아래의 Postman 링크를 참고하여 각 언어별 사용예제를 참고해보세요
+Refer to the Postman link below for examples of usage for each language.
 
 [https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f](https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f)
 {% endtab %}
@@ -190,10 +190,10 @@ echo $response;
 <mark style="color:blue;">\[JavaScript Implementation Example – Send All]</mark>
 
 ```javascript
-var apiUserId = "help@swing2app.co.kr";
+var apiUserId = "help@swing2app.com";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "제목" , "messageContent" : "내용" , 
+var messageJson = '{ "messageTitle" : "push title" , "messageContent" : "push content" , 
 "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl" : "http://www.swing2app.com/abc.png" }';
 var sendTargetList = '-1';
 var sendTargetTypeList = "ALL_TARGET";
@@ -210,20 +210,20 @@ $.ajax({
         api_user : apiUserId,
         api_key : apiKey
     },
-    success: function (model) {
-        console.log("푸시 발송 성공");
+    success: function (rModel) {
+        console.log("success");
 
     }
 });
 ```
 
-<mark style="color:blue;">\[JavaScript Implementation Example – Individual Shipping]</mark>
+<mark style="color:blue;">\[JavaScript Implementation Example – Individual Push notification]</mark>
 
 ```javascript
 var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "제목" , "messageContent" : "내용"}';
+var messageJson = '{ "messageTitle" : "push title" , "messageContent" : "push content"}';
 var sendTargetList = 'user_id';
 var sendTargetTypeList = "MEMBER";
 $.ajax({
@@ -239,8 +239,8 @@ $.ajax({
         api_user : apiUserId,
         api_key : apiKey
     },
-    success: function (model) {
-        console.log("푸시 발송 성공");
+    success: function (rModel) {
+        console.log("success");
 
     }
 });

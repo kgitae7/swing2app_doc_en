@@ -14,8 +14,8 @@ The user ID below refers to your web users.&#x20;
 
 {% code lineNumbers="true" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js?20220819"></script>
-<script>swingWebViewPlugin.app.login.doAppLogin("사용자 아이디"," 사용자 이름"); </script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js"></script>
+<script>swingWebViewPlugin.app.login.doAppLogin("test_account","test_name"); </script>
 ```
 {% endcode %}
 
@@ -23,7 +23,7 @@ ex:) User ID: test\_account, Username: test\_name
 
 {% code lineNumbers="true" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js?20220819"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js"></script>
 <script>swingWebViewPlugin.app.login.doAppLogin("test_account","test_name"); </script>
 ```
 {% endcode %}
@@ -32,7 +32,7 @@ ex:) User ID: test\_account, Username: test\_name
 
 {% code lineNumbers="true" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js?20220819"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js"></script>
 <script>swingWebViewPlugin.app.login.doAppLogout();</script>
 ```
 {% endcode %}

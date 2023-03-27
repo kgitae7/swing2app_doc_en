@@ -163,15 +163,15 @@ You can check if the app is turned off with its own settings.
 {% code lineNumbers="true" %}
 ```javascript
 swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
-    if( result == '1' ) // 푸시를 발송 할 수 있는 상태
+    if( result == '1' ) // Able to send push notification
     {
         console.log('push active');
     }
-    else if( result == 'off_on_system' )    // 시스템 설정에 의한 앱 푸시 비활성화
+    else if( result == 'off_on_system' )    // Disabling app push by OS setting
     {
         console.log('push inactive');
     }
-    else if( result == 'off_on_app' )       // 앱 설정에 의한 앱 푸시 비활성화
+    else if( result == 'off_on_app' )       // Disable App Push by App Settings
     {
         console.log('push inactive');
     }
@@ -184,19 +184,19 @@ Ex:) Code example for recommending activation when Off setting according to push
 {% code lineNumbers="true" %}
 ```javascript
 swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
-    if( result == '1' ) // 푸시를 발송 할 수 있는 상태
+    if( result == '1' ) // Able to send push notification
     {
         console.log('push active');
     }
-    else if( result == 'off_on_system' )    // 시스템 설정에 의한 앱 푸시 비활성화
+    else if( result == 'off_on_system' )    // Disabling app push by OS setting
     {
         console.log('push inactive');
-        swingWebViewPlugin.app.methods.goToNotificationSetting("system"); // 시스템 설정 Open
+        swingWebViewPlugin.app.methods.goToNotificationSetting("system"); // Open Notification Setting in System setting
     }
-    else if( result == 'off_on_app' )       // 앱 설정에 의한 앱 푸시 비활성화
+    else if( result == 'off_on_app' )       // Disable App Push by App Settings
     {
         console.log('push inactive');
-        swingWebViewPlugin.app.methods.goToNotificationSetting("app");    // 앱 설정 Open
+        swingWebViewPlugin.app.methods.goToNotificationSetting("app");    // Open Notification Setting in App
     }
 });
 ```
