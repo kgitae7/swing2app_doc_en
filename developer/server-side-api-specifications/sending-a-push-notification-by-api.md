@@ -14,82 +14,140 @@ This API is available to users of paid apps.
 {% swagger-description %}
 <mark style="color:orange;">
 
-\*** 발급이 필요한 앱 아이디, API KEY 는 고객센터에 요청하시면 발급이 가능합니다.**
+<mark style="color:orange;">
+
+\***
+
+<mark style="color:orange;">
+
+</mark>
+
+ 
+
+<mark style="color:orange;">
+
+
+
+</mark>
+
+<mark style="color:orange;">
+
+App ID and API KEY that need to be issued can be issued upon request to the customer center.
+
+</mark>
+
+ 
+
+<mark style="color:orange;">
+
+
+
+</mark>
+
+<mark style="color:orange;">
+
+<mark style="color:orange;">
+
+\**
+
+<mark style="color:orange;">
 
 </mark>
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="app_id" required="true" type="" %}
-스윙투앱에서 제공하는 APP_ID
+APP_ID provided by Swing2App
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="api_user" required="true" type="" %}
-스윙투앱 사용자 계정(이메일 주소)
+Swing2app user account (email address)
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="api_key" required="true" %}
-스윙투앱에 발급받은 API KEY
+API KEY provided by Swing2App
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="send_target_list" required="true" %}
-발송할 대상 사용자 아이디
+Send destination type setting items When sending to indiviUser ID to send to user_id in single dispatch When sending multiple messages, separate them with “,” 
 
-단일 발송시 user\_id
+\
 
-다중발송시 “,”로 구분하여 입력
 
-Ex:) user\_id1,user\_id2
+Ex:) user_id1,user_id2 Enter -1 
 
-전체 발송시 -1 입력
+\
+
+
+\[When sending all ]
+
+\
+
 
 Ex:) -1
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="send_target_type_list" required="true" %}
-발송대상 유형 설정항목\
-개별 사용자에게 보낼경우 개수만큼 MEMBER 라고 입력 ‘,’로 구분하여
+Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all. 
 
-전체에게 발송할 경우 ‘ALL\_TARGET’ 이라고 넣는다.\\
+\
 
-\[2명의 특정 사용자에게 보낼경우]
 
-Ex:) MEMBER,MEMBER
+enter 'ALL_TARGET'
 
-\[전체발송의 경우]
+\
 
-Ex:) ALL\_TARGET
+
+\[When sending to 2 specific users] Ex:) MEMBER, MEMBER 
+
+\
+
+
+\[When sending to all] 
+
+\
+
+
+Ex:) ALL_TARGET
+
+\
+
+
+
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="send_type" required="true" %}
-발송 유형을 입력 푸시발송일 경우 push 라고 입력
+Enter the send type. Enter "push" in case of push delivery
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="message_json" required="true" %}
-메시지 본문 내용 입력\
-\* JSON 형식문자열에 맞게 아래 변수 입력
+\* Enter the following variables according to the JSON format string\
 
-messageTitle:제목,
 
-messageContent:내용
+messageTitle: Title,
 
-messageLinkUrl:링크주소
+messageContent: Content
 
-messageImageUrl:이미지 주소
+messageLinkUrl: Link Address
 
-\*링크주소와 이미지 주소가 없을 경우 생략 가능\
-입력 예:)
+messageImageUrl: Image Url
 
-\[제목,내용,링크,이미지를 전송할 경우]
+\*Can be omitted if there is no link address and image address\
+\
+Ex:)
 
-{“messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageLinkUrl" : "http://m.naver.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}
+\[In case of sending title, content, link, image]
 
-\[제목,내용,이미지만 전송할 경우]
+{“messageTitle" : "title" , "messageContent" : "content" , "messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl":"https://www.swing2app.com/abc.png"}\
 
-{“messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" , "messageImageUrl":"http://www.swing2app.com/abc.png"}
 
-\[제목 내용만 전송할 경우]
+\[In case of sending only the title, content, and image]
 
-{“messageTitle" : "타이틀 내용" , "messageContent" : "보내는 내용. 네이버 테스트" }
+{“messageTitle" : "title" , "messageContent" : "content" , "messageImageUrl":"http://www.swing2app.com/abc.png"}\
+
+
+\[In case of sending only the title, content]
+
+{“messageTitle" : "title" , "messageContent" : "content" }
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
@@ -97,7 +155,7 @@ messageImageUrl:이미지 주소
 {
     // Response
     result : true, // message id 
-    userCount : 3 , // 발송 사용자 Count
+    userCount : 3 , // sent user count
     remainSmsCount 0, 
     isPaymentSms : F
 }
