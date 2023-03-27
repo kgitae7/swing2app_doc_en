@@ -26,55 +26,55 @@ Therefore, if you want to use comments in the bulletin board posts, first, you s
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## STEP2. 앱에 게시판 적용하기
+## STEP2. Applying bulletin boards to your app
 
-만들어놓은 게시판을 앱에 적용해야 앱에서 이용이 가능하겠죠?
+You have to apply the created bulletin board to the app to use it in the app, right?
 
-앱제작으로 이동한 뒤, 메뉴에 게시판을 적용해주세요
+Go to App Creation and apply the bulletin board to the menu
 
-#### -앱제작 V3버전 이용시
+#### -When using app production V3 version
 
 <figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 - STEP3 페이지 선택
+1\)App creation screen - STEP3 Select page
 
-2\)메뉴 선택
+2\)Menu selection
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you're not ready to create a menu, create a new one. (Select the + shape button to add menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\) Please enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\) Select \[UI KIT] in the page design
 
-5\)\[게시판]을 선택해주세요.&#x20;
+5\)Please select \[Bulletin Board].
 
-6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다) <mark style="color:red;"></mark>&#x20;
+6\) Check the board to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
-
-
-
-#### -앱제작 V2버전 이용시
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
 
 
-앱제작 V2→  페이지 메뉴 로 이동합니다.&#x20;
+#### -When using app production V2 version
 
-1\. \[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.&#x20;
 
-2\. 메뉴 이름을 입력해주세요.
 
-3\. 메뉴 유형: \[게시판]을 선택해주세요.
+Go to the App Production V2→ page menu.
 
-4\. \[링크마법사] 버튼을 선택해주세요.
+1\. Select the \[Add category] button to add a menu to apply the board.
 
-5\. 메뉴에 적용할 게시판을 선택한 뒤 \[반영] 버튼 선택
+2\. Please enter a menu name.
 
-6\. \[적용] 버튼
+3\. Menu type: Select \[Bulletin board].
 
-7\. \[저장] 버튼을 누르면 완료됩니다.
+4\. Select the \[Link Wizard] button.
 
-\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+5\. Select the board to apply to the menu, and then select the \[Reflect] button
+
+6\. \[Apply] button
+
+7\. Press the \[Save] button to finish.
+
+\*The icon is optional, only select it if you want to apply an icon in front of the menu.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
