@@ -10,7 +10,7 @@ This API is available to users of paid apps.
 
 * API Specification
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="API for sending pushes to swing-to-app apps" %}
+{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="API for sending push notification to Swing2App application" %}
 {% swagger-description %}
 <mark style="color:orange;">
 
