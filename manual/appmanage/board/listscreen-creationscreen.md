@@ -14,15 +14,15 @@ At this time – Select List screen and Create screen.
 
 ****
 
-<mark style="color:blue;">**게시판: 목록화면, 작성화면은 어디서 이용하나요?**</mark>
+<mark style="color:blue;">**Bulletin board: Where do I use the list screen and creation screen?**</mark>
 
 <figure><img src="../../../.gitbook/assets/게시판목록.png" alt=""><figcaption></figcaption></figure>
 
-게시판은 앱제작 – STEP3페이지에서 이용가능합니다.
+The bulletin board is available on the App Production – STEP3 page.
 
-페이지 디자인 - UI KIT 선택 - \[게시판] 선택 - 게시판 화면에서&#x20;
+Page Design - UI KIT Selection - \[Board] Selection - From the Board screen
 
-‘목록화면(List Screen)'으로 선택할지 ‘작성화면(Create Screen)’으로 선택할지 체크할 수 있습니다.
+‘You can check whether to select 'List Screen' or 'Create Screen'.
 
 <mark style="color:blue;">****</mark>
 
@@ -32,39 +32,35 @@ At this time – Select List screen and Create screen.
 
 <figure><img src="../../../.gitbook/assets/게시판목록1.png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 - STEP3 페이지 선택
+1\)App creation screen - STEP3 Select page
 
-2\)메뉴 선택
+2\)Menu selection
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you're not ready to create a menu, create a new one. (Select the + shape button to add menu)
 
-3\)메뉴 이름을 입력해주세요.
+3\)Please enter a menu name.
 
-4\)페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] from the page design.
 
-5\)\[게시판]을 선택해주세요.&#x20;
+5\)Select \[Bulletin Board].
 
-6\)\[List Screen] 선택해주세요.&#x20;
+6\)Select \[List Screen].
 
-7\)등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요.&#x20;
+7\)Check the board to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+8\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 <mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">**앱 실행화면**</mark>
+<mark style="color:blue;">**App launch screen**</mark>
 
-**목록화면은 게시판 목록이 보이는 스타일 \*가장 기본적인 게시판 화면이에요.**
+**The list screen is the style in which the board list is displayed \*This is the most basic board screen.**
 
-게시판 ‘목록화면’을 선택하면 적용된 게시판의 목록(리스트)이 보이게 됩니다.
+If you select 'List screen', you will see a list of applied boards.&#x20;
 
-목록에서 게시물을 선택하면, 게시물 상세보기 페이지로 이동하여 게시물 내용을 확인할 수 있어요.
+If you select a post from the list, you can go to the post details page to check the content of the post.&#x20;
 
-★게시판 불러오기는 ‘목록화면’으로 기본 셋팅되어서 제공됩니다.
-
-따라서 특별한 경우가 아니면 수정하지 않고, 목록화면으로 보기로 이용해주시면 됩니다.&#x20;
+★Bulletin board loading is provided by default setting as 'List Screen'. Therefore, unless it is a special case, you can use it as a list screen view without modifying it.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -74,47 +70,47 @@ At this time – Select List screen and Create screen.
 
 <figure><img src="../../../.gitbook/assets/게시판작성1.png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 - STEP3 페이지 선택
+1\)App creation screen - Select STEP3 page
 
-2\)메뉴 선택
+2\)Select Menu.
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you're not ready to create a menu, create a new one. (Select the + shape button to add menu)
 
-3\)메뉴 이름을 입력해주세요.
+3\)Please enter a menu name.
 
-4\)페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] in the page design
 
-5\)\[게시판]을 선택해주세요.&#x20;
+5\)Please select \[Bulletin Board].
 
-6\)\[Create Screen] 선택해주세요.&#x20;
+6\)Select \[Create Screen].
 
-7\)등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요.&#x20;
+7\)Check the board to register, and then select the \[Apply] button.
 
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+(Hover over the mouse cursor on the page to open the Apply button)
 
-8\)화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+8\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 
 
-<mark style="color:blue;">**앱 실행화면**</mark>
+<mark style="color:blue;">**App launch screen**</mark>
 
 <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (1).png>)<mark style="color:blue;">****</mark>
 
-‘작성화면’을 선택하면 글을 작성할 수 있는 화면(페이지)가 먼저 열리게 됩니다.
+If you select 'Compose screen', the screen (page) where you can write a post will open first.
 
-게시판의 글 작성 페이지가 보이는 스타일이며 <mark style="color:orange;">**\*특수한 운영 목적에 사용할 수 있어요.**</mark>
+The writing page of the board is visible, and <mark style="color:red;">**\*can be used for special operational purposes.**</mark>
 
-\*사용자들이 바로 글을 작성해야 할 때 사용할 수 있지만 사용자들은 해당 게시판의 목록을 볼 수 없어요.
+\*Users can use it when they need to write right away, but users can't see the list on the board.
 
-\*즉 글만 작성할 수 있고, 작성된 글 목록은 앱운영페이지에서 관리자만 확인이 가능합니다.
+* In other words, you can only create posts, and the list of created posts can only be checked by the administrator on the app operation page.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">****</mark>
 
 {% tabs %}
-{% tab title="앱제작V2버전 매뉴얼" %}
-앱제작 V2버전 이용시에는 해당 매뉴얼로 확인해주세요.
+{% tab title="App Production V2 Version Manual" %}
+When using the V2 version of the app production, please check the manual.
 
 
 
