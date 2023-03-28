@@ -17,39 +17,43 @@ Therefore, dividing ratings by member and setting up bulletin boards is a freque
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**\[이용방법 정리]**</mark>
+<mark style="color:blue;">**\[Summary of how to use]**</mark>
 
-**STEP.1 그룹 만들기**
+**STEP.1 Create a group**
 
-앱운영 페이지 → 푸시&회원 → 권한 그룹 설정 메뉴로 이동합니다.
+Go to the app operation page → Push\&Member → Permission Group Settings menu.
 
-1\) \[권한그룹생성하기] 버튼을 선택하면, 권한 그룹 설정 창이 뜹니다.
+1\) If you select the \[Create permission group] button, the permission group setting window will appear.
 
-2\)그룹명, 3)그룹설명 입력 후 4)저장 버튼을 누르면 그룹생성이 완료됩니다.
+2\)Enter the group name and&#x20;
 
+3\) group description, and then press the&#x20;
 
-
-**STEP.2 게시판에서 권한 그룹 설정하기**
-
-앱운영 페이지 → 서비스관리 → 게시판관리 메뉴
-
-2\)게시판 생성 버튼 선택
-
-3\)게시판 및 기능설정 창 기본정보 설정(게시판이름, 게시판 UI선택 등)
-
-4\)게시판 권한 설정 항목: 글쓰기 권한, 글상세보기 권한, 목록 보기 권한 셋팅
+4\) Save button to complete the group creation.
 
 
 
-**STEP.3 사용자에게 그룹 적용하기**
+**STEP.2 Setting permission groups on the board**
 
-앱운영 페이지 → 푸시&회원 → 회원조회 메뉴로 이동합니다.
+App operation page → Service management → Board management menu
 
-1\)그룹을 변경할 사용자(회원)을 선택하면 회원정보 창이 열립니다.
+2\)Select the Create board button.
 
-2\)현재 그룹정보 박스에서 변경할 그룹을 선택
+3\)Basic information settings in the board and function setting window (board name, board UI selection, etc.)
 
-3\)\[그룹변경저장] 버튼을 누르면 변경 완료됩니다.
+4\)Board permission setting items: writing permission, post detail view permission, list view permission setting
+
+
+
+**STEP.3 Apply Groups to Users**
+
+Go to the app operation page → Push\&Member → Member Inquiry menu.
+
+1\)Select the user (member) to change the group, and the member information window will open.
+
+2\)Select the group you want to change from the Current Group Information box.
+
+3\)Click the \[Save Group Change] button to complete the change.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
