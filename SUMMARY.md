@@ -18,7 +18,6 @@
   * [AdMob FAQ](FAQ/admob-faq.md)
   * [Affiliate Program FAQ](FAQ/affiliate-program-faq.md)
   * [Customization FAQ](FAQ/customization-faq.md)
-* [Swing2App Update](Update.md)
 
 ## Swing2App Manual <a href="#manual" id="manual"></a>
 

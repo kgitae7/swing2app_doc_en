@@ -1,76 +1,88 @@
 ---
-description: Swing2App Update for 1st Week of March [Add individual survey links]
+description: Swing2App Update for 4th Week of March [Added app board date format option]
 ---
 
 # Swing2App Update
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-### ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Adding individual links to a survey**&#x20;
+## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Added app board date format option feature**&#x20;
 
-<figure><img src=".gitbook/assets/EN설문조사1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/en_게시판날짜형식1.png" alt=""><figcaption></figcaption></figure>
 
-We've added an individual link feature that allows you to link survey pages individually to the app menu.
+A new option to format board dates has been added.&#x20;
 
-**Individual Survey Links is** a feature that allows you to select only one survey and link to the menu.&#x20;
+The existing board date format  was fixed as 'Relative Date' and could not be specified directly by the administrator.&#x20;
 
-Previously, all registered surveys were displayed on one page, but in the updated function, you can select individual links to link to the menu so that only one survey is shown.
+&#x20;In the updated function, you can set it to the desired date format, default date format or default date format + time display.
+
+<mark style="color:red;">\*This function is available in the Maker V3 version of the app. If you are using V2, please switch to the Maker V3 version before using it.</mark>
 
 
 
-<mark style="color:blue;">**TIP**</mark>
+### <mark style="color:blue;">**Date Board Relative Date vs default date format comparison**</mark>
 
-\-When releasing new questionnaires at a specific time, you can open and use multiple questionnaires one by one according to your schedule.
+<figure><img src=".gitbook/assets/EN게시판날짜형식-핸드폰.png" alt=""><figcaption></figcaption></figure>
 
-\-In this way, you can prevent the disclosure of questionnaires that have not even begun.
+Relative Date is the default setting date format provided on the Swing2App board.&#x20;
 
-\-It is possible to link questionnaires on different topics by menu to receive a variety of questionnaires from users.
+When you write the post, it doesn't show up as a date, it's ‘a minute ago', 'a day ago'... And post displayed as \*After a week, will be changed to year/month/day.&#x20;
+
+The default date format is displayed as YY/MM/DD from the moment the post is created.&#x20;
+
+Therefore, you can use the board date format  option function to directly select the date format displayed on the app board.
+
+
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271690/20233403.png) **Survey app launch screen comparison**
+### &#x20;![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10556716/20232507.png) **How to Use**
 
-<figure><img src=".gitbook/assets/EN설문조사2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/EN)게시판날짜선택.png" alt=""><figcaption></figcaption></figure>
 
-Please check the existing survey page application screen and the screen applied as an individual link to the survey.
+On the Maker V3 Page
 
-When applied to an existing page, all registered surveys will be active on one page.
+1\. Click on the Advanced settings.&#x20;
 
-When you apply an individual link, only one linked survey is shown, and the survey starts immediately.
+2\) Settings: App production settings&#x20;
 
+3\. Select the \[EDIT] button for the date format of the app board.
 
+4\) Select the setting value - Select "Ex"
 
-\
-![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10556716/20232507.png) **How to Use**
+\*The default setting is "Relative Date". The time options displayed in existing apps. (One minute ago, 1 day ago...)
 
-1\) Create a survey first.&#x20;
+\*If you want it to be displayed in date format, please select "Default date format".
 
-[View how to Create a survey manual](https://documentation.swing2app.com/manual/appmanage/service/survey)
+\*If you want to display the date and time, please select the last setting value.&#x20;
 
-2\) If you have registered the survey, please link it to the app maker page by applying it as an individual link to the menu.&#x20;
+5\. Click on the \[UPDATE] button.&#x20;
 
-3\) Go to the app Maker screen →STEP3 page → On the left screen Select the menu → Select \[Basic Functions] from the 'Page Design' item → Select \[Survey] → Select the questionnaire you want to apply, click on the \[Apply] button→ click on the \[Save] button at the top
+6\) Close the settings window, and then click on the \[Save] button at the top of the app creation screen.
 
+7\. Click on the \[App Update] button.
 
-
-\*If you apply individual links to the questionnaire in the page creation tool (web template, image page, HTML editor), please proceed with the following method.
-
-Page Creator Screen →Select the \[Link Wizard] button → select \[Basic Functions→ select \[Survey] → Select the questionnaire you want to apply, click on the \[Apply] button, click on the →Save button, and then select the →Return to the app creation screen and click on the \[Save] button at the top.
-
-
-
-\
-![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271693/20233403.png) **Instructions**
-
-1\) You can also use the existing survey page menu, and the updated menu is only available when you link surveys individually and show them one after another.
-
-2\) This function can be used immediately without updating.
-
-Please check the above instructions and apply them to the app.&#x20;
+&#x20;If you check after updating the app, you can see that the date format of the board has changed.
 
 
 
-Thank You.
+### &#x20;![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271693/20233403.png) **Instructions**
+
+1\) This function is available in the Maker V3 version of the app production.&#x20;
+
+If you are using V2, please switch to the Maker V3 version before using it.
+
+2\) Changing the board date requires an app update.
+
+An app update is required to reflect board changed date format in the app.&#x20;
+
+If your app has been released on the Play Store, App Store, etc., please update it again in that store as well.&#x20;
+
+3\) The default settings are provided in 'Relative Date'.&#x20;
+
+You can use it as it is or modify each option item to suit your app style.&#x20;
+
+4\) If you change the default date and then change it to a Relative Date composite date again, you must update the app again to reflect it.
 
 
 
