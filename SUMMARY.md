@@ -347,5 +347,3 @@
   * [Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
     * [WordPress Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
   * [Javascript Integration API Documentation](developer/webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)
-
-## Draft
