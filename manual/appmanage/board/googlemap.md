@@ -184,37 +184,37 @@ You can edit and delete the location, and if you have an app that manages multip
 
 
 
-### <mark style="color:blue;">**1.앱제작 V3버전 이용시**</mark>
+### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using app production V3 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작–STEP3 페이지 선택
+1\)App Creation – Select STEP3 Page
 
-2\)메뉴 선택
+2\)Select Menu.
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you haven't created a menu, please create a new one. (Select the + shape button to add menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\)Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] from the page design.
 
-5\)\[위치등록]을 선택해주세요.&#x20;
+5\)Select \[Location Registration].
 
-6\) 만들어놓은 위치등록 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\)Check the location registration board you created, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-<mark style="color:red;">\*위치등록게시판을 먼저 만들어주세요. 만들어놓은 위치등록 게시판이 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>&#x20;
+<mark style="color:red;">\*Please create a location registration board first. If there is no location registration board created, it will not appear on the screen and cannot be applied to the app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or create a board in App Operation-Service Management-Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
-\*제작 단계 중 메뉴 아이콘 , 메뉴 설정은 필수 입력 항목이 아닙니다.
+\*During the production stage, the menu icon and menu settings are not required items.
 
-해당 매뉴얼에서는 입력 없이 진행했으며, 앱 제작시 필요할 경우 추가로 적용해주세요.
+In this manual, it was done without input, and please apply it additionally if necessary when creating the app.
 
 
 
-### <mark style="color:blue;">**2.앱제작 V2버전 이용시**</mark>
+### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using app production V2 version</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google6-e1587041928317.png)
 
