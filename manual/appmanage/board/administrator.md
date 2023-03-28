@@ -34,7 +34,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## 2. 게시판 관리자 설정&#x20;
+## 2. Board Administrator Settings&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b35.png)
 
@@ -45,55 +45,55 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## 3. 앱에 게시판 적용하기
+## 3. Applying bulletin boards to your app
 
 
 
-<mark style="color:blue;">**-앱제작 V3버전 이용시**</mark>
+<mark style="color:blue;">**-When using app production V3 version**</mark>
 
 <figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app production screen STEP3 page
 
-2\)메뉴 선택
+2\)Select Menu.
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you haven't created a menu, please create a new one. (Select the + shape button to add menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\)Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] from the page design.
 
-5\)\[게시판]을 선택해주세요.&#x20;
+5\)Select \[Bulletin Board].&#x20;
 
-6\) 등록할 게시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\)Check the board to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
-\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+\*Icons are optional, please select only when applying an icon in front of the menu.
 
 
 
-<mark style="color:blue;">**-앱제작 V2버전 이용시**</mark>
+<mark style="color:blue;">**-When using app production V2 version**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1-1.png)
 
-**스윙 앱제작 페이지에서 →  페이지 메뉴 로 이동합니다.**&#x20;
+**On the Swing app creation page, go to the → page menu.**
 
-1\. \[카테고리 추가] 버튼을 선택해서 게시판을 적용할 메뉴를 추가합니다.&#x20;
+1\. Select the \[Add category] button to add a menu to apply the board.
 
-2\. 메뉴 이름을 입력해주세요.
+2\. Enter a menu name.
 
-3\. 메뉴 유형: \[게시판]을 선택해주세요.
+3\. Menu Type: Select \[Bulletin Board].
 
-4\. \[링크마법사] 버튼을 선택해주세요.
+4\. Select the \[Link Wizard] button.
 
-5\. 메뉴에 적용할 게시판을 선택한 뒤 \[반영] 버튼 선택
+5\. Select the board to apply to the menu, and then select the \[Reflect] button
 
-6\. \[적용] 버튼
+6\. \[Apply] button
 
-7\. \[저장] 버튼을 누르면 완료됩니다.
+7\. Press the \[Save] button and you're done.
 
-\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.&#x20;
+\*\*Icons are optional, please select only when applying an icon in front of the menu.
 
 
 
