@@ -154,37 +154,37 @@ This created calendar will be applied to the app.
 
 <mark style="color:blue;">****</mark>
 
-앱에 캘린더를 적용해주세요.&#x20;
+Apply the calendar to the app.
 
-**1)앱제작 V3버전 이용시**
+**1)When using app production V3 version**
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 – STEP3 페이지 선택
+1\)App creation screen – Select STEP3 page
 
-2\)메뉴 선택 \*메뉴를 아직 안만들었다면, + 모양 버튼 선택하여 메뉴 추가 할 수 있습니다.&#x20;
+2\)Select Menu \*If you haven't created a menu yet, you can add a menu by selecting the + shape button.
 
-3\)메뉴 이름을 입력해주세요.
+3\)Enter a menu name.
 
-4\)페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] from the page design.
 
-5\)\[캘린더]를 선택해주세요.&#x20;
+5\)Select \[Calendar].
 
-6\) 만들어놓은 캘린더를 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\) Check the calendar you created, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-\*캘린더게시판을 먼저 만들어주세요.&#x20;
+\*Please create a calendar board first.
 
-만들어놓은 캘린더가 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.&#x20;
+If you don't have a calendar created, it won't appear on the screen and can't be applied to the app.
 
-\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리-게시판관리에서도 게시판을 만들 수 있습니다.
+\*You can select the \[New] button on the UI KIT screen, or create a board in App Operation-Service Management-Board Management.
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-\*아이콘은 선택사항이며, 메뉴 앞에 아이콘을 적용할 경우만 선택해주세요.
+\*Icons are optional, please select only when applying an icon in front of the menu.
 
 
 
-**2)앱제작 V2버전 이용시**
+**2)When using app production V2 version**
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
