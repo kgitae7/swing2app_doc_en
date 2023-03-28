@@ -91,33 +91,33 @@ If you created a group chat board, you should apply a chat room to the app. Let�
 
 
 
-### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
+### <mark style="color:blue;">**1.**</mark><mark style="color:blue;">When using app production V3 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 STEP3 페이지 선택
+1\)Select the app production screen STEP3 page
 
-2\)메뉴 선택
+2\)Select Menu.
 
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+\*If you haven't created a menu, please create a new one. (Select the + shape button to add menu)
 
-3\) 메뉴 이름을 입력해주세요.
+3\)Enter a menu name.
 
-4\) 페이지 디자인에서 \[UI KIT] 선택
+4\)Select \[UI KIT] from the page design.
 
-5\)\[채팅]을 선택해주세요.&#x20;
+5\)Select \[Chat].
 
-6\) 만들어놓은 채팅방을 확인한 뒤 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+6\)Check the created chat room, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-<mark style="color:red;">\*그룹채팅게시판을 먼저 만들어주세요. 만들어놓은 그룹채팅 게시판이 없을 경우 화면에 뜨지 않으며, 앱에 적용할 수 없습니다.</mark>&#x20;
+<mark style="color:red;">\*Please create a group chat board first. If there is no group chat board created, it will not appear on the screen and cannot be applied to the app.</mark>
 
-<mark style="color:red;">\*UI KIT 화면에 있는 \[새로 만들기] 버튼을 선택하거나, 앱운영-서비스관리- 게시판관리에서도 게시판을 만들 수 있습니다.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or create a board in App Operation-Service Management-Board Management.</mark>
 
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 
 
-### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
+### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using the app production V2 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -193,63 +193,63 @@ When a user tries to enter an administrator’s chat room, they are restricted f
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## STEP4. 그룹채팅 Q\&A
+## STEP4. Group Chat Q\&A
 
 ****
 
-**Q.앱에서 사용자가 다른 사용자를 선택하여 채팅을 할 수 있나요?**
+**Q. Can users select other users to chat within the app?**
 
-사용자를 선택하거나 방으로 초대하는 기능은 지원되지 않습니다.
-
-
-
-**Q. 그룹채팅방에서 대화를 걸면 앱 사용자들은 어떻게 알 수 있나요?**
-
-그룹 채팅방에 한번이라도 접속(들어온)이력이 있는 사용자에게는 앱에서 대화 푸시알림이 발송됩니다.
-
-푸시 알림을 선택하면 채팅방으로 들어올 수 있습니다.
-
-단, 접속한 이력이 없는 사용자는 푸시 알림이 들어오지 않기 때문에 대화 이력을 확인할 수 없어요.
+Selecting users or inviting them to a room is not supported.
 
 
 
-**Q. 그렇다면 사용자들에게 어떻게 그룹채팅을 알릴 수 있나요? 혹은 그룹채팅방에 참여하라는 공지를 할 수 있나요?**
+**Q. How do app users know if I have a conversation in a group chat room?**
 
-관리자가 푸시를 보낼 수 있습니다.
+Users who have accessed (entered) a group chat room even once will receive a conversation push notification from the app.&#x20;
 
-채팅 푸시가 아닌 스윙투앱 앱운영에서 제공하는 기능→ 푸시 발송을 이용해주세요.
+If you select push notifications, you can enter the chat room.&#x20;
 
-푸시 발송시 링크마법사를 선택하면, 링크를 그룹채팅방으로 설정할 수 있습니다.
+However, users who have not logged in will not receive push notifications, so they will not be able to check their conversation history.
 
-앱에서 사용자들이 받은 푸시를 선택하면 바로 그룹채팅방으로 이동하기 때문에 해당 방법으로 채팅방 참여를 유도할 수 있습니다.
+
+
+**Q. So how can I notify users of group chats? Or can I announce that I can join a group chat room?**
+
+Allows the administrator to send pushes.
+
+&#x20;Please use the function provided by the Swing2App app operation → push delivery, not chat push.
+
+If you select the Link Wizard when sending a push, you can set the link as a group chat room.
+
+When you select a push that users receive from your app, they are taken directly to the group chat room, so you can engage them in that way.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512\_20.06.png)
 
-단, 위에서 안내드렸듯이 <mark style="color:green;">상품에 따라 접속 인원이 정해져있기 때문에 적용된 상품에 기재된 인원만 접속할 수 있습니다.</mark>
+However, as mentioned above, <mark style="color:green;">the number of people accessing is determined according to the product, so only the number of people listed in the applied product can access it.</mark>
 
 <mark style="color:green;"></mark>
 
-**Q. 그룹채팅방은 관리자가 항상 들어와야 운영이 되나요?**
+**Q. Does the group chat room always require an administrator to be in order to operate?**
 
-관리자 채팅이 아니기 때문에 사용자들만 들어와도 이용이 가능합니다.
+Since it is not an admin chat, only users can enter to use it.&#x20;
 
-관리자 외에 사용자들끼리 그룹채팅이 가능합니다.
-
-
-
-**Q. 채팅방 대화는 어떻게 삭제하나요?**
-
-채팅창 오른쪽 상단의 \[설정]버튼을 누르면 대화기록 삭제하기 메뉴가 있습니다.
-
-해당 메뉴 선택하시면 대화를 나눈 기록을 삭제할 수 있습니다.
-
-삭제 후 다시 나갔다 들어오면 대화 기록이 삭제되어 있습니다.
+In addition to the administrator, users can chat in groups.
 
 
 
-**Q. 대화 푸시 받기를 원치 않을 경우 어떻게 하나요?**
+**Q. How do I delete a chat room conversation?**
 
-채팅창 오른쪽 상단의 \[설정]버튼을 누르면 푸시 알림 켜기/끄기 버튼이 있습니다.
+If you press the \[Settings] button at the top right of the chat window, there is a menu to delete chat history.&#x20;
 
-해당 메뉴 선택해서 알림 설정을 꺼주시면 됩니다.
+If you select the menu, you can delete the conversation history.&#x20;
+
+If you leave and enter again after deletion, the conversation history is deleted.
+
+
+
+**Q. What if I don't want to receive push conversations?**
+
+If you press the \[Settings] button in the upper right corner of the chat window, there is a push notification on/off button.&#x20;
+
+You can select the menu to turn off the notification setting.
 
