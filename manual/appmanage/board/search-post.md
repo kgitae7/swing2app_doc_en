@@ -16,25 +16,25 @@ See how to use the post search menu.
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** 1. 개별 게시판-게시물 검색
+## &#x20;**** 1. Search for individual boards-posts
 
-게시판에는 검색창이 기본 셋팅되어서 제작이 되요.
+On the bulletin board, the search box is set by default.
 
-따라서 **특정 게시판에서 게시물을 검색하는 기능은 별도 추가하지 않아도 게시판마다 자동으로 제공이 되구요.**
+Therefore, **the function of searching for posts on a specific board is automatically provided for each board without adding a separate one.**
 
-게시판 목록화면 오른쪽 상단에 ‘돋보기’ 모양의 아이콘을 누르면 검색어를 입력할 수 있는 창이 뜹니다.
+If you tap the 'magnifying glass' icon in the upper right corner of the board list screen, a window will pop up where you can enter a search term.
 
-특정 게시판 검색 기능은 별도로 기능을 적용하지 않아도, <mark style="color:orange;">게시판을 만들면 자동으로 게시판 상단에 \[검색어 입력]이 배치됩니다.</mark>&#x20;
+The search function for a specific board does not need to be applied separately, <mark style="color:red;">but when you create a board, \[Enter search term] is automatically placed at the top of the board.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png)
 
-게시판 목록화면 상단 ‘돋보기’ 모양 아이콘을 탭하면, 검색어 입력 창이 뜨구요.
+If you tap the 'magnifying glass' icon at the top of the board list screen, a search term input window appears.
 
-검색할 단어를 입력한 뒤 탭하면, 해당 게시판 내에 입력된 검색어를 필터링하여 보여줍니다.
+If you tap after entering a search word, it will filter and display the search terms entered in the board.
 
-<mark style="color:red;">\*해당 게시판 내에 입력된 검색어만 찾아줍니다.</mark>
+<mark style="color:red;">\*\*Only search terms entered within the board will be found.</mark>
 
-<mark style="color:red;">전체 글에서 검색어를 찾아주는 기능은 아래 방법으로 확인해주세요!</mark>
+<mark style="background-color:red;">Please check the function to find search terms in the entire article below!</mark>
 
 <figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -52,31 +52,31 @@ You can see the search field at the top.
 
 ## 3. Post integrated search – apply to the app
 
-**-앱제작 V3 버전 이용시**
+**-When using app production V3 version**
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-앱제작 화면 이동
+Move the app creation screen
 
-1\)STEP3 페이지 단계로 이동합니다.
+1\)STEP 3 Go to the page step.
 
-2\)새 메뉴를 만들어주세요. (+ 모양 버튼 선택하여 메뉴 추가)
+2\)Create a new menu. (Select the + shape button to add menu)
 
-3\) 메뉴 이름 입력
+3\)Enter a menu name.
 
-4\) 페이지 디자인에서 \[기본 기능] - \[페이지]를 선택해주세요.&#x20;
+4\)Select \[Basic Function] - \[Page] from the page design.
 
-5\) ‘게시물 검색’ 페이지를 찾아서 \[적용하기] 버튼을 선택해주세요. (페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
+5\)Find the 'Search posts' page and select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
-6\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+6\)Press the \[Save] button at the top of the screen to apply it to the app
 
-\*미리보기 버튼을 선택하면 해당 페이지가 어떻게 보여지는지 웹 미리보기(가상머신)으로 확인가능하구요.
+\*If you select the preview button, you can check how the page is displayed in the web preview (virtual machine).
 
-\*적용 후에도 가상머신을 통해서도 해당 페이지가 어떻게 앱에 적용되는지 확인 가능합니다.
+\*Even after application, you can check how the page is applied to the app through the virtual machine.
 
 ****
 
-**-앱제작 V2 버전 이용시**
+**-When using the app production V2 version**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b49-e1587043155303.png)
 
@@ -93,15 +93,15 @@ Go to **Maker(V2)** and select the **Page Menu.**
 7. Click on **Apply** and then **Save.**
 
 {% hint style="info" %}
-<mark style="color:blue;">**게시물 검색 정리 TIP**</mark>
+<mark style="color:blue;">**Post Search Cleanup TIP**</mark>
 
-**1) 통합 게시물 검색**
+**1) Integrated post search**
 
-모든 게시판의 게시물에서 내용을 검색할 경우 – 스윙페이지에서 제공하는 \[게시물 검색] 기능을 적용해주세요!
+When searching for content in posts on all boards – please apply the \[Search Posts] function provided by the swing page!!
 
-**2) 개별 게시물 검색**
+**2) Search for individual posts**
 
-다른 기능을 추가하지 않아도 게시판을 적용하시면, 게시판 내에 검색어 입력 창이 기본 셋팅되어서 제공됩니다.
+If you apply the board without adding any other functions, the search term input window is set and provided by default.
 {% endhint %}
 
 <mark style="color:blue;">****</mark>
