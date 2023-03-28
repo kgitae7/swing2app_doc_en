@@ -13,6 +13,7 @@
   * [Paid App Passes & Tickets FAQ](FAQ/paid-app-passes-and-tickets-faq.md)
   * [Paid usage and uploading FAQ](FAQ/paid-usage-and-uploading-faq.md)
   * [Unlimited Usage and Package FAQ](FAQ/unlimited-usage-and-package-faq.md)
+  * [Push sending FAQs](FAQ/push-sending-faqs.md)
   * [PlayStore FAQ](FAQ/playstore-faq.md)
   * [App Store FAQ](FAQ/app-store-faq.md)
   * [AdMob FAQ](FAQ/admob-faq.md)
@@ -177,9 +178,11 @@
     * [How to use the bulk registration bulletin board](manual/appmanage/board/batchboard.md)
     * [Copy Bulletin Board](manual/appmanage/board/copy-board.md)
     * [Copy Post](manual/appmanage/board/copy-post.md)
+    * [Move a post](manual/appmanage/board/move-a-post.md)
     * [How to delete bulk posts](manual/appmanage/board/post-delete.md)
     * [Group Chat](manual/appmanage/board/groupchat.md)
     * [Create a Secret Bulletin Board (1:1 Customer Service)](manual/appmanage/board/secret.md)
+    * [Create a link for a post](manual/appmanage/board/create-a-link-for-a-post.md)
     * [How to Use Calendar](manual/appmanage/board/calendar.md)
     * [Calendar Application - How To Use](manual/appmanage/board/calendar-application-how-to-use.md)
     * [How to create and register a stamp](manual/appmanage/board/stamp.md)
@@ -300,6 +303,8 @@
 
 * [Play Store](store/playstore/README.md)
   * [How to create a Google Developer Account](store/playstore/google-developer.md)
+  * [Create a Google Developer - Business Account](store/playstore/create-a-google-developer-business-account.md)
+  * [Google Developer Account Identity Verification](store/playstore/google-developer-account-identity-verification.md)
   * [Launching Play Store App](store/playstore/update-playstore.md)
   * [Setting up Play Store app auto-updates](store/playstore/app-autoupdates.md)
   * [Transfer your app to another developer account on the Play Store](store/playstore/apptransfer.md)
@@ -342,3 +347,5 @@
   * [Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
     * [WordPress Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
   * [Javascript Integration API Documentation](developer/webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)
+
+## Draft
