@@ -151,9 +151,9 @@ Make only images and titles visible, just like a menu board
 ### <mark style="color:blue;">**8. Conversation boards**</mark>
 
 **Display**\
-Conversation board (group chat room)
+Conversation Board (group chat room)
 
-**Conversation/Chat board**\
+**Conversation/Chat Board**\
 Used as a group chat room.\
 Multiple users can connect and chat.\
 Chat between the operator and a large number of users.
@@ -213,6 +213,8 @@ It’s available to all those who need to use an overseas address!
 <figure><img src="../../../.gitbook/assets/img_6.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/img_7.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Group-jkm.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">\* To link Google Maps, you need to sign up to the Google Map Platform site and get a key-value called API.</mark>
 
