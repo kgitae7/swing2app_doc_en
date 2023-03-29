@@ -158,7 +158,7 @@ Used as a group chat room.\
 Multiple users can connect and chat.\
 Chat between the operator and a large number of users.
 
-<figure><img src="../../../.gitbook/assets/img_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group-284@3xvx.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Real-time group chat with map users\
@@ -192,7 +192,7 @@ Available in the offline store.\
 In the function such as a paper coupon to stamp, you can use it as a mobile stamp on the app.\
 The app member’s membership number Add and use it.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-202@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-284@3x.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Use it as a coupon for visiting shops such as cafes and restaurants\
@@ -209,8 +209,6 @@ It is an overseas map board that can be used.&#x20;
 Foreign-based businesses, overseas shopping mall, etc.
 
 It’s available to all those who need to use an overseas address!
-
-<figure><img src="../../../.gitbook/assets/img_6.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/img_7.png" alt=""><figcaption></figcaption></figure>
 
@@ -232,4 +230,4 @@ A calendar form bulletin board where you can check schedules and announcements\
 It’s easy to register your calendar for major events.\
 For businesses that require reservation management, book by date, and time you can record the status of the status.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/25@3x.png)
+<figure><img src="../../../.gitbook/assets/img_8.png" alt=""><figcaption></figcaption></figure>
