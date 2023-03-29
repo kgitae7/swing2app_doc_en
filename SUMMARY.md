@@ -341,9 +341,9 @@
 
 ## Developer Document <a href="#developer" id="developer"></a>
 
-* [Server Side API Specifications](developer/server-side-api-specifications/README.md)
-  * [Sending a push notification By API](developer/server-side-api-specifications/sending-a-push-notification-by-api.md)
-* [Webview (Webview, Push only) Development tool](developer/webview-webview-push-only-development-tool/README.md)
-  * [Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/README.md)
-    * [WordPress Website Member Integration Guide](developer/webview-webview-push-only-development-tool/website-member-integration-guide/wordpress-website-member-integration-guide.md)
-  * [Javascript Integration API Documentation](developer/webview-webview-push-only-development-tool/javascript-integration-api-documentation.md)
+* [Server Side API Specifications](developer/server-side-api/README.md)
+  * [Sending a push notification By API](developer/server-side-api/push-api-notification.md)
+* [Webview (Webview, Push only) Development tool](developer/webview/README.md)
+  * [Website Member Integration Guide](developer/webview/user-integration/README.md)
+    * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
+  * [Javascript Integration API Documentation](developer/webview/javascript-api.md)
