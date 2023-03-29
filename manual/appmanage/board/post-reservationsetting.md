@@ -58,7 +58,7 @@ If you look at the list of articles written, a clock-shaped icon will be display
 
 ## **3. App Launch Screen) Check the Apps** &#x20;
 
-<figure><img src="../../../.gitbook/assets/Group-274@3x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/free board.png" alt=""><figcaption></figcaption></figure>
 
 If you run the app and go to the bulletin board, your comments won’t be exposed until the time you set up your reservation.
 
