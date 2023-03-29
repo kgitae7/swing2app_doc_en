@@ -226,7 +226,7 @@ You can set different search options for each app.
 
 
 
-### 2.앱제작 V2버전 이용시
+### 2.When using the app production V2 Version&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b10-e1587040361800.png)
 
