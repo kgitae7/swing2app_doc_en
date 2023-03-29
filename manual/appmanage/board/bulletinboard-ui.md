@@ -37,7 +37,7 @@ Use as a bulletin board for reviews, etc.\
 Use as a photo album bulletin board\
 \*The image board must attach the image.
 
-<figure><img src="../../../.gitbook/assets/img_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group-284@3xs.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. Timeline (Free) Bulletin Board**</mark>
 
@@ -51,7 +51,7 @@ You’ll see some thumbnail-representative images and posts.
 
 If you attach multiple images, the number of images attached will be displayed at the top of the image as a number badge.
 
-<figure><img src="../../../.gitbook/assets/img_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group-284@3xftdh.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**
 
@@ -72,7 +72,7 @@ Post body part + horizontal image alignment
 Some of the text and images of the post.\
 The style that is listed and displayed.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/12@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-284@3xdhrt.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 A style that is more organized than a free bulletin board\
@@ -91,7 +91,7 @@ It is a bulletin board for announcements.\
 In the bulletin board list, you’ll see only the title of the post.\
 Select the title or click on the arrow icon to see the details of the post You.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/acordian@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-vdsd.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Use it as a bulletin board to post announcements\
@@ -108,7 +108,7 @@ Show only thumbnails of images
 In the post list, only representative image thumbnails are displayed.\
 The title is not displayed.
 
-<figure><img src="../../../.gitbook/assets/img_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group-284@3xvd.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Existing image board upgrade version\
@@ -126,7 +126,7 @@ List of large image thumbnail + bottom posts
 A large image filled with a wide size is applied.\
 At the bottom is the style where the title of the post is shown.
 
-<figure><img src="../../../.gitbook/assets/img_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Group-gs.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Use to highlight posts with a large List-type bulletin board upgrade version
@@ -140,7 +140,7 @@ Image thumbnail + post title
 On the left, you’ll see a representative image thumbnail.\
 On the right, the title of the post is shown.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/mb@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-284@3xsgr.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 List edits to upgrade\
