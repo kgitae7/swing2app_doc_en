@@ -32,14 +32,12 @@ Post Title + Representative Image Thumbnail
 The title of the article and the thumbnail representative image are displayed together.\
 On clicking the image, the full content, and image of the post you can check.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-176@3x.png)
-
 **Utilization**\
 Use as a bulletin board for reviews, etc.\
 Use as a photo album bulletin board\
 \*The image board must attach the image.
 
-***
+<figure><img src="../../../.gitbook/assets/img_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. Timeline (Free) Bulletin Board**</mark>
 
@@ -51,9 +49,9 @@ Part of the post body + representative thumbnail image.
 
 You’ll see some thumbnail-representative images and posts.
 
-If you attach multiple images, the number of images attached will be displayed at the top of the image as number badge.
+If you attach multiple images, the number of images attached will be displayed at the top of the image as a number badge.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-177@3x.png)
+<figure><img src="../../../.gitbook/assets/img_2.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**
 
@@ -110,7 +108,7 @@ Show only thumbnails of images
 In the post list, only representative image thumbnails are displayed.\
 The title is not displayed.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-180@3x.png)
+<figure><img src="../../../.gitbook/assets/img_3.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Existing image board upgrade version\
@@ -128,7 +126,7 @@ List of large image thumbnail + bottom posts
 A large image filled with a wide size is applied.\
 At the bottom is the style where the title of the post is shown.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-182@3x.png)
+<figure><img src="../../../.gitbook/assets/img_4.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Use to highlight posts with a large List-type bulletin board upgrade version
@@ -160,7 +158,7 @@ Used as a group chat room.\
 Multiple users can connect and chat.\
 Chat between the operator and a large number of users.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/menu\_3-copy.png)
+<figure><img src="../../../.gitbook/assets/img_5.png" alt=""><figcaption></figcaption></figure>
 
 **Utilization**\
 Real-time group chat with map users\
@@ -212,9 +210,9 @@ Foreign-based businesses, overseas shopping mall, etc.
 
 It’s available to all those who need to use an overseas address!
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-275@3x.png)
+<figure><img src="../../../.gitbook/assets/img_6.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-284@3x.png)
+<figure><img src="../../../.gitbook/assets/img_7.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">\* To link Google Maps, you need to sign up to the Google Map Platform site and get a key-value called API.</mark>
 
