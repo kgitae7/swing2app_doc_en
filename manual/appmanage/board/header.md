@@ -16,7 +16,7 @@ At the top of the bulletin board, you’ll see the post thumbnail, so you can se
 
 You can sort the post thumbnails in order by ranking the registered posts.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/01/o.png)
+<figure><img src="../../../.gitbook/assets/dgb (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -89,7 +89,7 @@ Go to **Manager** and select **Posts**. Click on the Bulletin Board you want to 
 \-The description you have written appears in the header.\
 \-Please check the instructions below on how to write a bulletin board.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/01/n.png)
+<figure><img src="../../../.gitbook/assets/images (22).png,ku.png" alt=""><figcaption></figcaption></figure>
 
 1. Bulletin board description can be entered in **Bulletin Board and feature settings** window&#x20;
 2. **Basic setting**&#x20;
@@ -119,7 +119,7 @@ If you delete the header priority and run the app again, you will see that the p
 
 Headers can be rearranged by entering a priority value or removed from the header by deleting the number.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/01/o.png)
+<figure><img src="../../../.gitbook/assets/dgb.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
