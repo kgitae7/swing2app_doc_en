@@ -95,7 +95,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 
 Anyone can create events in the app, view event lists, and detailed event posts.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/02/cal4-1.png)
+<figure><img src="../../../.gitbook/assets/Rectgnangle 1.png" alt=""><figcaption></figcaption></figure>
 
 As you can see from the above app launch screen, you can check the schedules created by other users on the calendar screen when you access the app.
 
