@@ -154,7 +154,7 @@ Search for a username, select the member, and register a stamp.&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp-1.png)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp2.png)
+<figure><img src="../../../.gitbook/assets/Rectangle 2.pngsg.png" alt=""><figcaption></figcaption></figure>
 
 Reading with QR code allows you to scan your QR code image with the QR code reader embedded in Apps.
 

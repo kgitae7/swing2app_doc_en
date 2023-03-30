@@ -16,7 +16,7 @@ At the top of the bulletin board, you’ll see the post thumbnail, so you can se
 
 You can sort the post thumbnails in order by ranking the registered posts.
 
-<figure><img src="../../../.gitbook/assets/dgb (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dgb (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
