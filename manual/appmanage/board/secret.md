@@ -69,31 +69,21 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ****
 
-### <mark style="color:blue;">**1.앱제작 V3 버전 이용시**</mark>
+### <mark style="color:blue;">**1.**</mark><mark style="color:blue;">When using app production V3 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-1\)앱제작 화면 - STEP3 페이지 선택
-
-2\)메뉴 선택
-
-\*메뉴를 만들기 전이라면, 새 메뉴를 만들어주세요. (+모양 버튼 선택하여 메뉴 추가)
-
-3\)메뉴 이름을 입력해주세요.
-
-4\)페이지 디자인에서 \[UI KIT] 선택
-
-5\)\[게시판]을 선택해주세요.&#x20;
-
-6\) 등록할 비밀시판을 확인한 뒤 \[적용하기] 버튼을 선택해주세요.&#x20;
-
-(페이지에 마우스 커서를 가져다 대면 적용하기 버튼이 열립니다)
-
-7\) 화면 상단 \[저장]버튼을 누르면 앱에 적용됩니다.
+1. App creation screen - Select the STEP3 page
+2. Select Menu. \*If you haven't created a menu, please create a new one. (+Select the shape button to add a menu)
+3. Enter a menu name.
+4. Select \[UI KIT] from the page design.
+5. Select \[Bulletin Board].
+6. Check the secret version to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
+7. Press the \[Save] button at the top of the screen to apply it to the app.
 
 <mark style="color:blue;">****</mark>
 
-### <mark style="color:blue;">**2.앱제작 V2 버전 이용시**</mark>
+### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using the app production V2 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
