@@ -60,11 +60,11 @@ This is to attach the image captured by the Android phone to the App Store scree
 
 <mark style="color:orange;">**▶Top bar image is shown on Android phone**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8F%B0%ED%99%94%EB%A9%B4.png)
+<figure><img src="../../.gitbook/assets/Group-284@3xss.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**▶Top bar image is shown on iPhone**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%99%94%EB%A9%B4.png)
+<figure><img src="../../.gitbook/assets/아이폰-화면dw.png" alt=""><figcaption></figcaption></figure>
 
 As you can see from the image attached above, you can see the difference between the top bar image of the Android phone and the top bar image of the iPhone.
 
@@ -72,11 +72,11 @@ As you can see from the image attached above, you can see the difference between
 
 ***
 
-### <mark style="color:blue;">**4. You can’t have poor quality images.**</mark>
+### <mark style="color:blue;">**4. You can’t have poor-quality images.**</mark>
 
 **★ Please complete the app icon image, standby screen image, screenshot image, etc. with a high-quality image.**
 
-Due to the nature of Swing2App’s app, there are cases where an image is created with poor image quality and a very poor image quality.
+Due to the nature of Swing2App’s app, there are cases where an image is created with poor image quality and very poor image quality.
 
 It doesn’t matter when you build an app for free, but it’s a problem when you put it on the App Store.
 
@@ -103,7 +103,7 @@ However,  the item that asks for personal information, such as the user’s phon
 
 \[Items that require personal information]
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%84%EC%9D%B4%ED%8F%B0-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4t.png)
+<figure><img src="../../.gitbook/assets/Group-284@3xef.png" alt=""><figcaption></figcaption></figure>
 
 **In this case, the same is true when the homepage is applied to the app.**
 
