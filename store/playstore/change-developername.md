@@ -33,7 +33,7 @@ You can change the name of the developer and use it.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **  **<mark style="color:orange;">**Apple App Store**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2244@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2244@d3x.png" alt=""><figcaption></figcaption></figure>
 
 It is the same for the app store.
 
