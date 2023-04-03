@@ -4,7 +4,7 @@ description: Bulletin Boards – How to Write a Post
 
 # Bulletin Board – How to Enter Posts
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 There are many ways to write a post.
 
@@ -14,7 +14,7 @@ There are many ways to write a post.
 
 Please check the manual entry method below.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. Creating a post on the app operation page (admin page)
 
@@ -165,7 +165,7 @@ You can choose video attachment, photo attachment, or file attachment.
 
 \*The functions applied to post management are three functions: video attachment, file attachment, and photo attachment!
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Write a post in the app
 
@@ -212,7 +212,7 @@ You can check the edit, delete, and share functions by selecting the top three d
 
 You can also share the post with other applications – katok, mail, and more.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. App production page – creating in the virtual machine
 

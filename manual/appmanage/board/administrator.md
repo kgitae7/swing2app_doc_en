@@ -4,7 +4,7 @@ description: Guide to Use Bulletion Board Adminisrator Function
 
 # Set Up a Board Administrator
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **★ What is a bulletin board administrator?**
 
@@ -16,7 +16,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. Bulletin Board Management-Administrator Settings
 
@@ -32,7 +32,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 **☞** [**\[View detailed alarm settings posting\]**](post-alarm.md)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. Board Administrator Settings&#x20;
 
@@ -43,7 +43,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 3. Click on **Okay.**
 4. Finally, press the **Save** button.&#x20;
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. Applying bulletin boards to your app
 
@@ -117,7 +117,7 @@ And the administrator settings are automatically reflected in the app, so when y
 
 When running the app, you must be logged in with an account that has been designated as an administrator.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 4. App Launch screen
 

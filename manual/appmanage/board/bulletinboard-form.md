@@ -22,7 +22,7 @@ Depending on the question, the user can enter and save the answer.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-269@3x.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**1. How to write a bulletin board**</mark>
 
@@ -55,7 +55,7 @@ In the app creation page, you need to link the relevant bulletin board to the ap
 
 In the **Maker(V2)** page, you need to link the relevant bulletin board to the app to be reflected. Please check the way to apply to the app below.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**2. Applying a bulletin board to the app**</mark>
 
@@ -101,7 +101,7 @@ On the Swing2App **Maker(V2),** go to the **Page menu.**&#x20;
 
 ****
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ****
 

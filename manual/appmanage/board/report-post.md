@@ -11,7 +11,7 @@ Report Post – We’ll report the post and let you know the process.
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. App Launch Screen – Report Post
 
@@ -24,7 +24,7 @@ After completing the input, select **OK** to complete the report.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/report.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. Delete administrator report or cancel report
 

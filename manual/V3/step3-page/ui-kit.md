@@ -10,7 +10,7 @@ You can view the general board UI, location registration (map)board, group chat,
 
 Below, we'll show you how to apply each bulletin board UI to your app.
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Bulletin board
 
@@ -64,7 +64,7 @@ Check out the detailed manual on how to create a bulletin board and apply it to 
 
 ☞ <mark style="color:blue;">Create a board manual</mark>
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Location Registration
 
@@ -114,7 +114,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 **☞** <mark style="color:blue;">**Location Registration (Map) Bulletin Board Manual**</mark>
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Group Chat
 
@@ -158,7 +158,7 @@ For details on how to create a group chat room and how to use it, please refer t
 
 ☞<mark style="color:blue;">Group Chat Room Manual</mark>
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Calendar
 
@@ -202,7 +202,7 @@ For a detailed manual on how to use a calendar, please check the manual below.
 
 ☞ <mark style="color:blue;">Calendar How-to Manual</mark>
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) Stamp
 

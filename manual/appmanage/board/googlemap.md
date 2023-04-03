@@ -118,7 +118,7 @@ Then, we will register the location on the Google Map bulletin board!
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Register your location on Google Maps
 
@@ -178,7 +178,7 @@ You can edit and delete the location, and if you have an app that manages multip
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. Apply the Map Board to the App
 
@@ -230,7 +230,7 @@ Go to **Maker(V2)** and select the **Page Menu.**
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. App Launch screen
 

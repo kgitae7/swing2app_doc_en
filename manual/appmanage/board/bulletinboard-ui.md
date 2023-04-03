@@ -4,7 +4,7 @@ description: Bulletin board type and design style provided by Swing2App
 
 # Bulletin board type, design style
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 Swing2App provides various styles of bulletin boards so that users can freely create bulletin boards.&#x20;
 

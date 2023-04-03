@@ -6,7 +6,7 @@
 
 When writing a bulletin board post, you can apply various styles such as text style, text size, text color, underline, and bold text to make the post look more beautiful than the existing bulletin board post.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 
 

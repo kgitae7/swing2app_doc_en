@@ -4,7 +4,7 @@ description: Uploading files to bulletin boards
 
 # Bulletin Board – How to Attach Files
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**\*\*Notes on file attachment\*\***</mark>
 

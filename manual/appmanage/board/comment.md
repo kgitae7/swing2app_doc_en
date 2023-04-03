@@ -4,7 +4,7 @@ description: Guide to Comments and Reply to Comment on Post
 
 # How to enter post comments and comments
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**\* The first thing you need to do is to allow comments on the board.**</mark>
 
@@ -12,7 +12,7 @@ Comments are an optional board feature, so if you need an administrator, you can
 
 Therefore, if you want to use comments in the bulletin board posts, first, you should enable the Comments in Permission Settings on the bulletin board you have created or newly created.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. To set comments on the board
 
@@ -24,7 +24,7 @@ Therefore, if you want to use comments in the bulletin board posts, first, you s
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/05/b11-e1587040518210-1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Applying bulletin boards to your app
 
@@ -76,7 +76,7 @@ Go to the App Production V2→ page menu.
 
 \*The icon is optional, only select it if you want to apply an icon in front of the menu.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. How to enter a comment
 
@@ -94,7 +94,7 @@ After entering the text, press the ‘Complete’ button on the right to complet
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. How to enter comments
 

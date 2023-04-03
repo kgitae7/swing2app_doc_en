@@ -4,7 +4,7 @@ description: 'Create a Post Link: How to Create a Post Link in the Link Wizard'
 
 # Create a link for a post
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 1. Create a link in Manage posts
 
@@ -38,7 +38,7 @@ description: 'Create a Post Link: How to Create a Post Link in the Link Wizard'
 
 Please copy the link and use it.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. How can I use it?
 

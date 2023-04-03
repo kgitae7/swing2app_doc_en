@@ -12,7 +12,7 @@ Hiding menus will not be visible in the app, and if you change to Exposure, the 
 
 It's very simple to use, so please check the manual below to find out how to use it.
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ****![](../../../.gitbook/assets/단락1-1.png) **Menu settings: How to use the Hiding function**
 
@@ -32,7 +32,7 @@ When the production is complete, and you reopen the app, you can change the menu
 
 You don't need to re-create the app, just save it, exit the app, and relaunch it to see the menu.
 
-![](<../../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](../../../.gitbook/assets/단락1-1.png)App launchscreen - check to Hiding menu
 

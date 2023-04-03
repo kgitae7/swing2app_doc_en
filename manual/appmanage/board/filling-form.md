@@ -30,7 +30,7 @@ You can take advantage of image attachments and calendar (date setting).&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to set up the bulletin board**</mark>
 
@@ -42,7 +42,7 @@ You can take advantage of image attachments and calendar (date setting).&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b27-e1587041340115-1-1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**2. Bulletin Form**</mark>
 
@@ -98,7 +98,7 @@ In the app creation page, you need to link the relevant bulletin board to the ap
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**3. Applying a bulletin board to the app**</mark>
 
@@ -142,7 +142,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**4. App Launch screen**</mark>
 

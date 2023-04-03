@@ -4,7 +4,7 @@ description: Guide to Create and Use Group Chat
 
 # Group Chat
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 Within the app, multiple users can chat at the same time, and chat with administrators and multiple users.
 
@@ -24,7 +24,7 @@ Please check the manual on how to use the group chat room.
 >
 > **\* Premium paid app voucher: Unlimited chat room available, users unlimited chat available**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. Create a group chat room
 
@@ -83,7 +83,7 @@ If you want to use all the members of the app, select ‘Guest’ if you want to
 
 **Therefore, you do not need to use detailed settings. If you use it, please set the option.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Apply a Group Chat Rooms to the Apps
 
@@ -136,7 +136,7 @@ You can see that the group chat room is applied to the app through the right vir
 
 ***
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. App Launch screen
 
@@ -191,7 +191,7 @@ When a user tries to enter an administrator’s chat room, they are restricted f
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/gc6.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. Group Chat Q\&A
 

@@ -4,7 +4,7 @@ I'll show you how to modify the items you registered in the swing shop.
 
 Regardless of the type of product (physical, booked, digital), the method of modifying the product is the same.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Modify your swing shop merchandise
 
@@ -36,7 +36,7 @@ Instead of needing a separate app update, just select Modify and the fix will be
 If you exit the app and relaunch it, you can see the modifications.
 {% endhint %}
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Copy an item
 

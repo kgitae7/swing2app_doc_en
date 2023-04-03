@@ -4,7 +4,7 @@ description: 'Bulletin board: How to use the list screen and creation screen'
 
 # How to use the list screen and creation screen
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 When you apply a bulletin board, you choose the style that will load the board.
 
@@ -62,7 +62,7 @@ If you select a post from the list, you can go to the post details page to check
 
 ★Bulletin board loading is provided by default setting as 'List Screen'. Therefore, unless it is a special case, you can use it as a list screen view without modifying it.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">****</mark>
 
@@ -104,7 +104,7 @@ The writing page of the board is visible, and <mark style="color:red;">**\*can b
 
 * In other words, you can only create posts, and the list of created posts can only be checked by the administrator on the app operation page.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">****</mark>
 

@@ -29,7 +29,7 @@ There are a total of seven post option settings.
 
 Please refer to the image below for more details on the app launch screen.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. Post Details – Show registrant name**</mark>
 
@@ -43,7 +43,7 @@ If it’s a notice board where only one administrator writes, you don’t have t
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/f.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. Post details – Registration date and time**</mark>
 
@@ -141,7 +141,7 @@ The number of views varies depending on the date and time of registration and wh
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**8.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Post sort order - descending, ascending</mark>
 

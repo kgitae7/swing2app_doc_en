@@ -1,6 +1,6 @@
 # Google Developer Account Identity Verification
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 We will inform you about the identity verification required to register for a Google developer account.
 
@@ -26,7 +26,7 @@ In most cases, you only see the completion message that the account has been cre
 
 Don't end here! Click on the <mark style="color:blue;">**\[Go to Play Console]**</mark> button.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP1.** Identity verification
 
@@ -38,7 +38,7 @@ You will be taken to the Google Play console page, and you will see a message th
 
 Please select \*\*\[Verify your identity]\*\*.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP2.** Identity verification process
 
@@ -66,7 +66,7 @@ If the countries entered are different, Google will not process identity verific
 Therefore, please enter the same country and address.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP3.** Enter your Verification Code Number (OTP)
 
@@ -76,7 +76,7 @@ As the last authentication, a verification code (code) is sent to the mobile pho
 
 Enter the 6-digit code sent to you and press the \[Confirm] button.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP4.** Verification complete
 
@@ -84,7 +84,7 @@ Enter the 6-digit code sent to you and press the \[Confirm] button.
 
 Once the OTP code registration is completed, all identity verification is completed.
 
-<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP5.** Complete – console available
 

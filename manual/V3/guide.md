@@ -69,7 +69,7 @@ To get the best results, be sure to design and apply the image as per the guide.
 
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>](../maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;">****</mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:blue;">****</mark>** STEP2** Prototype
 
@@ -111,7 +111,7 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 **\*If you have applied both the prototype and the skin color during the design phase, save it and go to the next step.**
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ****![](../../.gitbook/assets/단락1-1.png) **STEP3 Page**
 
@@ -223,7 +223,7 @@ Select the menu and drag it to where you want to move it.
 
 Like this, you can change position of menus, from a sub to a top menu and vice versa.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:green;">****</mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:green;">****</mark> STEP4 Creating an App
 
@@ -247,7 +247,7 @@ So complete app production and preview it on your mobile without worrying about 
 
 <mark style="color:red;">Since this is your first time building an app, we recommend you go with the default setting of update.</mark>&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:red;"></mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:red;"></mark> **STEP5** Complete App Creation&#x20;
 

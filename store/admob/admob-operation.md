@@ -14,7 +14,7 @@ If your admob payment information is missing, your ads won’t be displayed.
 
 If the ad is not reviewed, it will not be displayed in the app. If you see any un-reviewed ads, you should check and change them to review.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;">**1. Enter Payment Information**</mark>
 
@@ -46,7 +46,7 @@ Your account information has been verified so your ads will be displayed.
 
 <mark style="color:red;">Therefore, you will not enter an account, bank, etc on which you want to receive revenue.</mark>
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### <mark style="color:blue;">**2. Block management – manage app ads**</mark>
 

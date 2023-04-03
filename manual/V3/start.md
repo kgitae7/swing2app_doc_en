@@ -26,7 +26,7 @@ After selecting one of the methods and entering the basic information that goes 
 
 Check the manual to see the app creation method for each option type.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](<../../.gitbook/assets/단락1-1 (1).png>) Method 1. Fast app creation
 
@@ -58,7 +58,7 @@ Each sample template has its own prototypes. You can easily modify the menus of 
 
 Since you can modify and update the app unlimited times, feel free to modify and experiment with templates and prototypes.
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### &#x20;![](../../.gitbook/assets/단락1-1.png) Method 2. Create Web App
 
@@ -82,7 +82,7 @@ So if you wish to create a web app, choose the second option of the app creation
 
 <mark style="color:green;">**\*In addition, the menus provided in the web app can also be selected and modified on the app makerV3 screen.**</mark>&#x20;
 
-![](<../../.gitbook/assets/구분선 (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
 ### ![](../../.gitbook/assets/단락1-1.png) Method 3. Create Custom App
 

@@ -4,7 +4,7 @@ description: How to use the secret bulletin board
 
 # Create a Secret Bulletin Board (1:1 Customer Service)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 A secret bulletin board is a 1:1 customer service style that can only be viewed and answered by administrators, and other users will not be able to see what is written on the bulletin board.
 
@@ -14,7 +14,7 @@ In particular, you can write a piece of personal information that should not be 
 
 Please read the manual below to find out how to make a secret bulletin board (1:1 Customer Service).
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1.  Create a Secret Bulletin Board
 
@@ -61,7 +61,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 <mark style="color:blue;">****</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Apply the Secret Bulletin Board Created in the App
 
@@ -98,7 +98,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 7. Select the **Apply** button at the bottom.
 8. Select the **Save** button.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. App Launch screen – 1:1 Customer Service
 

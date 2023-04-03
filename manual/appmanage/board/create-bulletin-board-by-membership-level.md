@@ -15,7 +15,7 @@ Therefore, dividing ratings by member and setting up bulletin boards is a freque
 2. Apply a grade to a member to what grade to apply to each member.
 3. Once you have set up the membership grade, set the authority for each grade on the board.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\[Summary of how to use]**</mark>
 
@@ -55,7 +55,7 @@ Go to the app operation page → Push\&Member → Member Inquiry menu.
 
 3\)Click the \[Save Group Change] button to complete the change.
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.1 Create a member group**</mark>
 
@@ -81,7 +81,7 @@ Let’s add a member group with 8, 7, and 6 levels
    **\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\
 
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.2 Apply Member Levels**</mark>
 

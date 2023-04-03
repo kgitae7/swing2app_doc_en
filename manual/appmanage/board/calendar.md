@@ -4,7 +4,7 @@ description: How to use the calendar of swing2app
 
 # How to Use Calendar
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**▶ Swing2App Calendar**</mark>
 
@@ -198,7 +198,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**4. App Launch screen**</mark>
 
@@ -210,7 +210,7 @@ Once you have made an announcement, the announcement will appear as a fixed mess
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/25@3x-1.png)
 
-<figure><img src="../../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**5. How to create a calendar event in the app**</mark>
 
