@@ -101,13 +101,13 @@ Please note that even if you use an iPhone, you won’t be able to install a tes
 
 ### <mark style="color:blue;">**3. How to install the app after the launch of TestFlight**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/TF4@3x.png)
+<figure><img src="../../.gitbook/assets/TF4@3xp.png" alt=""><figcaption></figcaption></figure>
 
 **When the TestFlight app launch is complete, an invitation email for app installation is sent to the registered user’s Apple ID.**
 
 Select the <mark style="color:blue;">**\[View in TestFlight]**</mark> button in the mail.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/TF2@3x.png)
+<figure><img src="../../.gitbook/assets/TF2@3xp.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">★Important: Those who do not have the TestFlight app installed should search for the TestFlight app in the App Store and install it first.</mark>
 
@@ -115,17 +115,17 @@ If you are using TestFlight for the first time, the Terms of Use page will appea
 
 Click the **\[Accept]** button.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/TF3@3x.png)
+<figure><img src="../../.gitbook/assets/TF3@p3x.png" alt=""><figcaption></figcaption></figure>
 
 Click the **\[Continue]** button in TestFlight Getting Started.
 
-\*The terms and conditions of use only appear for the first time users of TestFlight, so users who have used it once will go to the app installation screen without displaying the above page!
+\*The terms and conditions of use only appear for first-time users of TestFlight, so users who have used it once will go to the app installation screen without displaying the above page!
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/TF1@3x.png)
+<figure><img src="../../.gitbook/assets/TF1@3xo.png" alt=""><figcaption></figcaption></figure>
 
 Click the \[Install] button to install the app.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/TF5@3x.png)
+<figure><img src="../../.gitbook/assets/TF5@3xr.png" alt=""><figcaption></figcaption></figure>
 
 Installation is complete.
 
@@ -137,7 +137,7 @@ You can run the app by pressing the \[Open] button.
 
 **Therefore, the test version app is only available for 90 days.**
 
-**When the period of use expires, you must apply again for uploading the App Store. We will upload and provide a test version again.**
+**When the period of use expires, you must apply again for uploading to the App Store. We will upload and provide a test version again.**
 
 **-The test version has the same function and operation as the officially released app.**
 
