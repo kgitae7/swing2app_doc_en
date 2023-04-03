@@ -38,7 +38,7 @@ Even if the user doesn’t update the app, there’s nothing the app developers 
 
 ### **01. Play Store app auto-update setting**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/08/android1.png)
+<figure><img src="../../.gitbook/assets/Rectanglef 3.png" alt=""><figcaption></figcaption></figure>
 
 1\) Select the \[Play Store] app on your Android phone.
 
@@ -80,7 +80,7 @@ Because it’s an item you’ve set up on your device, so the developers can’t
 
 <mark style="color:blue;">**1. Play Store app – Check for auto updates**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2019/08/android1.png)
+<figure><img src="../../.gitbook/assets/Rectanglef 3.png" alt=""><figcaption></figcaption></figure>
 
 1\) Select the \[Play Store] app on your Android phone.
 
@@ -98,7 +98,7 @@ If you have an app that needs to be updated immediately, you can select the app 
 
 <mark style="color:blue;">**2. Search for apps and update them directly**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2019/08/android3.png)
+<figure><img src="../../.gitbook/assets/Rectangle 3d.png" alt=""><figcaption></figcaption></figure>
 
 It is very simple! Search the Play Store for the app you want to update, and update it directly.
 
