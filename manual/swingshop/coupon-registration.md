@@ -229,7 +229,7 @@ Please go to the Maker(V2) page.
 
 <mark style="color:orange;">**\[App Launch Screen]**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1875@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1875@h3x.png" alt=""><figcaption></figcaption></figure>
 
 Product category is the style in which the category is configured in the menu.
 
@@ -249,7 +249,7 @@ When you select a product, go to the purchase page.
 
 <mark style="color:orange;">**\[App Launch Screen]**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1876@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1876h@3x.png" alt=""><figcaption></figcaption></figure>
 
 Swing Cafe Sample App created a coupon purchase page by applying the \[Web Template Page].
 
