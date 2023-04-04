@@ -87,7 +87,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 **We’ll show you the style of the shopping mall information page and how to apply it to the app home screen.**
 
-<figure><img src="../../.gitbook/assets/Group-2l20@3x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-2l20@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 Swing store app is the main home screen applied to the shopping mall information page.
 

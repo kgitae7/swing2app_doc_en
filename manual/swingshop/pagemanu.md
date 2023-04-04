@@ -140,7 +140,7 @@ This page does not have to be applied as a home screen, so you can decorate it a
 
 <mark style="color:blue;">**6. Shopping Mall Information**</mark>
 
-<figure><img src="../../.gitbook/assets/Group-2l20@3x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-2l20@3x.png" alt=""><figcaption></figcaption></figure>
 
 It’s the store information page.
 
