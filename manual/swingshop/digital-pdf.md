@@ -188,9 +188,9 @@ Please go to the Maker(V2) page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1769@3x.png)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1771@3x.png)
+<figure><img src="../../.gitbook/assets/Group-177h1@3x.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1779@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1779m@3x.png" alt=""><figcaption></figcaption></figure>
 
 **★ Swing Store Digital Product: Do want to check the app where the pdf file has been registered ??**
 
