@@ -19,7 +19,7 @@ In addition, functions such as user permission changes and member information no
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/admin1.png)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/m3@3x.png)
+<figure><img src="../../.gitbook/assets/m3g@3x.png" alt=""><figcaption></figcaption></figure>
 
 **After launching the app, \[Settings]> \[Administrator Login]> \[Log in with Swing2App Account]> Administrator menu will be created.** \
 **\*In the previous versions of the app, the Admin login menu is not visible in the Settings menu. (Apps created before September 22, 2017 must be re-created)** \
