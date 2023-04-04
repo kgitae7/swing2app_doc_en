@@ -181,11 +181,9 @@ You can buy video files applied to your app.
 
 You can check the purchased video on My Page.
 
-
+<figure><img src="../../.gitbook/assets/Group-1417m@3x.png" alt=""><figcaption></figcaption></figure>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1416@3x.png)
-
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1417@3x.png)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1421@3x.png)
 

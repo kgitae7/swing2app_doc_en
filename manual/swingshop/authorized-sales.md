@@ -282,13 +282,13 @@ Please check how the change of permissions product is registered in the app thro
 
 You can also view how to purchase and use permission changes through the sample app.&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1645@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1645@3xn.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1646@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1646@n3x.png" alt=""><figcaption></figcaption></figure>
 
 Master authorization purchase is complete.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1648@3x.png)
+<figure><img src="../../.gitbook/assets/Group-164n8@3x.png" alt=""><figcaption></figcaption></figure>
 
 At the same time the purchase is completed, the permission will be changed to ‘Master’.
 
