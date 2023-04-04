@@ -94,7 +94,7 @@ After you set your shipping amount, let’s run the app to see how it will look 
 
 <mark style="color:orange;">**▶Free Shipping**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-440@3x.png)
+<figure><img src="../../.gitbook/assets/Group-440h@3x.png" alt=""><figcaption></figcaption></figure>
 
 \=When you pay for a product that costs more than $2000, it will be marked as ‘0’ without shipping.
 
@@ -102,6 +102,6 @@ After you set your shipping amount, let’s run the app to see how it will look 
 
 <mark style="color:orange;">**▶Shipping Included**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-441@3x.png)
+<figure><img src="../../.gitbook/assets/Group-44f1@3x.png" alt=""><figcaption></figcaption></figure>
 
 \= When paying for a product with a price less than $2000, the total sum is calculated by including the $150 shipping fee set above.
