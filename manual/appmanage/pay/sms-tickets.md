@@ -62,9 +62,9 @@ In this way, you can check the policy on how to use the paid products, notices, 
 
 <mark style="color:orange;">**▶App launch screen: Verify your phone number when signing up**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-201@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-201m@3x.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-198@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-198h@3x.png" alt=""><figcaption></figcaption></figure>
 
 If you set your phone number ID, you will be sent an authentication number after entering the phone number in the sign-up window when you run the app.
 
@@ -76,7 +76,7 @@ Enter the relevant authentication number and complete the registration by enteri
 
 <mark style="color:orange;">**▶ Phone number verification at re-login**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-202@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-202g@3x.png" alt=""><figcaption></figcaption></figure>
 
 Once logged in, the user will remain logged in unless they sign out.
 
