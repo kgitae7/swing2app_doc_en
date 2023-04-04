@@ -106,7 +106,7 @@ Prototype when creating an app in Swing2App in a slide, footer, top, drop-down s
 
 <mark style="color:orange;">**▶ Apps created with the push version**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%ED%91%B8%EC%8B%9C%ED%88%B4%EB%B0%94.png)
+<figure><img src="../../../.gitbook/assets/영문_푸시툴l바.png" alt=""><figcaption></figcaption></figure>
 
 In the Push Prototype app, which is built with push versions, there is a different way to turn off push notifications.
 
