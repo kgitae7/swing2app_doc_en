@@ -60,9 +60,9 @@ App subscription policy manages various policies such as permissions and terms f
 
 **3) Private (Available after registration and admin’s approval)**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-27@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-27gf@3x.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/private@3x.png)
+<figure><img src="../../../.gitbook/assets/privatef@3x.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**▶ Verifying Unauthorized Membership**</mark>
 
