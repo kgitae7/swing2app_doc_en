@@ -58,7 +58,7 @@ If you select 1: 1 chat, the chat window will open immediately.
 
 * **Try logging in as a Windy user who sent a message to another phone.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/dbb168a8-5f92-4f3e-b2d0-170dc160a824.jpg)
+<figure><img src="../../.gitbook/assets/dbb168a8-5f92-4f3e-b2d0-170djc160a824.png" alt=""><figcaption></figcaption></figure>
 
 Push notifications are sent to these users.
 
