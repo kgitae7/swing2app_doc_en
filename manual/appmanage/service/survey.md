@@ -132,7 +132,7 @@ To apply **Survey,** please complete the survey form in the **Manager** screen, 
 
 **Once you finish applying it to the app, let’s see how the survey will run in the actual app.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-270@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-27d0@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 Before the survey, the status is “Not Submitted”.
 
@@ -164,7 +164,7 @@ This is a question that allows the user to enter an answer.
 
 You can respond to surveys by answering these items.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-270@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-27d0@3x.png" alt=""><figcaption></figcaption></figure>
 
 When the survey is complete, the survey results are sent to the administrator.
 
