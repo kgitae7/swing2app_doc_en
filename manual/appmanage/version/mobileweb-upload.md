@@ -98,7 +98,7 @@ Please check the image size (72\*72) and attach the image.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG-4-503x1024.png)
+<figure><img src="../../../.gitbook/assets/IMG-4-50h3x1024.png" alt=""><figcaption></figcaption></figure>
 
 When the mobile web registration is completed, a registration completion email is sent to the user’s email address.
 
@@ -108,7 +108,7 @@ Select \[Confirm Mobile Web Registration].
 
 ### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. Run the mobile web**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG-5-473x1024.png)
+<figure><img src="../../../.gitbook/assets/IMG-5-473x102b4.png" alt=""><figcaption></figcaption></figure>
 
 You can check the registered mobile website.
 
