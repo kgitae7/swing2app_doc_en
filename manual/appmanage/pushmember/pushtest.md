@@ -38,7 +38,7 @@ Check the ‘device\_token’ on my mobile phone and press the \[Test Save] butt
 
 <mark style="color:purple;">**▶ How can I check device\_token?**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98-%EC%98%81%EB%AC%B81.png)
+<figure><img src="../../../.gitbook/assets/푸시장치-영f문1.png" alt=""><figcaption></figcaption></figure>
 
 After running the app on your phone, tap the Settings button on the push toolbar.
 
@@ -46,9 +46,7 @@ Then, like the image, the \[Push Message Receive Settings] banner window appears
 
 Tap the banner 3 or 4 times.
 
-
-
-![](https://support.swing2app.com/wp-content/uploads/2020/04/%ED%91%B8%EC%8B%9C%EC%9E%A5%EC%B9%98-%EC%98%81%EB%AC%B82.png)
+<figure><img src="../../../.gitbook/assets/푸시장n치-영문2.png" alt=""><figcaption></figcaption></figure>
 
 The **device info** banner window of the corresponding mobile phone appears above the tabbed place.
 
