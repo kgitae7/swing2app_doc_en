@@ -241,7 +241,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 **\[App Launch Screen]**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-239@3x.png)
+<figure><img src="../../.gitbook/assets/Group-23jk9@3x.png" alt=""><figcaption></figcaption></figure>
 
 Category list is a style in which a list of all the categories registered in the app appears on 1 screen.&#x20;
 
