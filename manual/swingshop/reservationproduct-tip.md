@@ -16,7 +16,7 @@ We’ll tell you about the sales method of the reservation system through the ma
 
 **1. (Reservation date) select In-Out time**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/07/Group-867@3x.png)
+<figure><img src="../../.gitbook/assets/Group-867bh@3x.png" alt=""><figcaption></figcaption></figure>
 
 First, let’s check how to register a reservation product that selects only the reservation date, how to apply the app, and how to run the app.
 
@@ -78,7 +78,7 @@ Example business type) It can be applied to hotels, pensions, motels, Airbnb hot
 
 **2. Select date, time and reservation**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/07/Group-869@3x.png)
+<figure><img src="../../.gitbook/assets/Group-86hjm9@3x.png" alt=""><figcaption></figcaption></figure>
 
 Let’s check how to register a reservation product to select the date of booking, the time of the reservation, how to apply the app, and the app launch screen.
 
