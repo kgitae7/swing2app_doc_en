@@ -11,9 +11,7 @@ description: Swing Shop - Shopping Mall Main Page How to Use
 The main page is a swing page function that is provided when applying for a swing shop.\
 Since the UI template is all set, it can be applied to the home screen and used as the main screen.
 
-
-
-![](https://support.swing2app.com/wp-content/uploads/2019/04/Group-285@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2g85@3x.png" alt=""><figcaption></figcaption></figure>
 
 This is the app launch screen with the shopping mall main page applied.
 
