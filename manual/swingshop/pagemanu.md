@@ -64,7 +64,7 @@ I’ll show you the app execution screen for each page through the manual below\
 
 <mark style="color:blue;">**1. Shopping Cart**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-223@3x.png)
+<figure><img src="../../.gitbook/assets/Group-44f1@3x.png" alt=""><figcaption></figcaption></figure>
 
 Everyone knows the shopping cart without explaining it? ^^
 
@@ -74,7 +74,7 @@ This is a page where you can check the items you have placed in your shopping ca
 
 <mark style="color:blue;">**2. Category list**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-222@3x.png)
+<figure><img src="../../.gitbook/assets/Group-23jk9@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 **Category list is a page that shows categories as a list, not individual products.**
 
@@ -112,7 +112,7 @@ You need to apply the page to check the contents purchased by the users in the a
 
 <mark style="color:blue;">**4. My Profile**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-218@3x.png)
+<figure><img src="../../.gitbook/assets/Group-21fg8@3x.png" alt=""><figcaption></figcaption></figure>
 
 \[My Page] is a page where you can check all the details of your purchase, payment, and delivery.
 
@@ -124,7 +124,7 @@ As you can see in the image, it provides functions such as order status, deliver
 
 <mark style="color:blue;">**5. Shopping Mall Main**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-221@3x.png)
+<figure><img src="../../.gitbook/assets/Group-221f@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 The shopping mall main page is a main home screen page suitable for applying to the home screen.
 
@@ -140,7 +140,7 @@ This page does not have to be applied as a home screen, so you can decorate it a
 
 <mark style="color:blue;">**6. Shopping Mall Information**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-220@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2l20@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 It’s the store information page.
 
@@ -150,7 +150,7 @@ The page consists of basic shopping mall information and provides customer cente
 
 <mark style="color:blue;">**7. Search for a product**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-219@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2f19@3x.png" alt=""><figcaption></figcaption></figure>
 
 This is a product search page where you can search for registered products in the app.
 

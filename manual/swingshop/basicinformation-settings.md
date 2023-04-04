@@ -48,7 +48,7 @@ The items entered in the basic information will be displayed on the App – Stor
 
 **\*Let’s check how the contents entered in items 1 – 5 are displayed in the app.**
 
-<figure><img src="../../.gitbook/assets/Group-420@3xfg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-420@3xfg (1).png" alt=""><figcaption></figcaption></figure>
 
 \* Store name, email, address, store introduction can be found on the shopping mall information page. \
 
