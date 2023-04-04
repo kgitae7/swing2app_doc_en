@@ -122,7 +122,7 @@ After selecting the reservation date above, you can set the reservation time.
 
 **▶ **<mark style="color:orange;">**App Launch Screen**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1285@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1285@3gx (1).png" alt=""><figcaption></figcaption></figure>
 
 After selecting a date when purchasing reservation – You can also select a reservation time.
 
@@ -270,23 +270,19 @@ Therefore, the date you set first is displayed in check-in, and the date you sel
 
 You can set the desired period of 1 night, 2 nights, 3 nights, etc.
 
-​
-
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1281@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1281@vgn3x.png" alt=""><figcaption></figcaption></figure>
 
 If you select the date and period, the available products will be displayed.
 
 Click Schedule to move on to the next step.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1282@3x.png)
+<figure><img src="../../.gitbook/assets/Group-m1282@3x.png" alt=""><figcaption></figcaption></figure>
 
 Please press \[Buy Now] button.
 
 At this time, you can choose between Pay app card, electronic payment, and bankbook deposit.
 
-
-
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1283@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1283j@3x.png" alt=""><figcaption></figcaption></figure>
 
 Please check the phone number authentication number on the order details page.
 
