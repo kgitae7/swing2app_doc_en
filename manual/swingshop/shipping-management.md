@@ -68,7 +68,7 @@ When you have added all the items, click the **\[Save]** button.
 
 <mark style="color:orange;">**▶App Launch Screen**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-286@3x.png)
+<figure><img src="../../.gitbook/assets/Group-286b@3x.png" alt=""><figcaption></figcaption></figure>
 
 As you can see in the image above, when you make a purchase (the screen before you go to the payment page), you will see an order form page.
 
