@@ -239,23 +239,21 @@ For time reservation products, first select the day you want to reserve from the
 
 Please select the desired product time here.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-1176@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1176@hjn3x.png" alt=""><figcaption></figcaption></figure>
 
 Check the product details and click the \[Book] button.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-1177@3x.png)
+<figure><img src="../../.gitbook/assets/Group-1177@hjbk3x.png" alt=""><figcaption></figcaption></figure>
 
 Please click the \[Buy Now] button.
 
 At this time, you can choose between PayApp card, electronic payment, and non-bankbook deposit as the payment method.
 
-.
-
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-1178@3x.png)
+<figure><img src="../../.gitbook/assets/Group-11jh78@3x.png" alt=""><figcaption></figcaption></figure>
 
 Check the phone number verification number on the order details page.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-1179@3x.png)
+<figure><img src="../../.gitbook/assets/Group-117d9@3x.png" alt=""><figcaption></figcaption></figure>
 
 If you proceed with the payment request, it will proceed to payment.
 
