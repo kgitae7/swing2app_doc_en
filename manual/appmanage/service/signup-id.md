@@ -65,11 +65,9 @@ Please enter your email address to register.
 
 When you click **Register**, a message will appear stating that email authentication is required.
 
-&#x20;
+<figure><img src="../../../.gitbook/assets/Group-199v@3x.png" alt=""><figcaption></figcaption></figure>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-199@3x.png)
-
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Group-197@3x.png)
+<figure><img src="../../../.gitbook/assets/Group-197v@3x.png" alt=""><figcaption></figcaption></figure>
 
 Soon you will receive a ‘Verify your registration email’ email to your registered email.
 
