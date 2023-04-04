@@ -136,11 +136,11 @@ If the administrator sets the group expiration date for the member → On the gr
 
 Please select push notifications.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/ch@3x.png)
+<figure><img src="../../../.gitbook/assets/ch@f3x.png" alt=""><figcaption></figcaption></figure>
 
 **You can see the message window that the user’s rating has been changed to ‘support1’.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/ch1@3x.png)
+<figure><img src="../../../.gitbook/assets/ch1x@3x.png" alt=""><figcaption></figcaption></figure>
 
 If you go into the settings menu, you will see the ‘Support1’ ratings on your account.
 
