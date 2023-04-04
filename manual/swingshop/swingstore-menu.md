@@ -50,7 +50,7 @@ When creating the Swing Store app, please check the manual below, as it provides
 
 **We’ll show you the mall main page style and how to apply it to the app home screen.**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/04/Group-285@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2g85@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 This is the swing store app main home screen that applied the main page of the shopping mall.
 
@@ -87,7 +87,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 **We’ll show you the style of the shopping mall information page and how to apply it to the app home screen.**
 
-![](https://support.swing2app.com/wp-content/uploads/2020/10/Group-220@3x.png)
+<figure><img src="../../.gitbook/assets/Group-2l20@3x.png" alt=""><figcaption></figcaption></figure>
 
 Swing store app is the main home screen applied to the shopping mall information page.
 
@@ -213,7 +213,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 You can also organize your reservation product page with other style web templates.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/04/Group-1433@3x.png)
+<figure><img src="../../.gitbook/assets/Group-143p3@3x.png" alt=""><figcaption></figcaption></figure>
 
 I used the Information page for other industry templates.
 

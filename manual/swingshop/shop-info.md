@@ -18,7 +18,7 @@ It can be used on the Swing page, and the page can be applied together when usin
 
 <mark style="color:orange;">**Shopping mall information app execution screen**</mark>
 
-<figure><img src="../../.gitbook/assets/Group-420@3xfg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-420@3xfg (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
