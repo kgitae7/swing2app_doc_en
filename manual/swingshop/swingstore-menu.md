@@ -50,7 +50,7 @@ When creating the Swing Store app, please check the manual below, as it provides
 
 **We’ll show you the mall main page style and how to apply it to the app home screen.**
 
-<figure><img src="../../.gitbook/assets/Group-2g85@3x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-2g85@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 This is the swing store app main home screen that applied the main page of the shopping mall.
 

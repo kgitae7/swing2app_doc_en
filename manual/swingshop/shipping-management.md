@@ -102,6 +102,6 @@ After you set your shipping amount, let’s run the app to see how it will look 
 
 <mark style="color:orange;">**▶Shipping Included**</mark>
 
-<figure><img src="../../.gitbook/assets/Group-44f1@3x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-44f1@3x.png" alt=""><figcaption></figcaption></figure>
 
 \= When paying for a product with a price less than $2000, the total sum is calculated by including the $150 shipping fee set above.

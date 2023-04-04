@@ -64,7 +64,7 @@ I’ll show you the app execution screen for each page through the manual below\
 
 <mark style="color:blue;">**1. Shopping Cart**</mark>
 
-<figure><img src="../../.gitbook/assets/Group-44f1@3x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group-44f1@3x (1).png" alt=""><figcaption></figcaption></figure>
 
 Everyone knows the shopping cart without explaining it? ^^
 

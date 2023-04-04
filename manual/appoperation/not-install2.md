@@ -6,7 +6,7 @@
 
 ****
 
-★If you try to download the paid version of the app produced by Swing2App on the Android phone (before the Play Store)
+★If you try to download the paid version of the app produced by Swing2App on an Android phone (before the Play Store)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%EC%95%B1%EB%AF%B8%EC%84%A4%EC%B9%98.png)
 
