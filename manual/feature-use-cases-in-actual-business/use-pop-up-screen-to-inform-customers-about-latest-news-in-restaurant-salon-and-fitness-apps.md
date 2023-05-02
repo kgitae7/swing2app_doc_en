@@ -18,7 +18,7 @@ Important information or new or features news can be shared first on app launch 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-17-1.png)
 
-2\. When the user will launch the app, the pop-up will show up. <mark style="color:purple;">Check the image below showing the pop-up feature in the app:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. When the user will launch the app, the pop-up will show up. <mark style="color:purple;">Check the image below showing the pop-up feature in the app:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-10.png)
 
@@ -47,7 +47,7 @@ Let’s use triple screen pop-up to inform users of the hair & beauty app about 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-20-1.png)
 
-4\. When the user will launch the app, the pop-up will show up. Check the image below showing the pop-up feature in the app: ****&#x20;
+4\. When the user will launch the app, the pop-up will show up. Check the image below showing the pop-up feature in the app:&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-11.png)
 
@@ -67,6 +67,6 @@ Let’s use triple screen pop-up to inform users of the hair & beauty app about 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-24-1.png)
 
-2\. At the top user can preview the images selected from the list of 9 images. <mark style="color:purple;">Check the image below showing 9 pop-up screen feature in the app:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. At the top user can preview the images selected from the list of 9 images. <mark style="color:purple;">Check the image below showing 9 pop-up screen feature in the app:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-14.png)

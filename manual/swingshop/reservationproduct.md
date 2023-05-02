@@ -42,7 +42,7 @@ If you have created a \[Shop], you must first register your product category.
 
 **Go to Shop → Products → Product Category Registration Management.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/shopcat1.png)
 
@@ -54,7 +54,7 @@ In the category management window, 2) Category name 2) Representative image 3) C
 
 <mark style="color:red;">**\*Categories must include a name that includes the product. Example) top, bottoms, accessories… Like this.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/ndkdmc@3x.png)
 
@@ -118,7 +118,7 @@ After selecting the reservation date above, you can set the reservation time.
 
 **If you need to set your reservation time together, you can check \[Enable Time Reservation] and select the available time zone.**&#x20;
 
-****
+
 
 **▶ **<mark style="color:orange;">**App Launch Screen**</mark>
 
@@ -244,7 +244,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 7. Click on **Apply.**
 8. Click on **Save.**
 
-****
+
 
 **▶ **<mark style="color:orange;">**See My Page for Apps**</mark>
 
@@ -262,7 +262,7 @@ In addition, there are many other functions such as the main product and the hot
 
 <mark style="color:orange;">**Let’s run an app with a reservation system and check it out!**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 The Date Booking product is displayed with the Check In – Check Out function on the Calendar screen.
 

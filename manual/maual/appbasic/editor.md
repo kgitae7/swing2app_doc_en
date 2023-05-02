@@ -30,7 +30,7 @@ Just resize and upload it on the image editing tools page.
 >
 > **At this time, the image size should be inserted according to the standard size provided by Swing2App to upload.**&#x20;
 >
-> ****
+>
 
 ### <mark style="color:blue;">**1. Select an app icon**</mark>
 
@@ -98,7 +98,7 @@ If the image is edited with the size editing tool, the icon image is registered 
 
 **–If the size does not match, please register the idle screen by adjusting the size through the image editing tool.**
 
-****
+
 
 **Please refer to the post for the app icon creation guide.**\
 **☞** [**\[Go to the app icon creation guide\]**](appicon.md)
@@ -109,7 +109,7 @@ If the image is edited with the size editing tool, the icon image is registered 
 
 **\*You can also use the image editing tool to register images on the web template page or register graphic images in the market upload application!**
 
-****
+
 
 <mark style="color:blue;">**Edit Web Template Image Size**</mark>
 

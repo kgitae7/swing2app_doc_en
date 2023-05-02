@@ -48,7 +48,7 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ***
 
-### ****![](broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
+### ![](broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
 
 
 
@@ -82,7 +82,7 @@ After modifying the contents on that page, click on the \[Save] button.
 
 <mark style="color:red;">**★ If you're new to apps, be sure to update after you Set the Policy to reflect modified content in your app.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 {% hint style="info" %}
 There are 7 items in the privacy policy that the user must modify as per the app's services.
@@ -136,7 +136,7 @@ To learn how to apply the link to the Privacy Policy on the Play Store, please r
 
 
 
-### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**. **<mark style="color:blue;">****</mark> App launch screen- Check the Terms of Service and Privacy Policy
+### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**.** App launch screen- Check the Terms of Service and Privacy Policy
 
 ![](broken-reference)
 
@@ -154,7 +154,7 @@ Select the button to see the terms of service you entered in the app subscriptio
 
 Let's see how the app privacy policy you wrote above is applied on the Play Store and App Store!!
 
-****
+
 
 **1) Play Store**
 
@@ -179,7 +179,7 @@ When selected, the page created in the Swing2App App Subscription Policy – Ter
 {% hint style="danger" %}
 ﻿<mark style="color:red;">**Instructions**</mark>
 
-****
+
 
 1\) Push, WebView prototype app is a web app created by linking the user's website (homepage) to the app.
 
@@ -212,4 +212,3 @@ If you receive this report on Google, it can result in the deletion of your app.
 ﻿
 {% endhint %}
 
-****

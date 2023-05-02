@@ -31,7 +31,7 @@ The calendar can be used in various ways depending on the purpose of the app.
 
 ***
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**STEP.2 Apply the Calendar Bulletin Board to the App**</mark>
 
@@ -79,7 +79,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-****
+
 
 ***
 
@@ -148,7 +148,7 @@ If you go to the detail page in the schedule list, you can see the details of th
 
 **\*Administrator can create a schedule in the app, swing2app homepage) app operation page – post-management can also be written on the web.**
 
-****
+
 
 <mark style="color:orange;">**▶ How to create a calendar Application 2**</mark>
 
@@ -181,7 +181,7 @@ You can check the shop notice and the day when the reservation is possible and t
 
 **\*The administrator can create a schedule in the app, swing2app homepage) App operation page-post management can be written on the web.**
 
-****
+
 
 <mark style="color:orange;">**▶ How to create a calendar Application 3**</mark>
 

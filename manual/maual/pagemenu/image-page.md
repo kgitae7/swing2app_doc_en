@@ -4,7 +4,7 @@
 
 **We will tell you how to use the \[Image map] among the functions provided by the user page.**
 
-****
+
 
 **▶What is an image page?**
 
@@ -23,7 +23,7 @@ You can apply various links to images, which can be useful when creating an app.
 3. If you want to put a more detailed description of the image, you can apply the tooltip so that the message appears.
 4. Can work on a banner – Create an image in banner style and specify the area to apply the link.
 
-****
+
 
 **▶ If you want to put a full image on the home screen when creating an image page.**
 
@@ -83,7 +83,7 @@ Please register the image first.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/image1.png)
 
-&#x20;**** Select **the image you want to register** by selecting the <mark style="color:blue;">**\[Upload Image]**</mark> button or **\[New]** button.
+&#x20; Select **the image you want to register** by selecting the <mark style="color:blue;">**\[Upload Image]**</mark> button or **\[New]** button.
 
 <mark style="color:red;">\*The image page is a function that puts a banner such as a link on the designed image, so you need to upload it as a completed image.</mark>
 
@@ -109,7 +109,7 @@ Image page operations
 >
 > If you don’t want the tool to be visible when you select the mouse, you can set the transparency to ‘0’.
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**3. Shape Tools – Check the Style**</mark>
 
@@ -165,7 +165,7 @@ Of course, in addition to the above menu, the link wizard can be applied to all 
 
 **For example, if you want to move to a blog when you select a banner, select **<mark style="color:blue;">**\[Link Wizard] and then \[Web Link] – enter the URL of the blog site address and reflect it.**</mark>&#x20;
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:orange;">**▶How to create an image page with GIFS**</mark>
 
@@ -175,7 +175,7 @@ Of course, in addition to the above menu, the link wizard can be applied to all 
 
 **You can also make the banner transparent by setting it to ‘0’ in the Background Opacity.**&#x20;
 
-****
+
 
 <mark style="color:orange;">**▶Image Page Creation TIP**</mark>
 
@@ -183,7 +183,7 @@ Of course, in addition to the above menu, the link wizard can be applied to all 
 
 Here is a TIP.
 
-If you use the <mark style="color:blue;">**\[Duplicate Style button]**</mark>** ** in the list, you **can import the same area style and default style.**
+If you use the <mark style="color:blue;">**\[Duplicate Style button]**</mark> in the list, you **can import the same area style and default style.**
 
 You only need to change the link settings, so you can create it easily.
 
@@ -237,7 +237,7 @@ In addition to linking link banners to image pages, we will show you how to appl
 
 **Tooltips are used as a way to attach a message window-shaped icon to the image and add a description.**
 
-****
+
 
 **▶ Tooltip application example) App launch screen**
 
@@ -254,9 +254,9 @@ Like the web link method, select the area by dragging the area to the tool menu.
 
     1. Mouse hover:  Select \[Show Tool tips] view because the tooltip contents should be shown when mouse hover.
     2. Click Action:  Select the \[Do Nothing] view because only tooltips will be applied.\
-       \*Use TIP: You can create them using both the tooltip menu and the weblink menu. ****&#x20;
+       \*Use TIP: You can create them using both the tooltip menu and the weblink menu.&#x20;
 
-    ****
+
 2. **Text Style**\
    Text Style is a menu for editing the text color, font, font size, tooltip box size, etc. created in the tooltip.\
 

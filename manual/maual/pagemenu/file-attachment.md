@@ -72,7 +72,7 @@ You can share the attached file by email or other applications. ^^
 
 <mark style="color:orange;">**▶ Attach image file**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/07/%EB%85%B9%ED%99%94\_2020\_08\_13\_16\_15\_44\_707.gif)
 

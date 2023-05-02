@@ -1,77 +1,68 @@
 ---
-description: >-
-  Swing2App Update for the 1st week of April [Push App – Member linkage function
-  added]
+description: Swing2App Update for the 1st week of May
 ---
 
 # Swing2App Update
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Push App – Added website member linkage function**&#x20;
+**\[Updated]**
 
-<figure><img src=".gitbook/assets/en_회원연동1.png" alt=""><figcaption></figcaption></figure>
+**1.Survey – Copy Questionnaire & Copy Question feature updated**
 
-**Members can now be linked in the push app through a member linkage feature.**
+\*This updated feature is available in the General Prototype app.
 
-You can register website members’ in the Swing2App service and link them with the user's device.&#x20;
-
-When working with member linkage, web members are linked to swing2app, which lets you to
-
-view web members and send pushes - You can send pushes to individual members. \
-\
-
-
-### ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10556716/20232507.png) **What is member linkage?**
-
-If you do not link members, no members will be viewed in the view member list.
-
-This is because you are a member of the site, not a member who signed up in the actual app, so there is no information to load.
-
-In addition, when sending push, members cannot be inquired, so individual push sending is not possible (only full sending is possible).&#x20;
+Web view app and push app users are not eligible.
 
 
 
-If you link your membership, you can check all the linked member information on the website as shown in the image above.
+## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) Launched Survey copy function
 
-In the Send Push menu, you can also select individual members to send pushes.&#x20;
+<figure><img src=".gitbook/assets/en_설문조사-업데이트1.png" alt=""><figcaption></figcaption></figure>
 
+**The ability to copy Surveys and copy form Survey questions has been added.**
+
+If you wish to add a new survey with the same content of old surveys> in Manage Surveys,
+
+select the Duplicate button to copy the form.
+
+You can also copy individual questionnaires (items) of the Surveys.
+
+If you need a questionnaire with the same content as used in the older questionnaire or if you want to add the same questions, you can use the copy function more conveniently.\
 
 
 ### &#x20;![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10707653/20235803.png)**How to Use**
 
-<figure><img src=".gitbook/assets/en_회원연동2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/en_설문조사업데이트2.png" alt=""><figcaption></figcaption></figure>
 
-After creating the push app, when you enter the member inquiry and push sending menu, a pop-up window will appear with member linkage instructions.
+\*You can use it immediately without any app update.
 
-You can check each linked guide to work on the integration.&#x20;
+On the [App Manager Page→ Go to the Service option→ Click on the Surveys](https://www.swing2app.com/view/survey).
+
+If you haven't created a survey yet, select the \[Add Survey] button.
+
+\-After creating the questionnaire in survey, a \[Duplicate] button will appear.
+
+\-To copy a question, first select a questionnaire to go to the questionnaire detail page, and there click on the \[Duplicate] button for each question (item).
+
+When you select the duplicate button, a copied post is created at the bottom of the list.
+
+To learn how to use the survey, please check the manual below.
+
+{% embed url="https://documentation.swing2app.com/manual/appmanage/service/survey" %}
 
 
+
+### ![](.gitbook/assets/warning-\(2\).png)**Instructions**
 
 {% hint style="warning" %}
-### **Instructions**
+1\)The function provided in the App Manager Page can be used immediately without a separate app update.
 
+2\)You must have a questionnaire to use the copy function, so if you do not have a questionnaire, please create one first.
 
+3\)This function is only available for apps made with general prototypes.&#x20;
 
-1\)This function is only available in push-only prototype apps.&#x20;
-
-Web view apps and general prototype apps are not applicable.&#x20;
-
-2\) We provide all the necessary guides for member linkage.
-
-Please check the guide to work on it.
-
-3\)If it is difficult to link members, you can send us work request anytime.
-
-Our development team will work on your project, the agency will charge you a fee.
-
-(The cost varies depending on the site implementation, so we can guide you to the final estimate after consultation)
-
-4\)Member linkage is an optional function, not a mandatory function.
-
-Even if you do not link members, it does not affect the use of the push app, and you can send the same push without any issue.&#x20;
-
-However, when sending a push, it can only be sent to all members and not individually.&#x20;
+Web view apps and push apps that connect websites are not applicable.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>

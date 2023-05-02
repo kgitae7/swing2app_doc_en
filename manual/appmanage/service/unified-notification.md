@@ -73,7 +73,7 @@ You can enter an email address to receive notifications or enter a phone number 
 
 4\) SMS: You can receive a notification by text message. **\* You must purchase an SMS voucher to be able to use it.**
 
-****
+
 
 **When a user enters a comment in a post, an app push notification comes in.**
 

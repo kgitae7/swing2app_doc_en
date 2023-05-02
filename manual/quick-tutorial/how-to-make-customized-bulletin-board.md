@@ -35,7 +35,7 @@ On the Swing2App **Maker(V2),** go to the **Page menu.**&#x20;
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-<mark style="color:blue;">For Detailed Guide on Customized Board Visit:</mark> [**\[Go to Detailed Tutorial\]**](../appmanage/board/) ****&#x20;
+<mark style="color:blue;">For Detailed Guide on Customized Board Visit:</mark> [**\[Go to Detailed Tutorial\]**](../appmanage/board/)&#x20;
 
 <mark style="color:red;">\*NOTE</mark>
 

@@ -18,7 +18,7 @@ This page must be applied in shopping mall apps that sell digital products.&#x20
 
 <mark style="color:orange;">**Digital product purchase completion page App execution screen**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 This is the screen of running the Swing Academy sample app.
 
@@ -40,7 +40,7 @@ Please operate it by referring to this point.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Apply digital product purchase completion page to the app**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Apply digital product purchase completion page to the app**</mark>
 
 Maker(V2) Page → Move to Step 3 Page Menu
 
@@ -80,7 +80,7 @@ If you select the **\[View]** button, you will be directed to the content view, 
 
 
 
-<mark style="color:purple;">**If you click the \[View] button,**</mark>** ** you will be taken to the order detail page for checking the contents of the permission usage period.
+<mark style="color:purple;">**If you click the \[View] button,**</mark> you will be taken to the order detail page for checking the contents of the permission usage period.
 
 The usage right is not a product that has a real product like a coupon or view a file like the content, so you will be taken to the order details screen.
 

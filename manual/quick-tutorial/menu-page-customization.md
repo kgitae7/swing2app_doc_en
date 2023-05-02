@@ -96,7 +96,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/pm6.png)
 
-<mark style="color:blue;">For Detailed Guide on Page Menu Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](../maual/pagemenu/)
+<mark style="color:blue;">For Detailed Guide on Page Menu Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../maual/pagemenu/)
 
 ***
 
@@ -112,4 +112,4 @@ Swing2app provides **8 different menu types**, follow these steps to apply menu 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/menu-type.png)
 
-<mark style="color:blue;">For Detailed guide on Menu & Management Page Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]** ](../maual/pagemenu/mainmenu.md)
+<mark style="color:blue;">For Detailed guide on Menu & Management Page Visit:</mark>[ **\[Go to Detailed Tutorial\]** ](../maual/pagemenu/mainmenu.md)

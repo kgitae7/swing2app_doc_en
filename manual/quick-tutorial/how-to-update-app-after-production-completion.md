@@ -21,7 +21,7 @@ With swing2app you can update your app anytime with no extra charges. Updates li
 
 3\. If you modify the content of step 3 **Page Menu**, you don’t need to update just **Click on Apply button -> Click on** **Save button** and changes will be saved and updated.
 
-<mark style="color:blue;">For Detailed Guide on App Updates Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](../maual/appbasic/app-update.md)
+<mark style="color:blue;">For Detailed Guide on App Updates Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../maual/appbasic/app-update.md)
 
 <mark style="color:red;">\*NOTE</mark>
 

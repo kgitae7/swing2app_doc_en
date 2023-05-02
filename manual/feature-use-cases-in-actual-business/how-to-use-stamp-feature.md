@@ -17,7 +17,7 @@ Swing2App provides Stamp feature which user can use as a digital loyalty card or
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Test\_7-1.jpg)
 
-2\. Now whenever the customer will visit the store, the salon employee(person handling the billing)    will scan the QR code of the customer after which the customer will receive a stamp on every scan. <mark style="color:purple;">Check the image below showing stamp collection:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Now whenever the customer will visit the store, the salon employee(person handling the billing)    will scan the QR code of the customer after which the customer will receive a stamp on every scan. <mark style="color:purple;">Check the image below showing stamp collection:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/M\_test6.jpg)
 

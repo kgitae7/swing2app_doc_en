@@ -66,15 +66,15 @@ Complete the purchase of the Swing2App paid app voucher and app store upload tic
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/playstore.png)
 
-If you press the upload application button, the upload application popup window will appear.  **** &#x20;
+If you press the upload application button, the upload application popup window will appear. &#x20;
 
 Please enter the items.
 
-&#x20;**\*** Items marked in ** **<mark style="color:red;">**red**</mark> are required.
+&#x20;**\*** Items marked in <mark style="color:red;">**red**</mark> are required.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C1.png)
 
-&#x20;**** Select the <mark style="color:blue;">**question ‘ ? ’ mark**</mark>** ** icon to see the guidelines!
+&#x20;Select the <mark style="color:blue;">**question ‘ ? ’ mark**</mark> icon to see the guidelines!
 
 Please indicate how the item appears in the Play Store.&#x20;
 

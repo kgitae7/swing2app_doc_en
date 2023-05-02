@@ -2,7 +2,7 @@
 
 **App Maker V3 Version – Webview App Creation Manual**
 
-****
+
 
 > **What is a Swing2App webview app?**
 >
@@ -12,7 +12,7 @@
 
 ![](broken-reference)
 
-****
+
 
 ## **Start.** Get started with the App Creation Wizard
 
@@ -288,7 +288,7 @@ It's not an account signed up for in the official Swing2App app!
 
 **\*The webview app is only available on Android phones. (iPhone not available)**
 
-****
+
 
 <mark style="color:green;">**▶ App launch: App preview- Download app**</mark>
 

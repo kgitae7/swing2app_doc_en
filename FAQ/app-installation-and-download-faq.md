@@ -16,7 +16,7 @@
 
 2\) After launching the app, select the \[App Preview] menu at the top of the → category and log in with your Swing2App website subscription account (ID, password).&#x20;
 
-**\*Note: To log in, you must enter the account you signed up for in the Swing2App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)<mark style="color:blue;"></mark>
+**\*Note: To log in, you must enter the account you signed up for in the Swing2App homepage** [<mark style="color:blue;">http://www.swing2app.com</mark>](https://www.swing2app.com/)
 
 **It's not an account signed up for in the official Swing2App app\~!**
 
@@ -28,7 +28,7 @@
 
 For more information on how to install the app, please check the manual link below.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [<mark style="color:blue;">See how to install the app</mark>](../manual/appoperation/appinstall.md)<mark style="color:blue;"></mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [<mark style="color:blue;">See how to install the app</mark>](../manual/appoperation/appinstall.md)
 
 </details>
 
@@ -84,7 +84,7 @@ Of course, if your app has been uploaded to the Play Store, you won't be able to
 
 In addition, you can select and proceed with the protection security message as 'Ignore and install'.&#x20;
 
-**☞** [<mark style="color:blue;">**\[How to install APK file Android phone\]**</mark>](../manual/appoperation/appinstall.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**\[How to install APK file Android phone\]**</mark>](../manual/appoperation/appinstall.md)
 
 </details>
 
@@ -152,7 +152,7 @@ If you no longer use it as a paid app and want to use it as a free app, please p
 
 (The App Store will be dropped off upon request)&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period\]</mark>](../manual/appoperation/freeversionapp-change.md)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">\[Go to the manual on how to switch to a free app after the end of the paid app period\]</mark>](../manual/appoperation/freeversionapp-change.md)
 
 </details>
 
@@ -170,7 +170,7 @@ You can use it by taking the link and installing the app.
 
 **iPhones can only download apps released on the App Store.**
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to see how to install the app to share\]**</mark>](../manual/appoperation/share-app.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**\[Go to see how to install the app to share\]**</mark>](../manual/appoperation/share-app.md)
 
 </details>
 
@@ -188,7 +188,7 @@ On Android phones, you can download the app directly from the app installation l
 
 You can copy and install the link address you received by copying it to various paths.&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the app installation link address to see the app download manual\]</mark>](../manual/appoperation/applink-install.md)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">\[Go to the app installation link address to see the app download manual\]</mark>](../manual/appoperation/applink-install.md)
 
 </details>
 
@@ -212,7 +212,7 @@ If you choose Get APK file, the file download will start and you can install the
 
 **2)Download the app from email**
 
-****![](../.gitbook/assets/Picture40.png)****
+![](../.gitbook/assets/Picture40.png)
 
 When the app is published, the completed APK file is sent to the user's email.
 

@@ -180,7 +180,7 @@ You can select the button to delete the app.
 
 **1) Check on the swing2app preview (app preview)**
 
-****![](../.gitbook/assets/앱미리보기자름900\_en.png)****
+![](../.gitbook/assets/앱미리보기자름900\_en.png)
 
 Please download the \[Swing2App] official app from the App Store and Play Store.
 
@@ -262,11 +262,11 @@ Users who have previously downloaded the app from the market will also be restri
 
 Therefore, before the capacity is exceeded, please purchase and apply the amount of capacity you are lacking by purchasing a separate capacity add-on product.&#x20;
 
-**☞** [<mark style="color:blue;">**\[Go to Swing Payment Page\]**</mark>](https://www.swing2app.com/view/shop\_list)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**\[Go to Swing Payment Page\]**</mark>](https://www.swing2app.com/view/shop\_list)
 
 You can also free up capacity by deleting unnecessary posts from the App Operations page → Service Management → Resource Management page.&#x20;
 
-**☞**[ ** **<mark style="color:blue;">**\[Go to see how to use resource management\]**</mark>](../manual/appmanage/service/capacity-management.md)<mark style="color:blue;">****</mark>
+**☞**[ <mark style="color:blue;">**\[Go to see how to use resource management\]**</mark>](../manual/appmanage/service/capacity-management.md)
 
 </details>
 
@@ -284,7 +284,7 @@ If you pay for your subscription again, you will not receive the message, and yo
 
 **\[Expired Use Message Window]**
 
-****![](../.gitbook/assets/EN\_이용기간만료.png)****
+![](../.gitbook/assets/EN\_이용기간만료.png)
 
 If you want to use the app for free again, please delete the app that was previously installed on your phone and re-create the app in a new version after the end of the period.
 
@@ -316,7 +316,7 @@ How to register (launch) a Play Store app is provided in the manual. (We will no
 
 Please proceed by looking at the manual.&#x20;
 
-**☞** [<mark style="color:blue;">**\[How to launch the Play Store app\]**</mark>](../store/playstore/update-playstore.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**\[How to launch the Play Store app\]**</mark>](../store/playstore/update-playstore.md)
 
 </details>
 

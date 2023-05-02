@@ -66,7 +66,7 @@ The modification of basic app information is reflected only when you update to a
 
 &#x20; 4\. Select the \[Next] button.
 
-****
+
 
 **Step 3: Page menu**
 
@@ -139,9 +139,9 @@ Please apply for upload to the store you want to release, such as the Play Store
 
 (1) Online Stores → Purchase a store upload ticket from the Vouchers & Tickets page [ ](https://swing2app.com/view/shop\_list)
 
-****[**https://swing2app.com/view/shop\_list**](https://swing2app.com/view/shop\_list)****
+[**https://swing2app.com/view/shop\_list**](https://swing2app.com/view/shop\_list)
 
-(2) If you have purchased a ticket, go to the \*Manager – Manage Version – Production history [**https://swing2app.com/view/app\_work\_history**](https://swing2app.com/view/app\_work\_history)****
+(2) If you have purchased a ticket, go to the \*Manager – Manage Version – Production history [**https://swing2app.com/view/app\_work\_history**](https://swing2app.com/view/app\_work\_history)
 
 Click the \[Play Store Upload] or \[App Store Upload] button to complete the application.
 
@@ -149,7 +149,7 @@ Click the \[Play Store Upload] or \[App Store Upload] button to complete the app
 
 **\*The app store cannot be uploaded directly, and uploading can only be released through Swing.**
 
-****
+
 
 **\[Notes on store upload]**
 
@@ -161,7 +161,7 @@ Store upload agency can apply for upload by purchasing \[Play Store upload ticke
 
 **2) To upload the Play Store, you must create your Google developer account (registration fee of 25$) in advance** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=4)
 
-**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account..** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3) ****&#x20;
+**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account..** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3)&#x20;
 
 \*Please check the purchase page for details of each uploaded ticket.
 

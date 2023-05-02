@@ -12,7 +12,7 @@ The reason why Google developers invite other users is that they can give permis
 
 **So if you add your swing2app account as a user to your Google Developer account, we can upload your app to the Play Store without sharing your account information.**
 
-****
+
 
 **▶ How to Invite a Swing2App Account.**
 

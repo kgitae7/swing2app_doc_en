@@ -19,7 +19,7 @@ This manual will tell you how to check the number of Google Play Store app insta
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%841.png)
 
 \
-\* **** Go to the [**Google Developer Console site**](https://play.google.com/apps/publish/) **** and log in with your Google Developer account.
+\* Go to the [**Google Developer Console site**](https://play.google.com/apps/publish/) and log in with your Google Developer account.
 
 **Unlike Apple, Google can check the number of app installs and the number of users currently using the app right from the main page.**\
 You can easily check the number of installations.\
@@ -47,7 +47,7 @@ In addition to the number of app installs, you can see a variety of information 
 
 **+ View details to learn more about the metrics.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**3. Statistics page**</mark>
 

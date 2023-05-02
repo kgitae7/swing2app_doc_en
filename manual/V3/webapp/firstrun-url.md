@@ -8,7 +8,7 @@ If you are using an older version (V2), please switch to V3 and use it.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** What is the first run address?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the first run address?
 
 The first run address is the separate web page that is only shown the first time installation in the app in addition to the website associated with the app(from which the app is created).
 

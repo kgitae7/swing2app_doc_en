@@ -22,7 +22,7 @@ The App Maker V3  Manual will show you how to edit your app in step 2- prototype
 
 **3. Advanced styles and options**
 
-&#x20;**** This feature allows you to set additional color options and design styles that you can add to the prototype UI.
+&#x20;This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
 \*This is not a required setting.
 

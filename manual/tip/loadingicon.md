@@ -56,7 +56,8 @@ If you have updated your image,\
 
 **The loading icon above is the loading icon style provided by swing2app.**
 
-<mark style="color:orange;"></mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**▶ Edited Loading Icon**</mark>
+\
+<mark style="color:orange;">**▶ Edited Loading Icon**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_10\_14\_32\_41\_232.gif)
 

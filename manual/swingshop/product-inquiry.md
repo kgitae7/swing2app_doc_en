@@ -67,7 +67,7 @@ Go to the **Shop → Product → Product Reservation List.**
 
 **Therefore, please check the relevant page for products registered through the reservation system in addition to general products.**
 
-****
+
 
 <mark style="color:blue;">**1 . How to use reservation product inquiry**</mark>
 
@@ -93,7 +93,7 @@ Select the **\[Status]** menu and select the desired status.&#x20;
 
 You can see the product status changed to **\[Out of Stock].**
 
-****
+
 
 The swing store product inquiry and the reservation product inquiry menu are not difficult to use.
 

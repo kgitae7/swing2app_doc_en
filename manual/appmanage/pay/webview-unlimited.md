@@ -128,7 +128,7 @@ Click the \[Play Store Upload Request] or \[App Store Upload Request] button to 
 
 **\*The app store cannot be uploaded directly, and uploading can only be released through Swing.**
 
-****
+
 
 **\[Notes on store upload]**
 
@@ -138,7 +138,7 @@ Click the \[Play Store Upload Request] or \[App Store Upload Request] button to 
 
 **2) To upload the Play Store, you must create your Google developer account (registration fee of 25$) in advance.** [**\[View product details\]**](https://swing2app.com/view/order\_info\_action?product\_id=4)
 
-**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account.** [**\[View product details\]**](https://swing2app.com/view/order\_info\_action?product\_id=3) ****&#x20;
+**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account.** [**\[View product details\]**](https://swing2app.com/view/order\_info\_action?product\_id=3)&#x20;
 
 \*Please check the purchase page for details of each uploaded ticket.
 

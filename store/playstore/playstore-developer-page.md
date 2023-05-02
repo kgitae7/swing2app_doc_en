@@ -4,7 +4,7 @@
 
 **How to register and use the Google developer page**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **  **<mark style="color:orange;">**What is a developer page?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  <mark style="color:orange;">**What is a developer page?**</mark>
 
 This is a page to promote your brand and app.
 
@@ -60,7 +60,7 @@ Size: 4096px(horizontal)\*2304px(vertical)
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**What is a recommended app?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**What is a recommended app?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2341.png)
 
@@ -70,7 +70,7 @@ package name.If you don’t select an app, all apps released to your account wil
 
 ​
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Where can I check the registered developer page?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**Where can I check the registered developer page?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2340.png)
 
@@ -86,15 +86,15 @@ You can check the developer page by pasting it on the pc internet or mobile web.
 
 How does the developer page look?
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Check on mobile**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**Check on mobile**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%81%EB%AC%B84.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Check on PC**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**Check on PC**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%81%EB%AC%B83.png)
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Information**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**Information**</mark>
 
 1. The developer page is not required.\
    Even if you don’t set up a developer page, other published apps will still appear in the Google Play Store’s Developer-Specific Apps Collection.

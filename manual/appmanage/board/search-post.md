@@ -16,7 +16,7 @@ See how to use the post search menu.
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## &#x20;**** 1. Search for individual boards-posts
+## &#x20;1. Search for individual boards-posts
 
 On the bulletin board, the search box is set by default.
 
@@ -48,7 +48,7 @@ If you select the \[Post Search] menu you created, you will see a list of all bu
 
 You can see the search field at the top.
 
-<mark style="color:red;"></mark>
+
 
 ## 3. Post integrated search – apply to the app
 
@@ -74,7 +74,7 @@ Move the app creation screen
 
 \*Even after application, you can check how the page is applied to the app through the virtual machine.
 
-****
+
 
 **-When using the app production V2 version**
 
@@ -104,4 +104,3 @@ When searching for content in posts on all boards – please apply the \[Search 
 If you apply the board without adding any other functions, the search term input window is set and provided by default.
 {% endhint %}
 
-<mark style="color:blue;">****</mark>

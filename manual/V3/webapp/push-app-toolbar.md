@@ -20,7 +20,7 @@ Check out the manual to see how to use the toolbar and how you can apply its fea
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-****
+
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
@@ -274,9 +274,9 @@ If you modify the toolbar after the initial app is built, it will be reflected d
 
 However, if you modify the toolbar design during the STEP2 design phase, the app needs to be updated.
 
-__
 
-__
+
+
 
 
 

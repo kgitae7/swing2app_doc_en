@@ -54,7 +54,7 @@ If you add more IDs, click the \[Add] button to continue creating them. You can 
 
 **Users can log in from the app with the account (ID, password) received from the administrator.**
 
-****
+
 
 <mark style="color:blue;">**4. Log in with the created account) App execution screen**</mark>
 

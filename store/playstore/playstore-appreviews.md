@@ -18,7 +18,7 @@ See how to reply to Play Store app reviews in the Swing2App article.
 
 **\*\*Reviews can be viewed in the Play Store app, but you’ll need to go to the Google Developer Console site to write a reply.**
 
-**☞** [**Move to Google Developer Console Site**](https://play.google.com/apps/publish) ****&#x20;
+**☞** [**Move to Google Developer Console Site**](https://play.google.com/apps/publish)&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%B1%EB%A6%AC%EB%B7%B05\_en.png)
 

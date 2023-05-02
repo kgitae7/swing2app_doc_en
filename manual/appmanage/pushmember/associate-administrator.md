@@ -76,7 +76,7 @@ Windy Associate Administrator can now run the apps created by the administrator.
 \
 **Then you can see that the level has been changed to the administrator.**
 
-****
+
 
 Before the grade was changed, John Doe was a user level.
 

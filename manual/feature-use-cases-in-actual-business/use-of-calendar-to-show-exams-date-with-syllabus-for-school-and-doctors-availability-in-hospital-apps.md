@@ -17,7 +17,7 @@ Swing2App calendar can be used to show the events and schedule as per user requi
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-26-1.png)
 
-2\. Admin will enter the events as per schedule. <mark style="color:purple;">Check the image below:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Admin will enter the events as per schedule. <mark style="color:purple;">Check the image below:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-25.png)
 

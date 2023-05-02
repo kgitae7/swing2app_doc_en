@@ -96,8 +96,8 @@ You can check the member information (answer) entered when you sign up for the a
 
 <mark style="color:orange;">**▶ App launch screen: Sign up form (information entry)**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/57@3x.png)![](https://support.swing2app.com/wp-content/uploads/2018/10/58@3x.png)****\
-****When you sign up in the app, you will be entered according to the items set by the administrator.
+![](https://support.swing2app.com/wp-content/uploads/2018/10/57@3x.png)![](https://support.swing2app.com/wp-content/uploads/2018/10/58@3x.png)\
+When you sign up in the app, you will be entered according to the items set by the administrator.
 
 This information can be checked by the administrator on the membership page.
 

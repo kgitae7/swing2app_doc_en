@@ -84,7 +84,7 @@ App subscription policy manages various policies such as permissions and terms f
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-211@3x.png)
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**2. App Introduction Message**</mark>
 
@@ -105,7 +105,8 @@ After editing the message text on the page, press the **Save** button to save it
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/e17.png)
 
 The App terms and privacy policies to be used in the app may also be edited by the user.\
-<mark style="color:red;">**We have put the contents in Swing2App for each item.**</mark> \ <mark style="color:red;"></mark><mark style="color:red;">**You can use it as it is, but the content will vary from service to service to what apps you offer, so please check and edit it.**</mark>\
+<mark style="color:red;">**We have put the contents in Swing2App for each item.**</mark> \
+<mark style="color:red;">**You can use it as it is, but the content will vary from service to service to what apps you offer, so please check and edit it.**</mark>\
 After correcting that page, you can click the **\[Setting Policy]** button to save it.\
 
 

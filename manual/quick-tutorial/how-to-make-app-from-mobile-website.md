@@ -42,7 +42,7 @@ Since this is a style that uses only **web links,** other menus provided by Swin
 6. Click on the Apply button.&#x20;
 7. Click on **Save.**
 
-<mark style="color:blue;">For Detailed Guide on Web View Version Visit:</mark> [**\[Go to Detailed Tutorial\]** ](../maual/appbasic/push-webview.md) ****&#x20;
+<mark style="color:blue;">For Detailed Guide on Web View Version Visit:</mark> [**\[Go to Detailed Tutorial\]** ](../maual/appbasic/push-webview.md)&#x20;
 
 <mark style="color:red;">\*NOTE</mark>
 

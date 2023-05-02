@@ -8,7 +8,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 Update AAB file to a new version**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 Update AAB file to a new version**</mark>
 
 Google Play Console: [https://play.google.com/console/developers](https://play.google.com/console/developers)
 
@@ -69,7 +69,7 @@ Please access the Google Play Store developer console site ([https://play.google
 
 **Console site left menu 1) Select \[Production] → 2) Select the \[Create new version] button.**
 
-****
+
 
 <mark style="color:orange;">**3. Production release – AAB file Upload**</mark>
 
@@ -121,7 +121,7 @@ After uploading the AAB file, the Save and Review buttons at the bottom are acti
 
 <mark style="color:blue;">**Select Saved → Select Version Review**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EA%B8%80%EB%A1%9C%EB%B2%8C2-1.png)
 
@@ -172,7 +172,7 @@ You must check the rejection email received from Google and follow the measures 
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2 Update by modifying store registration information**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2 Update by modifying store registration information**</mark>
 
 Next, I’ll show you how to update your store listing by modifying it!!
 
@@ -180,7 +180,7 @@ What if you want to change **the app name, short description, detailed descripti
 
 In the same way, if you modify and update the contents on the **\*Google Console–Store Registration Information page, it will be reflected in the store.**
 
-****
+
 
 #### <mark style="color:orange;">**1. App information → Default store listing**</mark>
 
@@ -211,7 +211,7 @@ When the review is complete, the store information will be changed to the update
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3 Fix and Update your store listing**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3 Fix and Update your store listing**</mark>
 
 You can edit app categories and contacts in the store settings.
 
@@ -243,7 +243,7 @@ Click the Manage button and click **“Yes, it contains advertisements.”** Aft
 
 ***
 
-#### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**Play Store app update notice**</mark>
+#### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**Play Store app update notice**</mark>
 
 **1. Apps released on the Play Store can be freely updated. (There is no limit!)**
 
@@ -253,7 +253,7 @@ Therefore, if you want to update the app version or edit the store registration 
 
 **2. On Android phones, even if the app downloaded from the Play Store is updated, the update guide window may not appear when running the app.**
 
-****
+
 
 **3. Even if the app update on the Play Store is completed, the update time is different for each Android phone.**
 

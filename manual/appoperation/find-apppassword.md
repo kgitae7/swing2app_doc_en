@@ -34,7 +34,7 @@ But you can’t send a temporary password because your regular ID isn’t an ema
 
 **Therefore, if you are an administrator when making the first app, please make sure your ID is set to ‘Email’.**
 
-****
+
 
 > **How to set up ID-email in sign up**
 
@@ -54,7 +54,7 @@ Then the ID type entered at login will be changed to email.
 
 **+Therefore, if you want to change your email ID, please change it on the page.**
 
-****
+
 
 <mark style="color:red;">**★Please note**</mark>
 
@@ -96,7 +96,7 @@ Go back to the app and paste your email and the temporary password you copied.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Picture65.png)
 
-Select ** **<mark style="color:blue;">**\[edit your account information]**</mark> menu **** in ** **<mark style="color:blue;">**\[Settings].**</mark>
+Select <mark style="color:blue;">**\[edit your account information]**</mark> menu in <mark style="color:blue;">**\[Settings].**</mark>
 
 Enter and save your current and new password.
 

@@ -56,7 +56,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 6. Click on **Reflect**
 7. Click on **Apply.**
 8. Click on **Save.**
-9. ****
+9.
 
 ### <mark style="color:blue;">**03. App Launch Screen**</mark>
 

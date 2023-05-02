@@ -11,7 +11,7 @@ The filling form is an updated feature in the writing.\
 Like the article, the administrator sets the items to be answered.\
 The difference is since the bulletin board form is provided **a tool is created in the bulletin board and you can use it by adding an image or adding a calendar (date setting).**
 
-**☞**[ **** ](https://swing2app.blog.me/220840148356)[**Refer to the post on how to set up and use the form.** ](filling-form.md)
+**☞**[ ](https://swing2app.blog.me/220840148356)[**Refer to the post on how to set up and use the form.** ](filling-form.md)
 
 ***
 
@@ -99,11 +99,11 @@ On the Swing2App **Maker(V2),** go to the **Page menu.**&#x20;
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-****
+
 
 ## <mark style="color:blue;">**3. App Launch Screen**</mark>
 

@@ -65,13 +65,13 @@ To get the best results, be sure to design and apply the image as per the guide.
 
 
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>](../maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>](../maual/appbasic/apploading.md)
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;">****</mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:blue;">****</mark>** STEP2** Prototype
+### ![](../../.gitbook/assets/단락1-1.png) **STEP2** Prototype
 
 **\[STEP2 Prototype]** is the step of determining the overall design and style of the app's UI design and color.
 
@@ -113,7 +113,7 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](../../.gitbook/assets/단락1-1.png) **STEP3 Page**
+### ![](../../.gitbook/assets/단락1-1.png) **STEP3 Page**
 
 **\[STEP3 PAGE] is a step to create categories and menus for the app.**
 
@@ -123,7 +123,7 @@ On the left area, you can set menus of the app.
 
 We'll show you how to apply the home screen and menus of the app.
 
-****
+
 
 ### **1.** How to apply the home screen
 
@@ -145,7 +145,7 @@ Click on the \<Home> option from the menu category on the left side of MakerV3 p
 
 \*Since you don't have any template created, you must first go to the Page Template Creator to create a template page.
 
-****
+
 
 <mark style="color:green;">**\[Template Page Editor Tool]**</mark>
 
@@ -153,9 +153,9 @@ Click on the \<Home> option from the menu category on the left side of MakerV3 p
 
 To learn how to create a template page, please check out the production manual below!
 
-**☞** [<mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../maual/pagemenu/template-page.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../maual/pagemenu/template-page.md)
 
-<mark style="color:blue;">****</mark>
+
 
 ![](../../.gitbook/assets/가이드3-템플릿2.png)
 
@@ -225,7 +225,7 @@ Like this, you can change position of menus, from a sub to a top menu and vice v
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:green;">****</mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:green;">****</mark> STEP4 Creating an App
+### ![](../../.gitbook/assets/단락1-1.png) STEP4 Creating an App
 
 Once you've finished building your app, complete the process by clicking on the \[App creation] button.
 
@@ -249,9 +249,9 @@ So complete app production and preview it on your mobile without worrying about 
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:red;"></mark>![](../../.gitbook/assets/단락1-1.png) <mark style="color:red;"></mark> **STEP5** Complete App Creation&#x20;
+### ![](../../.gitbook/assets/단락1-1.png) **STEP5** Complete App Creation&#x20;
 
-****
+
 
 ![](../../.gitbook/assets/make12.png)
 
@@ -269,7 +269,7 @@ It's a feature that allows you to preview the app through a swing2app preview sc
 
 \*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing account or scan the QR code shown in the pop-up window and you can preview the app on your phone!&#x20;
 
-****
+
 
 ![](../../.gitbook/assets/make13.png)
 
@@ -283,6 +283,5 @@ When the production is complete, the **APK file** (the file that you can downloa
 
 \*APK files can only be installed on Android phones. (iPhones are not supported.)
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../swingpreview.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../swingpreview.md)
 
-<mark style="color:blue;">****</mark>

@@ -63,9 +63,9 @@ Check out the icons and splash screen image creation guide.
 {% hint style="info" %}
 We also have a guide in which we have shown a different way to use an app icon and a guide to use as a splash screen. Be sure to design and apply the image as per the guide.
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>](../maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**Go to the standby screen image creation guide**</mark>](../maual/appbasic/apploading.md)
 {% endhint %}
 
 ###
@@ -80,7 +80,7 @@ Except for the app ID, the app name, icons, and splash screen images can be modi
 
 \*STEP1- After modifying the Basic Information step, you must press the \[Update App] button to update to the new version to reflect modified items in your app.&#x20;
 
-****
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the image editing tool?
 
@@ -125,7 +125,7 @@ This way you can modify image size in the swing2app image editor tool.
 {% hint style="danger" %}
 <mark style="color:red;">**Editing Tool Precautions**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 1\)We recommend you to upload images as per recommended size guide provided by us.
 
@@ -144,6 +144,5 @@ It does not offer picture editing functions such as Photoshop, Illustration, and
 Therefore, we recommend that you use images that are larger than the specified size.
 {% endhint %}
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:red;">****</mark>
+

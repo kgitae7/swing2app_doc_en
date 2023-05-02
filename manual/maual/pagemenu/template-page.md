@@ -53,7 +53,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 Template page creator site.
 
-Select <mark style="color:blue;">**\[+New]**</mark>** ** at the bottom of the site to open the ** **<mark style="color:blue;">**‘New Page‘**</mark> window.
+Select <mark style="color:blue;">**\[+New]**</mark> at the bottom of the site to open the <mark style="color:blue;">**‘New Page‘**</mark> window.
 
 Select the page and select the <mark style="color:blue;">**\[Add]**</mark> button.
 

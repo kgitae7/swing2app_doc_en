@@ -20,7 +20,7 @@ Please check on how to use product exposure management.
 
 **Go to the Shop → Product → Product Exposure page.**
 
-****
+
 
 ### <mark style="color:blue;">**2. Select Product Exposure Page-Main Page Collection**</mark>
 

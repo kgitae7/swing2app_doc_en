@@ -62,7 +62,7 @@ Remove all the menus on the right and move it to the left slide!
 
 **You can’t delete the top menu that says \[Right Menu]. This is the default menu that can’t be deleted.**
 
-****
+
 
 <mark style="color:orange;">**▶ If you look at the animated image, you can check more easily.**</mark>
 

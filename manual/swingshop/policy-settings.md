@@ -1,6 +1,6 @@
 # Store Management-Policy Settings
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/shop7.png)
 

@@ -2,7 +2,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/bb10-1.png)
 
-****
+
 
 **▶What is the new alarm?**
 
@@ -41,7 +41,7 @@ Please check the manual on how to set a new alarm and how notifications are sent
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b33.png)
 
-<mark style="color:red;"></mark>
+
 
 1. Click on **Set a New Alarm.**&#x20;
 2. Members Groups window will be open, select the members who wish to receive the notification from.

@@ -30,13 +30,13 @@ Free apps are not available for store release.&#x20;
 
 <mark style="color:blue;">**Google Developer Console Site**</mark>
 
-****[https://play.google.com/console/developers](https://play.google.com/console/developers)
+[https://play.google.com/console/developers](https://play.google.com/console/developers)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2038.png)
 
 When you go to the console site, the first step is to create an app by selecting the <mark style="color:blue;">**\[Create app]**</mark>** button.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2071.png)
 
@@ -52,7 +52,7 @@ When you go to the console site, the first step is to create an app by selecting
 
 &#x20;
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Initial Settings**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Initial Settings**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2072.png)
 
@@ -68,7 +68,7 @@ Select one by one and complete the input.
 
 **​**Save after checking <mark style="color:blue;">“All functions can be used without special access rights”</mark>
 
-<mark style="color:blue;"></mark>
+
 
 <mark style="color:orange;">**2. Check for advertisement**</mark>
 
@@ -226,7 +226,7 @@ When step-by-step input is completed, it is checked as done.
 
 
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Store setup steps**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Store setup steps**</mark>
 
 <mark style="color:orange;">**1. Select app category and provide contact details**</mark>
 
@@ -300,7 +300,7 @@ Finally, upload the app (AAB file).
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 Production-Registering the app**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 Production-Registering the app**</mark>
 
 **Go to Dashboard> Post Google Play App**
 
@@ -413,7 +413,7 @@ When you go to the dashboard screen, you can see the “Reviewing updates” mes
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**App release completed (within 7 days of review period)**</mark>
+### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**App release completed (within 7 days of review period)**</mark>
 
 **\*The release is not immediate, but it is approved after Google screening, so you have to wait!**
 

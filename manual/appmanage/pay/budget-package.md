@@ -4,9 +4,9 @@
 
 **Swing2App Paid App Budget Package (24 Months) Product Information** &#x20;
 
-****
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Swing2App Budget Package product?**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Swing2App Budget Package product?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/06/Group-2848.png)
 
@@ -26,7 +26,7 @@ So cheaper! speedily! This is a package product that can be used.
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/06/Screenshot-2021-06-11-at-3.39.41-PM.png)
 
-****
+
 
 **1) The Basic Paid app subscription, which is a Swing2App subscription, is provided for 2 years (720 days).**
 
@@ -36,7 +36,7 @@ So cheaper! speedily! This is a package product that can be used.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02.How to use the Budget Package**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02.How to use the Budget Package**</mark>
 
 **1) Please complete the test after final production of the app.**
 
@@ -44,7 +44,7 @@ When purchasing a pass, the date of use is counted from the date of purchase, so
 
 <mark style="color:red;">\*Purchased package products can only be applied for apps made with general prototypes (top, footer, slide, drop-down and drop-down list) \*Push-only and Web-view version apps cannot be purchased.</mark>
 
-<mark style="color:red;"></mark>
+
 
 2\) [Manager → Online Stores → Vouchers & Tickets](https://support.swing2app.com/view/shop\_list), select to purchase ‘Swing2App Budget Package (24 months) $330.
 
@@ -78,11 +78,11 @@ Please check the store registration policy and usage policy in advance.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for use of a Budget Package**</mark>   <mark style="color:blue;"></mark><mark style="color:blue;"></mark>  &#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for use of a Budget Package**</mark>  &#x20;
 
 **\*It’s a voucher for converting apps to a paid version, and it’s a packaged product that’s cheaper than purchasing a single product.**
 
-****
+
 
 1\) A voucher (package product) that converts a free app into a paid version, and is purchased when commercialized in markets such as Play Store and App Store.
 

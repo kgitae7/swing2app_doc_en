@@ -4,7 +4,7 @@
 
 To register your app on the Play Store, you’ll need to create a Google developer account first.
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:red;">**★What is a Google developer account?**</mark>
 
@@ -54,7 +54,7 @@ Select the \[Go to Payment Page] button.
 
 <mark style="color:red;">If you are not logged in, you will be prompted to log in first. When you log in, you will see the same screen as above.</mark>
 
-<mark style="color:red;"></mark>
+
 
 #### <mark style="color:blue;">**2. Card Registration and Purchase**</mark>
 

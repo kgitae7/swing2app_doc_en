@@ -154,7 +154,7 @@ The test advertisement setting is completed only when the message is displayed.
 
 Save it and run the app again. **(Please close the app completely and relaunch it)**
 
-****
+
 
 <mark style="color:orange;">**Mobile phone app execution) AdMob ad screen for testing**</mark>
 

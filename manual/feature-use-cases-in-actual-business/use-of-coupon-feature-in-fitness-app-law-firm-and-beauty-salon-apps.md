@@ -17,7 +17,7 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Trainer.png)
 
-2\. Now you can send the coupons as per your requirement either to selected users or to every users. Here we will send coupon to all the registered user and Guest group. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Now you can send the coupons as per your requirement either to selected users or to every users. Here we will send coupon to all the registered user and Guest group. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-10.png)
 
@@ -42,7 +42,7 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Legal.png)
 
-2\. Now you can send the coupons as per your requirement either to selected users or to every users. Here we will send coupon to the Guest group. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Now you can send the coupons as per your requirement either to selected users or to every users. Here we will send coupon to the Guest group. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-8.png)
 
@@ -67,7 +67,7 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Beauty.png)
 
-2\. Now you can send the coupons as per your requirement either to selected users or to every users. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Now you can send the coupons as per your requirement either to selected users or to every users. <mark style="color:purple;">Check the image below showing coupon being sent to users:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-6.png)
 

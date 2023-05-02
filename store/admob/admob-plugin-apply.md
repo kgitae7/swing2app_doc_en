@@ -106,7 +106,7 @@ After signing up for an ad-mob, if you’ve made all the advertising unit IDs, n
 
 **Manager → Services → AdMob Plug-in Settings**
 
-****
+
 
 **1) Ad unit ID setting**
 
@@ -214,7 +214,7 @@ Download and check the app you created on Swing to App Official App – \[App Pr
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/02\_PC\_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%95%B1\_En.png)
 
-****<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Check GIFs) See how to download apps**
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Check GIFs) See how to download apps**
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/10/%EB%85%B9%ED%99%94\_2020\_10\_14\_14\_05\_26\_450.gif)
 
@@ -309,7 +309,7 @@ So please make sure you have a previous account before joining the ad-mob.\
 If you accidentally created a duplicate account, you should request the account to be closed.\
 **If you have a duplicate account, the advertisement will not be posted, and even if you request the cancellation of the duplicate account, it may take a long time for the account to be restored.**
 
-****
+
 
 **2) AdMob ads must be checked and managed by the operator.**
 
@@ -318,7 +318,7 @@ You need to check it from time to time, not just from the beginning.\
 If there is an unreviewed advertisement, the advertisement does not appear on the user’s phone, so the operator should always check it and change it to a review advertisement.\
 **If you don’t manage your ads properly, the ads can suddenly go down or stop posting even if the ads are posted well at first.**
 
-****
+
 
 **3) Please be aware of invalid traffic and negative clicks!**
 
@@ -329,7 +329,7 @@ Not only the operator, but also the users of the app choose to advertise artific
 If there is any suspicious behavior, the advertisement may be suspended due to invalid traffic.\
 **=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
 
-****
+
 
 **4) App ad publishing may be interrupted if traffic is low.**
 

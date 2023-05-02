@@ -36,7 +36,7 @@ When the app is finished and the app is commercialized, you can purchase a paid 
 
 Swing shop applications do not have a separate examination or approval, so you can use the swing shop menu right away as soon as you apply.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **** [<mark style="color:blue;">Learn more about how to apply for the swing shop</mark>](../manual/swingshop/swingshop-apply.md)<mark style="color:blue;"></mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> [<mark style="color:blue;">Learn more about how to apply for the swing shop</mark>](../manual/swingshop/swingshop-apply.md)
 
 </details>
 
@@ -50,19 +50,19 @@ From the swing shop menu, you can go into Product Management and register the pr
 
 The method depends on which product you want to register, so please look at the product registration manual provided by the Swing to App and work on it.&#x20;
 
-<mark style="color:blue;">1)</mark> [<mark style="color:blue;">Register a physical product</mark> ](../manual/swingshop/registration.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">1)</mark> [<mark style="color:blue;">Register a physical product</mark> ](../manual/swingshop/registration.md)
 
-<mark style="color:blue;">2)</mark> [<mark style="color:blue;">Register the reservation product - Date reservation product</mark> ](../manual/swingshop/reservationproduct.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">2)</mark> [<mark style="color:blue;">Register the reservation product - Date reservation product</mark> ](../manual/swingshop/reservationproduct.md)
 
-<mark style="color:blue;">3)</mark> [<mark style="color:blue;">Register the reservation product - Date & time reservation product</mark> ](../manual/swingshop/timereservation-product.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">3)</mark> [<mark style="color:blue;">Register the reservation product - Date & time reservation product</mark> ](../manual/swingshop/timereservation-product.md)
 
-<mark style="color:blue;">4)</mark> [<mark style="color:blue;">Register Digital Product-PDF File</mark> ](../manual/swingshop/digital-pdf.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">4)</mark> [<mark style="color:blue;">Register Digital Product-PDF File</mark> ](../manual/swingshop/digital-pdf.md)
 
 <mark style="color:blue;">5)</mark> [<mark style="color:blue;">Register Digital Product-</mark>permission change](../manual/swingshop/authorized-sales.md)
 
-<mark style="color:blue;">6)</mark> [<mark style="color:blue;">Register digital products-video files</mark> ](../manual/swingshop/videofiles-registration.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">6)</mark> [<mark style="color:blue;">Register digital products-video files</mark> ](../manual/swingshop/videofiles-registration.md)
 
-<mark style="color:blue;">7)</mark> [<mark style="color:blue;">Digital Product-Coupon Registration</mark>](../manual/swingshop/coupon-registration.md)<mark style="color:blue;"></mark>
+<mark style="color:blue;">7)</mark> [<mark style="color:blue;">Digital Product-Coupon Registration</mark>](../manual/swingshop/coupon-registration.md)
 
 </details>
 
@@ -72,7 +72,7 @@ The method depends on which product you want to register, so please look at the 
 
 Swing shopping mall can be applied on the app manager page > **My Menu – Swing Store menu.** The shopping mall service-payment module is applied by selecting **Activate/Deactivate option.**&#x20;
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to apply for shopping mall service\]**</mark>](https://www.swing2app.com/view/swing\_shop\_apply)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**\[Go to apply for shopping mall service\]**</mark>](https://www.swing2app.com/view/swing\_shop\_apply)
 
 </details>
 

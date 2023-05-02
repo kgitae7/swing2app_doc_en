@@ -18,7 +18,7 @@ Admin can make group in Swing2App which will have special privileges for the app
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/Mag-3-%E2%80%93-31.png)
 
-2\. Admin will assign some members for that group. Check the image below: ****&#x20;
+2\. Admin will assign some members for that group. Check the image below:&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/Mag-3-%E2%80%93-33.png)
 

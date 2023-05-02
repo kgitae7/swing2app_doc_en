@@ -6,11 +6,11 @@ Swing2App location feature uses google maps API key. The admin needs to register
 
 ***
 
-| <p><strong>Sample 1. Hotel</strong></p><p><strong></strong></p><p><strong>Shop Name</strong>  Swing Hotel<br><strong>Location</strong>  Armani Hotel Dubai, Downtown Dubai – Dubai – United Arab Emirates</p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Sample 1. Hotel</strong></p><p></p><p><strong>Shop Name</strong>  Swing Hotel<br><strong>Location</strong>  Armani Hotel Dubai, Downtown Dubai – Dubai – United Arab Emirates</p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 \
-1\. As an admin, the location is google maps which is made in bulletin board. **** [**Guide to set a location bulletin board**](../appmanage/board/googlemap.md)
+1\. As an admin, the location is google maps which is made in bulletin board. [**Guide to set a location bulletin board**](../appmanage/board/googlemap.md)
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/Mag-3-%E2%80%93-28.png)
 
@@ -28,10 +28,10 @@ Let’s check out the example where business owner has many branches.
 
 ***
 
-| <p><strong>Sample 2. Restaurant or Cafe</strong></p><p><strong></strong></p><p><strong>Shop Name</strong> McDonald’s<br><strong>Location</strong>  Multiple location in PA, USA</p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Sample 2. Restaurant or Cafe</strong></p><p></p><p><strong>Shop Name</strong> McDonald’s<br><strong>Location</strong>  Multiple location in PA, USA</p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-1. As an app admin you can set multiple location of your brach or office in the map. **** [**Guide to set a location bulletin board**](../appmanage/board/googlemap.md)
+1. As an app admin you can set multiple location of your brach or office in the map. [**Guide to set a location bulletin board**](../appmanage/board/googlemap.md)
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/Mag-3-%E2%80%93-30.png)
 

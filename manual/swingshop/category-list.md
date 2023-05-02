@@ -26,7 +26,7 @@ Reservation products do not go to the product purchase page even if the category
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
 
 Maker(V2) Page → Move to Step 3 Page Menu
 
@@ -51,11 +51,11 @@ If there are no registered categories and products, no categories will be visibl
 
 Therefore, please register the product after completing the product category registration in Swing Shop.&#x20;
 
-****[**☞** **\*Product category registration management usage manual** ](productcategory-registration.md)****
+[**☞** **\*Product category registration management usage manual** ](productcategory-registration.md)
 
 Then, apply the category list page to the app.&#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**STEP. 2 Category list page App execution screen**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Category list page App execution screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_12\_15\_42\_16\_705.gif)
 
@@ -67,7 +67,7 @@ When you tap a category item, the list of products registered in the category is
 
 <mark style="color:purple;">ex) When selecting the TOP category → Check the list of blouse, knit, and tee products</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:orange;">**Q. Can I change the order of categories displayed on the list? How do I set it up?**</mark>
 
@@ -85,7 +85,7 @@ Priorities are listed here.
 
 <mark style="color:red;">\*The smaller the number of priority, the first is placed, and the larger the number, the latter is placed.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 So, if you want to change the order, please come to the screen and change the priority value.
 

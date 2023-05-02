@@ -95,7 +95,7 @@ You can see that the profile picture has changed with the newly registered image
 
 When registering a profile picture, if the **image quality is poor, or the image size is small, or if the image ratio is not square, the picture registered in the profile may be broken.**
 
-****
+
 
 <mark style="color:blue;">**Q. Can non members change their profile image?**</mark>
 

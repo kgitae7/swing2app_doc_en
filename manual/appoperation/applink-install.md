@@ -14,7 +14,7 @@ When creating an app in Swing2App, not only the app installation file but also a
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Copy the app installation link address**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Copy the app installation link address**</mark>
 
 <mark style="color:red;">**\*Copy the app installation link address!!**</mark>
 
@@ -22,7 +22,7 @@ When creating an app in Swing2App, not only the app installation file but also a
 
 <mark style="color:red;">**\*Please be sure to use Chrome in your browser. Please use it on a PC.**</mark>
 
-[**1) Manager – Manage Version – Production History page** ](https://www.swing2app.com/view/app\_work\_history)****
+[**1) Manager – Manage Version – Production History page** ](https://www.swing2app.com/view/app\_work\_history)
 
 **2)Select the \[Get APK File] button. (This is not for installation on PC, please download only)**
 

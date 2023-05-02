@@ -76,7 +76,7 @@ First of all, please enter the basic information required for the survey on the 
 
 **If you need to notify a large audience about your survey with announcements, it’s a good idea to use push.**
 
-****
+
 
 <mark style="color:orange;">**3. Enter Survey Items**</mark>
 
@@ -113,7 +113,7 @@ When you select the item, you’ll be taken to the survey site.
 
 **☞** [**\[How to use survey registration, management and app launch screen\]**](../../appmanage/service/survey.md) **Go to details**
 
-****
+
 
 ▶ Create a survey
 

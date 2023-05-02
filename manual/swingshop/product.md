@@ -42,7 +42,7 @@ You can check the PDF file you purchased on My Page.
 You can check the videos and files you purchased directly from the app, and you can check them through an external app or by sharing.\
 You can check the videos and files you purchased on My Page.
 
-****
+
 
 ### <mark style="color:blue;">**5. Digital Goods – Coupon Sales**</mark>
 

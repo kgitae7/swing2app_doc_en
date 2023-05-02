@@ -19,7 +19,7 @@ When you register for your first developer account, you enter the developer’s 
 
 ### <mark style="color:blue;">**Q. Where does Google and Apple developer names appear?**</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **  **<mark style="color:orange;">**Google Play Store**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  <mark style="color:orange;">**Google Play Store**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2242.png)
 
@@ -31,7 +31,7 @@ You can change the name of the developer and use it.
 
 &#x20;
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  **  **<mark style="color:orange;">**Apple App Store**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  <mark style="color:orange;">**Apple App Store**</mark>
 
 <figure><img src="../../.gitbook/assets/Group-2244@d3x.png" alt=""><figcaption></figcaption></figure>
 

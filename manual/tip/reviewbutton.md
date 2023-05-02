@@ -4,7 +4,7 @@
 
 **How to activate the app review button**
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**▶ What is a review button?**</mark>
 

@@ -103,7 +103,8 @@ Please edit all the other details on the template page.\
 If you want to give a different option than the default one, select the font button and edit it.\
 When you have finished entering the template content, select the \[Save Data] button at the top to save it.
 
-<mark style="color:red;">**★You must also edit the page name. Do not forget!**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**It appears in the app as the page name.**</mark>&#x20;
+<mark style="color:red;">**★You must also edit the page name. Do not forget!**</mark>\
+<mark style="color:red;">**It appears in the app as the page name.**</mark>&#x20;
 
 ***
 

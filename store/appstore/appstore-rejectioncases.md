@@ -8,7 +8,7 @@
 
 **Check-in advance and follow these policies well at once! Please pass the App Store screening and be released.**
 
-****
+
 
 ### <mark style="color:blue;">**1. Metadata Policy Violation**</mark>
 
@@ -56,7 +56,7 @@ This is to attach the image captured by the Android phone to the App Store scree
 
 **However, the App Store will refuse to review images that are used on Android phones instead of images used on the iPhone.**
 
-****
+
 
 <mark style="color:orange;">**▶Top bar image is shown on Android phone**</mark>
 

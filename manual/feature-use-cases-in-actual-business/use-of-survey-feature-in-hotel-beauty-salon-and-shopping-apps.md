@@ -17,7 +17,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel1.png)
 
-2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice**, **multiple choice and open-ended.** In open ended question, user can right the answer in their words. Once the survey is completed the status will change to submitted. <mark style="color:purple;">Check the image below showing survey feature in app:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice**, **multiple choice and open-ended.** In open ended question, user can right the answer in their words. Once the survey is completed the status will change to submitted. <mark style="color:purple;">Check the image below showing survey feature in app:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel\_app.png)
 
@@ -40,7 +40,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Salon1.png)
 
-2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice** and other as **multiple choice**. <mark style="color:purple;">Check the image below showing survey feature in app:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice** and other as **multiple choice**. <mark style="color:purple;">Check the image below showing survey feature in app:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Salon-%E2%80%93-3.png)
 
@@ -61,7 +61,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-11.png)
 
-2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice** and other as **open ended.** In open ended question, user can right the answer in their words. Once the survey is completed the status will change to submitted. <mark style="color:purple;">Check the image below showing survey feature in app:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. When user will receive the survey, on opening user can see the status of the survey if its submitted or not. When you click on the survey question submitted by admin for survey will appear and user has to answer then. In this user has one question as **single choice** and other as **open ended.** In open ended question, user can right the answer in their words. Once the survey is completed the status will change to submitted. <mark style="color:purple;">Check the image below showing survey feature in app:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-4.png)
 

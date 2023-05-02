@@ -50,7 +50,8 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 > 3. Set Permissions Board\
 >    If the permissions are not applied properly, the secret bulletin board will not be created, so please set it to the permissions below!\
 >    <mark style="color:purple;">**\*Write permission: User**</mark>\
->    <mark style="color:purple;">**\*View post details: User**</mark>\ <mark style="color:purple;"></mark><mark style="color:purple;">**\*View List Permission: Administrator**</mark>\
+>    <mark style="color:purple;">**\*View post details: User**</mark>\
+>    <mark style="color:purple;">**\*View List Permission: Administrator**</mark>\
 >    **View the list only as an administrator and you can specify it.**
 > 4. Set tolerance: Allow comment photos, attach files, like, and more to complete.\
 >    <mark style="color:red;">**\*File attachments and video attachments are only available to administrators on the web dashboard. It’s not a feature used in the app.**</mark>\
@@ -59,7 +60,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b96.png)
 
-<mark style="color:blue;">****</mark>
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +68,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 **Once you’ve created a secret bulletin board, how to apply it to your app?**
 
-****
+
 
 ### <mark style="color:blue;">**1.**</mark><mark style="color:blue;">When using app production V3 version</mark>
 
@@ -81,7 +82,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 6. Check the secret version to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 7. Press the \[Save] button at the top of the screen to apply it to the app.
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using the app production V2 version</mark>
 
@@ -106,7 +107,7 @@ After applying the app, launch the app to see how the 1:1 customer service (secr
 
 On the 1:1 Inquiry Board, you can check what you wrote.
 
-****
+
 
 <mark style="color:orange;">1.Access App Administrator</mark>
 
@@ -116,7 +117,7 @@ The app administrator can view all posts posted by users.
 
 <mark style="color:red;">\*Administrators have the right to view and check all articles.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:orange;">2. Sign in as another user (without creating a post)</mark>
 

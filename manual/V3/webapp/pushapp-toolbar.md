@@ -20,7 +20,7 @@ Check out the manual to see how to use the toolbar and how you can apply its fea
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-****
+
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
@@ -88,7 +88,7 @@ Changes can be checked in real-time on the right Preview Window (virtual machine
 
 ​
 
-<mark style="color:blue;">**–**</mark>**  **<mark style="color:blue;">**Basic functions provided by the toolbar**</mark>
+<mark style="color:blue;">**–**</mark> <mark style="color:blue;">**Basic functions provided by the toolbar**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%8A%A51.png)
 

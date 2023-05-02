@@ -1,6 +1,6 @@
 # Product Management - Digital Products: PDF File Registration
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/shop13.png)
 
@@ -18,7 +18,7 @@ You can choose how to download PDF files from the Swing Store, the app launch sc
 
 First, apply for a swing store. Please select the menu available for the Swing store.
 
-**☞** [**View how to apply for a Swing Store**](../aff-program/apply.md) ****&#x20;
+**☞** [**View how to apply for a Swing Store**](../aff-program/apply.md)&#x20;
 
 The \[Swing Store] menu has been created at the top of the app operations page, where you must apply for a swing store.
 
@@ -68,7 +68,7 @@ Please go to Play Store → Product Management → Product Registration.
 
 1\. Product type: Select ‘Digital’.
 
-2\. Select Digital Product Type : <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\[change permissions, PDF view, video and file sales, coupons]**</mark> can be selected.
+2\. Select Digital Product Type : <mark style="color:blue;">**\[change permissions, PDF view, video and file sales, coupons]**</mark> can be selected.
 
 Select ‘View PDF’ for the post you need.
 
@@ -124,7 +124,7 @@ Digital products did not set options separately. If you set the option, please c
 
 Example: Clothing Store: You can set the option and set the option amount by adding size, adding color, etc.
 
-▶ ** **<mark style="color:orange;">**For more options, check out the image below!**</mark>
+▶ <mark style="color:orange;">**For more options, check out the image below!**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ezgif.com-gif-maker-2.gif)
 

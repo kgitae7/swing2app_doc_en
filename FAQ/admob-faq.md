@@ -218,7 +218,7 @@ If you don’t enter the information below, it may take a long time for the adve
 
 Please change an unreviewed ad to a review, and check the list of blocked ads. Please check the instructions and instructions after applying for AdMob in the manual below.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ \*\*\*\* <mark style="color:blue;">****</mark> ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)<mark style="color:blue;">**\[Admob Ad Operation Precautions]**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ \*\*\*\* ](https://wp.swing2app.co.kr/knowledgebase/admob-operation/)<mark style="color:blue;">**\[Admob Ad Operation Precautions]**</mark>
 
 </details>
 

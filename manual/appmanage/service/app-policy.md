@@ -55,7 +55,7 @@ Please check the contents and edit it according to the app service.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/e18.png)
 
-****
+
 
 For each question, you can select the button on the right to create the content.\
 The basic set-up of which apps are available varies from service to service, so you’ll need to check them and make the edit.\

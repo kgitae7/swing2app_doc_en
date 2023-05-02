@@ -62,7 +62,7 @@ You can make your home screen with various other menus.
 
 \* The main title area is the default setting item and cannot be modified. “Welcome to —-” (phrase).
 
-****
+
 
 <mark style="color:orange;">**▶ How do I remove the navigation buttons below?**</mark>
 

@@ -4,7 +4,7 @@
 
 Chat settings is a menu that allows administrators to manage their app chat rooms. You can use the chat room introduction message input, chat day and time settings, and non-chat messages.
 
-****
+
 
 ### <mark style="color:blue;">**1. Chat with Admin**</mark>
 
@@ -25,7 +25,7 @@ The Chat Settings page allows the administrator to manage their app chat rooms.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Chat9.png)
 
-****
+
 
 ### <mark style="color:blue;">**3. Chat Settings – App Launch Screen**</mark>
 

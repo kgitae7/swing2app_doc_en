@@ -9,7 +9,7 @@
 **You can create a screen that moves your home screen by putting a GIF image like an attached image.**\
 **Please check how to place the image on your home screen through the app-making swing2app post below.**
 
-****
+
 
 ### <mark style="color:blue;">**1. Attached a GIF image on the image page**</mark>
 
@@ -42,7 +42,7 @@ Therefore, to use this function, select User Page – Image Page and apply the a
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-06-22-at-7.08.10-PM.png)
 
 GIF files are not visible in regular files.\
-Therefore, you need to change the setting to <mark style="color:red;"></mark> <mark style="color:red;"></mark><mark style="color:red;">**‘All Files’**</mark>** ** at the bottom of the file window to view the GIF files.\
+Therefore, you need to change the setting to <mark style="color:red;">**‘All Files’**</mark> at the bottom of the file window to view the GIF files.\
 **Change to all files and select the GIF file you have already worked on.**\
 
 

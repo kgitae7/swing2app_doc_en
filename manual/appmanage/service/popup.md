@@ -68,7 +68,7 @@ You can choose where to link to websites, pages within apps, bulletin boards, po
 
 **\*You can change and delete the image with ‘Change’ and ‘Delete’ buttons.**
 
-****
+
 
 <mark style="color:blue;">**\[App Launch screen – Launch pop-up]**</mark>
 

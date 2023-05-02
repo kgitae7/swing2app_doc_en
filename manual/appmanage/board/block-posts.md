@@ -14,7 +14,7 @@ It is not visible only to the blocked user, and it differs from the reporting fu
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">****</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Blocking posts</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">Blocking posts</mark>
 
 <figure><img src="../../../.gitbook/assets/IMG-2-503x1024.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,4 +37,4 @@ Blocking can be used when you don’t want to see a particular user’s writing,
 
 Since the text is not exposed only to the blocked user, it is different from the reporting function in which the text is deleted to all users.
 
-****[**▶Go to see the manual for reporting posts**](report-post.md)****
+[**▶Go to see the manual for reporting posts**](report-post.md)

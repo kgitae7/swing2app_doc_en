@@ -50,7 +50,7 @@ You can apply for mobile web registration only in the paid version of the app th
 
 &#x20;**\*Mobile web application is only available for extended and premium use. (Basic passes and discount packages do not apply).**
 
-****
+
 
 <mark style="color:orange;">**★What is the duration of the mobile web?**</mark>
 
@@ -74,7 +74,7 @@ When the purchase is complete, go to **the Manage Version → Production History
 
 Select the **\[Mobile Web Upload Application]** icon in the market registration.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**\[Mobile web upload application]**</mark>
 
@@ -99,7 +99,7 @@ Please purchase the domain first at sites such as Café 24, Altitude Mall, etc.
 Check the image size (72 \* 72) and attach an image.\
 6\) When the input is completed, press \[Request] at the end. **Once your application is complete, your swing2app representative will receive a mobile web registration request.After confirming from the person in charge, you can check the registered website about 2 days later.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">3.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Mobile web registration completed**</mark>
 

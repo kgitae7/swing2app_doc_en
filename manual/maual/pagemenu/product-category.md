@@ -26,7 +26,7 @@ You do not need to change the menu name.\
 7\. Click on **Apply** and\
 8\. Click  **Save.**
 
-****
+
 
 ### <mark style="color:blue;">**2.Where can I register product categories?**</mark>
 

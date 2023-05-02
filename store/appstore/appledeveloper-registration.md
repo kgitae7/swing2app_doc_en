@@ -6,7 +6,7 @@
 
 To register an app in the App Store, you need to create an Apple Developer account in the same way as the Google Play Store.
 
-\*Apple Developer Site: **** [**https://developer.apple.com/**](https://developer.apple.com/) ****&#x20;
+\*Apple Developer Site:  [**https://developer.apple.com/**](https://developer.apple.com/)&#x20;
 
 **\*Apple registration fee is $129 per year.**
 
@@ -22,7 +22,7 @@ You can register an Apple Developer account only if you have an Apple device cer
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/835ceb9e81323da7a04529178fd2ec7e.png)
 
-Apple Developer Site: **** [**https://developer.apple.com/**](https://developer.apple.com/) **** \
+Apple Developer Site:  [**https://developer.apple.com/**](https://developer.apple.com/) \
 **Go to the Apple developer site and select the \[Account] button in the upper right corner.**
 
 ***
@@ -185,7 +185,7 @@ Of course, it may take some time to issue.\
 > 4\. Company contact information:\
 > 5\. Attached documents: Business registration certificate
 
-****
+
 
 **Request a DUNS Number**
 
@@ -212,7 +212,7 @@ Please have your business registration documents ready.
 
 <mark style="color:red;">Please note that apps released to the App Store will be deleted after some time.</mark>
 
-<mark style="color:red;"></mark>
+
 
 **The Apple App Store does not accept inquiries or consultations from swing2app.**
 

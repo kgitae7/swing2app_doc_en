@@ -20,7 +20,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 ## 1. Bulletin Board Management-Administrator Settings
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b34-e1587041793859-1.png)
 

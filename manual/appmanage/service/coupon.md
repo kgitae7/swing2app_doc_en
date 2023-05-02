@@ -4,7 +4,7 @@
 
 **Manage Coupon: How to create a coupon and issue it to a user**
 
-****
+
 
 The coupon is a menu where an administrator sends and manages coupons to the member using the app.
 
@@ -45,7 +45,7 @@ In the coupon table, the user can check the created coupon.
 * Users can also edit or delete your coupon click **Edit** or **Delete.**
 * Users can check the issued coupon history, so the user can manage all the coupons created.
 
-&#x20;****&#x20;
+&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/Screenshot-2020-04-14-at-01.32.58.png)
 
@@ -110,7 +110,7 @@ You can create coupon function in the **Maker(V2)** for the app. Go to **Maker(V
 
 ***
 
-### <mark style="color:blue;">**STEP.4**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**How to use coupon**</mark>
+### <mark style="color:blue;">**STEP.4**</mark> <mark style="color:blue;">**How to use coupon**</mark>
 
 On the Coupon Management page
 

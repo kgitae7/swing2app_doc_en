@@ -8,7 +8,7 @@ Registering swing store products – How to register \[permissions] from digital
 
 **We’ll show you how to register your permissions, how to sell them, how to launch your app, and how to use these products.**
 
-****
+
 
 <mark style="color:orange;">**What is a digital product ‘permission change’?**</mark>
 
@@ -46,13 +46,13 @@ A bulletin board can be viewed by all levels, B bulletin board is visible only t
 
 <mark style="color:orange;">**First, let’s create a permission to sell (group)!**</mark>
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/permission.png)
 
 **Move to the swing2app operation page → push & member menu → \[Permission group setting] menu.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b39-copy-e1594983122215.png)
 
@@ -202,7 +202,7 @@ Digital products did not set options separately. If you set the option, please c
 
 **Examples) You can set options and the amount of options by adding sizes, adding colors, and more.**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**▶For more options, check out the image below!**</mark>
 

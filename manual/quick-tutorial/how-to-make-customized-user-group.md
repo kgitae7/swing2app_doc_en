@@ -27,7 +27,7 @@ On the same page, **Go to Member inquiries -> Select Member -> Select Group from
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/change\_mem.png)
 
-<mark style="color:blue;">For Detailed Guide on Permission Group Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](../appmanage/pushmember/member-group.md)
+<mark style="color:blue;">For Detailed Guide on Permission Group Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../appmanage/pushmember/member-group.md)
 
 ***
 

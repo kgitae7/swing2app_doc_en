@@ -25,7 +25,7 @@ Now that you are using the paid version, you can fill the application form to re
 
 An application form window will pop up, fill that form to submit the App store upload request.&#x20;
 
-<mark style="color:blue;">For Detailed Guidelines To Fill The Form Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](../appmanage/version/appstore-upload.md)
+<mark style="color:blue;">For Detailed Guidelines To Fill The Form Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../appmanage/version/appstore-upload.md)
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/s14.png)
 

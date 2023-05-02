@@ -105,7 +105,7 @@ If you look at the member inquiry list page after the change is completed, you c
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-04-20-at-23.02.22.png)
 
-****
+
 
 ### <mark style="color:blue;">**3. App launch screen: Check the changed rating**</mark>
 

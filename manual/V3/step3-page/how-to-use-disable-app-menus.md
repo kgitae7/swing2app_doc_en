@@ -14,7 +14,7 @@ It's very simple to use, so please check the manual below to find out how to use
 
 ![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### ****![](../../../.gitbook/assets/단락1-1.png) **Menu settings: How to use the Hiding function**
+### ![](../../../.gitbook/assets/단락1-1.png) **Menu settings: How to use the Hiding function**
 
 ​The menu disable function is available in the App Creation V3 - STEP3 page step.
 

@@ -67,7 +67,7 @@ Also, you can confirm that the “Swing2App Collective Registration Board New Re
 
 **This bulk registration board allows you to register posts in bulk on the bulletin board you want at a time when you need to post the same post on multiple bulletin boards.**&#x20;
 
-****
+
 
 <mark style="color:orange;">**\*\* Bulk registration bulletin board can be used in the Swing2App homepage (pc web, mobile) post-management.**</mark>&#x20;
 

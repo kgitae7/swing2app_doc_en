@@ -46,7 +46,7 @@ In category management window, 2) Category name 2) Representative image 3) Categ
 
 <mark style="color:red;">**\*Categories must include a name that includes the product. Example) top, bottoms, accessories… Like this.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/shopcat2.png)
 
@@ -158,7 +158,7 @@ Once you’ve completed your physical product registration, we’ll show you how
 
 **\*In case of real products, there are various pages that can be applied! We will show you how to use the menu in 3 ways!!**
 
-****
+
 
 <mark style="color:orange;">**01. Home Screen – Apply shopping mall main page**</mark>
 

@@ -30,7 +30,7 @@ And with **push notifications**, you can send events, advertisements, and promot
 
 **\*The web-view version is not available in Swing2App’s other menus, so if you want to send push, please select the ‘push’ UI.**
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**▶Push Features**</mark>
 
@@ -72,7 +72,7 @@ You can check the completed app using the swing2app preview or by downloading th
 
 **\*Apps made with web view and push can only be checked on Android phones. (Cannot be checked on iPhone)**
 
-****
+
 
 <mark style="color:blue;">**▶ Send Push**</mark>
 
@@ -86,7 +86,7 @@ On the Manager page→ Push & Member → Send Push menu, enter the subject and c
 
 <mark style="color:orange;">**\[Create a Web View Version App]**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:blue;">**▶ What is the Web View Version?**</mark>
 

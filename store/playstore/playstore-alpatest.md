@@ -40,7 +40,7 @@ Therefore, please check the release method manual below for registration informa
 
 <mark style="color:orange;">**Please check the release of the private app carefully at this stage!! It is different from the normal production release.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**1.Private Track – Alpha Selection**</mark>
 

@@ -42,9 +42,9 @@ Please check the manual on how to use the group chat room.
 
 <mark style="color:red;">\*The right to\*You do not need to enter the bulletin board and function settings. (Even if you write it, it won’t be seen in the app) enter the chat room is set to ‘Guest’ by default.</mark>
 
-<mark style="color:red;">If you want to edit the permissions, select ‘Custom’ for the service purpose and the fixed grey area will be solved and you can edit the permissions.</mark> <mark style="color:red;"></mark><mark style="color:red;">****</mark>&#x20;
+<mark style="color:red;">If you want to edit the permissions, select ‘Custom’ for the service purpose and the fixed grey area will be solved and you can edit the permissions.</mark>&#x20;
 
-<mark style="color:red;">****</mark>
+
 
 **▶ Edit chat room access**
 
@@ -195,7 +195,7 @@ When a user tries to enter an administrator’s chat room, they are restricted f
 
 ## STEP4. Group Chat Q\&A
 
-****
+
 
 **Q. Can users select other users to chat within the app?**
 
@@ -227,7 +227,7 @@ When you select a push that users receive from your app, they are taken directly
 
 However, as mentioned above, <mark style="color:green;">the number of people accessing is determined according to the product, so only the number of people listed in the applied product can access it.</mark>
 
-<mark style="color:green;"></mark>
+
 
 **Q. Does the group chat room always require an administrator to be in order to operate?**
 

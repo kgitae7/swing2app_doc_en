@@ -135,7 +135,7 @@ If you have multiple schedules in one day, you can add more events with the Add 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b67.png)
 
-****
+
 
 <mark style="color:blue;">**4) Create Notification**</mark>
 
@@ -152,7 +152,7 @@ This created calendar will be applied to the app.
 
 ### <mark style="color:blue;">**3. Apply the calendar to the app**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 Apply the calendar to the app.
 

@@ -16,7 +16,7 @@ Many users want a forum in the apps where they can ask questions in private from
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-3.png)
 
-2\. Now when the user will ask a question it will be visible on their wall only none other except admin can see the questions. <mark style="color:purple;">Check the image below showing user’s wall for question:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Now when the user will ask a question it will be visible on their wall only none other except admin can see the questions. <mark style="color:purple;">Check the image below showing user’s wall for question:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Blog-%E2%80%93-2.png)
 

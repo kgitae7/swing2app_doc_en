@@ -4,7 +4,7 @@
 
 **We’ll show you how to stop (delete) apps that are released in the App Store.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**STEP.1 Access to Apple iTunes Connect site**</mark>
 

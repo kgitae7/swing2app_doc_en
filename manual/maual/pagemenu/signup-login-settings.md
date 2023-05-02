@@ -87,7 +87,7 @@ The login screen also displays the membership function.
 
 When you finish logging in after signing in, the login listed in the menu name is automatically changed to **→Logout.**
 
-****
+
 
 ### <mark style="color:blue;">**3. Swing2App Page: Settings**</mark>
 

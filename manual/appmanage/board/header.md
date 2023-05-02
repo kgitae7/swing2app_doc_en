@@ -31,7 +31,7 @@ You can sort the post thumbnails in order by ranking the registered posts.
 
 **You can set a bulletin board header in the bulletin board and function setting window.**
 
-&#x20;****&#x20;
+&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b89.png)
 

@@ -36,7 +36,7 @@ You should check all the contents of the 4 steps before the app migration.
 
 \*You must also have your target account transaction ID.
 
-Once you’ve confirmed it, please select the blue letter ** **<mark style="color:blue;">**\[Submit transfer request]**</mark>** ** in the previous request submission item.
+Once you’ve confirmed it, please select the blue letter <mark style="color:blue;">**\[Submit transfer request]**</mark>  in the previous request submission item.
 
 ***
 
@@ -44,7 +44,7 @@ Once you’ve confirmed it, please select the blue letter ** **<mark style="colo
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%95%B1%EC%9D%B4%EC%A0%841\_en.png)
 
-Click the ** **<mark style="color:blue;">**\[Transfer the app]**</mark>** ** button to go to the application page.
+Click the <mark style="color:blue;">**\[Transfer the app]**</mark> button to go to the application page.
 
 \*When transferring an app, log in to the ‘existing’ account where the app was launched. If you do not know the existing account, you cannot transfer the app.
 

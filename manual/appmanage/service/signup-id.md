@@ -75,7 +75,7 @@ Soon you will receive a ‘Verify your registration email’ email to your regis
 
 Click the **Start Service** button to complete mail authentication.
 
-****
+
 
 <mark style="color:orange;">**▶ App execution screen: Login**</mark>
 
@@ -89,7 +89,7 @@ When signing up for a membership, please set it to receive the desired ID.
 
 Even if you change the ID, just click the **Save** button and it will be reflected in the app.
 
-****
+
 
 \* <mark style="color:red;">**Phone number ID cannot be used.**</mark>
 

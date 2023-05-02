@@ -27,7 +27,7 @@ Since the menu is provided as a sample, users are encouraged to make the home sc
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2684.png)
 
-<mark style="color:red;">**★ App introduction screen is applied as the initial default setting value when you first create an app with swing2app, so you don’t have to apply it separately.**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark>&#x20;
+<mark style="color:red;">**★ App introduction screen is applied as the initial default setting value when you first create an app with swing2app, so you don’t have to apply it separately.**</mark>&#x20;
 
 However, if you change the home screen back to the app introduction screen using a different menu, you can apply it using the above method.
 
@@ -56,7 +56,7 @@ The first time you create an app, you need to make an app to reflect it. When yo
 
 **If you select the icon banner at the bottom of the app introduction screen through the app launch screen, we will see how the page works.**
 
-****
+
 
 <mark style="color:blue;">**1) Make a call**</mark>
 
@@ -64,7 +64,7 @@ The first time you create an app, you need to make an app to reflect it. When yo
 
 **If you select the phone button, you will be redirected to the phone number page.**
 
-****
+
 
 <mark style="color:blue;">**2) Send Email**</mark>
 
@@ -73,7 +73,7 @@ The first time you create an app, you need to make an app to reflect it. When yo
 \
 **If you select the mail button, you will be redirected to the email address you entered.**&#x20;
 
-****
+
 
 <mark style="color:blue;">**3) Map-Location**</mark>
 

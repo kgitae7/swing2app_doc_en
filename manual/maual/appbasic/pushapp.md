@@ -238,7 +238,7 @@ You can purchase each upload ticket in the same way. Play Store upload ticket $5
 
 Before purchasing a voucher or ticket, be sure to check the product details!
 
-If you click the <mark style="color:blue;">**\[Purchase]**</mark>** ** button, you can check the service and usage information provided in the voucher in detail.
+If you click the <mark style="color:blue;">**\[Purchase]**</mark> button, you can check the service and usage information provided in the voucher in detail.
 
 Therefore, be sure to check the product before purchasing.
 
@@ -338,7 +338,7 @@ Therefore, if the app is created, check the push sending function and familiariz
 
 [https://support.swing2app.com/view/push](https://support.swing2app.com/view/push)
 
-****
+
 
 **Please check the manual below for how to send a push app.**
 
@@ -436,7 +436,7 @@ If the app is released on the Play Store or App Store, you can update it to the 
 
 <mark style="color:purple;">However, among web view app users, users who use the web view unlimited plug-in cannot be changed to push app.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. How do I change the web link address after creating a push app?**
 
@@ -458,7 +458,7 @@ After making a push-only prototype → It cannot be changed to a normal prototyp
 
 <mark style="color:purple;">\*If you need to change from a push-based to another prototype, you need to create and create an app.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. Can I apply for free commercial use of push apps?**
 

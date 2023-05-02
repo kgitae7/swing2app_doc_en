@@ -25,7 +25,7 @@ Attachments such as images and videos registered in posts are counted. (Other it
 If you exceed the available app capacity, the app will be suspended. When the app runs, you will see the expiration message.\
 <mark style="color:orange;">**\*Paid app users will also see the same.**</mark>\ <mark style="color:orange;">If the capacity is exceeded, the app will be stopped even if the app usage period remains, so please always check the capacity.</mark>
 
-<mark style="color:orange;"></mark>
+
 
 **▶ Can I buy more capacity?**\
 Yes, you can buy the extra capacity you need.\
@@ -45,7 +45,7 @@ Please follow the below step for Resource Management information:
 
 1. Go to **Manager.** Select **Services.** A drop-down list will open.
 2. Click **Manage Storage.**&#x20;
-3. **Resource Management** screen will be displayed.  **** &#x20;
+3. **Resource Management** screen will be displayed. &#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/q.png)
 

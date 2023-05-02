@@ -100,7 +100,7 @@ For more information on how to create a group and how to apply it to a bulletin 
 
 You need to apply the bulletin board created above to the app to be able to use it in the app, right?
 
-****
+
 
 **App production V3 version)**
 
@@ -142,7 +142,7 @@ On the Swing2App Maker(V2), go to the Page menu.&#x20;
 
 ## STEP5. App Launch Screen
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**1. List View: Set User Permissions**</mark>
 

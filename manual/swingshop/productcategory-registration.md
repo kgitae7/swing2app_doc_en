@@ -16,7 +16,7 @@ Please check the manual on how to register product categories.
 
 Please first apply for the swing store. You need to apply for the swing store to use the menu.
 
-☞ [**How to apply for swing store**](swingshop-apply.md)****
+☞ [**How to apply for swing store**](swingshop-apply.md)
 
 You must apply for the swing store to create a \[Swing Store] menu at the top of the app operation page.
 
@@ -52,7 +52,7 @@ Product Category Registration Page.
 
 **7) Press the Save button to complete.**
 
-****
+
 
 <mark style="color:red;">\*Priority is placed at the top as the number is higher, and if the priority is the same, the first registered category will be placed at the top, depending on the item registration date.</mark>
 
@@ -99,7 +99,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 7. Click on **Apply.**
 8. Click on **Save.**
 
-****
+
 
 **\[App Launch Screen]**
 

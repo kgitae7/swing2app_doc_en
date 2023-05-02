@@ -48,9 +48,9 @@ After typing, click the cursor once or press the Enter button to reflect it dire
 
 To learn how to create a template page, please check out the production manual below!
 
-**☞**[ <mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../../maual/pagemenu/template-page.md)<mark style="color:blue;">****</mark>
+**☞**[ <mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../../maual/pagemenu/template-page.md)
 
-<mark style="color:blue;">****</mark>
+
 
 ![](../../../.gitbook/assets/가이드3-템플릿2.png)
 

@@ -32,9 +32,10 @@ Engage app members with a variety of check-in events.
 4. When details are completed, then click **Publish.**\
 
 
-<mark style="color:orange;">**\*Push Notification:**</mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**When you want to notify app members of the check-in event, you can send push notifications by clicking the ‘Push Notification’ button.**</mark>
+<mark style="color:orange;">**\*Push Notification:**</mark>\
+<mark style="color:orange;">**When you want to notify app members of the check-in event, you can send push notifications by clicking the ‘Push Notification’ button.**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**2. Check-ins deadline.**</mark>
 
@@ -61,7 +62,7 @@ Check-ins can automatically publish the event posts according to the recurring c
 4. Attach image for the event.
 5. Set the post repeat cycle under the **Repeat cycle.**
 6. When details are completed, then click **Save.**
-7. ****
+7.
 
 ### <mark style="color:blue;">**STEP.3  Apply Attendance Checklist Menu to your app**</mark>
 

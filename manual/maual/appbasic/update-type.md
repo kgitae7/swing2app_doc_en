@@ -26,7 +26,7 @@ Since it is optional, if you select ‘Cancel’, the update will not proceed.
 
 For the soft updates, **it will be downloaded from within the app and automatically updated without having to reinstall the app.**
 
-****
+
 
 ### <mark style="color:blue;">**2. Soft Update & Essential**</mark>
 
@@ -34,13 +34,13 @@ For the soft updates, **it will be downloaded from within the app and automatica
 
 **If you choose the update as required, the update will proceed unconditionally without the user’s selection.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/soft4.png)
 
 Since it is a soft update, like the above image **it will be downloaded and automatically updated in the app without having to reinstall the app.**
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">**3.Hard Update & Recommended**</mark>
 
@@ -59,7 +59,7 @@ Since it is optional, if you select ‘Cancel’, the update will not proceed.
 **In case of a hard update, unlike the software, you will go to your device and reinstall a new version of the app.**\
 **It will install the update of the existing application and will overwrite it with the new version of the app.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**4. Hard Update & Essentials**</mark>
 

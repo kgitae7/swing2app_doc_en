@@ -1,6 +1,6 @@
 # Store Management - Shipping Management
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/shop6.png)
 
@@ -24,7 +24,7 @@ Therefore, when setting the shipping cost – Please set in the Shipping Managem
 
 **After applying the swing store, go to swing store → shop management → delivery management page.**
 
-****
+
 
 ### <mark style="color:blue;">**2. Enter shipping management item**</mark>
 

@@ -188,7 +188,7 @@ Since the design is fully provided, users can only change the text, images, and 
 
 <mark style="color:red;">Once you have applied the swing2app feature, product and product category, press the button in the app to go to the link.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:blue;">**▶Template page – how to apply to app home screen**</mark>
 
@@ -275,7 +275,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 7. Press the **Apply** button.
 8. Click on **Save.**
 
-****
+
 
 **This is the app home screen style that can be configured in the swing store mall app.**
 

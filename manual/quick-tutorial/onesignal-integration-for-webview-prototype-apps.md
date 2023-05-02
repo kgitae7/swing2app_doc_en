@@ -2,9 +2,10 @@
 
 Swing2App recently release a new feature for the WebView apps. Earlier if a user wanted to convert their website to an app and wanted to send push notifications to users then they had to make Push-only prototype of apps only but now the WebView prototype app users can also send and receive unlimited push notifications with the simple integration of OneSignal with Swing2App.
 
-<mark style="color:red;">**\*Caution:**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**This tutorial and OneSignal integration is working only in Web-View prototype only.**</mark>
+<mark style="color:red;">**\*Caution:**</mark>\
+<mark style="color:red;">**This tutorial and OneSignal integration is working only in Web-View prototype only.**</mark>
 
-&#x20;<mark style="color:red;"></mark>&#x20;
+&#x20;
 
 Let’s check out the step by step process of integration.
 
@@ -12,7 +13,7 @@ Let’s check out the step by step process of integration.
 
 Subscribe to the services of OneSignal on [https://www.onesignal.com](https://www.onesignal.com/)
 
-1. Once you are done with the signup, on the dashboard, click <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**‘New App/Website’**</mark>
+1. Once you are done with the signup, on the dashboard, click <mark style="color:blue;">**‘New App/Website’**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2177.png)
 
@@ -69,7 +70,7 @@ Similarly, setup OneSignal Platform (Apple iOS) (if you are not using iOS , you 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2187.png)
 
-&#x20;<mark style="color:orange;"></mark>&#x20;
+&#x20;
 
 <mark style="color:orange;">**How to find OneSignal app ID on OneSignal dashboard**</mark>
 

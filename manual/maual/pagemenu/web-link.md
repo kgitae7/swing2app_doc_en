@@ -90,7 +90,7 @@ Please go to the Maker(V2) page.
 
 **Launch the app to see how the new window is different from the external app view.**
 
-****
+
 
 <mark style="color:orange;">**▶ Open in a new window**</mark>
 
@@ -109,7 +109,8 @@ Do you see an internet search bar at the top??
 
 Select the \[Open with YouTube external app] menu.\
 Then, **unlike the new window, you can see the YouTube app running.**\
-<mark style="color:red;">**★ Weblink address you have applied – the application is running directly within the App.**</mark>  \ <mark style="color:red;"></mark><mark style="color:red;">**★ Opening to an external app will open after selecting a different application path if the app is not installed on the phone.**</mark>\
+<mark style="color:red;">**★ Weblink address you have applied – the application is running directly within the App.**</mark>  \
+<mark style="color:red;">**★ Opening to an external app will open after selecting a different application path if the app is not installed on the phone.**</mark>\
 
 
 Opening in a new window, opening in an external app, etc., is the same as being able to open a web page, but there is a difference in the style shown in the app.

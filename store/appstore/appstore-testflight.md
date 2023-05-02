@@ -14,7 +14,7 @@ Therefore, if you create an app that is only available to employees within the c
 
 **The only way to do this is to use test-flight without officially distributing it to the App Store so that only users who have been added can use the app.**
 
-****
+
 
 **What is test-flight?**
 
@@ -27,7 +27,7 @@ Therefore, it can be used inside the company or when only authorized iPhone user
 
 ***
 
-### <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to use**</mark>
+### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;">**How to use**</mark>
 
 It is the same as using the paid app.
 

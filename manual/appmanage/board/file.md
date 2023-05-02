@@ -38,7 +38,7 @@ When you have completed the bulletin board in Services, go to Posts and select t
 
 **File attachment can be used in two ways.**
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Board function – Using file attachment**</mark> &#x20;
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Board function – Using file attachment**</mark> &#x20;
 
 The first way to attach a file is to use \[Attach File] among the functions provided on the bulletin board!&#x20;
 
@@ -54,7 +54,7 @@ Click the button to load and register files saved in My Computer.
 
 <mark style="color:red;">Files can be uploaded without a limit on the number of files provided they do not exceed the size.</mark>&#x20;
 
-<mark style="color:red;"></mark>
+
 
 > <mark style="color:purple;">“I don’t see the file button in the blue area!” Those who do this are because the file attachment is not checked in the bulletin board function.</mark>
 >
@@ -88,7 +88,7 @@ Files registered by this method are registered in the form of attachments, so th
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Bulletin Board Editor-Select File Upload Button**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Bulletin Board Editor-Select File Upload Button**</mark>
 
 **The second way to attach a file is to use the \[Upload File] button in the HTML editor’s writing bar.**
 
@@ -98,7 +98,7 @@ Writing – If you select HTML Editor, an option bar is created in the text..
 
 (HTML editor is a bulletin board writing tool with various styles and writing designs added from the existing bulletin board writing method.)
 
-If you look here, there is a<mark style="color:blue;">**\[File Upload]**</mark>** ** button.
+If you look here, there is a<mark style="color:blue;">**\[File Upload]**</mark> button.
 
 If you press the file upload button, you can load the same file and register it in the post!
 

@@ -153,7 +153,7 @@ First, let’s choose a banner and make it.
 
 **3) Select the Create Ad Unit button.**
 
-****
+
 
 This allows you to create your ad units by selecting the same banner and front ad.
 

@@ -20,7 +20,7 @@ Example) At first I made a slide menu, but I want to change the prototype to a f
 
 **After pressing the request button for app creation, update it to soft update = \[app re-launch] and you can update without the hassle of reinstalling.** &#x20;
 
-****
+
 
 <mark style="color:blue;">**\* Prototype Singularity 2**</mark>
 
@@ -181,7 +181,7 @@ Use the Navigation Bar at the bottom to go to the previous step, the next step, 
 
 Click the bottom push settings button to turn on or off the push notifications.
 
-<mark style="color:red;">**★**</mark>** ** [**\[Super Simple! Go to the Push Version App Production Manual\]**](../appbasic/push-webview.md)
+<mark style="color:red;">**★**</mark> [**\[Super Simple! Go to the Push Version App Production Manual\]**](../appbasic/push-webview.md)
 
 ***
 
@@ -207,7 +207,7 @@ Since the web view has left the website itself in the app, the app design is ver
 
 If you have a mobile-only site, you can create a mobile-optimized app.
 
-<mark style="color:red;">**★**</mark>** ** [**\[Super Simple! Go to the Web View Version of the App Production Manual\]**](../appbasic/push-webview.md)
+<mark style="color:red;">**★**</mark> [**\[Super Simple! Go to the Web View Version of the App Production Manual\]**](../appbasic/push-webview.md)
 
 
 

@@ -41,7 +41,7 @@ You can see the admin chat page (1:1 chat) is applied to the app.
 
 So when the app members contact the administrator, you can enter the menu and start the conversation.
 
-<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**2. App Launch Screen: Chat room screen**</mark>
 
@@ -77,7 +77,7 @@ Move to the swing2app homepage app operation page → push & membership → memb
 
 **On the member inquiry page, select a member to chat with and then click the corresponding chat button to start chatting.**
 
-****
+
 
 **What is Private and Public Conversation?**
 

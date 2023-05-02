@@ -33,7 +33,7 @@ If you select the **Create Permission Group** button on the Permission Group Set
 
 <mark style="color:red;">**-You don’t need to use all 9 ratings though. You only need to use the desired rating.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **Create the group your administrator wants.**
 
@@ -57,7 +57,7 @@ If you select the **Create Permission Group** button on the Permission Group Set
 >
 > A group has been created like this.
 
-****
+
 
 **The group creation is complete.**
 

@@ -57,7 +57,8 @@ Please check the posted link below on how to create a membership level.\
 
 > And  you can see the item **‘Allow the use of designated authority’**.\
 > This feature is available if you want to use only designated level permissions.\
-> <mark style="color:orange;">**\*For example, if you check the Allow use of designated authority function and select the authority: Only ‘user’ authority can be checked.**</mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**Even administrator can not confirm.**</mark> \
+> <mark style="color:orange;">**\*For example, if you check the Allow use of designated authority function and select the authority: Only ‘user’ authority can be checked.**</mark>\
+> <mark style="color:orange;">**Even administrator can not confirm.**</mark> \
 > Therefore, if you want to use the bulletin board only at a certain level, check the Allow use of designated authority function.\
 > Board designated authority using methods, Please check the following links posted.
 >
@@ -97,6 +98,6 @@ By setting permissions on the bulletin board, you can operate the bulletin board
 
 We hope that the manual was helpful in the app operation.\
 \
-**☞** [ **** ](http://swing2app.blog.me/221187029653)[**Go to the bulletin board manual**](create-bulletinboard.md)
+**☞** [ ](http://swing2app.blog.me/221187029653)[**Go to the bulletin board manual**](create-bulletinboard.md)
 
 **☞** [**Go to the bulletin board input method**](post-write.md)

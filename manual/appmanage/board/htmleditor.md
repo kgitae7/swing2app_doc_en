@@ -24,7 +24,7 @@ You can apply a variety of styles such as text style, text size, text color, und
 
 <mark style="color:red;">**You can freely place images in the middle of the text, add hyperlinks (website links), videos, and more.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:orange;">**▶ You’ll understand it more easily if you see the GIF image!**</mark>
 
@@ -48,7 +48,7 @@ If you only write simple phrases, you can use them.
 
 It’s also very easy to edit the text you write in the HTML editor.&#x20;
 
-Select the <mark style="color:blue;">**pencil icon**</mark>** ** button at the top of the post.
+Select the <mark style="color:blue;">**pencil icon**</mark> button at the top of the post.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/html4-1.png)
 

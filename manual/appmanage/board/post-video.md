@@ -37,7 +37,7 @@ I’ll show you how to use in 2 styles!!
 
 You can apply a YouTube video link (URL) by selecting the link.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**App execution screen) Check the video**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**App execution screen) Check the video**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_08\_12\_16\_54\_23\_984.gif)
 
@@ -140,7 +140,7 @@ The source code is used as an embedded code. Simply copy the source code and pas
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/mp4\_add.png)
 
-Please press the Insert Video button and select the third <mark style="color:blue;">‘</mark><mark style="color:blue;">**Upload**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**video**</mark><mark style="color:blue;">‘.</mark> When the file attachment window opens, select the video you want to attach and select the Open button.
+Please press the Insert Video button and select the third <mark style="color:blue;">‘</mark><mark style="color:blue;">**Upload**</mark> <mark style="color:blue;">**video**</mark><mark style="color:blue;">‘.</mark> When the file attachment window opens, select the video you want to attach and select the Open button.
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/Screenshot-2020-04-27-at-12.40.45.png)
 

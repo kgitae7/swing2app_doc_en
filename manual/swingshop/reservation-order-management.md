@@ -62,7 +62,7 @@ Therefore, you can change the status of the product you have pre-ordered. **You 
 
 **Let’s change the status from \[Order Status] to ‘Refunded’.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/res2.png)
 

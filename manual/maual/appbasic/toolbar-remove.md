@@ -4,9 +4,9 @@
 
 **How to remove the push toolbar from push-only apps**
 
-****
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**What is the Push Toolbar?**</mark>
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**What is the Push Toolbar?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Group-1.png)
 
@@ -128,7 +128,7 @@ You don’t have to create it again, just press the save button and it will be r
 
 > <mark style="color:blue;">**Other push app related usage methods**</mark>
 >
-> <mark style="color:blue;">****</mark>
+>
 
 <mark style="color:orange;">**1) How do I change the web link address after creating a push app?**</mark>
 

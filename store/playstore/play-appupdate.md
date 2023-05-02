@@ -16,7 +16,7 @@ At time like this even if the app released on the Play Store is updated **\*the 
 
 **The reason for this is that android phones are set to auto update, so they are automatically updated according to the update settings.**
 
-****
+
 
 <mark style="color:orange;">**★ Please check out this important content!**</mark>
 

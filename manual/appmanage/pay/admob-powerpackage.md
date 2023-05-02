@@ -6,7 +6,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is AdMob Power Package? Offer service?**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is AdMob Power Package? Offer service?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/06/%EC%BA%A1%EC%B2%983.png)
 
@@ -40,7 +40,7 @@ It is offered at a discount of $275 compared to purchasing as an individual prod
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to use AdMob Power Package**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to use AdMob Power Package**</mark>
 
 **1) Please complete the test after final production of the app.**
 
@@ -82,7 +82,7 @@ Go to Manager → Services → AdMob plugin settings, enter \[ad unit ID setting
 
 \*AdMob plug-in settings You can check the details of how to set up ads in the post below.
 
-**☞** [**See how to set up AdMob plugin ads**](https://support.swing2app.com/knowledgebase/admob-plugin-apply/)****
+**☞** [**See how to set up AdMob plugin ads**](https://support.swing2app.com/knowledgebase/admob-plugin-apply/)
 
 
 
@@ -184,7 +184,7 @@ Therefore, a refund is only possible before the AdMob setting work.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. Notes on AdMob Ad Settings**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. Notes on AdMob Ad Settings**</mark>
 
 1\) Swing2App does not provide information related to AdMob operation, such as advertising revenue costs, operating methods, and policies related to AdMob.
 

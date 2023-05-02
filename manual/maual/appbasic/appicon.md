@@ -128,7 +128,7 @@ As you can see in the image above, the app icon is not a complete rectangle but 
 
 &#x20;<mark style="color:red;">On the iPhone, all icon styles are presented in a round style.</mark>
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:blue;">**2) App icon is shown on Android Phone – Android Version 8.0**</mark>
 
@@ -142,4 +142,3 @@ Remember that App icons styles vary depending on the version and model of Androi
 
 **Therefore, the app icon shape may vary depending on which iOS platform you use, for those who run the app with Swing2App, please refer to the app icon creation and design.**
 
-****

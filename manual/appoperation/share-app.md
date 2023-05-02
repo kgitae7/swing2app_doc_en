@@ -72,7 +72,7 @@ In the newly opened **internet browser window, select the \[Download App] button
 
 <mark style="color:red;">**\*If you need to install the app for the first time, you will need to install the app by pressing the App (APK) download button.**</mark>
 
-****
+
 
 ### <mark style="color:blue;">**4. Proceed to download the app**</mark>
 

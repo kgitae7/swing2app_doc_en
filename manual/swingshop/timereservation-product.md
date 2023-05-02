@@ -106,7 +106,7 @@ You cannot make multiple reservations at one time, you can only make one reserva
 
 **(Reservation for 2 teams at 2:00 PM, reservation for 3 teams at 3:00 PM X → Only 1 group reservation)**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/spa5.png)
 
@@ -229,7 +229,7 @@ In addition, various functions such as viewing recently viewed products and favo
 
 <mark style="color:blue;">**STEP.4 App execution screen) Purchase time reservation products**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 **▶I’ll check by running the app to which the time reservation product was applied!**
 

@@ -76,11 +76,11 @@ Complete the purchase of the Swing2App paid app voucher and app store upload tic
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ios-form-.png)
 
-If you press the upload application button on the App Store, the upload application popup window will appear.  **** &#x20;
+If you press the upload application button on the App Store, the upload application popup window will appear. &#x20;
 
 Please fill in the contents for each item.
 
-<mark style="color:red;">**\***</mark>** Items marked in **<mark style="color:red;">**red**</mark>** are **<mark style="color:red;">****</mark>** required.**&#x20;
+<mark style="color:red;">**\***</mark>** Items marked in **<mark style="color:red;">**red**</mark>** are** **required.**&#x20;
 
 Select the <mark style="color:blue;">**question ‘?’ mark icon**</mark> to see the guidelines!
 

@@ -16,7 +16,7 @@ You can preview, download and check it directly on your phone from within the ap
 
 ★For a detailed description of the swing preview, please check the relevant manual.&#x20;
 
-**☞** [<mark style="color:blue;">**See how to use the swing preview**</mark>](../manual/swingpreview.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**See how to use the swing preview**</mark>](../manual/swingpreview.md)
 
 </details>
 
@@ -58,11 +58,11 @@ You can log in by entering the secondary administrator ID, password, and app ID.
 
 **\* See images)**
 
-****![](../.gitbook/assets/미리보기영문4.png)****
+![](../.gitbook/assets/미리보기영문4.png)
 
 How to set up the app assistant administrator and how to log in, please refer to the manual below!
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  [<mark style="color:blue;">\[Check out the Swing Preview Detailed Method Manual\]</mark>](../manual/swingpreview.md)<mark style="color:blue;"></mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">  [<mark style="color:blue;">\[Check out the Swing Preview Detailed Method Manual\]</mark>](../manual/swingpreview.md)
 
 </details>
 
@@ -76,7 +76,7 @@ You don’t have to log in as an administrator for this menu. **You can preview 
 
 **★ How to use QR code**
 
-****![](../.gitbook/assets/scan.png)****
+![](../.gitbook/assets/scan.png)
 
 ![](../.gitbook/assets/미리보기영문5.png)
 
@@ -118,7 +118,7 @@ At the bottom of the app name, you can check the \[Preview] and \[Download App] 
 
 <summary>Prototype: Can I see apps created with Push or WebView in Swing Preview? Did?</summary>
 
-You can check it with \[App Download] on an **** Android phone, b**ut not on iPhone.**
+You can check it with \[App Download] on an Android phone, b**ut not on iPhone.**
 
 \-Android phone prototype – Apps created with Push and Web View can only be used to view swing2app previews \[app downloads].
 

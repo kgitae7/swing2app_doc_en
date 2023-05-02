@@ -70,7 +70,7 @@ Example: If you want to buy 3 months, please check 3 and check the purchased qua
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Paid3.png)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**▶ Voucher Purchase Option \[Upload Ticket Purchase]**</mark>
 
@@ -94,7 +94,7 @@ If you have paid at least once, upload ticket items will not be displayed.
 
 Therefore, if you would like to purchase an upload ticket, please select the upload ticket item on the payment page.
 
-****
+
 
 **3) If you have selected a product above and checked the purchased quantity, please proceed to the next payment.**
 
@@ -110,7 +110,7 @@ Therefore, if you would like to purchase an upload ticket, please select the upl
 
 (4)Please select.
 
-****
+
 
 **4) Check your payment information**
 
@@ -120,7 +120,7 @@ On the payment information confirmation page, please check if the item was selec
 
 If you select **Make a Payment**, payment will be made to the selected payment method.
 
-****
+
 
 <mark style="color:red;">**\*Please check your deposit!!**</mark>
 
@@ -166,7 +166,7 @@ The usage fee is $300. (Tax included)
 
 **☞**  [**Click here to view Swing2App ticket FAQ** ](https://support.swing2app.com/faq/%E2%96%B6swing2app-paid-product-voucher-faq/)
 
-<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**4. Payment – ​​My Payment Status**</mark>
 

@@ -111,7 +111,7 @@ In the sign-up form
 >
 > **For example, in the case of anniversary, the name of the item should be entered as the anniversary, and the answer input UI form is selected by the date.**
 
-****
+
 
 **\[Answer Input UI Item]**
 
@@ -141,7 +141,7 @@ This item is available if you use developer terminology for developers. General 
 
 <mark style="color:orange;">**Example) Swing2App Health Club membership Form**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 Swing2App Health Club’s membership form is an example of how to apply the app.
 

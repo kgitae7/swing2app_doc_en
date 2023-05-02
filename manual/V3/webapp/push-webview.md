@@ -10,21 +10,21 @@ If you use the 'push' or 'webview' UI style of the prototypes provided by the Sw
 
 ## <mark style="color:blue;">How to create a push-only app</mark>
 
-****
+
 
 {% hint style="info" %}
 **What is a push app?**
 
 **For 'push' only, just enter the URL of the user's homepage without any other creation functions, and the app will be created by integrating the website into the app as it is.**
 
-**With push notifications available,** you can send events, ads, and promotional messages to your users. ****&#x20;
+**With push notifications available,** you can send events, ads, and promotional messages to your users.&#x20;
 {% endhint %}
 
 When you create a new app or add an app, the App Creation Wizard pop-up window will appear first on the dashboard screen.
 
 Simply enter the step-by-step information in the App Creation Wizard to create a push-only app!
 
-****
+
 
 **1.In the Start App Creation Wizard pop-up – Select a webview app prototype based on the website and select the \[Next] button**
 
@@ -143,7 +143,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 **- You can configure the toolbar in different styles yourself.**\
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** How do I change the weblink address after creating a push app?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How do I change the weblink address after creating a push app?
 
 Changing the weblink address applied to your app is the same as the App Maker method.
 
@@ -165,7 +165,7 @@ Push Version The app creates a \[Push Toolbar] below the app screen.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Sending a push
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Sending a push
 
 With the push version, you can send push notifications after building your app.
 
@@ -177,11 +177,11 @@ To learn how to send a push from the Push app, please check the manual below.
 
 ***
 
-****
+
 
 ## <mark style="color:blue;">**Creating a WebView App**</mark>
 
-****
+
 
 {% hint style="info" %}
 **What is a webview app?**
@@ -271,7 +271,7 @@ The app ID must be at least 6 Alphanumeric characters long (including English le
 
 <mark style="color:red;">\*The app ID is the unique identifier of the app and cannot be changed after setting.</mark>
 
-<mark style="color:red;"></mark>
+
 
 Step-by-step, enter your content and you're done.
 
@@ -291,7 +291,7 @@ For example, if you changed the name of your app, save → after the change → 
 If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 {% endhint %}
 
-****
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
@@ -307,7 +307,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** How do I change the weblink address after creating the webview app?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How do I change the weblink address after creating the webview app?
 
 The same goes for changing the weblink address applied to your app.
 
@@ -337,7 +337,7 @@ As you can see in the image, the mobile web and the webview app you create are t
 
 ![](broken-reference)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Push App, Webview App Creation Guide
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push App, Webview App Creation Guide
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B05.png)
 
@@ -365,7 +365,7 @@ To learn how to download (install) your app, please check the manual below.
 
 ![](broken-reference)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** Please be careful when creating push and webview apps.
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Please be careful when creating push and webview apps.
 
 **1) There is a web link that does not work with the app, that is, there is a site that prohibits embedding.**
 
@@ -395,7 +395,7 @@ After being built as a webview-based (push, webview) prototype, → cannot be ch
 
 **TIP. If you launch the store with a webview or a push app, you can purchase an unlimited subscription and you will have unlimited access to the app for a fee with no limit on the duration of the service.**
 
-<mark style="color:blue;">**☞**</mark>**  **<mark style="color:blue;">**Go to WebView Unlimited Paid App Products**</mark>
+<mark style="color:blue;">**☞**</mark> <mark style="color:blue;">**Go to WebView Unlimited Paid App Products**</mark>
 
 [**☞** ](https://wp.swing2app.co.kr/documentation/appmanage/pay/push-unlimited/)<mark style="color:blue;">**Go to Push Unlimited Paid App Products**</mark>
 

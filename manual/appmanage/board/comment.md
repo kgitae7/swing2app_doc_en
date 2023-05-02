@@ -122,9 +122,9 @@ Writing a comment also receives push notifications in real-time to the user who 
 
 So if you have commented on a post, or someone commented on your comment, you can view and send push notifications.
 
-<mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">****</mark>
+
+
 
 <mark style="color:blue;">**▶ Free comments, comments**</mark>
 

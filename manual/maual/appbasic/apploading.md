@@ -58,7 +58,8 @@ Existing apps also provide **an important image in the center when you look at t
 \
 \= A color has been added to the area to make it easier to understand.\
 ( Let’s create it by adding color and once the image is finished, you can subtract the color.)\
-<mark style="color:orange;">**\* The grey part is the part of the background that covers the entire area of the image.**</mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**\* And the image shown on the phone is the blue area.**</mark> \
+<mark style="color:orange;">**\* The grey part is the part of the background that covers the entire area of the image.**</mark>\
+<mark style="color:orange;">**\* And the image shown on the phone is the blue area.**</mark> \
 Create an image by putting the image or logo of the company you want to make into the blue area. \
 \
 <mark style="color:red;">**\* Only work inside the blue area.**</mark>

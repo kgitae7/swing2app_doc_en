@@ -14,11 +14,11 @@ If you press \[App Creation Request], you can use the update type and update dis
 
 ***
 
-### <mark style="color:blue;">**▶ Swing2App Important Update Information**</mark>** **&#x20;
+### <mark style="color:blue;">**▶ Swing2App Important Update Information**</mark>&#x20;
 
 **\*Please first check the important information!!**
 
-****
+
 
 **1. Step 3, Page Menu during the app creation phase to modify the contents and use all the features of the app operation.**\
 <mark style="color:purple;">**→ Just press the \[Save] button and it will automatically reflect on the app and you do not need to re-create the app.**</mark>
@@ -116,13 +116,13 @@ For soft updates, it is downloaded from within the app and **automatically updat
 
 <mark style="color:green;">**2. Soft Update & Required**</mark>
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/soft3.png)
 
 **If you select Soft Update and Required to update the app → Updates in the app will proceed immediately without asking the user.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/soft4.png)
 
@@ -134,7 +134,7 @@ For soft updates, it is downloaded from within the app and **automatically updat
 
 <mark style="color:green;">**3.Hard updates & Recommendations**</mark>
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/hard1.png)
 
@@ -154,7 +154,7 @@ Since it is optional, if you select ‘Cancel’, the update will not be perform
 
 It will install the update of the existing application and install it again by overwriting it with the new version of the app.
 
-<mark style="color:green;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)<mark style="color:green;"></mark>
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
 <mark style="color:green;">**4. Hard update& Required**</mark>
 

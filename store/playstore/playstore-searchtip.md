@@ -16,7 +16,7 @@ Is there a way to make the search work better? **Google doesn’t disclose its a
 
 **There are still some basic and general methods, so we will explain them.**&#x20;
 
-### <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1. Name your app well**</mark>
+### &#x20;<mark style="color:blue;">**1. Name your app well**</mark>
 
 When naming apps, you need to think more carefully and decide.
 
@@ -37,7 +37,7 @@ In this case, you may not be exposed and since it’s a violation of policy for 
 Use the instructions above to determine your app name. \
 
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+&#x20;
 
 ### <mark style="color:blue;">**2. Expose keywords in app names**</mark>
 
@@ -108,7 +108,7 @@ Google also applies the same principles as the Naver search.
 
 Even if you’re exposed to the top of your search, **your actual visitor satisfaction will drop, resulting in a lower rating, and a decrease in downloads will decline your search results.**
 
-Therefore, after you register your app on the Google Play Store, you should continue to manage your ratings. ****&#x20;
+Therefore, after you register your app on the Google Play Store, you should continue to manage your ratings.&#x20;
 
 **In statistics, all these statistics, such as actual app downloads, user ratings, users, active users, app uninstalls, Google Plus recommendations, and reviews, all affect search results.**
 

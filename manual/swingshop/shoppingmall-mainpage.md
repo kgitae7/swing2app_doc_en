@@ -166,9 +166,9 @@ The message can be modified and registered at **1)Swing shop, My Store → 2) Ba
 
 **If you write your desired comment and save it, it will be displayed in the store footer text on the main page of the shopping mall.**
 
-****
 
-****
+
+
 
 **STEP.2 App execution screen – shopping mall main page applied**
 

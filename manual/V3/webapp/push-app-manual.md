@@ -2,7 +2,7 @@
 
 **App Maker V3 Version – How to Create a Push App Manual**
 
-****
+
 
 > **What is a push app?**
 >
@@ -102,7 +102,7 @@ Step by step, enter your content and you're done.
 
 ## **STEP1** Basic Information
 
-****
+
 
 ![](broken-reference)
 
@@ -288,6 +288,5 @@ We are here to help by identifying your symptoms.
 
 
 
-****
 
-****
+

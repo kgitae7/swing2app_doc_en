@@ -42,7 +42,7 @@ The home screen is the main screen that you see when you launch the app, and you
 
 Swing2App menus – You can apply menus such as web links, swing2app pages, user pages, bulletin boards, and images.
 
-**\*Please check the home screen production manual for details on the home screen.** ☞ **** [**\[View how to create a home screen\]**](appintroductionpage.md)
+**\*Please check the home screen production manual for details on the home screen.** ☞ [**\[View how to create a home screen\]**](appintroductionpage.md)
 
 ***
 
@@ -90,7 +90,7 @@ Swing2App menus – You can apply menus such as web links, swing2app pages, user
 
 **Once you have applied the home screen, then apply the menu.**
 
-****
+
 
 ### <mark style="color:blue;">**STEP.2 Menu management**</mark>
 
@@ -131,7 +131,8 @@ Menus can be deleted in this way.\
 <mark style="color:orange;">**You can see the new menu is created when you look at the virtual machine.**</mark>\
 
 
-<mark style="color:orange;"></mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**▶ How to add a sub-menu with animated images**</mark>
+\
+<mark style="color:orange;">**▶ How to add a sub-menu with animated images**</mark>
 
 ***
 

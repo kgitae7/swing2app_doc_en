@@ -4,7 +4,7 @@
 
 **Swing Store-How to pick up your physical merchandise**
 
-****
+
 
 When registering for physical goods in Swing Store, the receipt of goods was set as the default courier delivery.
 
@@ -44,7 +44,7 @@ Please refer to the following manual for the complete manual for registering sho
 
 <mark style="color:orange;">**Users can place an order in the app and then check the order details page before payment.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">**02. App Launch Screen) How to receive : Select ‘Courier Delivery’**</mark>
 

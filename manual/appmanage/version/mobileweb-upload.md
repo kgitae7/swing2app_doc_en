@@ -34,7 +34,7 @@ App production completed.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Buy Mobile Web Upload Ticket**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Buy Mobile Web Upload Ticket**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG1.png)
 
@@ -50,7 +50,7 @@ You can apply for mobile web registration only on the paid version app that has 
 
 <mark style="color:purple;">-The premium pass provides unlimited mobile web registration tickets, so you do not need to purchase a separate mobile web registration ticket.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:orange;">**★What is the mobile web usage period?**</mark>
 
@@ -60,7 +60,7 @@ If you pay for one year, you can also use the mobile website for one year.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Apply for the mobile web registration**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Apply for the mobile web registration**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG-2-1.png)
 
@@ -96,7 +96,7 @@ Please check the image size (72\*72) and attach the image.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) ** **<mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
 
 <figure><img src="../../../.gitbook/assets/IMG-4-50h3x1024.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ Select \[Confirm Mobile Web Registration].
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. Run the mobile web**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. Run the mobile web**</mark>
 
 <figure><img src="../../../.gitbook/assets/IMG-5-473x102b4.png" alt=""><figcaption></figcaption></figure>
 
@@ -116,7 +116,7 @@ Your website is assigned to the domain you purchased.
 
 **You can implement your own app to be displayed as a website.**
 
-****
+
 
 <mark style="color:red;">**★ Tips for using it**</mark>
 
@@ -130,7 +130,9 @@ Your website is assigned to the domain you purchased.
 
 ***
 
-<mark style="color:red;">**\[Precautions for Mobile Web Registration]**</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark>
+<mark style="color:red;">**\[Precautions for Mobile Web Registration]**</mark>\
+\
+
 
 **1) Before applying for mobile web registration, you must purchase a domain that can be linked with the site separately. (Cafe 24, etc.)**
 

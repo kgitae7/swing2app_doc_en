@@ -67,7 +67,7 @@ If you apply for a paid app voucher coupon, you can see that the usage period ha
 
 **\*If you go to Online Stores → Payment Status, you can check the voucher received by coupon.**&#x20;
 
-****
+
 
 <mark style="color:red;">**\[Guide]**</mark>
 

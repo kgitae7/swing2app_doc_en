@@ -56,7 +56,7 @@ If you look at the status of each platform, it will be displayed as <mark style=
 
 **\*Production time is 5 – 10 minutes.**
 
-****
+
 
 **3. Completing the app**
 
@@ -94,9 +94,9 @@ Only android phone users can install APK files directly on their mobile phones.
 
 \*If the app is already installed, please get the latest update.
 
-<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**App Store Launch Link (URL)**</mark>](https://apps.apple.com/us/app/swing2app-app-builder/id1519396505)<mark style="color:blue;"></mark>
+<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**App Store Launch Link (URL)**</mark>](https://apps.apple.com/us/app/swing2app-app-builder/id1519396505)
 
-<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**Play Store launch link(URL)**</mark>](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf)<mark style="color:blue;"></mark>
+<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**Play Store launch link(URL)**</mark>](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%98%81%EB%AC%B81.png)
 
@@ -152,7 +152,7 @@ Once the app is created, the completed APK file will be sent to your email.
 
 **\*APK file download is to open the compressed file, the app will actually be installed on the phone until the installation proceeds.**
 
-****
+
 
 Installing the application is the same as downloading the app from the Play Store.&#x20;
 
@@ -160,11 +160,11 @@ Installing the application is the same as downloading the app from the Play Stor
 
 **In this case, please allow the app installation and the app will be downloaded normally.**
 
-****
+
 
 **Application installation complete!!**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Picture44.png)
 

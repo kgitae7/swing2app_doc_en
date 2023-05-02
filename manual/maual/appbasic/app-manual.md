@@ -62,7 +62,7 @@ Once you’ve applied the size, you can apply it by selecting the <mark style="c
 
 <mark style="color:orange;">\*Step 1 When all the basic information items are entered, press the \[Save] button and move to the next step design theme.</mark>
 
-<mark style="color:orange;"></mark>
+
 
 ### <mark style="color:blue;">**STEP.2 Design Theme**</mark>
 
@@ -182,7 +182,7 @@ Once you’ve applied the home screen, then apply the menu.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A4%841-1.png)
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**2. Delete menu**</mark>
 
@@ -256,7 +256,7 @@ Therefore, please first check how to use each menu.
 
 <mark style="color:red;">\*The update display option is optional, so it’s not required.</mark>
 
-&#x20;****&#x20;
+&#x20;
 
 ***
 
@@ -282,7 +282,7 @@ Please wait a little while because it will be produced within 5 minutes after pr
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/make14.png)
 
-In less than a minute while waiting for production, the \[Swing2App Preview] pop-up window appears. ****&#x20;
+In less than a minute while waiting for production, the \[Swing2App Preview] pop-up window appears.&#x20;
 
 This is the ability to preview the app through swing2app preview before the app is produced.
 
@@ -290,7 +290,8 @@ This is the ability to preview the app through swing2app preview before the app 
 
 \*Preview on your phone: After downloading the official swing2app app – app preview menu – log in with your swing2app account or scan the QR code displayed in the pop-up window and you’ll be able to preview the app on your phone! (Only preview, no download)
 
-<mark style="color:orange;"></mark>\ <mark style="color:orange;"></mark><mark style="color:orange;">**3. Complete App Production**</mark>
+\
+<mark style="color:orange;">**3. Complete App Production**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/make13.png)
 
@@ -326,7 +327,7 @@ Android phone users can check it directly on their mobile phones without having 
 
 <mark style="color:red;">As a result, push and web view apps are not available on the iPhone and can be downloaded only on Android phones.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:green;">**★ How to edit the app?**</mark>
 
@@ -337,7 +338,7 @@ When you edit, you can go to the Maker(V2) page, modify the content, and then sa
 * **If you edit the page menu in step 3, press \[Save], write posts, etc. and then will be automatically reflected on the app!**
 * **If you modify the 2-step design theme, press the \[App Creation Request] after \[Saving] and get updated with the new version! \*Soft update**
 * **Step 1 If you modify the app basic information, \[Save] and press the \[App Creation Request] button to receive updates to the new version! \*Hard update**
-* ****
+*
 
 <mark style="color:green;">**★ IMPORTANT CONTENT \*Please check the important content!!**</mark>
 

@@ -24,7 +24,7 @@ Only available on the swing2app web.
 
 ### <mark style="color:blue;">**02. How to use**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:orange;">**1. Check ‘Allow file attachment’ on the board**</mark>
 

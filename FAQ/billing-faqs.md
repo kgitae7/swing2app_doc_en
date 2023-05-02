@@ -98,7 +98,7 @@ Users may want to think about the review period in advance and use it as a way t
 
 When you receive a swing coupon by email, the coupon has a serial number.&#x20;
 
-****[Swing homepage Online Stores > Use Coupon](https://www.swing2app.com/view/payment\_coupon\_use) Go to the menu, enter the serial number listed on the coupon and use the coupon.
+[Swing homepage Online Stores > Use Coupon](https://www.swing2app.com/view/payment\_coupon\_use) Go to the menu, enter the serial number listed on the coupon and use the coupon.
 
 The coupon has a redemption period, so be sure to check the expiration date. The applied product can be checked in the [Online Stores - <mark style="color:blue;">\[Payment Status\]</mark>](https://www.swing2app.com/view/payment\_list) menu.
 

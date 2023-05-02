@@ -14,7 +14,7 @@ After completing app Production, follow these steps to apply for the Free commer
 
 Application form window will pop up, fill that form to register your app as a free commercial version app. &#x20;
 
-<mark style="color:blue;">For Detailed Guidelines to Fill Form Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](how-to-apply-for-free-commercial-version.md)
+<mark style="color:blue;">For Detailed Guidelines to Fill Form Visit:</mark>[ **\[Go to Detailed Tutorial\]**](how-to-apply-for-free-commercial-version.md)
 
 &#x20;
 

@@ -16,7 +16,7 @@ Swing2App has its own inbuilt HTML editor for writings posts, articles, blogs, e
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag.png)
 
-2\. The inbuilt HTML has many features so that user can create content for the app at ease and make it more creative. <mark style="color:purple;">Check the image below showing HTML Editor in Posts:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. The inbuilt HTML has many features so that user can create content for the app at ease and make it more creative. <mark style="color:purple;">Check the image below showing HTML Editor in Posts:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-2.png)
 
@@ -42,7 +42,7 @@ Swing2App has its own inbuilt HTML editor for writings posts, articles, blogs, e
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-3-%E2%80%93-2.png)
 
-3\. The article will look exactly the same on your mobile app. <mark style="color:purple;">Check the image below showing mobile app post:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+3\. The article will look exactly the same on your mobile app. <mark style="color:purple;">Check the image below showing mobile app post:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-12.png)
 

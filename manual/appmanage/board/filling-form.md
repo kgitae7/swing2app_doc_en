@@ -32,7 +32,7 @@ You can take advantage of image attachments and calendar (date setting).&#x20;
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">**1.**</mark>**  **<mark style="color:blue;">**How to set up the bulletin board**</mark>
+## <mark style="color:blue;">**1.**</mark> <mark style="color:blue;">**How to set up the bulletin board**</mark>
 
 1. Go to **Manager** and select **Services.** From the drop-down list select **Bulletin Board.**
 2. If you need to create a new board on the board management page, click on  **Create Bulletin Board** button. If a bulletin board is created, click the **Settings** button on the bulletin board.

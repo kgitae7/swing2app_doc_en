@@ -30,7 +30,7 @@ These features are not required, but they are optional, so you don’t have to a
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/06/Tutorial\_ContentsTutorial\_10.jpg)
 
-&#x20;**** If you check **\[Default],** other styles will not be applied, and the styles set in the design theme will be applied.
+&#x20;If you check **\[Default],** other styles will not be applied, and the styles set in the design theme will be applied.
 
 If you want to make a default style, please check ‘Default’.
 
@@ -94,7 +94,7 @@ If you compare the images when you set the default style above, you’ll underst
 
 <mark style="color:red;">**\*The menu applied to the home screen of the above image is applied to the web template page – camping the main page.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:red;">**★Additional TIP**</mark>
 

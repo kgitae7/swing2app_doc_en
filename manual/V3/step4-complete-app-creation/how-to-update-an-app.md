@@ -168,7 +168,7 @@ It will install the update of the existing application and install it again by o
 
 ***
 
-<mark style="color:blue;">**4)**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:blue;">****<mark style="color:blue;"></mark><mark style="color:blue;">** **</mark><mark style="color:blue;">**Hard Updates & Required Updates**</mark>
+<mark style="color:blue;">**4)**</mark> <mark style="color:blue;">**Hard Updates & Required Updates**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
 

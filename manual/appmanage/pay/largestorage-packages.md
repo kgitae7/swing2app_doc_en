@@ -6,7 +6,7 @@
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Large Storage Package?**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Large Storage Package?**</mark>
 
 The Large Storage Package consists of a one-year Swing2App Basic Paid App type pass + 30GB of additional storage + a Play Store Upload ticket + an App Store Upload ticket as a package
 
@@ -40,7 +40,7 @@ It is a product that can be used as a package at a lower price than purchasing i
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to purchase and use the Large Storage Package**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to purchase and use the Large Storage Package**</mark>
 
 1\) Please complete the test after final production of the app.
 
@@ -82,13 +82,13 @@ Please check the store registration policy and usage policy in advance.
 
 ***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for using Large Storage Packages**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for using Large Storage Packages**</mark>
 
 ​**\* Large Storage Package products are recommended for long-term operation of many apps, commercialization of stores, or when you need to use a lot of app capacity.**
 
 **\* If you need more app capacity, 30GB is added at a time without having to purchase it individually! (2GB of app capacity is provided when purchasing a single item of a basic pass)**
 
-****
+
 
 1\) A voucher (package product) that converts a free app into a paid version, and is purchased when commercialized in markets such as Play Store and App Store.
 

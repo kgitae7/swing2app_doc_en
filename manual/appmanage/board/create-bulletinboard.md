@@ -30,7 +30,7 @@ To create a Bulletin board, follow the below step:
 >
 > \*User can create bulletin board by either creating a new board from **Create Bulletin Board** or by clicking on **Settings** of default bulletin board.
 
-****
+
 
 ### <mark style="color:blue;">**2. Bulletin Board and feature setting: Basic Setting**</mark>
 
@@ -53,14 +53,15 @@ Please follow the below steps:
 * If the user selects Customize for service purposes, then the grey fixed area will be released. The user needs to edit the detailed settings further to create a board.
 * If a separate group is not creating then the Set Board Permission(the 3 items are set to write, view detail, and view list) will only have options in the drop-down list as Administrator, User, and Guest.
 * Set Tolerance: There are options such as comments, likes, photo attachments, video attachments, file attachments, and photo attachments.​ Please check the required option according to the app operation method.\
-  <mark style="color:red;">**\*Comments, likes, attach photos, attach photos -> Items available to users in the app**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**\*Image attachment, file attachment -> item is registered and operated by the administrator only on the web, and cannot be used in the app.**</mark>
+  <mark style="color:red;">**\*Comments, likes, attach photos, attach photos -> Items available to users in the app**</mark>\
+  <mark style="color:red;">**\*Image attachment, file attachment -> item is registered and operated by the administrator only on the web, and cannot be used in the app.**</mark>
 * This option is to select whether to use the bulletin board only for a specific member group designated by the administrator.
 
 **☞** [**Go to the Board UI Style**](bulletinboard-ui.md)
 
 **☞** [**Go to Board Setting Permission**](board-permission.md)
 
-**☞** [**Use Board Authority**](broken-reference)****
+**☞** [**Use Board Authority**](broken-reference)
 
 
 
@@ -116,7 +117,7 @@ A lot of the various functions used to generate a regular bulletin board in addi
 
 All of these functions are provided in a manual, so please check them together when operating.
 
-<mark style="color:red;">**\*TIP:**</mark>** ** Next to each menu is Blue **?** icon(question mark) icons are listed. If you press the button, you will be taken to the manual.
+<mark style="color:red;">**\*TIP:**</mark> Next to each menu is Blue **?** icon(question mark) icons are listed. If you press the button, you will be taken to the manual.
 
 
 
@@ -194,7 +195,7 @@ You can set different search options for each app.
 
 ***
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -240,7 +241,7 @@ On the Swing2App Maker(V2), go to the Page menu.&#x20;
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-****
+
 
 The bulletin board you have created must be applied to the app menus on the app production page so that it is reflected in the app.
 
@@ -294,8 +295,7 @@ If you attached an image into the text (body), the image is recognized as text a
 
 If you upload a large number of images, the capacity will be counted accordingly.
 
-\*You can check the usage of the app on the ** **<mark style="color:purple;">**Manager → Services → Resources**</mark>
+\*You can check the usage of the app on the <mark style="color:purple;">**Manager → Services → Resources**</mark>
 
-<mark style="color:purple;">****</mark>
 
-<mark style="color:purple;">****</mark>
+

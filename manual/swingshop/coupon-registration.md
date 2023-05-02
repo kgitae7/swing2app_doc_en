@@ -170,7 +170,7 @@ Digital product did not set options separately. If you have an option, please ch
 
 **Examples: You can set options and the amount of options by adding sizes, adding colors, and more.**
 
-****
+
 
 **▶ **<mark style="color:orange;">**For more options, check out the image below!**</mark>
 
@@ -208,7 +208,7 @@ Go to the product registration modification screen.
 
 <mark style="color:orange;">**Once you’ve registered your digital product above, we’ll apply a page in the app where you can purchase the actual products.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 **01. Applying product categories**
 
@@ -245,7 +245,7 @@ When you select a product, go to the purchase page.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%99%94%EC%82%B4%ED%91%9C-1.png)
 
-****
+
 
 <mark style="color:orange;">**\[App Launch Screen]**</mark>
 

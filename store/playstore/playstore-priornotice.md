@@ -8,13 +8,13 @@ When launching the Google Play Store app, you can submit a pre-announcement docu
 
 <mark style="color:purple;">**\*\*If you are releasing an app with a web view app or a push version app, you must submit a pre-notification document, so please check the posting to check the submission documents and submission method.**</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**What is an advance notice document?**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:green;">**What is an advance notice document?**</mark>
 
 When registering an app on the Play Store, **you are submitting documents proving that the app is not an item that may violate Google policy.**
 
 **Therefore, the advance notice document is to prove that the app does not have any problems by submitting the documents in advance to app review so that the app can be released normally.**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**Scenarios for prior notice**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:green;">**Scenarios for prior notice**</mark>
 
 \-If the app has the right to use third-party intellectual property rights (brand name, website, logo, image, etc.)
 
@@ -24,7 +24,7 @@ When registering an app on the Play Store, **you are submitting documents provin
 
 **If you have created an app that corresponds to the above scenario, you must submit the supporting documents as a pre-notification document when submitting the Play Store app to launch the app normally.**
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:green;">**WebView app and Push version app must submit a pre-notification document together.**</mark>
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:green;">**WebView app and Push version app must submit a pre-notification document together.**</mark>
 
 Among those who have created an app with Swing2App, users who have created a **\*webview app or a push version app (a web browser app that connects the website to the app as it is)** must submit the above notice when registering the Play Store app.
 
@@ -36,7 +36,7 @@ The reason is that according to Google’s webview spam policy, **the owner of t
 
 ### <mark style="color:blue;">**STEP.1 Store listing-subject to prior notice**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2392.png)
 
@@ -56,7 +56,7 @@ Under \[App Details], click the blue<mark style="color:blue;">**‘Pre-Notificat
 
 Go to the Play Console Help Center page.
 
-After checking the contents of the body, click the ** **<mark style="color:blue;">**\[Submit Document]**</mark> button below.
+After checking the contents of the body, click the <mark style="color:blue;">**\[Submit Document]**</mark> button below.
 
 ***
 

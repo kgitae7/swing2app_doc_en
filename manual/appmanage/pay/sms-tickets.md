@@ -1,6 +1,6 @@
 # How to Use 1000 SMS Tickets
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/vo.png)
 

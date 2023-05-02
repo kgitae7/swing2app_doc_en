@@ -54,6 +54,6 @@ Select the coupon you wish to send. Then click **Ship Coupon** on the top left c
 
 **2**. **You can also check the issued coupon history, Coupon management page ->  \[coupon usage] button.**
 
-<mark style="color:blue;">For Detailed Guide to Create Coupon Visit:</mark>[ <mark style="color:blue;">****</mark>** \[Go to Detailed Tutorial\]**](https://support.swing2app.com/documentation/appmanage/service/coupon/)
+<mark style="color:blue;">For Detailed Guide to Create Coupon Visit:</mark>[ **\[Go to Detailed Tutorial\]**](https://support.swing2app.com/documentation/appmanage/service/coupon/)
 
 [**\[Detailed Guide Related to Coupon Application to Menu\]** ](../appmanage/service/coupon.md)

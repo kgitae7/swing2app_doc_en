@@ -24,7 +24,7 @@ You can find all the information you have made through your order ID, payment me
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/order.png)
 
-If you are selling a physical product in the app production swing store, go to Manager → Shop → <mark style="color:green;">**\[My Order]**</mark>** ** page.
+If you are selling a physical product in the app production swing store, go to Manager → Shop → <mark style="color:green;">**\[My Order]**</mark> page.
 
 ​
 
@@ -84,11 +84,11 @@ If there are items scheduled on that date, the calendar will be marked with a bl
 
 <mark style="color:green;">**\*You can check the order list by selecting a reservation in the calendar.**</mark>
 
-<mark style="color:green;">****</mark>
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/res4.png)
 
-If you select <mark style="color:green;">**‘Order ID’**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> from the order list, you can see the user’s order information pop-up.
+If you select <mark style="color:green;">**‘Order ID’**</mark> from the order list, you can see the user’s order information pop-up.
 
 
 

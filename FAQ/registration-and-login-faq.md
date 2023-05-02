@@ -56,11 +56,11 @@ If you lost the password for your Swing2App Site account!
 
 3\)You can change your password again on the \[Edit My Information] page - Login Information.&#x20;
 
-[<mark style="color:blue;">https://www.swing2app.co.kr/view/myinfo\_login\_info</mark>](https://www.swing2app.com/view/myinfo\_login\_info)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">https://www.swing2app.co.kr/view/myinfo\_login\_info</mark>](https://www.swing2app.com/view/myinfo\_login\_info)
 
-<mark style="color:blue;"></mark>![](../.gitbook/assets/forg2.png)<mark style="color:blue;"></mark>
+![](../.gitbook/assets/forg2.png)
 
-<mark style="color:blue;"></mark>
+
 
 </details>
 
@@ -102,7 +102,7 @@ If you are not in the state where you created the app, the app ID will not be re
 
 For information on how to set up a deputy administrator to manage the app, please refer to this post^^&#x20;
 
-**☞** [<mark style="color:blue;">**\[Go to the post on how to set up a**</mark>** Associate Administrator**<mark style="color:blue;">**\]**</mark>](../manual/appmanage/pushmember/associate-administrator.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**\[Go to the post on how to set up a**</mark>** Associate Administrator**<mark style="color:blue;">**\]**</mark>](../manual/appmanage/pushmember/associate-administrator.md)
 
 </details>
 
@@ -118,7 +118,7 @@ Since the rating has already been changed from User to Administrator, you can se
 
 ![](../.gitbook/assets/en\_관리자변경.png)
 
-For instructions on how to set up the app assistant administrator, please refer to the post ☞ [<mark style="color:blue;">\[Go to the post on how to set up a</mark> Associate <mark style="color:blue;">administrator\]</mark>](../manual/appmanage/pushmember/associate-administrator.md)<mark style="color:blue;"></mark>
+For instructions on how to set up the app assistant administrator, please refer to the post ☞ [<mark style="color:blue;">\[Go to the post on how to set up a</mark> Associate <mark style="color:blue;">administrator\]</mark>](../manual/appmanage/pushmember/associate-administrator.md)
 
 </details>
 
@@ -164,7 +164,7 @@ If you select the button, you will receive your temporary password in the email 
 
 Therefore, if you have set your ID as a regular ID, you will not be able to use the password finder, so please check it and set it to 'ID form->email'.&#x20;
 
-☞ [<mark style="color:blue;">\[Go to the detailed manual of finding app password\]</mark>](../manual/appoperation/find-apppassword.md)<mark style="color:blue;"></mark>
+☞ [<mark style="color:blue;">\[Go to the detailed manual of finding app password\]</mark>](../manual/appoperation/find-apppassword.md)
 
 </details>
 
@@ -174,7 +174,7 @@ Therefore, if you have set your ID as a regular ID, you will not be able to use 
 
 **1.Register your profile image when you register**
 
-****![](../.gitbook/assets/Picture66.png)****
+![](../.gitbook/assets/Picture66.png)
 
 When you sign up, you can register the image you want by selecting the top profile image \[Register] button.
 
@@ -182,7 +182,7 @@ When you sign up, you can register the image you want by selecting the top profi
 
 **2.Edit your membership information: Change your profile image after signing up**
 
-****![](../.gitbook/assets/Picture67.png)****
+![](../.gitbook/assets/Picture67.png)
 
 If you want to change your profile image while logged in after signing up,
 
@@ -196,7 +196,7 @@ In the Edit Membership window, you can change your profile image by selecting th
 
 The name (nickname) can also be modified on that page.&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the app profile picture registration and change instructions manual\]</mark>](../manual/appoperation/changing-appprofilepicture.md)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">\[Go to the app profile picture registration and change instructions manual\]</mark>](../manual/appoperation/changing-appprofilepicture.md)
 
 </details>
 
@@ -222,6 +222,6 @@ However, in order to re-register with the same ID, the administrator must delete
 
 Therefore, if you need to re-register with the same ID, you must delete the member ID and all information from the app through the deletion of the member.&#x20;
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">\[Go to the manual on how to re-sign up with the same ID after unsubscribing from the app\]</mark>](../manual/appoperation/sameid-rejoin.md)<mark style="color:blue;"></mark>
+[<mark style="color:blue;">\[Go to the manual on how to re-sign up with the same ID after unsubscribing from the app\]</mark>](../manual/appoperation/sameid-rejoin.md)
 
 </details>

@@ -12,9 +12,9 @@ Move post is a function that allows you to select a post and move it to the desi
 
 Unlike copying a post, a post registered on an existing board is deleted, and the date of creation remains the original registration date.
 
-<mark style="color:blue;">****</mark>
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> ** **<mark style="color:blue;">**Difference between copying a post and moving a post**</mark><mark style="background-color:blue;">​</mark>
+
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> <mark style="color:blue;">**Difference between copying a post and moving a post**</mark><mark style="background-color:blue;">​</mark>
 
 **Copy post**
 
@@ -36,7 +36,7 @@ Ability to move posts to another board
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **** How to move a post
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How to move a post
 
 <figure><img src="../../../.gitbook/assets/en_게시물이동.png" alt=""><figcaption></figcaption></figure>
 

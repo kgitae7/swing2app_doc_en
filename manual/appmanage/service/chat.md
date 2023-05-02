@@ -52,7 +52,7 @@ Administrators can talk by selecting members from the member views menu provided
 
 ### <mark style="color:blue;">**3. How administrators chat with app members**</mark>
 
-<mark style="color:orange;">**1) Member inquiries for list of members**</mark>  <mark style="color:orange;"></mark><mark style="color:orange;"></mark> &#x20;
+<mark style="color:orange;">**1) Member inquiries for list of members**</mark> &#x20;
 
 Go to the Member views page. Please follow the below instructions:
 
@@ -72,9 +72,9 @@ On the member views page, select a member to chat with and then click the corres
 
 It’s a chat option that administrators can choose from.
 
-<mark style="color:orange;">**▶Private conversation:**</mark>** ** Only the administrator can see the chat. Other administrators won’t get a chat push.
+<mark style="color:orange;">**▶Private conversation:**</mark> Only the administrator can see the chat. Other administrators won’t get a chat push.
 
-<mark style="color:orange;">**▶Public conversation:**</mark>** ** If you have multiple administrators. You can use it when you need to share a conversation.
+<mark style="color:orange;">**▶Public conversation:**</mark> If you have multiple administrators. You can use it when you need to share a conversation.
 
 \*When you chat with a public conversation, the app members will also be able to push the chat to other administrators when they enter the chat message.
 

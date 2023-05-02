@@ -40,7 +40,7 @@ In Store Management – When you register multiple images of the store details, 
 >
 > **Just add a simple information and press the application button to create a swing store menu.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/basic2.png)
 
@@ -52,7 +52,7 @@ In Store Management – When you register multiple images of the store details, 
 
 <mark style="color:orange;">**\* There is no limit to the number of images, so please attach all the images to be displayed as a slide.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**▶If you look at the animated image, it’s easier to check.**</mark>
 
@@ -84,7 +84,7 @@ Go to the Maker(V2) page step 3.
 
 <mark style="color:red;">**\*Slides cannot be viewed on virtual machines, and can only be viewed in the app.**</mark>&#x20;
 
-<mark style="color:red;">****</mark>
+
 
 **▶ If you look at the animated image, it’s easier to check.**
 

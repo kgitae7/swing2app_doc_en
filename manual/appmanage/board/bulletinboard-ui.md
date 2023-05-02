@@ -21,7 +21,7 @@ The manual will allow you to design different styles of bulletin boards, so plea
 3. **Click on** Bulletin Board.
 4. Click on **Create Bulletin Board** and you may select the board UI and features in the Bulletin Board and Features setting.
 
-<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**1. Image Bulletin Board**</mark>
 
@@ -61,7 +61,7 @@ Use it as a space for the member community
 
 Use it to write long-texting with images
 
-<mark style="color:blue;"></mark>
+
 
 ### <mark style="color:blue;">**3. List Board**</mark>
 
@@ -220,7 +220,7 @@ It’s available to all those who need to use an overseas address!
 
 Please refer to the posting for more information on how to use Google Maps.
 
-☞ **** [**\[See how to use Google Map Board\]**](googlemap.md)
+☞ [**\[See how to use Google Map Board\]**](googlemap.md)
 
 ***
 

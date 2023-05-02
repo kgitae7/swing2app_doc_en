@@ -30,7 +30,7 @@ Please refer to the manual on how to copy the board.&#x20;
 2. Click on the **list view** so that you can select multiple posts easily.
 3. Select the post you want to copy and click on **Copy the Posts**
 
-****
+
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Please refer to the manual on how to copy the board.&#x20;
 4. A pop-up window of **Target boards** will open. Select the Board you want to copy. (Multiple choice available)
 5. Click on **Copy.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC2.png)
 
@@ -84,4 +84,3 @@ Bulletin board copy was not a daily copy of the desired posts, it was a menu tha
 
 **So by complementing that feature, you can select the posts you want to copy one by one or multi-select posts to another post.**&#x20;
 
-****

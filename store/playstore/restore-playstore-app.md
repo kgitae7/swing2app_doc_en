@@ -4,7 +4,7 @@
 
 **How to restore Google Play Store app (how to appeal)**
 
-****
+
 
 When you launch an app on the Google Play Store, Google will review and approve that the app is not in violation of its policies.
 

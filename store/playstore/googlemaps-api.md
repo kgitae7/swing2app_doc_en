@@ -20,7 +20,7 @@ After receiving the API key – Swing2App Manager Page – Please enter the key 
 
 **3)Google Maps will be provided as a free trial ($300) for the first 12 months and will be charged to the registered card as long as you continue using it after the free trial ends.**
 
-****
+
 
 **★ On how to use the Google Maps board please refer to the relevant post.**
 
@@ -30,7 +30,7 @@ After receiving the API key – Swing2App Manager Page – Please enter the key 
 
 **1. Access the Google Maps platform site and log in with your Google account.**&#x20;
 
-&#x20;**** [**https://cloud.google.com/maps-platform/**](https://cloud.google.com/maps-platform/)
+&#x20;[**https://cloud.google.com/maps-platform/**](https://cloud.google.com/maps-platform/)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Picture39-1.png)
 
@@ -122,4 +122,4 @@ It’s a pay-as-you-go fee, so you only have to pay for what you use.
 
 \
 For more information about Google Maps pricing, please check the offers provided by the platform.\
-**☞**[ **** ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)
+**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)

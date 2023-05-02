@@ -28,7 +28,7 @@ If you have paid for the product in the swing2app or use the coupon, please chec
 
 Go to the Payment Status page to see a list of your payment history.
 
-You can see all the information, from items that have been paid, items that have been refunded, and items received with coupons. ****&#x20;
+You can see all the information, from items that have been paid, items that have been refunded, and items received with coupons.&#x20;
 
 ***
 

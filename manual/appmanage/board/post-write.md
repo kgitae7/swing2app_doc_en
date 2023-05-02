@@ -30,7 +30,7 @@ Post management is a list of the created bulletin board, select the bulletin boa
 
 \*If there are a lot of bulletin boards, all bulletin boards will not be visible in post-management.In this case, you can check by going to **More bulletin board.**
 
-****
+
 
 ### <mark style="color:blue;">**1. Select Board and Write**</mark>
 
@@ -44,7 +44,7 @@ Posts offer 2 styles in Swing2App.
 
 <mark style="color:red;">\*We will show you the difference between writing and editing in HTML Editor below.</mark>
 
-<mark style="color:red;"></mark>
+
 
 ### <mark style="color:blue;">**2. Writing in the usual way**</mark>
 
@@ -71,7 +71,7 @@ Posts offer 2 styles in Swing2App.
 >
 > <mark style="color:red;">Please note that the mobile app can only writes general writing</mark>
 
-<mark style="color:green;">****</mark>
+
 
 <mark style="color:green;">**3-1 Posting a video to a post**</mark>
 
@@ -218,7 +218,7 @@ You can also share the post with other applications – katok, mail, and more.
 
 * **You can write on the bulletin board in the virtual machine.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/write\_post.png)
 
@@ -232,7 +232,7 @@ Select the post writing icon at the bottom.
 
 Enter the content, attach the image, and press the Save button at the bottom to complete.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**▶ If you look at the animated image, you can check more easily.**</mark>
 

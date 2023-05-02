@@ -19,15 +19,15 @@ Admin will attach the file in app to be shared with the users of the app where t
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-%E2%80%93-1.png)
 
-2\. Let’s attach a file in the board in Post section. <mark style="color:purple;">Check the image below showing file attachment:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. Let’s attach a file in the board in Post section. <mark style="color:purple;">Check the image below showing file attachment:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-2-%E2%80%93-1.png)
 
-3\. Let’s attach a file in the board in Post section. <mark style="color:purple;">Check the image below showing file attachment in express editor:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+3\. Let’s attach a file in the board in Post section. <mark style="color:purple;">Check the image below showing file attachment in express editor:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-2-%E2%80%93-2.png)
 
-4\. Now the file can be downloaded in the app by the users. <mark style="color:purple;">Check the image below:</mark> <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+4\. Now the file can be downloaded in the app by the users. <mark style="color:purple;">Check the image below:</mark> <mark style="color:purple;"></mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-2-%E2%80%93-2.png)
 
@@ -45,11 +45,11 @@ Admin will attach the file in app to be shared with the users of the app where t
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-2-%E2%80%93-3.png)
 
-2\. The attachment will reflect in the attachment section which can be deleted by clicking on ‘X’ infront of file name. <mark style="color:purple;">Check the image below showing file attachment in HTML Editor:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+2\. The attachment will reflect in the attachment section which can be deleted by clicking on ‘X’ infront of file name. <mark style="color:purple;">Check the image below showing file attachment in HTML Editor:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Mag-2-%E2%80%93-4.png)
 
-3\. Now the file can be downloaded in the app by the users. <mark style="color:purple;">Check the image below:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark>&#x20;
+3\. Now the file can be downloaded in the app by the users. <mark style="color:purple;">Check the image below:</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Blog-%E2%80%93-1-1.png)
 

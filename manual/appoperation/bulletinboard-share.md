@@ -88,7 +88,7 @@ When sharing a post, the thumbnail image of the post is displayed and the title 
 
 **If the app is not installed, you will be prompted to install the app first.**
 
-****
+
 
 ### <mark style="color:blue;">**3.Share with other apps**</mark>
 

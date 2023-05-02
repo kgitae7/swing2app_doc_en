@@ -40,7 +40,7 @@ You can check the features of each menu.
 >
 > 4\) Download APK file
 
-****
+
 
 <mark style="color:orange;">**▶  APK file download**</mark>
 
@@ -96,7 +96,7 @@ On the Market Registration Management page, you can see the app information rele
 >
 > **5) View apps with web previews**
 
-<mark style="color:orange;">****</mark>
+
 
 <mark style="color:orange;">**▶ Go to the market**</mark>
 

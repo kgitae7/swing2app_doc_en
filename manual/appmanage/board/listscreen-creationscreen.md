@@ -12,7 +12,7 @@ At this time – Select List screen and Create screen.
 
 **The most basic style is “List Screen”, but depending on the user’s purpose of using the app, you can choose “Create Screen”.**
 
-****
+
 
 <mark style="color:blue;">**Bulletin board: Where do I use the list screen and creation screen?**</mark>
 
@@ -24,9 +24,9 @@ Page Design - UI KIT Selection - \[Board] Selection - From the Board screen
 
 ‘You can check whether to select 'List Screen' or 'Create Screen'.
 
-<mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">****</mark>
+
+
 
 ### <mark style="color:blue;">**1. Bulletin board: list screen**</mark>
 
@@ -50,7 +50,7 @@ Page Design - UI KIT Selection - \[Board] Selection - From the Board screen
 
 8\)Press the \[Save] button at the top of the screen to apply it to the app.
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**App launch screen**</mark>
 
@@ -64,7 +64,7 @@ If you select a post from the list, you can go to the post details page to check
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">****</mark>
+
 
 ### <mark style="color:blue;">**2. Bulletin board: writing screen**</mark>
 
@@ -94,7 +94,7 @@ If you select a post from the list, you can go to the post details page to check
 
 <mark style="color:blue;">**App launch screen**</mark>
 
-<mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (1).png>)<mark style="color:blue;">****</mark>
+![](<../../../.gitbook/assets/image (1).png>)
 
 If you select 'Compose screen', the screen (page) where you can write a post will open first.
 
@@ -106,7 +106,7 @@ The writing page of the board is visible, and <mark style="color:red;">**\*can b
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">****</mark>
+###
 
 {% tabs %}
 {% tab title="App Production V2 Version Manual" %}
@@ -124,14 +124,16 @@ As in the preview screen on the right, the list screen will appear to match the 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b30-e1587041470575.png)
 
-<mark style="color:red;">**★Bulletin board loading is provided by default setting as a ‘list screen’.**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**Therefore, you should use it as a list screen without editing it unless it is a special case.**</mark>&#x20;
+<mark style="color:red;">**★Bulletin board loading is provided by default setting as a ‘list screen’.**</mark>\
+<mark style="color:red;">**Therefore, you should use it as a list screen without editing it unless it is a special case.**</mark>&#x20;
 
 ### <mark style="color:blue;">**2. Bulletin board: writing screen**</mark>
 
 **Style of the bulletin board writing page.** <mark style="color:red;">**\*It can be used for special operation purposes.**</mark>
 
 If you select **Create Screen** in the bulletin board, the page to write a post will be opened first.\
-<mark style="color:blue;">**\*Users can use this when they need to write a post, but they cannot see the list of the bulletin board.**</mark>\ <mark style="color:blue;"></mark><mark style="color:blue;">**\*In other words, only posts can be written, and the list of written posts can only be checked by the administrator on the Manager page.**</mark>
+<mark style="color:blue;">**\*Users can use this when they need to write a post, but they cannot see the list of the bulletin board.**</mark>\
+<mark style="color:blue;">**\*In other words, only posts can be written, and the list of written posts can only be checked by the administrator on the Manager page.**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b29.png)
 
@@ -142,7 +144,8 @@ It is used to receive only the information that is needed by the users of the ap
 Administrators can check the article written Swing2App **Manager** page in **Posts.**\
 
 
-<mark style="color:red;"></mark>\ <mark style="color:red;"></mark><mark style="color:red;">**\[Example: When used as a creation screen]**</mark>
+\
+<mark style="color:red;">**\[Example: When used as a creation screen]**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/91@3x.png) ![](https://support.swing2app.com/wp-content/uploads/2018/09/90@3x-1.png)
 
@@ -161,6 +164,6 @@ Bulletin boards loading style can also be freely edited, so please set and edit 
 
 
 
-### <mark style="color:blue;">****</mark>
+###
 
-### <mark style="color:blue;">****</mark>
+###

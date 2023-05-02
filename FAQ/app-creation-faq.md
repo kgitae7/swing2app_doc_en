@@ -58,7 +58,7 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 Uninstalling an app is only possible if you have at least 2 apps created in your account.
 
-If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – <mark style="color:blue;"></mark> [<mark style="color:blue;">\[Manage Apps\]</mark>](https://www.swing2app.com/view/app\_stat) <mark style="color:blue;"></mark> page.
+If there is only 1 app, it will not be uninstalled. To 'Uninstall' you can uninstall an app by going to the My Menu – [<mark style="color:blue;">\[Manage Apps\]</mark>](https://www.swing2app.com/view/app\_stat) page.
 
 \*Please note that paid users should not want the app to be uninstalled until the end of the paid period.
 
@@ -86,7 +86,7 @@ Please design an icon image accordingly.
 
 The icon creation guide is also available in the manual, so please check out the detailed manual.&#x20;
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**\[Go to the app icon image creation guide\]**</mark>](../manual/maual/appbasic/appicon.md)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**\[Go to the app icon image creation guide\]**</mark>](../manual/maual/appbasic/appicon.md)
 
 </details>
 
@@ -104,7 +104,7 @@ Due to the mobile app policy, the standby screen is a mandatory item, so when yo
 
 Guidelines on how to create a standby screen can be found in detail in the manual.&#x20;
 
-**☞** [<mark style="color:blue;">**See how to create a standby screen image**</mark>](../manual/maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**See how to create a standby screen image**</mark>](../manual/maual/appbasic/apploading.md)
 
 </details>
 
@@ -130,7 +130,7 @@ Usually, users work with the image to a large blue area, so the image is cropped
 
 Therefore, please make a standby screen by checking the guidelines - how to make it.
 
-**☞** [<mark style="color:blue;">**See how to create a standby screen image**</mark>](../manual/maual/appbasic/apploading.md)<mark style="color:blue;">****</mark>
+**☞** [<mark style="color:blue;">**See how to create a standby screen image**</mark>](../manual/maual/appbasic/apploading.md)
 
 </details>
 

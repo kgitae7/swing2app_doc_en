@@ -34,7 +34,7 @@ Therefore, those who continuously filter and retrieve our unique usage policy UR
 
 Please note that the app may be deleted once it is submitted to Google.
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> ** **<mark style="color:orange;">**Where to enter the privacy policy URL when registering for the Play Store app?**</mark>&#x20;
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**Where to enter the privacy policy URL when registering for the Play Store app?**</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2080.png)
 
@@ -50,7 +50,7 @@ Enter the URL here.
 
 **We will explain below.**&#x20;
 
-****
+
 
 ### <mark style="color:blue;">**STEP.1 Copy the link after editing the personal information item in the app subscription policy**</mark>
 

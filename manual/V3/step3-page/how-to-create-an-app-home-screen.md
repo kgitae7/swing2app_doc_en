@@ -91,7 +91,7 @@ This means that the home screen only provides a detailed article view of the lis
 
 \*If you do not change the name, it will be displayed as the name of the board.
 
-4\)In the page design, select UI KIT – **** Board.
+4\)In the page design, select UI KIT – Board.
 
 5\)Select the bulletin board and select the \[Apply] button.
 
@@ -117,7 +117,7 @@ The third way is to create an image page and apply it to the home screen.
 
 ![](../../../.gitbook/assets/홈화면3-1.PNG)
 
-​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **** **How to apply**
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">  **How to apply**
 
 ![](../../../.gitbook/assets/홈화면3.png)
 
@@ -161,7 +161,7 @@ The fourth method is to create and apply a user page - a web template page.
 
 ![](../../../.gitbook/assets/템플릿.PNG)
 
-&#x20;**** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
+&#x20;<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
 ![](../../../.gitbook/assets/홈화면4.png)
 
@@ -203,7 +203,7 @@ The fifth way is to create and apply a user page - an editor page.
 
 ![](../../../.gitbook/assets/에디터.png)
 
-&#x20;**** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
+&#x20;<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
 ![](../../../.gitbook/assets/홈화면6.png)
 
@@ -263,7 +263,7 @@ If you use the home screen in a different style and then apply the home screen b
 
 4\) In the page design, select the \[Basic Functions] – \[Page] menu.
 
-5\) Select 'App **** Introduction' and then select the \[Apply] button.
+5\) Select 'App Introduction' and then select the \[Apply] button.
 
 \*Hover your mouse over the App introduction screen to see the Apply button.
 
@@ -318,7 +318,7 @@ If you delete it, it will be removed along with the share button and the site ad
 {% hint style="danger" %}
 **Instructions for applying the home screen**
 
-****
+
 
 **1) Home Screen – Applying a web link is not recommended.**
 
@@ -330,7 +330,7 @@ Therefore, please use only the menus mentioned above on the home screen.
 
 \*\*Also!! There's a site that prohibits embedding when applying web links.
 
-\*Naver, the following portal sites, and the sites provided by the portal, YouTube, social media sites (Instagram, **** Facebook), etc. are the representative sites that have been banned from embedding!
+\*Naver, the following portal sites, and the sites provided by the portal, YouTube, social media sites (Instagram, Facebook), etc. are the representative sites that have been banned from embedding!
 
 In particular, the Naver blog or the next café that you run may not be able to connect properly to your home because it is blocked by Naver and the next itself.
 

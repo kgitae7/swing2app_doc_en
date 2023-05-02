@@ -86,7 +86,7 @@ If you are uncomfortable with this part of the app, we recommend that you create
 
 ***
 
-### <mark style="color:blue;">**3.**</mark>**  **<mark style="color:blue;">**Applying the bulletin board**</mark>
+### <mark style="color:blue;">**3.**</mark> <mark style="color:blue;">**Applying the bulletin board**</mark>
 
 The third step is to apply the bulletin board to the home screen.
 
@@ -189,7 +189,8 @@ Go to **Maker(V2)** and click **Page Menu.**
 3. Select the **User Page** menu in the **menu type.**
 4. Click the **Link Wizard.**
 5. When the Link Wizard window appears, select the **HTML Editor** to be applied to the home screen.\
-   <mark style="color:red;">**\*At this time, the editor page must be created in advance.**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**If you haven’t created a page yet, click \[Add / Manage HTML Editor Page] to create one.**</mark>&#x20;
+   <mark style="color:red;">**\*At this time, the editor page must be created in advance.**</mark>\
+   <mark style="color:red;">**If you haven’t created a page yet, click \[Add / Manage HTML Editor Page] to create one.**</mark>&#x20;
 6. Click on **Reflect.**
 7. Press the **Apply** button.
 8. Click on **Save.**

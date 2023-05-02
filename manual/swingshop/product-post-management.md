@@ -109,7 +109,7 @@ Your star ratings are added together so you can see your overall rating at the t
 
 ***
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**2) Product inquiry (inquiry screen)**</mark>
 

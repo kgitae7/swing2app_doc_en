@@ -4,7 +4,7 @@
 
 **When you can not install the app due to an unknown error when downloading the APK file – Paid version of the app.**
 
-****
+
 
 ★If you try to download the paid version of the app produced by Swing2App on an Android phone (before the Play Store)
 
@@ -12,7 +12,7 @@
 
 **↑↑ You will see a message that the app is not installed.**&#x20;
 
-****
+
 
 <mark style="color:orange;">**What is the reason?**</mark>
 
@@ -36,11 +36,11 @@ If you’re using the app in a paid version and you don’t want to launch it on
 
 **Please check the method below to edit the protection settings.**&#x20;
 
-****
+
 
 <mark style="color:red;">**\* Play Store app → “Play Protect” → We recommend that you opt out of “Scan apps with Play Protect” or “Improve harmful app detection“.**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:blue;">**Disabling Play Store Protect**</mark>
 
@@ -52,7 +52,7 @@ If you’re using the app in a paid version and you don’t want to launch it on
 
 **Then ↓↓  menu window will pop up.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Picture7.png)
 
@@ -60,7 +60,7 @@ If you’re using the app in a paid version and you don’t want to launch it on
 
 **Please select the Play Protect menu.**
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Picture8.png)
 
@@ -70,7 +70,7 @@ If you’re using the app in a paid version and you don’t want to launch it on
 
 <mark style="color:blue;">**Uncheck this two items to complete.**</mark>&#x20;
 
-****
+
 
 **\*\* Please cancel the security policy in the Play Store application.**
 

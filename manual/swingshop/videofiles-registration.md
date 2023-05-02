@@ -116,7 +116,7 @@ Digital products did not set options separately. If you set the option, please c
 
 **Examples: You can set options and the amount of options by adding sizes, adding colors, and more.**
 
-****
+
 
 **▶ **<mark style="color:orange;">**For more options, check out the image below!**</mark>
 

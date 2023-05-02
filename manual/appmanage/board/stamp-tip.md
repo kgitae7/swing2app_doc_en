@@ -20,7 +20,7 @@ When the stamp registration is completed, the stamp is automatically reset (rese
 
 <mark style="color:orange;">**\*Coupons set by the administrator will be automatically issued to the user’s app.**</mark>
 
-<mark style="color:orange;">****</mark>
+
 
 ### <mark style="color:blue;">**02. How to use**</mark>
 
@@ -30,7 +30,7 @@ Therefore, please refer to the post for the whole process of creating a stamp.
 
 **☞** [**Go to details on how to create a stamp**](stamp.md)
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**1. Go to Bulletin Board Management**</mark>
 

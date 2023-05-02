@@ -2,7 +2,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_pre.png)
 
-**Manual on how to use Swing2App Preview** [**☞ swing2app preview introduction page**](https://support.swing2app.com/swing-preview/)****
+**Manual on how to use Swing2App Preview** [**☞ swing2app preview introduction page**](https://support.swing2app.com/swing-preview/)
 
 **▶ What is Swing2App Preview?**
 
@@ -68,9 +68,9 @@ On Android phones, you can preview and download the app.
 
 \*If you have already installed the Swing2App official app, please update to the latest version.
 
-<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**App Store Launch Link (URL)**</mark>](https://apps.apple.com/us/app/swing2app-app-builder/id1519396505)<mark style="color:blue;"></mark>
+<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**App Store Launch Link (URL)**</mark>](https://apps.apple.com/us/app/swing2app-app-builder/id1519396505)
 
-<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**Play Store launch link(URL)**</mark>](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf)<mark style="color:blue;"></mark>
+<mark style="color:blue;">**▶**</mark> [<mark style="color:blue;">**Play Store launch link(URL)**</mark>](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
@@ -190,7 +190,7 @@ We’ll show you how to scan the QR code below.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C.png)
 
-****
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_preveiw.png)
 
