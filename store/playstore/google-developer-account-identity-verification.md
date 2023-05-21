@@ -20,7 +20,11 @@ Identity verification varies from user to user, such as when you have an organiz
 Therefore, if you do not verify your identity when registering an account, you may not be able to register the app immediately.
 {% endhint %}
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D0.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In most cases, you only see the completion message that the account has been created, and then close the site.
 
@@ -42,7 +46,11 @@ Please select \*\*\[Verify your identity]\*\*.
 
 ## **STEP2.** Identity verification process
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The first thing you will do is verify your identity.
 
@@ -70,7 +78,11 @@ Therefore, please enter the same country and address.
 
 ## **STEP3.** Enter your Verification Code Number (OTP)
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 As the last authentication, a verification code (code) is sent to the mobile phone number entered by the user.
 
@@ -80,7 +92,11 @@ Enter the 6-digit code sent to you and press the \[Confirm] button.
 
 ## **STEP4.** Verification complete
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Once the OTP code registration is completed, all identity verification is completed.
 
@@ -88,7 +104,11 @@ Once the OTP code registration is completed, all identity verification is comple
 
 ## **STEP5.** Complete – console available
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/02/%EA%B5%AC%EA%B8%80%EB%B3%B8%EC%9D%B8%EC%9D%B8%EC%A6%9D6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Play console access is now available.
 

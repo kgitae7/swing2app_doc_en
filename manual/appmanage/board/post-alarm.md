@@ -126,7 +126,11 @@ In order to receive new posts, you must log in with the account that applied the
 Like the image below, when a post is written on a bulletin board that applies a new post alarm, a push notification is sent to the member.\
 Selecting push notifications will take you to that bulletin board-post.&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2778.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-2778.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**▶ What if you didn’t see the notification right away?**</mark>
 
@@ -134,7 +138,11 @@ If you didn’t see the push notification right away, you can check the notifica
 In other words, if you select the number badge on the main home screen after running the app as shown in the image below, the list of notifications sent will pop up.\
 Selecting push notifications will take you to that bulletin post.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/notif.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/notif.png" alt="">
+
+</div>
 
 Push notification number badges can be found in addition to regular alarm notifications.\
 Therefore, you can use this feature to check if other push notifications can be useful.

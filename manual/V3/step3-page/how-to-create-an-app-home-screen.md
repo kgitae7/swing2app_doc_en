@@ -30,7 +30,11 @@ Apply the Home screen The first way is to upload an image.
 
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">**App launch screen)Image applied home screen**
 
-![](../../../.gitbook/assets/이미지.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/이미지.png" alt="">
+
+</div>
 
 \
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
@@ -71,7 +75,11 @@ The second way is to apply the bulletin board to your home screen!
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with bulletin board applied**
 
-![](../../../.gitbook/assets/게시판.PNG)
+<div align="left">
+
+<img src="../../../.gitbook/assets/게시판.PNG" alt="">
+
+</div>
 
 \*Note: Writing is not provided when applying the bulletin board to the home screen.
 
@@ -115,7 +123,11 @@ The third way is to create an image page and apply it to the home screen.
 
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Image page applied home screen**
 
-![](../../../.gitbook/assets/홈화면3-1.PNG)
+<div align="left">
+
+<img src="../../../.gitbook/assets/홈화면3-1.PNG" alt="">
+
+</div>
 
 ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">  **How to apply**
 
@@ -159,7 +171,11 @@ The fourth method is to create and apply a user page - a web template page.
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launchscreen) Home screen with web template page applied**
 
-![](../../../.gitbook/assets/템플릿.PNG)
+<div align="left">
+
+<img src="../../../.gitbook/assets/템플릿.PNG" alt="">
+
+</div>
 
 &#x20;<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
@@ -201,7 +217,11 @@ The fifth way is to create and apply a user page - an editor page.
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) HTML Editor Page applied Home Screen**
 
-![](../../../.gitbook/assets/에디터.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/에디터.png" alt="">
+
+</div>
 
 &#x20;<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 
@@ -247,7 +267,11 @@ If you use the home screen in a different style and then apply the home screen b
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with app introduction page applied**
 
-![](../../../.gitbook/assets/앱소개.PNG)
+<div align="left">
+
+<img src="../../../.gitbook/assets/앱소개.PNG" alt="">
+
+</div>
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to apply**
 

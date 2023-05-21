@@ -48,7 +48,11 @@ You can see the Set Up: Set Up Schedule feature under Create Post.
 
 ## **2. Check your reservation** &#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2020/09/bnbhj.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/09/bnbhj.png" alt="">
+
+</div>
 
 If you look at the list of articles written, a clock-shaped icon will be displayed in front of the text with the reservation set.
 

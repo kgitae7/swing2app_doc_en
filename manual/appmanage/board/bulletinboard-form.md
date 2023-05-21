@@ -20,7 +20,11 @@ The difference is since the bulletin board form is provided **a tool is created 
 As you can see from the above app launch screen, when you write a post, the question items are pre-filled like a questionnaire.\
 Depending on the question, the user can enter and save the answer.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-269@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-269@3x.png" alt="">
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +123,11 @@ Therefore, the user can write an answer according to the written form written on
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"><mark style="color:orange;">**Checking the writing screen with a moving image**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_08\_12\_18\_32\_12\_562.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_08_12_18_32_12_562.gif" alt="">
+
+</div>
 
 Bulletin board writing is to set a form for writing, and users can enter text according to the form.
 

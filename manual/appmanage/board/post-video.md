@@ -39,7 +39,11 @@ You can apply a YouTube video link (URL) by selecting the link.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> <mark style="color:orange;">**App execution screen) Check the video**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94\_2020\_08\_12\_16\_54\_23\_984.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/04/%EB%85%B9%ED%99%94_2020_08_12_16_54_23_984.gif" alt="">
+
+</div>
 
 If you put the video URL as a link, the video thumbnail is designated to fit the screen in the app and can be played.
 

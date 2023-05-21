@@ -292,7 +292,11 @@ It's not an account signed up for in the official Swing2App app!
 
 <mark style="color:green;">**▶ App launch: App preview- Download app**</mark>
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 Please check the process of downloading the app from the app preview through the image that you are receiving.
 

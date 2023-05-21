@@ -125,13 +125,21 @@ Log in to the admin account from the app. Please go to the bulletin board design
 In posts written by other users, you can check the <mark style="color:blue;">**\[Delete, Pin this post, Share]**</mark> menu by selecting the three dots at the top.\
 In the bulletin board applied as an administrator, you can delete a post registered by another user or pin them.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/3@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/3@3x.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**▶ What happens if I’m not a bulletin board administrator?**</mark>
 
 If you are not a general user or a bulletin board administrator**,** you can only check the **Report** and **Share** menu.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/4@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/4@3x.png" alt="">
+
+</div>
 
 The bulletin board manager is used to give the administrator permission only to a specific bulletin board.\
 Administrators who manage the entire app works differently than the secondary administrator, please refer to the use.\

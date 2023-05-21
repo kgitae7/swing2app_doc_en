@@ -78,7 +78,11 @@ Please check the posted link below on how to create a membership level.\
 
 **After launching the app, without signing up and logging in, it shows the user as a guest.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-260@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-260@3x.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**▶ View post permissions: Set as user**</mark>
 
@@ -86,7 +90,11 @@ When you select a post on the bulletin board, you will see a message window indi
 
 Since it in the below screen, the user was a guest, so it was prompted to log in as a user.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-267@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-267@3x.png" alt="">
+
+</div>
 
 **If you do not have this level, you can set to not use it.**
 
@@ -94,7 +102,11 @@ Likewise, when the user selects ‘View’ as the board list permission, the gue
 
 By setting permissions on the bulletin board, you can operate the bulletin board access according to the level.&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-263@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-263@3x.png" alt="">
+
+</div>
 
 We hope that the manual was helpful in the app operation.\
 \

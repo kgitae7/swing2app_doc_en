@@ -48,7 +48,11 @@ The account that paid the $25 registration fee on the Google console becomes a d
 
 \*Create Gmail account: http://accounts.google.co.kr/
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%951.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Select Create an account – Select a business manager account and click on the \[Next] button.
 
@@ -70,7 +74,11 @@ If you don't have a work email address, you can create one by selecting "Create 
 
 ### STEP2.Verify your email address
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%953.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 A verification code will be sent to the email address you entered above.
 
@@ -80,7 +88,11 @@ Enter the code number, and then click on the \[Next] button.
 
 ### STEP3.Enter basic information such as phone number
 
+<div align="left">
+
 <figure><img src="https://wp.swing2app.co.kr/wp-content/uploads/2023/03/%EA%B8%B0%EC%97%85%EA%B3%84%EC%A0%954.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\) Enter your mobile phone number \*Here, the country code is already set, so please enter the number without the country code.
 

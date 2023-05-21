@@ -144,7 +144,11 @@ At the bottom of the registration menu, there is a **View Terms and Conditions**
 
 
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 Select the button to see the terms of service you entered in the app subscription policy.
 

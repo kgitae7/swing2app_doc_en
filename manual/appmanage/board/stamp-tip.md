@@ -14,7 +14,11 @@ Your administrator will automatically issue the coupon you want to send.
 
 When the stamp registration is completed, the stamp is automatically reset (reset), and the coupon set by the administrator is automatically issued to the user’s app.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/03/20@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/03/20@3x.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**\*Once all the stamps set by the administrator are stamped, the user’s app will automatically reset all the stamps to the empty screen.**</mark>
 

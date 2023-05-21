@@ -64,17 +64,29 @@ As a result, the switched app is not available on the iPhone and is only availab
 
 First, let’s check the app execution screen where the paid app usage period has ended!
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8\_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png)
+<div align="center">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.png" alt="">
+
+</div>
 
 When you use the paid app and run the app that has expired, the message ‘Expiration of the term of use‘ appears as shown in the image above.
 
 There are restrictions on the use of the app. (The app screen shuts down without appearing)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2020/05/11.jpg" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**STEP.2 Deleting installed paid apps (deleting apps from Android phone)**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/uninstall.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/05/uninstall.png" alt="">
+
+</div>
 
 Please delete the paid app already installed on the Android phone because you have to download the converted app for free again.
 
@@ -102,7 +114,11 @@ Click the \[Make] button. Production is within 5 minutes, so please wait !!
 
 ### <mark style="color:blue;">**STEP.4 Download the app**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8\_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B01.png)
+<div align="center">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B01.png" alt="">
+
+</div>
 
 The app download is the same. You can use it from the official Swing2App → App Preview.
 
@@ -114,7 +130,11 @@ Click the \[Download App] button to install the app on the Android phone.
 
 ### <mark style="color:blue;">**STEP.5 Complete free app conversion**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8\_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png)
+<div align="center">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/05/%EC%98%81%EB%AC%B8_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.png" alt="">
+
+</div>
 
 If you download the app again, you can see that the app is running normally.
 

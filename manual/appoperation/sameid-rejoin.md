@@ -26,7 +26,11 @@ For membership withdrawal, there is a’Membership withdrawal’ menu in the app
 
 You can unsubscribe by selecting the corresponding menu.
 
-![](../../.gitbook/assets/Group-2840@3x.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/Group-2840@3x.png" alt="">
+
+</div>
 
 Withdrawal is complete.
 
@@ -34,7 +38,7 @@ If you try to re-register with the same ID again, as you can see on the screen, 
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
 
 Next, the administrator will tell you how to delete the member from the member inquiry page of the web dashboard.&#x20;
 
@@ -60,9 +64,13 @@ Therefore, if you need to re-register with the same ID, you must delete the memb
 
 ![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
 
-![](../../.gitbook/assets/Group-2843e@3x.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/Group-2843e@3x.png" alt="">
+
+</div>
 
 After the administrator completes the member deletion, the withdrawn user will access the app again and sign up.
 
@@ -72,7 +80,11 @@ When signing up with the same ID that you withdrew from the membership registrat
 
 <mark style="color:orange;">**▶Re-registration complete!**</mark>
 
-![](../../.gitbook/assets/Group-2841@3x.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/Group-2841@3x.png" alt="">
+
+</div>
 
 You can see that the same (test17) re-registration is possible.
 

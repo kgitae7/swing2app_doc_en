@@ -14,7 +14,11 @@ Check out the manure to see how to organize the menu and how to register icon im
 
 ### ![](<../../../.gitbook/assets/단락1-1 (1).png>)App launch screen) icon image Check registered apps
 
-![](../../../.gitbook/assets/메뉴아이콘1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/메뉴아이콘1.png" alt="">
+
+</div>
 
 ​It's a footer prototype app.
 

@@ -46,7 +46,11 @@ Please follow the below steps:
 8. Select Designated permission(This option is to select whether to use the bulletin board only for a specific member group designated by the administrator).
 9. Click **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b4.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b4.png" alt="">
+
+</div>
 
 **NOTE:**
 
@@ -71,7 +75,11 @@ Please follow the below steps:
 
 <mark style="color:red;">**Go to the Advanced Style item at the top.**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b5.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b5.png" alt="">
+
+</div>
 
 9\) **Advanced Style** Options Posts Settings​
 
@@ -141,7 +149,11 @@ If there is a list of answers that all users should receive the same, the admini
 
 **▶**[**How to create a bulletin board**](filling-form.md)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b6.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b6.png" alt="">
+
+</div>
 
 <mark style="color:orange;">**2. Admin Settings**</mark>
 
@@ -255,7 +267,11 @@ For more information on how to enter a post please refer to the relevant post.
 
 ## STEP3.App launch screen- Bulletin board application screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt="">
+
+</div>
 
 Since bulletin boards provide various UI styles, each board is displayed in the app in a different style.&#x20;
 

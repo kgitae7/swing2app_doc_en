@@ -66,7 +66,11 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 The screen is the V3 version of the app creation, and the icon image application method is the same when using the V2 version.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png" alt="">
+
+</div>
 
 \- The update is recommended to proceed with a hard update.
 

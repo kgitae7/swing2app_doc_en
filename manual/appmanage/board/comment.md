@@ -114,7 +114,11 @@ When you finish typing your reply, you can see that the comment is listed under 
 
 <mark style="color:blue;">**▶ Push notifications**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 When a comment is entered in a post, the user who wrote it and the administrator with the permission will receive a push notification.
 
@@ -128,7 +132,11 @@ So if you have commented on a post, or someone commented on your comment, you ca
 
 <mark style="color:blue;">**▶ Free comments, comments**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2019/05/Group-251@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/05/Group-251@3x.png" alt="">
+
+</div>
 
 You can write an unlimited number of comments or comments without a fixed number.
 

@@ -14,7 +14,11 @@ Access to bulletin boards – you can set different users for writing, detail vi
 
 You can make the bulletin board available to all app users! Depending on the app, you may need to set up a group differential for the use of bulletin boards!
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/b20.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/12/b20.png" alt="">
+
+</div>
 
 **For example**
 
@@ -126,7 +130,11 @@ You need to apply the bulletin board created above to the app to be able to use 
 
 **App production V2 version).**
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/en_게시판V2버전 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 On the Swing2App Maker(V2), go to the Page menu.&#x20;
 
@@ -150,7 +158,11 @@ You’ve set the bulletin board list view to the user.
 
 If you access the app as a guest, a pop-up window will open indicating that you need to log in, as shown in the image above.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/Group-263@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/12/Group-263@3x.png" alt="">
+
+</div>
 
 ​
 
@@ -170,4 +182,8 @@ In addition to the guest, user, and admin groups, we created several additional 
 
 Depending on the group, you can set different permissions to access.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/Group-261@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/12/Group-261@3x.png" alt="">
+
+</div>

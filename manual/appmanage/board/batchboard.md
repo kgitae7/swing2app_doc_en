@@ -61,7 +61,11 @@ You can also check that the “Swing2App Collective Registration Board New Relea
 
 **▶ Free Board**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b59-e1587043472820.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b59-e1587043472820.png" alt="">
+
+</div>
 
 Also, you can confirm that the “Swing2App Collective Registration Board New Release!!” post has been registered in Free Board.
 

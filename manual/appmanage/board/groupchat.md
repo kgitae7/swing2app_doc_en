@@ -61,9 +61,17 @@ If you want to use all the members of the app, select ‘Guest’ if you want to
 
 **\*Permissions can be set to your liking according to the groups of members granted to your app.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b93-e1587043895369-1.png)
+<div align="left">
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b-94.png)
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b93-e1587043895369-1.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b-94.png" alt="">
+
+</div>
 
 ***
 
@@ -148,7 +156,11 @@ You can see that the group chat room is applied to the app through the right vir
 
 **If you select a user chat room, you can enter the created chat room.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/88@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/88@3x.png" alt="">
+
+</div>
 
 In the chat room, you can see other people besides you, as well as the number of people and posts.
 
@@ -158,7 +170,11 @@ You can chat with multiple users in real-time.
 
 <mark style="color:orange;">**★Chat room message push notification**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png" alt="">
+
+</div>
 
 If you enter a message in the group chat room, a push notification is sent to the other party.
 
@@ -223,7 +239,11 @@ If you select the Link Wizard when sending a push, you can set the link as a gro
 
 When you select a push that users receive from your app, they are taken directly to the group chat room, so you can engage them in that way.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512\_20.06.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512_20.06.png" alt="">
+
+</div>
 
 However, as mentioned above, <mark style="color:green;">the number of people accessing is determined according to the product, so only the number of people listed in the applied product can access it.</mark>
 

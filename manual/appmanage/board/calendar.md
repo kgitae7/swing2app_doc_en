@@ -208,7 +208,11 @@ Days with a scheduled date are marked.\
 If you select the date, the events saved under the calendar are displayed.\
 Once you have made an announcement, the announcement will appear as a fixed message on the calendar screen.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/25@3x-1.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/25@3x-1.png" alt="">
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -277,7 +281,11 @@ This way, you can create events and share calendar events in the app!
 
 Since the calendar is also a bulletin board function, a user who creates an event can edit and delete his or her schedule.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/34@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/34@3x.png" alt="">
+
+</div>
 
 ***
 

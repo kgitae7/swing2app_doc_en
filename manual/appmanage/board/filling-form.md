@@ -22,7 +22,11 @@ When you receive a job application or receive surveys from users, you can use th
 
 As you can see on the app launch screen above, when writing a post, the question items are pre-filled like a job application and provided in the form.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/90@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/90@3x.png" alt="">
+
+</div>
 
 Depending on the question, the user can enter and save the answer.
 
@@ -54,7 +58,11 @@ You can select and add the set input information, or select Custom and add the d
 <mark style="color:orange;">★ In addition to the image attached in the response UI form – If you attach a ‘file’, you can register the image in the body of the post.</mark>\
 4\. Click **Save.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/b27-2.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b27-2.png" alt="">
+
+</div>
 
 **You can select the required items and add them to the bulletin board creation form.**
 
@@ -162,7 +170,11 @@ Like the inquiry board, you can configure items to receive questions. It can be 
 
 I’ll check the bulletin board creation form after posting is complete.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/234@3x.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 You can see that the answer has been entered for each item. ^^
 

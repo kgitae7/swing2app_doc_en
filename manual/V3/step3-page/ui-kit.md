@@ -20,7 +20,11 @@ The Swing2App provides a variety of bulletin board-style UI.
 
 You can create a board for each UI-specific style and apply it to your app to make use of it.
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 1\)On MakerV3, go to the STEP3 page
 

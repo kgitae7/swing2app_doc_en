@@ -134,7 +134,11 @@ If you go to the detail page in the schedule list, you can check who wrote the a
 
 Only administrators can create events, and app users can view calendars – event lists and detailed event posts.
 
-![](https://support.swing2app.com/wp-content/uploads/2019/02/34@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/02/34@3x.png" alt="">
+
+</div>
 
 When you log in as an app member, you can check the schedule created by the administrator on the calendar list screen.
 

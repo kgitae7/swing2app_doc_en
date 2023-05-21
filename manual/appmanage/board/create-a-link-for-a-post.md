@@ -30,7 +30,11 @@ description: 'Create a Post Link: How to Create a Post Link in the Link Wizard'
 
 
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/en_게시물링크3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 6\)Click on the \[Insert] button.
 
@@ -98,7 +102,11 @@ If you link directly from a category, you can't link the post directly, so you c
 
 ### <mark style="color:blue;">**3)**</mark><mark style="color:blue;">App launch screen</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/녹화_2023_03_28_14_32_44_157.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 When you select the menu, you can see that you are taken directly to the corresponding post page.
 

@@ -81,11 +81,19 @@ In general, you can attach a video by copying and pasting a link to a video URL 
 
 Paste the URL and press the insert button.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/Screenshot-2020-04-27-at-12.15.41.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/04/Screenshot-2020-04-27-at-12.15.41.png" alt="">
+
+</div>
 
 After confirming that the video is attached properly, attach the content and image, and then click the **Publish** button to complete.
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/add\_video-1.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/04/add_video-1.png" alt="">
+
+</div>
 
 ***
 
@@ -105,11 +113,19 @@ Posts can be edited, deleted, and pushed.
 
 <mark style="color:orange;">**▶ You can check it more easily if you look at the image.**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_07\_16\_46\_45\_744.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_05_07_16_46_45_744.gif" alt="">
+
+</div>
 
 <mark style="color:green;">**1. Introduction of functions provided by post management**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/bc1.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/bc1.png" alt="">
+
+</div>
 
 1\) Attached picture \[Use first image thumbnail]: This function is to set the attached image to be displayed only as a thumbnail in the bulletin board list without being duplicated in the body.
 
@@ -172,7 +188,11 @@ You can choose video attachment, photo attachment, or file attachment.
 * If you confirmed how to write a post on the app operation page, this time I will tell you how to write a post in the app!
 * You can install the free version of the app as well as the apps released on the App Store and Play Store with your phone (Android phone available) or check with a preview.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_08\_13\_15\_41\_24\_550.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_08_13_15_41_24_550.gif" alt="">
+
+</div>
 
 ### <mark style="color:blue;">**1. App Bulletin Board – Writing Posts**</mark>
 
@@ -220,7 +240,11 @@ You can also share the post with other applications – katok, mail, and more.
 
 
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/write\_post.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/write_post.png" alt="">
+
+</div>
 
 After applying the bulletin board in the app production page, go to the bulletin board in the virtual machine.
 

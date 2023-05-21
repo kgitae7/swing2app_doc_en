@@ -34,7 +34,11 @@ The payment information entry page will add your payment profile.
 
 **Account Type (Personal or Business Choice) Complete Address, postcode, name, and phone number.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/애드몹en (1).png>)
 
@@ -66,7 +70,11 @@ From the left menu \[Blocking controls] → \[go to the Ad review center] menu C
 
 2\)You should change the status to ‘Reviewed’ by selecting the \[Mark all as reviewed] button.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-2.png" alt="">
+
+</div>
 
 ![](../../.gitbook/assets/애드몹en3.png)
 

@@ -135,7 +135,11 @@ If it is a bulletin board that needs to show the number of posts, you can set it
 
 <mark style="color:red;">You can see all of the views for each post on the Manager> Posts (Selecting the Board you wish to see the Views)</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2019/01/74@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/01/74@3x.png" alt="">
+
+</div>
 
 The number of views varies depending on the date and time of registration and whether the name of the registrant is displayed.
 

@@ -144,4 +144,8 @@ Go to **Manager.** Select **Services.**
 
 When a member accesses a second-year bulletin board, you can see that the first-grader cannot access the board as follows.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/35@3x.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/35@3x.png" alt="">
+
+</div>

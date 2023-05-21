@@ -36,7 +36,11 @@ You can choose whether to view the post as ‘thumbnail type’ or ‘list’ as
 
 **Check how to use GIF images**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/%EB%85%B9%ED%99%94\_2020\_05\_08\_15\_57\_20\_604.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2019/12/%EB%85%B9%ED%99%94_2020_05_08_15_57_20_604.gif" alt="">
+
+</div>
 
 ***
 

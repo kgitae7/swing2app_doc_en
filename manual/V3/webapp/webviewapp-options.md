@@ -32,11 +32,19 @@ I'll introduce you below to the Apply App with this feature screen.
 
 
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 ### **-**Check with the image squeezing
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 As you can see in the squeezing image, when you pull up and raise the screen with your finger, a new loading icon pops up, and you can see that the screen is switching to a new one.
 
@@ -50,13 +58,21 @@ Unused and the refresh is not available in the app upon check.
 
 ## 2. Top button
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 
 
 ### -Check with the image&#x20;
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 As you scroll down, as you can see in the image you are receiving, you will see a top button at the bottom of the screen.
 
@@ -74,7 +90,11 @@ If you check Yes, the top button will be shown as duplicate.
 
 **Refer image)**
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 As you can see in the image, I have a problem where the top button on the website and the top button in the webview app are seen together.
 
@@ -98,7 +118,11 @@ If you don't use the system font, it will be automatically set to the default in
 
 **Refer image)**
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 If you set the text size to be large on the user's phone, the body text shown in the app will look the same.
 

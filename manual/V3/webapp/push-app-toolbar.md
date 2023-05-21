@@ -156,7 +156,11 @@ We'll show you how to upload an image with an icon.
 
 ### <mark style="color:blue;">\[App launch screen]</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png" alt="">
+
+</div>
 
 In addition to the default icons provided when you create your app, as you can see in the toolbar area, you can upload other images to upgrade the UI of the toolbar icons.
 

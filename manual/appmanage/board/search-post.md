@@ -26,7 +26,11 @@ If you tap the 'magnifying glass' icon in the upper right corner of the board li
 
 The search function for a specific board does not need to be applied separately, <mark style="color:red;">but when you create a board, \[Enter search term] is automatically placed at the top of the board.</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png)
+<div align="left">
+
+<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png" alt="">
+
+</div>
 
 If you tap the 'magnifying glass' icon at the top of the board list screen, a search term input window appears.
 

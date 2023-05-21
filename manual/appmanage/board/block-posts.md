@@ -16,7 +16,11 @@ It is not visible only to the blocked user, and it differs from the reporting fu
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">Blocking posts</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/IMG-2-503x1024.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 If you look at the top right of the bulletin board – post detail view, there is an icon marked with three dots.
 

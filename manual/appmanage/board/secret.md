@@ -121,7 +121,11 @@ The app administrator can view all posts posted by users.
 
 <mark style="color:orange;">2. Sign in as another user (without creating a post)</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/sc1-1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/sc2-1.png)
 

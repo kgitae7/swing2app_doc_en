@@ -16,7 +16,11 @@ Each brand has its logo. Just think that the app icon is the same as that logo.
 
 Register a specific logo that represents your app as an icon!
 
-![](../../../.gitbook/assets/영문아이콘\_안드로이드버전1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전1.png" alt="">
+
+</div>
 
 All the images you see on your phone are app icons.
 
@@ -118,7 +122,11 @@ Let’s check the app icons shown on iPhone and Android phones below!
 
 <mark style="color:blue;">**1) App Icon styles visible on iPhone**</mark>
 
-![](../../../.gitbook/assets/iphone\_icon1.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/iphone_icon1.png" alt="">
+
+</div>
 
 The iPhone has the same icon style on all iPhone models.
 
@@ -132,7 +140,11 @@ As you can see in the image above, the app icon is not a complete rectangle but 
 
 <mark style="color:blue;">**2) App icon is shown on Android Phone – Android Version 8.0**</mark>
 
-![](<../../../.gitbook/assets/영문아이콘\_안드로이드버전 (1).png>)
+<div align="left">
+
+<img src="../../../.gitbook/assets/영문아이콘_안드로이드버전 (1).png" alt="">
+
+</div>
 
 ★However, android phones have different app icon styles depending on the version!
 

@@ -79,7 +79,11 @@ If you want to show it to all app users, set it as ‘Guest’.
 
 ### <mark style="color:orange;">**2. About Google Map**</mark>&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%903\_%EC%98%81%EB%AC%B8.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%903_%EC%98%81%EB%AC%B8.png" alt="">
+
+</div>
 
 Unlike the existing map board, **Google Map bulletin board should go to \[Google Map Information] and put the Google Map API key value.**&#x20;
 
@@ -92,7 +96,11 @@ Paste the copied API key and select Save.
 
 ### <mark style="color:orange;">**3. Advanced**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%902\_%EC%98%81%EB%AC%B8.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%902_%EC%98%81%EB%AC%B8.png" alt="">
+
+</div>
 
 You can set additional items by selecting the 3rd menu, Advanced Settings.
 
@@ -167,7 +175,11 @@ To register a location, use the search toolbar above to enter an address or sear
 <mark style="color:red;">★ If you register only one location, you do not need to enter a priority.</mark>\
 
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/google5.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/google5.png" alt="">
+
+</div>
 
 **Location registration is complete.**
 
@@ -238,7 +250,11 @@ Let’s open the app and see how the Google Maps bulletin board looks like.
 
 **If** you select **\[Open List]**, the locations registered on the bulletin board are shown in a list.&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2484.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-2484.png" alt="">
+
+</div>
 
 ***
 
@@ -248,4 +264,8 @@ Click on the **Directions** button, it will take you to the Google Maps page and
 
 &#x20;&#x20;
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/ezgif.com-gif-maker-13.gif)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2018/09/ezgif.com-gif-maker-13.gif" alt="">
+
+</div>
