@@ -1,64 +1,78 @@
 ---
-description: Swing2App Update for Week 3rd of May [Push Sending Statistics Improved]
+description: >-
+  Swing2App Update for 4th Week of May [WebApp - App exit notification Message
+  Added]
 ---
 
 # Swing2App Update
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-**\[Updated]**
+**\[Update Information]**
 
-Improved statistics on the number of push-sending devices
+**Web app (WebView app, push app) - App esexit notification function added**
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Push Sending Statistics Renewal**
+## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **WebView app, push app - App exit notification message**
 
-<div align="left">
+<figure><img src=".gitbook/assets/eng_앱종료메시지.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/en_푸시발송통계업데이트.png" alt=""><figcaption></figcaption></figure>
+**Android devices - WebView app, Push-Only app exit notification message display function has been added.** &#x20;
 
-</div>
+When creating a web view app or push app, it is provided as an optional function so that you can choose whether to use the notification message display.
 
-We've improved push sending statistics.  Improved Push Delivery Statistics:
+The existing web app does not display a separate message when the app is closed, and the app is automatically closed if there is no longer a previous page to return to.
 
-Total Devices Shipped: Provides the actual count of devices shipped, including successful and failed shipments.
+In the updated function**, you can now choose whether to use the display of notification messages when creating a WebView app or Push app.**
 
-Shipment Status by Platform: Allows you to view the number of shipments categorized by Android and iOS platforms.\
+If you use the app exit prompt:
+
+When you select the Back button on your Android device, you will see a message "Are you sure to exit?".\
 
 
 ### &#x20;![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10707653/20235803.png)**How to Use**
 
-\*Since it is an operational function, you can check it directly from the dashboard without updating the app.&#x20;
+<figure><img src=".gitbook/assets/EN_앱종료버튼2.png" alt=""><figcaption></figcaption></figure>
 
-[App Manager screen → Push & Members → Go to Push History](https://www.swing2app.com/view/push\_list)&#x20;
+Go to the app MakerV3 screen.
 
-If there is a device on which you’ve sent a push, you can see that a button called \[Delivery Statistics] has been created.&#x20;
+1\)Click on the \[STEP2 Prototype] option
 
-When you select the button, you can check the Delivery statistics.&#x20;
+2\) Select \[WebView] from the Menu Prototype options
 
-If you hover your mouse cursor over the pie graph, you can check the percentages for each category.&#x20;
+3\)Select app exit notification message - Enabled (notification message pops) or Unused (ends immediately without message)&#x20;
+
+4\) Click on the top \[Save] button
+
+5 Click on the \[App Update] button.&#x20;
 
 
 
 ### ![](.gitbook/assets/warning-\(2\).png)**Notice**
 
 {% hint style="warning" %}
-1\)It is a function provided by the App Manager and can be used immediately without updating the app.
+1\)This feature requires an app update.
 
-2\)Before the update dated (18/05/23), the shipping history may not be provided for some periods in the past.
+After the update, you can see the new content that appears when you check using the latest version.
 
-Due to the reorganization of the statistics system, shipments were not counted during that period.
+Apps released on the Play Store or App Store must be updated to a newly created version.
 
-3\)Shipment history may not be provided for group shipments or scheduled shipments sent before the update standard date (18/05/23) or during some periods in the past.
+2\) You need to update it even when you use it and change it back to unused.
 
-4\)App production Apps created in the V2 version do not count iPhone statistics.
+The same process is applied for the opposite (unused→used).&#x20;
 
-Only apps distributed and installed with the App Maker V3 version will be viewed with the history of the number of push devices sent to the iPhone.
+3\)The app shutdown notification message is only available on Android phones.
 
-5\)This function is not available in the WebView app.
+The apps on iPhone cannot be closed separately due to the nature of the device, so it can only be used on Android phones.
 
-It can only be checked in push-only apps that provide a push sending function, and apps created with general prototypes.&#x20;
+4\)The default setting is 'Unused', and if you use it without \[use], the end message will not appear and the app will close immediately.
+
+If you want to use the end message, please check 'Enable' before using it.
+
+5\)It is available in both the WebView app and the Push-Only prototype app.
+
+Apps made as general prototypes do not need to be updated separately because an app termination notification message is already provided.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
