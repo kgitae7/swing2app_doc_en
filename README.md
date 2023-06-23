@@ -1,7 +1,5 @@
 ---
-description: >-
-  Swing2App Update for 4th Week of May [WebApp - App exit notification Message
-  Added]
+description: '[Swing2App] Update for 4th Week of June [Web App Converter app released]'
 ---
 
 # Swing2App Update
@@ -10,69 +8,74 @@ description: >-
 
 **\[Update Information]**
 
-**Web app (WebView app, push app) - App esexit notification function added**
+**Swing2App Web App Converter app released**
 
 <figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **WebView app, push app - App exit notification message**
+## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Swing2App Web App Converter app released**
 
-<figure><img src=".gitbook/assets/eng_앱종료메시지.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-**Android devices - WebView app, Push-Only app exit notification message display function has been added.** &#x20;
+<figure><img src=".gitbook/assets/(EN)브라우저어플오픈.png" alt=""><figcaption></figcaption></figure>
 
-When creating a web view app or push app, it is provided as an optional function so that you can choose whether to use the notification message display.
+</div>
 
-The existing web app does not display a separate message when the app is closed, and the app is automatically closed if there is no longer a previous page to return to.
+**What is a Swing2App Web App Converter app?**
 
-In the updated function**, you can now choose whether to use the display of notification messages when creating a WebView app or Push app.**
+Even if you don't create an app, now you can preview your web app on mobile. Just enter the website URL in this app and on-spot check how it’ll look as a web app. &#x20;
 
-If you use the app exit prompt:
+If you insert a link to a website, it will switch to WebView or Pushweb app, and you can check how the entered site will be displayed on mobile.\
 
-When you select the Back button on your Android device, you will see a message "Are you sure to exit?".\
+
+
+
+<img src=".gitbook/assets/question-386.png" alt="" data-size="line">**Advantages of Swing2App Web App Converter App**
+
+1\) Instantly preview how your website would appear as a web app without the need to create one.
+
+2\) Now you can preview your web app on your iPhone&#x20;
+
+3\) You can select the desired UI style and check it (choose if you want the Push-Only prototype toolbar feature).
+
+4\) Convert your website into an app anytime, anywhere, with unlimited previewing capabilities.
+
+\
 
 
 ### &#x20;![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10707653/20235803.png)**How to Use**
 
-<figure><img src=".gitbook/assets/EN_앱종료버튼2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/(EN)브라우저앱이용방법.png" alt=""><figcaption></figcaption></figure>
 
-Go to the app MakerV3 screen.
+1\) Android phones users can download the Play Store version of this app: Web App Converter&#x20;
 
-1\)Click on the \[STEP2 Prototype] option
+iPhone users can download the App Store version of this app: Web App Converter
 
-2\) Select \[WebView] from the Menu Prototype options
+[Play Store Release link](https://play.google.com/store/apps/details?id=com.hustay.swing.db3eca85393934fb9af1d049bcd410d70)
 
-3\)Select app exit notification message - Enabled (notification message pops) or Unused (ends immediately without message)&#x20;
+[App Store Release link](https://apps.apple.com/us/app/%EC%8A%A4%EC%9C%99%ED%88%AC%EC%95%B1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/id6450099622?platform=iphone)
 
-4\) Click on the top \[Save] button
+2\) After launching the app, enter the homepage address of the website which you want to convert as a web app in the \[website URL field].
 
-5 Click on the \[App Update] button.&#x20;
+\*Please be sure to enter the hyperlink "http://"
+
+3\) Click on the \[Generate App] button.&#x20;
+
+4\)You can check the web app preview.
 
 
 
 ### ![](.gitbook/assets/warning-\(2\).png)**Notice**
 
 {% hint style="warning" %}
-1\)This feature requires an app update.
+1\)The Swing2App Web App Converter app is not for the purpose of making the actual app or downloading it as an app for checking the preview within the app.
 
-After the update, you can see the new content that appears when you check using the latest version.
+2\)After checking only the web app preview in the Web App Converter application, you need to create the app directly in the app creation after registering and logging in on the official website of Swing to App.&#x20;
 
-Apps released on the Play Store or App Store must be updated to a newly created version.
+3\) When using the toolbar, you can also use the functions provided by the toolbar.
 
-2\) You need to update it even when you use it and change it back to unused.
+So, Check out the features available in the toolbar.&#x20;
 
-The same process is applied for the opposite (unused→used).&#x20;
-
-3\)The app shutdown notification message is only available on Android phones.
-
-The apps on iPhone cannot be closed separately due to the nature of the device, so it can only be used on Android phones.
-
-4\)The default setting is 'Unused', and if you use it without \[use], the end message will not appear and the app will close immediately.
-
-If you want to use the end message, please check 'Enable' before using it.
-
-5\)It is available in both the WebView app and the Push-Only prototype app.
-
-Apps made as general prototypes do not need to be updated separately because an app termination notification message is already provided.
+4\)Since it is not an actual app, functions such as push notification cannot be used.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
