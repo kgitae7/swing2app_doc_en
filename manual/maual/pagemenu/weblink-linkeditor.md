@@ -10,7 +10,7 @@ This feature is available in the Link Wizard.
 
 Create an app-We will show you how to apply a web link using the link wizard at the page menu level.
 
-***
+
 
 > **Link Wizard: Where can I apply Internet link addresses, phone numbers, text messages, and emails?**
 
@@ -24,7 +24,7 @@ In the first web link category-you can use web link features such as Internet ad
 
 Please check the application method for each menu and the app execution screen!!
 
-***
+
 
 ### <mark style="color:blue;">**1. Applying Internet Address (Site URL) Link**</mark>
 
@@ -55,7 +55,7 @@ We ran the app after connecting ‘Internet address’ in the link wizard.
 
 When selecting the web link menu, it moves to the applied website page.
 
-***
+
 
 ### <mark style="color:blue;">**2. Apply phone number**</mark>
 
@@ -83,7 +83,7 @@ We ran the app after connecting the ‘phone number’ in the link wizard.
 
 When you select the dialling menu, the call is connected to the number you applied.
 
-***
+
 
 ### <mark style="color:blue;">**3.Apply text message number**</mark>
 
@@ -113,7 +113,7 @@ When you select the Send Text menu, you can send a text message to the number ap
 
 Please enter your mobile phone number where you can receive text messages! Screenshots are for testing purposes only.
 
-***
+
 
 ### <mark style="color:blue;">**4. Apply email address**</mark>
 

@@ -12,7 +12,7 @@ In particular, you can see how many pushers were sent to the actual app users vi
 
 **Check out how to use Push History, including push log history and details.**
 
-***
+
 
 ### <mark style="color:blue;">**1.Push History Menu**</mark>
 
@@ -22,7 +22,7 @@ In particular, you can see how many pushers were sent to the actual app users vi
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/p9.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Push History**</mark>
 
@@ -56,7 +56,7 @@ Of course, the numbers may be similar, but if you have a lot of different member
 > In particular, those who created the app in the push version will be displayed as the number of sending members.\
 > The number of sending devices can be checked by the push count sent to the actual mobile phone.
 
-***
+
 
 ### <mark style="color:blue;">**3. Push history – view by content**</mark>
 
@@ -66,7 +66,7 @@ Categorize what you want to see in push notifications.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/p10.png)
 
-***
+
 
 ### <mark style="color:blue;">**4. Delete push history**</mark>
 
@@ -74,7 +74,7 @@ If you want to delete the sent push record, you can delete it by pressing the **
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/p11.png)
 
-***
+
 
 ### <mark style="color:blue;">**5. Edit Push Schedule**</mark>
 
@@ -84,7 +84,7 @@ You can re-save your preferences, push content, and more.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/p12.png)
 
-***
+
 
 ### <mark style="color:blue;">**6. Cancel Push Repeat**</mark>
 
@@ -92,7 +92,7 @@ If you want to cancel the repeated push, you can cancel the repeat reservation b
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/p13.png)
 
-***
+
 
 ### <mark style="color:blue;">**7. What if I want to turn off push notifications in the app?**</mark>
 

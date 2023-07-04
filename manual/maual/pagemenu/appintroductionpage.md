@@ -12,7 +12,7 @@ The app introduction is the initial home screen menu setting when creating a swi
 
 Since the menu is provided as a sample, users are encouraged to make the home screen with different menus according to the app style.
 
-***
+
 
 ### <mark style="color:blue;">**1. Applying app introduction to the home screen**</mark>
 
@@ -50,7 +50,7 @@ Changes can be checked through the virtual machine.
 
 The first time you create an app, you need to make an app to reflect it. When you edit the app again, it is automatically reflected in the app when you save it.
 
-***
+
 
 ### <mark style="color:blue;">**3. App Launch Screen**</mark>
 

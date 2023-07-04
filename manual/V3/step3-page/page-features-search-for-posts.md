@@ -74,7 +74,7 @@ If you are searching for content in posts on all bulletin boards – please appl
 If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
 {% endhint %}
 
-***
+
 
 {% hint style="info" %}
 <mark style="color:blue;">**Search individual posts**</mark>
@@ -86,11 +86,11 @@ So the ability to search for posts on a specific board is automatically provided
 Board List Click the icon in the shape of a 'magnifying glass' in the upper-right corner of the screen to open a window where you can enter a search term.
 {% endhint %}
 
-***
 
-***
 
-***
+
+
+
 
 **Related Articles**
 

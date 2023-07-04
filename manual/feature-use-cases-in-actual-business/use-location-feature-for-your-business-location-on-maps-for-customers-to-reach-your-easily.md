@@ -4,7 +4,7 @@ Swing2App location feature uses google maps API key. The admin needs to register
 
 <mark style="color:purple;">Let’s check out the use of location with few examples.</mark>
 
-***
+
 
 | <p><strong>Sample 1. Hotel</strong></p><p></p><p><strong>Shop Name</strong>  Swing Hotel<br><strong>Location</strong>  Armani Hotel Dubai, Downtown Dubai – Dubai – United Arab Emirates</p> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Swing2App location feature uses google maps API key. The admin needs to register
 
 Let’s check out the example where business owner has many branches.
 
-***
+
 
 | <p><strong>Sample 2. Restaurant or Cafe</strong></p><p></p><p><strong>Shop Name</strong> McDonald’s<br><strong>Location</strong>  Multiple location in PA, USA</p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

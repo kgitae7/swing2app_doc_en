@@ -10,7 +10,7 @@ You can use it to view products registered in the swing store.
 
 \*Especially on the product inquiry page, you can use it to change the status of the product you are selling (out of stock, stop the product, etc.) or delete the product.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Product Post Management – Product List**</mark>
 
@@ -53,7 +53,7 @@ After checking the desired product and selecting **\[Out Of Stock]** from **\[Ch
 
 You can also delete a product that is being sold by selecting the **\[Delete Product]** button.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Reservation product inquiry**</mark>
 

@@ -1,4 +1,4 @@
-# Page feature - Chat List
+# Page Design - Chat List Page
 
 **1:1 Chat – Chat List How-to Manual**
 
@@ -78,7 +78,7 @@ The chat room was not admin-separated because there was no distinction, and all 
 Therefore, it is difficult for the user to determine which manager they have been chatting with, and they want to ask the manager they were chatting with again, but they couldn't choose it, which was a lot of inconvenience.
 {% endhint %}
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
 
@@ -112,4 +112,3 @@ If you chat in a public chat, the administrators are not separated, and they are
 We hope you find it useful to make it easier for users to use.
 {% endhint %}
 
-***

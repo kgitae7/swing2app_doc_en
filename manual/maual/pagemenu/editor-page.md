@@ -18,7 +18,7 @@ The biggest feature is that you can freely create the style you want.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/EN-HTML.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 How to create HTML editor page**</mark>
 
@@ -100,7 +100,7 @@ In this case, place the editor page on the home screen.
 
 Below, we’ll show you some examples of how to apply the editor’s page, so please check.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Editor Page Application Screen**</mark>
 

@@ -8,7 +8,7 @@ Image registration is provided in the menu type of the page menu level, so it ca
 
 **Please check the image attachment function location, how to apply it to the app, and the app execution screen through the manual ^^**
 
-***
+
 
 ### <mark style="color:blue;">**▶Where can I use the image attachment?**</mark>
 
@@ -18,7 +18,7 @@ For image attachment, you can check the \[Image] menu in the App Production page
 
 Select the image menu and register the desired image file, and you are done!
 
-***
+
 
 ### <mark style="color:blue;">**1. Attaching images to apps**</mark>​
 
@@ -42,7 +42,7 @@ App Production – Go to the page menu level.
 
 **7) Click the Save button to complete app reflection.**
 
-***
+
 
 ### <mark style="color:blue;">**2. App execution screen: Image applied screen**</mark>
 
@@ -78,7 +78,7 @@ If you select the share icon at the bottom, you can share the image with other a
 
 
 
-<mark style="color:blue;"></mark>
+
 
 <mark style="color:blue;">**Image size guide**</mark>​
 
@@ -102,7 +102,7 @@ Please insert the image and adjust the size while checking the screen applied to
 
 However, the image size mentioned is for Android phones and iPhones, and tablets are an exception.
 
-***
+
 
 <mark style="color:red;">**\[Information]**</mark>
 

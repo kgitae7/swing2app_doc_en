@@ -19,7 +19,7 @@ The default loading icon is provided like the above image.\
 However, there are times when you want to edit the loading icon image to fit your app style a little more.\
 So in the manual, we will show you how to change the loading icon by adding another image in addition to the existing loading icon.
 
-***
+
 
 ### <mark style="color:blue;">**1. Changing the loading icon**</mark>
 
@@ -46,7 +46,7 @@ If you have updated your image,\
 
 <mark style="color:red;">\*If you edit the advanced settings menu, you cannot just save it. You must update your app by reproducing it.</mark>\ <mark style="color:red;">\*And when editing the advanced settings menu, the edited content is not reflected in the virtual machine, so please check after running the app on the phone.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**2. Run App Screen – Check the loading icon**</mark>
 

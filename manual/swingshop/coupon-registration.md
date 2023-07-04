@@ -24,7 +24,7 @@ We’ll show you how to register your offer in the swing store and apply it to t
 
 Please check the digital product – How to register a coupon and how to apply the app through the manual.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Create Coupon**</mark>
 
@@ -56,7 +56,7 @@ On Coupons screen, click **Add Coupons.** A Coupon information window will open 
 
 **After the coupons are made, go to the Swing Store menu and register a coupon to sell!**
 
-***
+
 
 &#x20;
 
@@ -202,7 +202,7 @@ If you need to modify the content of the registered product, please select the p
 
 Go to the product registration modification screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Apply Product Categories to your App**</mark>&#x20;
 
@@ -257,7 +257,7 @@ I’ve entered coupon images, prices, and contents in the template.
 
 When you touch each list, it was applied using the link wizard to go to the product purchase page.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5  Swing Cafe Sample App) Check your purchase of coupons**</mark>
 

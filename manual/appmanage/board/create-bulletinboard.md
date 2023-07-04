@@ -4,7 +4,7 @@ description: Guide to entire process of creating a board and adding it to the ap
 
 # Create a bulletin board
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. Create Bulletin board
 
@@ -205,11 +205,11 @@ You can set different search options for each app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad\_style.png)
 
-***
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP2. Apply the bulletin board created in the app**
 
@@ -263,7 +263,7 @@ For more information on how to enter a post please refer to the relevant post.
 
 **☞**[**Go to the post-input method**](post-write.md)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3.App launch screen- Bulletin board application screen
 
@@ -277,7 +277,7 @@ Since bulletin boards provide various UI styles, each board is displayed in the 
 
 When you select a board linked to the menu, the \[List View] screen is displayed, and tapping the post title or image moves the → to \[Post Details View].
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4.  Notice Board&#x20;
 

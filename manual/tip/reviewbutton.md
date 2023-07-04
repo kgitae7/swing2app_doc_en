@@ -22,7 +22,7 @@ When you activate the Review button, you’ll see a pop-up on your phone that wi
 
 Selecting \[Leave a review] will take you to the Google Play Store app launch page.
 
-***
+
 
 ### <mark style="color:blue;">**▶ App Launch Screen: Review Button**</mark>
 
@@ -74,7 +74,7 @@ Therefore, if the app is released to the Play Store or App Store, it is hard to 
 
 You must upload the new version of the app in the store to update it, and the app downloaded by users will also be updated.
 
-***
+
 
 <mark style="color:red;">**\[Guide]**</mark>
 

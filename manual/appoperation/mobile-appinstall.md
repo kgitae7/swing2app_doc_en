@@ -16,17 +16,17 @@ Please check how to use.&#x20;
 
 <mark style="color:red;">Please connect to the Internet browser using Chrome.</mark>
 
-***
 
-***
+
+
 
 <mark style="color:orange;">**Please check the entire process of installing the APK file as a GIF image.**</mark>&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/05/%EB%85%B9%ED%99%94\_2021\_05\_31\_16\_32\_12\_654.gif)
 
-***
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. Access the mobile Swing2App site**</mark>
+
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. Access the mobile Swing2App site**</mark>
 
 Access the Swing2App website at https://support.swing2app.com/ on your mobile (Android phone).
 
@@ -41,7 +41,7 @@ Access the Swing2App website at https://support.swing2app.com/ on your mobile (A
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. Download and install the app**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**2. Download and install the app**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/05/%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%84%A4%EC%B9%981.png)
 
@@ -63,7 +63,7 @@ Installation is complete. Please select the open button.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### <mark style="color:blue;"></mark>![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**3. App installation complete**</mark>
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) <mark style="color:blue;">**3. App installation complete**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/05/%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%84%A4%EC%B9%984.png)
 

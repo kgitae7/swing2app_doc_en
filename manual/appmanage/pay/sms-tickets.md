@@ -29,7 +29,7 @@ A total of 1,000 SMS tickets are provided.
 
 \-When you send SMS (text messages), it will be deducted depending on the number of messages sent.
 
-***
+
 
 ### <mark style="color:blue;">**1. Phone ID Sign Up**</mark>
 
@@ -84,7 +84,7 @@ Once logged in, the user will remain logged in unless they sign out.
 
 <mark style="color:red;">**★The number of SMSes will be deducted whenever you send a phone number verification required for re-login as well as membership.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**2. Send SMS (text message)**</mark>
 

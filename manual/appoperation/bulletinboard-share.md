@@ -32,7 +32,7 @@ Please check the manual below on how to share an app!
 
 **The manual will show you how to share bulletin boards and posts within your app.**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**1. Share bulletin board**</mark>
 
@@ -58,7 +58,7 @@ You can checked the shared bulletin board by selecting **\[Read More]**.
 
 <mark style="color:blue;">**If you don’t have the app installed, you’ll be prompted to install it first.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**2. Share your posts**</mark>
 

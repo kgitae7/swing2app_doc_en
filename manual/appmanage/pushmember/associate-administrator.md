@@ -14,7 +14,7 @@ Members who are set as administrators are collectively referred to as associate-
 
 It is collectively referred to as \[user who developed the app: administrator], and are called as associate administrator for convenience because the user authorized by the administrator are collectively referred to as associate administrator.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Change Administrator Group**</mark>
 
@@ -36,7 +36,7 @@ When the saving is completed, you can see that the user John Doe member has been
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-04-20-at-23.02.22.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Swing2App Homepage: Associate Administrator Login**</mark>
 
@@ -64,7 +64,7 @@ Windy Associate Administrator can now run the apps created by the administrator.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-04-20-at-23.38.56.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Associate Administrator Login**</mark>
 

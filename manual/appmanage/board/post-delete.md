@@ -10,7 +10,7 @@ This can be useful when you want to delete several posts from the bulletin board
 
 It’s easy to use! Check out the manual below.
 
-***
+
 
 <mark style="color:blue;">**Delete Posts**</mark>
 
@@ -32,7 +32,7 @@ You can choose whether to view the post as ‘thumbnail type’ or ‘list’ as
 
 \-If you select the \[Delete all posts] button, you can delete the selected posts at once.
 
-***
+
 
 **Check how to use GIF images**
 
@@ -42,7 +42,7 @@ You can choose whether to view the post as ‘thumbnail type’ or ‘list’ as
 
 </div>
 
-***
+
 
 <mark style="color:orange;">**–Instructions–**</mark>
 

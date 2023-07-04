@@ -16,7 +16,7 @@ This feature is available in Maker(V2)→ Page Menu → Swing2App Page.
 
 We will show you how to use the view coupon menu applied to the app.
 
-***
+
 
 Wait for a second! View how to create and apply a coupon.
 
@@ -40,7 +40,7 @@ Alternatively, you can select the app administrator menu in the app to process t
 
 **☞** [**\[ Go to the full manual for coupon creation\]**](../../appmanage/service/coupon.md)
 
-***
+
 
 ### <mark style="color:blue;">**01. Apply the View Coupon Menu to your app**</mark>
 
@@ -58,7 +58,7 @@ Go to Maker(V2)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up3.png)
 
-***
+
 
 ### <mark style="color:blue;">**02. App Launch Screen**</mark>
 
@@ -90,7 +90,7 @@ When you select the coupon you received, the window will be switched to full scr
 
 When the administrator processes the coupon you received, you can see that it has been processed in the \[Redeemed Coupon] list.
 
-***
+
 
 <mark style="color:blue;">**Have you checked how to use the View Coupon Menu?**</mark>
 

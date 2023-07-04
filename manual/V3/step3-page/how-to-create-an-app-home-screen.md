@@ -22,7 +22,7 @@ You can create a screen by choosing from the different features that come with t
 
 ![](../../../.gitbook/assets/홈제작1.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1**.Home screen - Apply image
 
@@ -67,7 +67,7 @@ However, if you want to make the phone screen more or less full, please work wit
 \- Since it is resized to the mobile screen in line with the horizontal screen, the vertical length can be a little bit or longer for each phone, resulting in scrolling.
 {% endhint %}
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Apply bulletin board
 
@@ -115,7 +115,7 @@ Selecting New above takes you to the Manage Board screen.
 
 ![](../../../.gitbook/assets/게시판관리화면.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** User Page – Apply Image Page
 
@@ -163,7 +163,7 @@ You can create an image page in the authoring tool, and then apply it in your ap
 
 ![](../../../.gitbook/assets/이미지페이지1.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** User Page – Apply a web template page
 
@@ -209,7 +209,7 @@ You can create a template page in that authoring tool, and then apply it in your
 
 ![](../../../.gitbook/assets/EN-페이지-템플렛.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**User Page – Apply HTML E**d**tor Page
 
@@ -255,7 +255,7 @@ You can create an editor page in that authoring tool, and then apply it in your 
 
 ![](../../../.gitbook/assets/EN-HTML.png)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Apply the app introduction page
 
@@ -337,7 +337,7 @@ If you delete it, it will be removed along with the share button and the site ad
 
 ★**The representative image of the app introduction page is displayed in conjunction with the app icon image. \*Separate modification and removal are not possible.**
 
-***
+
 
 {% hint style="danger" %}
 **Instructions for applying the home screen**
@@ -401,6 +401,5 @@ We recommend that you modify it to other menus in addition to the default set of
 **\*Users who create in the style of push, webview are created by applying the website link to the app, so they don't have to create a home screen separately. ^^**
 {% endhint %}
 
-***
 
-***
+

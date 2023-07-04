@@ -9,7 +9,7 @@ The administrator can chat with members who use the app. Like Kakao Talk or Mess
 * The app administrator can select a member to chat with.
 * App members can also talk to the administrator from the chat room menu applied to the app.
 
-***
+
 
 ### <mark style="color:blue;">**1. Apply admin chat to your app**</mark>
 
@@ -42,7 +42,7 @@ You can see the admin chat page (1:1 chat) is applied to the app. Then when the 
 
 When you see the app launch screen, you will receive messages entered by the administrator in the chat room, and the app members can send and receive texts.
 
-***
+
 
 **How can administrators chat with app members?**
 
@@ -103,7 +103,7 @@ So if you need to talk to someone you’ve had chat with before, you can continu
 
 **☞** [**\[See how to use the chat administrator page\]**](chatlist.md)
 
-***
+
 
 <mark style="color:red;">**★ Wait!!**</mark>
 

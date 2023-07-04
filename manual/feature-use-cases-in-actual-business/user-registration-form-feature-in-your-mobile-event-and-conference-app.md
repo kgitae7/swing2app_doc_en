@@ -4,7 +4,7 @@ Worldwide many events happen and to keep them updated users have various event i
 
 <mark style="color:purple;">Let’s make one form for a design event:</mark> (event source: [Conveyux](https://conveyux.com/))
 
-***
+
 
 **Sample 1. Mobile Event and Conference App**
 

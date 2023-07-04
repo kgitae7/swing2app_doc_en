@@ -26,7 +26,7 @@ After receiving the API key – Swing2App Manager Page – Please enter the key 
 
 **☞** [**\[See how to use the Google Map Board\]**](../../manual/appmanage/board/googlemap.md)
 
-***
+
 
 **1. Access the Google Maps platform site and log in with your Google account.**&#x20;
 
@@ -36,7 +36,7 @@ After receiving the API key – Swing2App Manager Page – Please enter the key 
 
 Select the **\[Get Started]** button on the home page.
 
-***
+
 
 **2. On the platform setting window, check ‘Yes’  for the agreement and then select \[Agree and Continue].**
 
@@ -44,7 +44,7 @@ Select the **\[Get Started]** button on the home page.
 
 Receiving the notification by email is optional, so please check ‘Yes’ if you want to receive it or ‘No’ if you don’t want to receive it.
 
-***
+
 
 **3. Enter your customer information, payment method, and select \[Start Free Trial]**.
 
@@ -66,7 +66,7 @@ This is a test to check if normal payment can be done through the card.
 
 Please don’t worry, there’s a disapproved letter right after a while.
 
-***
+
 
 **4.Enable Google Maps Platform**
 
@@ -74,7 +74,7 @@ Please don’t worry, there’s a disapproved letter right after a while.
 
 Check <mark style="color:blue;">Maps, Places,</mark> and click the \[Continue] button.
 
-***
+
 
 **5.   API usage settings.**
 
@@ -82,7 +82,7 @@ Check <mark style="color:blue;">Maps, Places,</mark> and click the \[Continue] b
 
 Select <mark style="color:blue;">**\[USE SETTINGS]**</mark>in the API usage settings.
 
-***
+
 
 **6. API key issuance **<mark style="color:blue;">**complete**</mark>
 
@@ -110,7 +110,7 @@ Select the Create Bulletin button.
 
 2\) After selecting the bulletin board, go to \[Google Map Information] and paste the copied API key and select Save.
 
-***
+
 
 <mark style="color:red;">**\*More information**</mark>
 

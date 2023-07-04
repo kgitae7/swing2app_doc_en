@@ -26,7 +26,7 @@ The process of producing push apps is all the same. You can check the use of pus
 
 Please check the method below.
 
-***
+
 
 ### <mark style="color:blue;">**Stage 1 App Basic Information**</mark>
 
@@ -56,7 +56,7 @@ Please make the icon and standby screen first by viewing the production guidelin
 
 Modifying the basic information of the app is reflected only when you update to the new version by pressing the \[App Creation Request] button.
 
-***
+
 
 ### <mark style="color:blue;">**Stage 2 design theme**</mark>
 
@@ -102,7 +102,7 @@ Functions such as checking the list of push notifications and sharing buttons pr
 
 Because it is a push app, push sending is possible without problems.
 
-***
+
 
 ### <mark style="color:blue;">**Step 3 page menu**</mark>
 
@@ -124,7 +124,7 @@ Because it is a push app, push sending is possible without problems.
 
 You don’t have to create it again, just press the save button and it will be reflected in the app.
 
-***
+
 
 > <mark style="color:blue;">**Other push app related usage methods**</mark>
 >

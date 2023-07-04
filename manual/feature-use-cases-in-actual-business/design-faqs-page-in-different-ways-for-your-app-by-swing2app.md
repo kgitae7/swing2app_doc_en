@@ -4,7 +4,7 @@ Users can design the FAQ page in two different ways. FAQs page can have a long l
 
 <mark style="color:purple;">Let’s check out how these can be done in Swing2App.</mark>&#x20;
 
-***
+
 
 **Sample 1. FAQ with header and description**
 
@@ -25,7 +25,7 @@ Users can design the FAQ page in two different ways. FAQs page can have a long l
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-3.png)
 
-***
+
 
 **Sample 2. FAQ with hashtags search option with ‘OR’ and ‘AND’ conditions**
 

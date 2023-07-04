@@ -35,7 +35,7 @@ Please check the manual on how to set a new alarm and how notifications are sent
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. Set a new alarm
 
@@ -50,7 +50,7 @@ Please check the manual on how to set a new alarm and how notifications are sent
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 3. Applying bulletin boards to your app
 
@@ -117,7 +117,7 @@ You can have multiple members for your new post. (There is no limit)\
 And the new alarm is automatically reflected in the app, just run the app to see if it is reflected.\
 In order to receive new posts, you must log in with the account that applied the alarm.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">**4. Post alarm push confirmation**</mark>
 

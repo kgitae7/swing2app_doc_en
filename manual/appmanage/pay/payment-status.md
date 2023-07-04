@@ -16,7 +16,7 @@ Payment status can be checked for all payments, such as the history of payment f
 
 If you have paid for the product in the swing2app or use the coupon, please check the payment details on the Payment Status page.
 
-***
+
 
 ### <mark style="color:blue;">**1. Payment status menu**</mark>
 
@@ -30,7 +30,7 @@ Go to the Payment Status page to see a list of your payment history.
 
 You can see all the information, from items that have been paid, items that have been refunded, and items received with coupons.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**2. Check the period of use**</mark>
 
@@ -54,7 +54,7 @@ If you’ve been using a paid app for free before, you may be wondering when you
 
 Even in this case, you can check the duration of your last product by selecting the last product you paid for.
 
-***
+
 
 ### <mark style="color:blue;">**3. Application for refund**</mark>
 

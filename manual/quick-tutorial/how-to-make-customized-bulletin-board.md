@@ -21,7 +21,7 @@ You will be directed to the bulletin board management page, where you can create
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/b2.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. How to apply bulletin board**</mark>
 

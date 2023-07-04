@@ -10,7 +10,7 @@ In addition to this function, you can select various functions on the swing page
 I will tell you how to apply the membership, login, and setup page provided by the swing page to the app and the app execution screen.\
 
 
-***
+
 
 ### <mark style="color:blue;">**1. Swing2App Page: Sign-up**</mark>
 
@@ -45,7 +45,7 @@ You can check the details of the member registration form setting when checking 
 
 **☞**[**Setting up the membership form**](../../appmanage/service/signup-id.md)
 
-***
+
 
 ### <mark style="color:blue;">**2. Swing2App Page: Login**</mark>
 
@@ -131,7 +131,7 @@ You can find out how to use the function in detail by checking the link in the m
 
 **☞**[**Go to see how to use the app manager menu**](../../appoperation/app-administratormenu.md)
 
-***
+
 
 <mark style="color:red;">**\*Important guidance**</mark>
 

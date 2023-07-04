@@ -10,7 +10,7 @@ Inquiry from users is possible, objective surveys are possible, and surveys can 
 
 Swing2App provides a tool for surveys, so you can simply create a questionnaire by entering your questions and answers.
 
-***
+
 
 ### <mark style="color:blue;">**01. \[Survey] – Apply App**</mark>
 
@@ -26,7 +26,7 @@ Go to Maker(V2) – Page Menu.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up2.png)
 
-***
+
 
 ### <mark style="color:blue;">**02. App Launch Screen: Check Survey Page**</mark>
 
@@ -44,7 +44,7 @@ So if you’ve applied a – survey page to your app, \*Go to Manager → Servic
 
 \-After applying the survey page in the app creation-You can create a form in the app operation.
 
-***
+
 
 ### <mark style="color:blue;">**03. Create a survey**</mark>
 

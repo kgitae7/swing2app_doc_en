@@ -49,7 +49,7 @@ So when the app members contact the administrator, you can enter the menu and st
 
 When you view the app launch screen, you will receive messages entered by the administrator in the chat room, and the app members can send and receive texts.
 
-***
+
 
 <mark style="color:blue;">**How can administrators chat with app members?**</mark>
 
@@ -127,7 +127,7 @@ So if you need to talk to someone you’ve chatted with before, you can continue
 
 **☞** [**\[View how to use the admin chat page\]**](../../appmanage/service/chatlist.md)
 
-***
+
 
 <mark style="color:red;">**★ Wait!!**</mark>
 

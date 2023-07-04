@@ -15,7 +15,7 @@ Swing2App provides pop-up services, and you can apply pop-ups to your app by sel
 
 Please check the manual on how to apply the pop-up.
 
-***
+
 
 
 
@@ -35,7 +35,7 @@ Please create your pop-ups.
 
 Below, we’ll try applying pop-ups for each style.
 
-***
+
 
 ### <mark style="color:blue;">**1.First Pop-up style**</mark>
 
@@ -82,7 +82,7 @@ When you launch the app, you can see the pop-up screen.
 
 The image you applied to the pop-up is shown as a large image.
 
-***
+
 
 ### <mark style="color:blue;">**2. Second pop-up style**</mark>
 
@@ -109,7 +109,7 @@ This is the app launch screen with pop-ups applied.
 
 Slide the pop-up image to see other pop-up images.
 
-***
+
 
 ### <mark style="color:blue;">**3. Third popup style**</mark>
 
@@ -136,7 +136,7 @@ This is the app launch screen with pop-ups applied.
 
 You can see the image registered above and below like the app launch screen.
 
-***
+
 
 ### <mark style="color:blue;">**4. Fourth pop-up style**</mark>
 
@@ -168,7 +168,7 @@ If you select one image, it will be shown as the image at the top-main header.
 
 When you select the image, go to the page you linked to.&#x20;
 
-***
+
 
 – If you want to stop the pop-up uncheck ‘**Turn on pop-up’** at the top of the pop-up management page and click the **Save** at the bottom.
 

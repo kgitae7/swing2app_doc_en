@@ -25,7 +25,7 @@ Users can freely manage their stores through the Swing Shop menu.
 
 <mark style="color:red;">Web-views and push apps that link websites are not available.</mark>&#x20;
 
-***
+
 
 > ### <mark style="color:blue;">**STEP.1 Apply for Swing Shop (Swing Shopping Mall)**</mark>
 
@@ -33,7 +33,7 @@ Users can freely manage their stores through the Swing Shop menu.
 
 **Select the Manager page → My Menu → Apply for Swing Store(payment system).**
 
-***
+
 
 > ### <mark style="color:blue;">**STEP.2 Complete the Swing Shop application**</mark>
 

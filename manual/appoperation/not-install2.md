@@ -76,7 +76,7 @@ If you’re using the app in a paid version and you don’t want to launch it on
 
 **If there is an existing app, please delete it and install the app again.**
 
-***
+
 
 But besides this case, it may not be installed due to the security of the Android phone set by the user.
 

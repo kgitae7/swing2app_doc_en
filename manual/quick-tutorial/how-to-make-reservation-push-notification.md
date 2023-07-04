@@ -2,7 +2,7 @@
 
 **Push** is a tool that you can use to deliver announcements, events, and advertisements to members who use the app. You can also provide a link to the page containing the content you want to convey. And with **Reservation Settings,** you can set schedule (date & time) to send push. If you want to send push right away, do not check the reservation settings, go directly to push send.
 
-***
+
 
 <mark style="color:blue;">**How To Set Reservation For Push**</mark>
 

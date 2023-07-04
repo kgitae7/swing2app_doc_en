@@ -243,7 +243,7 @@ Refer to the Postman link below for examples of usage for each language.
 {% endtab %}
 {% endtabs %}
 
-***
+
 
 <mark style="color:blue;">\[JavaScript Implementation Example – Send All]</mark>
 

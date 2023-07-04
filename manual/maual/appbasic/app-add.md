@@ -11,13 +11,13 @@ Swing2App can create and manage multiple apps in 1 account.
 Therefore if you are creating an app and you want more, you can create it to match the number of available apps.\
 **We will show you how to create additional new apps in your account.**
 
-***
+
 
 <mark style="color:blue;">**▶ Go to App Production Page(Maker(V2))**</mark>
 
 After logging in to the swing2app homepage, you will be taken to the “Create App” page from the main dashboard screen.
 
-***
+
 
 ### <mark style="color:blue;">**1. PC versions – Create additional apps**</mark>
 
@@ -32,7 +32,7 @@ Please enter the name of the new app to create, and select Create.\
 **A new app production tool will pop up.**\
 **You can create the app in the same step.**
 
-***
+
 
 ### <mark style="color:blue;">**2. Mobile Versions – Creating additional apps**</mark>
 
@@ -50,7 +50,7 @@ On mobile, **select the icon on the top left of the screen, and the + icon will 
 If you select the icon, the **\[Create a new app]** windows appear in the same way as the PC version and you can create a new app easily.\
 The production method is the same.
 
-***
+
 
 ### <mark style="color:blue;">**3. Check added apps**</mark>
 

@@ -4,7 +4,7 @@
 
 **How to Use the AdMob Plug-in Settings**
 
-***
+
 
 ### <mark style="color:blue;">**1. What is AdMob plugin settings?**</mark>
 
@@ -31,7 +31,7 @@ Exposing the first time you run the app? Expose when switching app screens? Expo
 
 For each app, it is easier to check how the ad ID is and how the exposure pattern is set within the swing-to-app site without having to go into the official ad-mob site.
 
-***
+
 
 ### <mark style="color:blue;">**3. How to Use the AdMob Plug-in Settings**</mark>
 
@@ -125,7 +125,7 @@ So, as you can see, when you launch the app for the first time, you can see a fu
 The full-page advertisement pops up when the screen changes 1 times by selecting the post.\
 It’s so easy to download the app and see if the set ad works well\~!^^
 
-***
+
 
 <mark style="color:blue;">**4. Guidelines**</mark>
 

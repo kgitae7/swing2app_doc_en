@@ -12,7 +12,7 @@ Private apps come in two styles.
 
 Please check the manual to see how each private app setting is different.
 
-***
+
 
 <mark style="color:blue;">**▶ Move app subscription policy**</mark>
 
@@ -25,7 +25,7 @@ On the Subscription Policy page, you can choose whether your app will be public 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/u.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. Private – Available after admin approval**</mark>
 
@@ -61,7 +61,7 @@ You can check the list of members whose status changed to ‘Authentication’.
 
 Therefore, administrators who use the \[Admin Approved Private] app, please change the unauthenticated member into ‘Certified’  in the member inquiry page.
 
-***
+
 
 ### <mark style="color:blue;">**2. Private – available when registering**</mark>
 

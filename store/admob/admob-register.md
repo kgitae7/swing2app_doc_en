@@ -51,7 +51,7 @@ This allows users to create their ad unit IDs and apply them to the app to make 
 
 Find out how to sign up on the Google AdMob site and how to create an app ad unit ID.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Sign up for AdMob**</mark>
 
@@ -86,7 +86,7 @@ Find out how to sign up on the Google AdMob site and how to create an app ad uni
 **Therefore, all of the above items should be checked in “Yes”.**\
 If you check ‘No’, you will not receive the relevant information, so please receive it by email and refer to the operation of AdMob.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Subscription completed. Get started with AdMob**</mark>
 
@@ -159,7 +159,7 @@ This allows you to create your ad units by selecting the same banner and front a
 
 From this point, proceed as described above.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Check your ad units**</mark>
 
@@ -170,7 +170,7 @@ Once you’ve created your ad unit ID, you can check it on the admin page.
 You can select the ad unit ID you created by selecting \[Ad unit] from the left menu of the AdMob management page. \
 
 
-***
+
 
 <mark style="color:blue;">**Copy app ID**</mark>
 

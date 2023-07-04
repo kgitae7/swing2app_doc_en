@@ -44,7 +44,7 @@ Therefore, unlimited web view plug-in products provided by Swing2App can be used
 If you have to pay a monthly fee for using the paid app, you can use the app with a monthly fee of $300 when you need to use the app for a long time. \
 
 
-***
+
 
 ### <mark style="color:blue;">**1. Create your app with a web view prototype**</mark>
 
@@ -72,7 +72,7 @@ If you don’t want to create your app with the Swing2App authoring tool, you ca
 \-You can’t use other menus provided by Swing2App because it only uses web links. (All menus such as push notifications and bulletin boards are not available)\
 \-If you want to send push notifications, you need to select Prototype: Push Only.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**2. How to purchase and use WebView Lifetime Paid Apps**</mark>
 
@@ -142,7 +142,7 @@ Click the \[Play Store Upload Request] or \[App Store Upload Request] button to 
 
 \*Please check the purchase page for details of each uploaded ticket.
 
-***
+
 
 ### <mark style="color:blue;">**3. Cautions when using unlimited web view plug-in**</mark>
 

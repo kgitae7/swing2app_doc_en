@@ -34,7 +34,7 @@ Please remember that the app update is not unconditionally the same on every use
 
 Even if the user doesn’t update the app, there’s nothing the app developers (developer) can do.
 
-***
+
 
 ### **01. Play Store app auto-update setting**
 
@@ -74,7 +74,7 @@ In this case, it’s not something that the developer who deployed the app can d
 
 Because it’s an item you’ve set up on your device, so the developers can’t get involved or force modifications to your update settings.
 
-***
+
 
 ### **02. In addition to auto updating, you can update your app right away.**
 
@@ -106,7 +106,7 @@ If you go to the launch link or search for the app, the **\[Update]** button abo
 
 You can update immediately by pressing the button.
 
-***
+
 
 <mark style="color:red;">**★ Instructions for Play Store App Update**</mark>
 

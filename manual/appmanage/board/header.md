@@ -6,7 +6,7 @@ One of the bulletin board features: We will tell you how to use the bulletin boa
 
 Please check how to set the bulletin board header, how to set the header, and how to sort them in order.
 
-***
+
 
 <mark style="color:blue;">**▶ What is a bulletin board header?**</mark>
 
@@ -18,7 +18,7 @@ You can sort the post thumbnails in order by ranking the registered posts.
 
 <figure><img src="../../../.gitbook/assets/dgb (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Apply Board**</mark>
 
@@ -35,7 +35,7 @@ You can sort the post thumbnails in order by ranking the registered posts.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b89.png)
 
-***
+
 
 1. Select **Advanced Style** on the bulletin board and features settings window.
 2. Please check the **Used** bulletin board header.
@@ -50,7 +50,7 @@ You can sort the post thumbnails in order by ranking the registered posts.
 
 <mark style="color:blue;">**The header image is 800px wide by 400px tall.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Apply header priority to posts**</mark>
 
@@ -72,7 +72,7 @@ Go to **Manager** and select **Posts**. Click on the Bulletin Board you want to 
 
 <mark style="color:orange;">**\*Other posts are done in the same way, Enter the number and press ‘Save’.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 App Launch screen**</mark>
 
@@ -97,7 +97,7 @@ Go to **Manager** and select **Posts**. Click on the Bulletin Board you want to 
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/header1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 How can I get a bulletin header?**</mark>
 
@@ -121,6 +121,6 @@ Headers can be rearranged by entering a priority value or removed from the heade
 
 <figure><img src="../../../.gitbook/assets/dgb.png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 **It can be useful to make announcements or event posts appear more visible on bulletin boards, or when you want to rearrange old posts in the preceding order when reordering posts.**&#x20;

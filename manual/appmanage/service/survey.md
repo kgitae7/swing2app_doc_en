@@ -106,7 +106,7 @@ Once you have completed the details of a survey like Survey name, Time-period, q
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Survey4.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Apply Survey Menu to App**</mark>
 
@@ -126,7 +126,7 @@ To apply **Survey,** please complete the survey form in the **Manager** screen, 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up2.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 App Launch screen**</mark>
 
@@ -170,7 +170,7 @@ When the survey is complete, the survey results are sent to the administrator.
 
 These sent surveys can be viewed by administrators on the Manage Surveys page shown earlier.
 
-***
+
 
 <mark style="color:blue;">**STEP.4 Check Survey Results & Survey Management**</mark>
 
@@ -188,12 +188,12 @@ These sent surveys can be viewed by administrators on the Manage Surveys page sh
 **Note:**
 
 * You can add a new poll in addition to the existing one by selecting the <mark style="color:blue;">**‘Add survey‘**</mark> icon.
-* If you click <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**‘CLOSED’**</mark>, you can close the poll before its deadline.
-* You can edit the question by selecting the <mark style="color:blue;">**‘EDIT’**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> icon and delete it by <mark style="color:blue;">**‘DELETE’.**</mark>
+* If you click <mark style="color:blue;">**‘CLOSED’**</mark>, you can close the poll before its deadline.
+* You can edit the question by selecting the <mark style="color:blue;">**‘EDIT’**</mark> icon and delete it by <mark style="color:blue;">**‘DELETE’.**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/surveyup3.png)
 
-***
+
 
 <mark style="color:orange;">**▶You can also share polls**</mark>
 

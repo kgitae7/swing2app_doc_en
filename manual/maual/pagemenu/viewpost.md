@@ -6,7 +6,7 @@ We’ll show you how to use “View My Posts” on the swing2app page.
 
 Please check the application method for my article viewing feature to the app and how it looks like in the app!
 
-***
+
 
 ### <mark style="color:blue;">**01. What is My Article?**</mark>
 
@@ -16,7 +16,7 @@ Please check the application method for my article viewing feature to the app an
 
 The \[View My Posts] is a feature that shows posts you’ve written in the app, so you can see a list of (posts) at once.
 
-***
+
 
 ### <mark style="color:blue;">**02. How to apply in the app**</mark>
 
@@ -33,7 +33,7 @@ The \[View My Posts] is a feature that shows posts you’ve written in the app, 
 
 **My article view is available on the Maker(V2) → page menu step → swing2app page**
 
-***
+
 
 ### <mark style="color:blue;">**03. App Launch Screen**</mark>
 
@@ -45,7 +45,7 @@ You need to be logged in as the user who wrote the article. Guests are not allow
 
 When you select \[My Posts] applied to the app, the user can see all the posts written in the app.
 
-***
+
 
 ### <mark style="color:blue;">**04. Instructions**</mark>
 

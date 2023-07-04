@@ -8,7 +8,7 @@
 
 [**\[Detailed Guide to Issue Google Maps API Key\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
 
-***
+
 
 &#x20;
 
@@ -35,7 +35,7 @@ You’ll be directed to a bulletin board page where you can create & manage boar
 
 &#x20;
 
-***
+
 
 &#x20;
 
@@ -49,7 +49,7 @@ You’ll be directed to a bulletin board page where you can create & manage boar
 
 [**\[Detailed Guide on Google Map Registration\]** ](../appmanage/board/googlemap.md)
 
-***
+
 
 &#x20;
 

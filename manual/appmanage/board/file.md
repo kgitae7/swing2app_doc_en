@@ -4,7 +4,7 @@ description: Uploading files to bulletin boards
 
 # Bulletin Board – How to Attach Files
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**\*\*Notes on file attachment\*\***</mark>
 
@@ -14,7 +14,7 @@ The file attachment function is not available in the app, so if you need to regi
 
 When registering a post in the app – Only content (text) and images can be registered.
 
-***
+
 
 There must be a bulletin board before registering a file, right?
 
@@ -86,7 +86,7 @@ Files registered by this method are registered in the form of attachments, so th
 
 <mark style="color:red;">Since the file location cannot be modified, it is suitable for writing only for short writing or downloading files to users.</mark>&#x20;
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Bulletin Board Editor-Select File Upload Button**</mark>
 

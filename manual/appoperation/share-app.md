@@ -24,7 +24,7 @@ Like app sharing, you can share with various apps.
 
 \-If you share an app released on the Play Store, you can go to the Play Store page where the app was released and download the app.
 
-***
+
 
 ### <mark style="color:blue;">**1. Share App – Facebook**</mark>
 
@@ -42,7 +42,7 @@ If you go to the chat room, you can see the app has been shared like the image a
 
 Please select **\[Details]**.
 
-***
+
 
 ### <mark style="color:blue;">**2. Open in another browser**</mark>
 
@@ -60,7 +60,7 @@ Instead of installing it here, <mark style="color:orange;">**select the 3 button
 
 <mark style="color:orange;">**Please open your internet browser.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**3. Select \[App (APK) Download] button**</mark>
 
@@ -110,7 +110,7 @@ Even when you share the app by email, please copy the URL and download the app f
 
 **You can also copy the app sharing URL and paste it in a new window on the Internet.**
 
-***
+
 
 > **By the way, if you install the app in the above way, can you install the app until it’s downloaded??**
 
@@ -142,7 +142,7 @@ Similarly, y**ou can see APK files that have not been installed in the menu.**
 
 If you select the APK you want to reinstall, the apk file will be automatically installed as an app.
 
-***
+
 
 ​
 

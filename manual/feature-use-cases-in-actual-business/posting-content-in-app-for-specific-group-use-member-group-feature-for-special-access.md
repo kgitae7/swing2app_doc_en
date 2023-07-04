@@ -4,7 +4,7 @@ Admin can make group in Swing2App which will have special privileges for the app
 
 <mark style="color:purple;">Let’s check out the functioning of special group creation with some examples.</mark>&#x20;
 
-***
+
 
 **Sample 1. Hair and Beauty Salon**
 

@@ -26,7 +26,7 @@ One of the web templates offered by Swing2App is the main page of the \[hotel]&#
 
 [https://support.swing2app.com/template-page/](https://support.swing2app.com/template-page/)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Adding template pages**</mark>
 
@@ -43,7 +43,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/temp1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Template Page Creator**</mark>
 
@@ -123,7 +123,7 @@ If you select the \[Link Wizard] button on the right after selecting a button on
 
 Here you can apply various menus such as internet address (weblink), bulletin board, user page, specific posts, and file attachments.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply a template to your app**</mark>
 

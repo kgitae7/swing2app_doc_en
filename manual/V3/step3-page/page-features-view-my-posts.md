@@ -68,7 +68,7 @@ If you select View My Posts applied to your app, you can see all the posts that 
 5\) If you have created an app before 2019.11.30, an app update is required to use the feature.
 {% endhint %}
 
-***
+
 
 **Related Articles**
 

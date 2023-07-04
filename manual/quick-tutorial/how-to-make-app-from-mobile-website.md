@@ -6,7 +6,7 @@ You can create a mobile app in just 5 minutes using the **‘Push’** or **‘W
 
 **Swing2App’s menus are not available for** **Web View Version**, **so if you want to send push, please select the ‘push’ UI style.**
 
-***
+
 
 <mark style="color:blue;">**How To Create Push Version App**</mark>
 
@@ -28,7 +28,7 @@ You can send push notifications after creating apps with the push version.
 
 [**\[Quick tutorial on How to send Push\]**](how-to-create-push-notification.md)
 
-***
+
 
 <mark style="color:blue;">**How To Create Web View Version App**</mark>
 

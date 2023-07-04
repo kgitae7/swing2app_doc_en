@@ -94,4 +94,3 @@ App operators can check the comments on attendance check posts on the App Manage
 
 Once you have selected your username, you will be able to view your membership information.
 
-***

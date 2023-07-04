@@ -10,7 +10,7 @@ What is the swing2app affiliate program? [https://support.swing2app.com/aff-prog
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/afp1.png)
 
-***
+
 
 <mark style="color:blue;">**2. Please enter the required items on the Affiliate Program application page and apply.**</mark>&#x20;
 
@@ -44,7 +44,7 @@ Normally, we will inform you of the evaluation result by e-mail in 1-2 days.
 
 The admin screen and URL will be provided to the authorized user account.
 
-***
+
 
 <mark style="color:blue;">**3. Approved**</mark>
 
@@ -56,7 +56,7 @@ If you look at My menu on the app operation page, the \[Affiliate Management] me
 
 <mark style="color:red;">\*The menu does not open until approved, so check the affiliate management menu after confirming the approval email.</mark>
 
-***
+
 
 <mark style="color:blue;">**4. Operate Affiliate Program**</mark>
 

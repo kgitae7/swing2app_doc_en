@@ -4,7 +4,7 @@ Many users want a forum in the apps where they can ask questions in private from
 
 <mark style="color:purple;">Let’s check out this feature with the help of some business cases.</mark>&#x20;
 
-***
+
 
 **Sample 1. e-learning**
 

@@ -12,7 +12,7 @@ On Android phones, you can download the app directly from the app install link.
 
 When creating an app in Swing2App, not only the app installation file but also a link can be issued. You can share the link in various places.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Copy the app installation link address**</mark>
 
@@ -52,7 +52,7 @@ This way, you can get it as a link, not the app file you created!!
 
 Then, please check how you can download the app with the link\~
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Download through the app installation link**</mark>
 
@@ -64,7 +64,7 @@ You can proceed to download the app after receiving the link to install the app 
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/05/%EB%85%B9%ED%99%94\_2021\_06\_07\_16\_18\_18\_651.gif)
 
-***
+
 
 <mark style="color:red;">**-Precautions-**</mark>
 

@@ -12,7 +12,7 @@ First, create a group by rating in the permission group setting, and then apply 
 
 **Check out the manual to learn how to create groups and apply ratings to members.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Create a group**</mark>
 
@@ -67,7 +67,7 @@ When you edit or delete a group, you can also work on that page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-04-20-at-22.46.14.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Apply Groups to Users**</mark>
 
@@ -85,7 +85,7 @@ When you edit or delete a group, you can also work on that page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b41.png)
 
-***
+
 
 1. Select the user (member) to change group
 2. Select a group to change from the current group information
@@ -126,7 +126,7 @@ If the administrator sets the group expiration date for the member → On the gr
 
 \*Group expiration date can be changed by the administrator at any time.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 App Launch Screen**</mark>
 
@@ -146,7 +146,7 @@ If you go into the settings menu, you will see the ‘Support1’ ratings on you
 
 \*Administrators are free to edit the group to match the performance of their members.
 
-***
+
 
 <mark style="color:blue;">**How to use the permission group setting**</mark>
 

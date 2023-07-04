@@ -12,7 +12,7 @@ You can register an app created by Swing2App as a mobile website.
 
 If you purchase a separate domain, purchase a mobile web registration ticket and request to register for a mobile web, we will register the app on that website.
 
-***
+
 
 > **How to use (apply) for mobile web registration**
 
@@ -58,7 +58,7 @@ If a one-month paid subscription is purchased, the mobile website is also regist
 
 If you pay for one year, you can also use the mobile website for one year.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Apply for the mobile web registration**</mark>
 
@@ -94,7 +94,7 @@ Please check the image size (72\*72) and attach the image.
 
 **After confirming the person in charge, you can check the registered website about 2 days later.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
 
@@ -104,7 +104,7 @@ When the mobile web registration is completed, a registration completion email i
 
 Select \[Confirm Mobile Web Registration].
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. Run the mobile web**</mark>
 
@@ -128,7 +128,7 @@ Your website is assigned to the domain you purchased.
 
 4\. If you need a mobile website and the production cost is burdensome, you can use it with the app!
 
-***
+
 
 <mark style="color:red;">**\[Precautions for Mobile Web Registration]**</mark>\
 \

@@ -4,7 +4,7 @@ Swing2app provides various paid version app tickets & vouchers. **Basic, Expanda
 
 [**\[Detailed Guide on Paid Vouchers & Tickets.\]**](../appmanage/pay/paid-products.md)
 
-***
+
 
 <mark style="color:blue;">**Where To Access Paid Tickets?**</mark>
 
@@ -14,7 +14,7 @@ Swing2app provides various paid version app tickets & vouchers. **Basic, Expanda
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/payment-.png)
 
-***
+
 
 <mark style="color:blue;">**How to do the payment?**</mark>
 

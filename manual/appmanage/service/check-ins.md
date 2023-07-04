@@ -10,7 +10,7 @@ Engage app members with a variety of check-in events.
 
 **Please check the manual to see how to use Check-ins, such as how to enter the post in the attendance checklist function and participate in the event.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Registration of Check-ins**</mark>
 
@@ -48,7 +48,7 @@ Therefore, after the event, when the event duration is completed and you wish to
 
 **You can also edit or delete it.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Automatic registration of Check-in**</mark>
 
@@ -80,7 +80,7 @@ Go to **Maker(V2)** and click on **Page Menu.** Follow the steps below:
 
 In this way, you can create an attendance checklist post and apply it to the app.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4  App Launch screen – Checklist attendance**</mark>
 

@@ -332,4 +332,3 @@ Since the iPhone does not install the free version of the app, you will not be a
 
 </details>
 
-***

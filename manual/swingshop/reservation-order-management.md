@@ -8,7 +8,7 @@ Products sold using the reservation system can be managed on the Reservation Ord
 
 **Please check the swing store-booking order management manual.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Pre-order management page**</mark>
 
@@ -34,7 +34,7 @@ And products that have been booked will be checked on a case basis with a blue a
 
 You can check the order details by selecting the blue area.
 
-***
+
 
 ### <mark style="color:blue;">**3. View Pre-Order Information**</mark>
 
@@ -46,7 +46,7 @@ When you select the ordered product, the \[Order Information] window will open.
 
 In the Order Information window, you can check various information such as basic information, payment method, order information and shipping information.
 
-***
+
 
 ### <mark style="color:blue;">**4. Change Order Status**</mark>
 
@@ -70,7 +70,7 @@ If you click OK, you can see that the status of your pre-order has been changed 
 
 If the status is changed in this way, the user can also check the status of the product in **\[My Page]**.
 
-***
+
 
 So far, we have informed how to use the order management menu in the swing2app production page.
 

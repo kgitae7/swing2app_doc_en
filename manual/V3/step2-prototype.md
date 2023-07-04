@@ -10,7 +10,7 @@ The App Maker V3  Manual will show you how to edit your app in step 2- prototype
 
 **\[STEP2 Prototype] is the step in which you can decide the overall design and style of the app's UI design and color.**
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### STEP2 Prototype&#x20;
 
@@ -28,7 +28,7 @@ The App Maker V3  Manual will show you how to edit your app in step 2- prototype
 
 4\. When you are satisfied with the changes made in step2, click on the **\[Save]** button to save your work.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Check the prototype style
 
@@ -38,7 +38,7 @@ The normal app prototype style is available in 5 different designs.\*The webview
 
 You can preview each prototype by selecting them, virtual machine on the right (preview screen) will show how the prototype UI style will look on the app.&#x20;
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – Color settings
 
@@ -50,7 +50,7 @@ Skin Color offers a color combination consisting of 3 sets of main background co
 
 Once you have selected the desired combination, you can see the UI changing colors in real-time through the virtual machine.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – custom settings
 
@@ -68,7 +68,7 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 After selecting a color, click the mouse cursor on the empty space to reflect the colors in real-time on the virtual machine.
 
-![](<../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Advanced styles and options
 

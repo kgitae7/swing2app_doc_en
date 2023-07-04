@@ -10,7 +10,7 @@ We will tell you how to use the ‘View Favorites’ provided by Swing2App.
 
 Through the manual – please find out how to apply and use the app’s interest writing function.
 
-***
+
 
 ### <mark style="color:blue;">**01. What is your favorite?**</mark>
 
@@ -24,7 +24,7 @@ View all in Favorites view.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/pagefav1.png)
 
-***
+
 
 ### <mark style="color:blue;">**02. How to Use**</mark>
 
@@ -41,7 +41,7 @@ View all in Favorites view.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/pagefav.png)
 
-***
+
 
 ### <mark style="color:blue;">**03. App Launch Screen**</mark>
 
@@ -57,7 +57,7 @@ If you don’t have a liked post, you’ll see that you don’t have any posts.
 
 If a user likes you and another user is logged in, you will not see the likes.
 
-***
+
 
 <mark style="color:blue;">**04. Information**</mark>
 

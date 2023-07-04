@@ -27,7 +27,7 @@ The web notification service provides notification service only in the Internet 
 
 Please note that you will not receive notifications in the Internet Explorer (IE) browser.
 
-***
+
 
 ### <mark style="color:blue;">**1. How to use integrated notification settings**</mark>
 
@@ -85,7 +85,7 @@ You can enter an email address to receive notifications or enter a phone number 
 
 \*If your phone is not linked to your account, please check directly in your mailbox.
 
-***
+
 
 ### <mark style="color:blue;">**2. Web Notification**</mark>
 
@@ -94,7 +94,7 @@ If you check that you want to receive web notifications, **push notifications wi
 **If users sign up, write posts, or create an app, they will be notified for every item they have set up.**\
 Select the notification window to go to the page.
 
-***
+
 
 ### <mark style="color:blue;">**3. Manage Site Notifications**</mark>
 
@@ -107,7 +107,7 @@ Integrated notifications are set by default to receive site notifications for al
 If you do not want to be notified, you can select \[Cancel subscription]. **– This is available only in chrome**\
 
 
-***
+
 
 <mark style="color:red;">**★ Information**</mark>
 

@@ -16,7 +16,7 @@ Swing2App offers product types – physical, digital, and reservation systems.
 
 **The manual will show you how to register a physical product, apply it to your app, and more.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP. 1 Register a product category after applying for swing store**</mark>
 
@@ -56,7 +56,7 @@ Categories can still be added from that menu without limiting the number of cate
 
 You can edit the content by selecting the category, and delete the category with the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP. 2 Register Physical goods**</mark>
 
@@ -126,7 +126,7 @@ Enter a simple one-line description.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ezgif.com-gif-maker-2.gif)
 
-***
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/prodcate2.png)
 
@@ -150,7 +150,7 @@ If you need to modify the contents of the registered products, select the produc
 
 Go to the product registration modification screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP. 3 Apply a physical products page to your app**</mark>
 
@@ -189,7 +189,7 @@ Menus such as popular items and categories are automatically set up.
 
 Select each product to go to the purchase page.
 
-***
+
 
 <mark style="color:orange;">**02. Apply Product Categories**</mark>
 
@@ -220,7 +220,7 @@ So it can be applied when you want to show your products by category.
 
 Go to the purchase page after selecting a product.
 
-***
+
 
 <mark style="color:orange;">**03. Add Category List**</mark>
 

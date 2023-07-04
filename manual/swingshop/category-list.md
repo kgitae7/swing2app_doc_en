@@ -10,9 +10,9 @@ We will inform you how to apply the **‘Category List’** among the pages prov
 
 **Tapping a category item → moves to the product list page registered in the category.**&#x20;
 
-***
 
-***
+
+
 
 <mark style="color:orange;">**Category list app execution screen**</mark>
 
@@ -24,7 +24,7 @@ Reservation products do not go to the product purchase page even if the category
 
 (For reservation products, a calendar appears and you must make a reservation first.)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
 
@@ -41,7 +41,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
    6. Click on **Apply.**
    7. Click on **Save.**
 
-***
+
 
 <mark style="color:red;">**\*Precautions**</mark>
 
@@ -91,4 +91,3 @@ So, if you want to change the order, please come to the screen and change the pr
 
 The app is automatically reflected, so if you close the app and run it again, you can check it in the changed order^^
 
-***

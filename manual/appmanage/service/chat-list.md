@@ -10,7 +10,7 @@ Administrators can search and talk to users on the member inquiry or webchat pag
 
 Users can check the administrator chat list in the chat list and select an administrator to talk with.
 
-***
+
 
 ### <mark style="color:blue;">**▶What is a chat list?**</mark>&#x20;
 
@@ -22,7 +22,7 @@ Users can check the administrator chat list in the chat list and select an admin
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/03/chat\_list@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">▶</mark><mark style="color:blue;">**How to use to \[Chat List] App**</mark>
 
@@ -38,7 +38,7 @@ Users can check the administrator chat list in the chat list and select an admin
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up5.png)
 
-***
+
 
 ### <mark style="color:blue;">▶</mark><mark style="color:blue;">**App Launch Screen**</mark>
 
@@ -46,7 +46,7 @@ Users can check the administrator chat list in the chat list and select an admin
 
 Select – Chat List from the app menu to see a list of users chatting with your administrator, as shown in the image above.
 
-***
+
 
 ### <mark style="color:blue;">**▶How to use**</mark>
 
@@ -70,7 +70,7 @@ So you can always talk to the administrators you want to chat with on the list.
 
 <mark style="color:red;">\* \[Integrated administrator chat] in the chat list, you can check the chat history of the ‘public conversation’ instead of ‘private conversation’ when the administrator chats.</mark>
 
-***
+
 
 <mark style="color:red;">**Notice**</mark>
 

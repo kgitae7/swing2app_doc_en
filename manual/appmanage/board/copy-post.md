@@ -4,7 +4,7 @@ description: Guide to Copy Multiple Posrs From One Board to Another
 
 # Copy Post
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">  **What is copying a post?**
 
@@ -20,7 +20,7 @@ Please refer to the manual on how to copy the board.&#x20;
 
 {% embed url="https://documentation.swing2app.com/manual/appmanage/board/copy-board" %}
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. Where can I copy a post?**</mark>
 
@@ -32,7 +32,7 @@ Please refer to the manual on how to copy the board.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. How to copy posts**</mark>
 
@@ -48,13 +48,13 @@ Please refer to the manual on how to copy the board.&#x20;
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%B3%B5%EC%82%AC2.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**3. Copying posts completed**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/%EC%98%81%EB%AC%B8%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%B3%B5%EC%82%AC5.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**4. App Launch screen – Check the bulletin board posts**</mark>
 

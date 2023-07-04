@@ -16,7 +16,7 @@ You’ll need to set up your usage, exchange, and return policies in the policy 
 
 **\*How to set up the policy – We will inform you of the usage policy, exchange and return policy, and non-member rights.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Move to Swing Store – Store Management – Policy Setting Menu**</mark>
 
@@ -57,7 +57,7 @@ To check the policy, select **\[View Terms and Conditions]** at the bottom of th
 
 Exchange and refund policy can also be found at the bottom of the app screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Set up non-member permissions**</mark>
 

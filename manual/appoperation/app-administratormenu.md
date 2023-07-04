@@ -13,7 +13,7 @@ In addition, functions such as user permission changes and member information no
 **The frequently used admin menu is available in the app.** \
 **We’ll tell you how to use the App Administrator menu and the features provided.**
 
-***
+
 
 ### <mark style="color:blue;">**1. How to use the App Administrator Menu**</mark>
 
@@ -26,7 +26,7 @@ In addition, functions such as user permission changes and member information no
 Therefore, please re-create the app and check the new version. \
 Apps created after the update will automatically have an admin login menu in the Settings menu.
 
-***
+
 
 ### <mark style="color:blue;">**2. Functions provided by the administrator menu**</mark>
 
@@ -57,7 +57,7 @@ Please check how to use the coupon in the list posted below!
 
 **→**[ **\[**](https://support.swing2app.com/documentation/appmanage/service/coupon/)[**App Administrator menu: See the post on how to use the coupon\]**](../appmanage/service/coupon.md)
 
-***
+
 
 
 

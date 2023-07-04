@@ -2,7 +2,7 @@
 
 With swing2app you can update your app anytime with no extra charges. Updates like the **hard update,** the **soft update** can be done. Update for steps basics, design theme, and page menu are different so update accordingly.
 
-***
+
 
 <mark style="color:blue;">**How To Update App After App Production is Completed?**</mark>
 

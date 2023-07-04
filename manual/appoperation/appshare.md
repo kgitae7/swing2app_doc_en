@@ -32,7 +32,7 @@ Apps created by Swing2app can be shared with other users without having to be re
 
 **Check out the manual to see how to share your app.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Launch apps – Share the app**</mark>
 
@@ -46,7 +46,7 @@ If you select the \[Settings] menu from the app menu, there is \[Share app].
 
 However, if you delete it, you can apply it again **by selecting App Production Page → Step 3 Page Menu → Load Swing2App Page → Settings.**
 
-***
+
 
 ### <mark style="color:blue;">**2. Select Facebook application. Share app**</mark>
 
@@ -74,7 +74,7 @@ Selecting **\[Details]** brings up a new web link window, where you can select h
 
 **\*If you need to install the app → You need to select ‘Download app (APK)’ to install the app.**
 
-***
+
 
 ### <mark style="color:blue;">**3.  Share the app with other apps besides Facebook**</mark>
 
@@ -112,4 +112,3 @@ Check out the manual below to share the bulletin board and post.
 
 **☞** [**Manual on app board and post sharing**](bulletinboard-share.md)
 
-***

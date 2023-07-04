@@ -12,7 +12,7 @@
 
 Please check how to use it below.
 
-***
+
 
 <mark style="color:blue;">**What is app string management?**</mark>
 
@@ -26,7 +26,7 @@ This is a management page where you can see all the phrases and messages that ar
 
 \*\*App phrase changes and foreign language conversions that were previously customized (app development) can now be edited and used by users without having to develop them.
 
-***
+
 
 <mark style="color:blue;">**How to Edit Message Contents**</mark>
 
@@ -50,7 +50,7 @@ This is a management page where you can see all the phrases and messages that ar
 
 \*Editing only the phrase is not reflected in the app, you must update the app to the new version by requesting the app from the app production page.
 
-***
+
 
 <mark style="color:blue;">**Operating TIP**</mark>
 
@@ -64,7 +64,7 @@ After editing the contents, save it, and upload the Excel file with \[Upload].
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/String4.png)
 
-***
+
 
 <mark style="color:blue;">**After changing the phrase) Run app screen**</mark>
 

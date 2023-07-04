@@ -114,9 +114,9 @@ Therefore, after you register your app on the Google Play Store, you should cont
 
 However, the ratio and acceleration will be more important than the simple cumulative figures.
 
-***
 
-***
+
+
 
 <mark style="color:red;">**◈ Precautions**</mark>
 
@@ -155,7 +155,7 @@ Here are some guidelines to refer to when responding to user reviews.
 
 \-Refer to useful resources, such as support addresses or FAQ pages.
 
-***
+
 
 \
 Please remember these points when you register your app on the Google Play Store.&#x20;

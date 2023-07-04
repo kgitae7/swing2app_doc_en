@@ -20,7 +20,7 @@ You can show users other apps you’ve created, and promote your brand.
 3. If you change the developer name according to the Google policy that has changed from November 2, 2020, you must register the contents of the developer page to change the name.\
    ​If you need to register as a developer page, please check how to use it through the following information.
 
-***
+
 
 ### <mark style="color:blue;">**1. Access the developer page**</mark>
 
@@ -80,7 +80,7 @@ If you select the \[Copy Link] button in the developer page sharing item, the de
 
 You can check the developer page by pasting it on the pc internet or mobile web.
 
-***
+
 
 ### <mark style="color:blue;">**2. Registration completed. Check out the developer page**</mark>
 

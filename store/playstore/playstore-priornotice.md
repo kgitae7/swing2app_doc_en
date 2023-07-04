@@ -32,7 +32,7 @@ The reason is that according to Google’s webview spam policy, **the owner of t
 
 **Therefore, you need to submit proof of whether the website connected to the app is owned by the business or your own, and generally, you can submit your business registration card or website domain registration information.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Store listing-subject to prior notice**</mark>
 
@@ -48,7 +48,7 @@ App information on the left → Go to the default store listing page.
 
 Under \[App Details], click the blue<mark style="color:blue;">**‘Pre-Notification Target’**</mark><mark style="color:blue;">.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Providing advance notice to the Google app review team**</mark>
 
@@ -58,7 +58,7 @@ Go to the Play Console Help Center page.
 
 After checking the contents of the body, click the <mark style="color:blue;">**\[Submit Document]**</mark> button below.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Entering the content of advance notice**</mark>
 
@@ -122,7 +122,7 @@ It is a document that proves the owner of the web domain and can be issued by th
 
 The package ID is used as the app package name.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Completion of submission and approval of documents**</mark>
 

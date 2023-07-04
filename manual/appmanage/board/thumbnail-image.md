@@ -20,7 +20,7 @@ The **image shown as a representative on the bulletin board list screen is** cal
 
 Please check the manual on how to register the thumbnail image on the bulletin board.
 
-***
+
 
 ### <mark style="color:blue;">**1. How to use**</mark>
 
@@ -51,7 +51,7 @@ To make it appear as the representative thumbnail image, you have to register th
 
 \*\*If you don’t see the ‘Attach Picture’ button in your post, you may not have set this option when you created the bulletin board.
 
-***
+
 
 1. Go to **Manager.**
 2. Select **Services.**
@@ -62,7 +62,7 @@ To make it appear as the representative thumbnail image, you have to register th
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b47.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Compare the ability to use thumbnails for the first image**</mark>
 

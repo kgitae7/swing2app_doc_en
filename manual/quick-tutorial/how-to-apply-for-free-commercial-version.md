@@ -4,7 +4,7 @@
 
 After completing app Production, follow these steps to apply for the Free commercial version of your app.&#x20;
 
-***
+
 
 1. Go to **Manager.**
 2. Select **Manage Version.**

@@ -54,7 +54,7 @@ However, there is a question here.
 This is the right way, Design Theme – This is because we applied the style as ‘transparency’ in the app’s main design style.\
 We will show you how to change the style to transparent below.
 
-***
+
 
 ### <mark style="color:blue;">**2. App main design style: Apply Transparency**</mark>
 
@@ -84,7 +84,7 @@ Then the toolbar area will be missing and the whole screen will be composed as t
 The image applied to the home screen can be more emphasized and will look cleaner.\
 **The menu (text) color can be changed to a different color, so please edit the text color in the design theme – color to make the text visible on top of the image.**
 
-***
+
 
 <mark style="color:red;">**★ Information**</mark>
 

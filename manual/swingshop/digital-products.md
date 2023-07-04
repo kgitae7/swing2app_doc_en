@@ -14,7 +14,7 @@ This page must be applied in shopping mall apps that sell digital products.&#x20
 
 <mark style="color:purple;">\*Digital product sales e.g.) use voucher, coupon, PDF view, video and file, permission change (user level)</mark>
 
-***
+
 
 <mark style="color:orange;">**Digital product purchase completion page App execution screen**</mark>
 
@@ -38,7 +38,7 @@ In the case of digital products, the purchase completion page is provided only f
 
 Please operate it by referring to this point.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Apply digital product purchase completion page to the app**</mark>
 
@@ -54,7 +54,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 6. Click on **Apply.**
 7. Click on **Save.**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Digital product purchase completion page App execution screen**</mark>
 

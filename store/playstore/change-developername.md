@@ -15,7 +15,7 @@ When you register for your first developer account, you enter the developer’s 
 
 <mark style="color:red;">(Apple will not change the developer’s name)</mark>
 
-***
+
 
 ### <mark style="color:blue;">**Q. Where does Google and Apple developer names appear?**</mark>
 
@@ -41,7 +41,7 @@ The developer name is displayed under the app name.
 
 <mark style="color:red;">However, as mentioned above,</mark> <mark style="color:red;"></mark><mark style="color:red;">**please note that in Apple, once registered developer name can not be changed later.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**1. Change your Google Developer Name**</mark>
 

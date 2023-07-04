@@ -10,7 +10,7 @@ File can be attached to document files such as images (png, jpg, gif), word, ppt
 
 **Please check the location of the file attachment function, how to apply the file attachment app, and the app execution screen through the manual ^^**
 
-***
+
 
 <mark style="color:orange;">**▶ Where can I use the file attachment?**</mark>
 
@@ -44,7 +44,7 @@ App Production – Go to the page menu level.
 
 7\) Click the Save button to complete app reflection.
 
-***
+
 
 ### <mark style="color:blue;">**2. App execution screen: File download**</mark>
 

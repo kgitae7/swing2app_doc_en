@@ -8,7 +8,7 @@ If you change the app to unpublish, existing users can continue to use the app a
 
 New users cannot search or download apps on Google Play
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Unpublish the released app**</mark>
 
@@ -54,7 +54,7 @@ Apps that are being **‘temporarily stored’ before launch can be deleted imme
 
 <mark style="color:red;">**\* Since the app is not released, the app is permanently removed immediately after deletion.**</mark>
 
-***
+
 
 <mark style="color:red;">**\[Guidelines]**</mark>
 

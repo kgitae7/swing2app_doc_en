@@ -8,7 +8,7 @@ If you use this function, the stamp screen will be initialized automatically whe
 
 Your administrator will automatically issue the coupon you want to send.
 
-***
+
 
 ### <mark style="color:blue;">**01. What is a coupon when a stamp is completed?**</mark>
 
@@ -46,7 +46,7 @@ Therefore, please refer to the post for the whole process of creating a stamp.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b77-e1587044470326-1.png)
 
-***
+
 
 <mark style="color:orange;">**2. If you have a stamp board that you have made ​**</mark>
 
@@ -73,7 +73,7 @@ Please select the Settings button on the stamp board if you want to edit it on a
 
 **☞** [**Create a coupon and go to see the details**](../service/coupon.md)
 
-***
+
 
 ### <mark style="color:blue;">**03. App Launch Screen**</mark>
 
@@ -83,7 +83,7 @@ when stamp registration is completed as many as the number set by the administra
 
 Select OK to see a list of coupons is issued by your users.
 
-***
+
 
 If you create a stamp without selecting the coupon issuing function, the coupon **screen will not be reset** even if 10 pieces are filled, **and the same 10 pieces remain.**
 

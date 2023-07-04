@@ -17,7 +17,7 @@ Hash-tag can be used for two purposes.
 
 Through the manual – see two ways to use hash-tags.
 
-***
+
 
 ### <mark style="color:blue;">**1. Hash-tag search function**</mark>
 
@@ -35,7 +35,7 @@ After running the app
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/tag.png)
 
-***
+
 
 <mark style="color:orange;">**1) Write hash-tag in app**</mark>
 
@@ -49,7 +49,7 @@ Selecting a specific hash-tag will search and display all tagged posts.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/tag1.png)
 
-***
+
 
 <mark style="color:orange;">**2) Creating a hashtag on the web**</mark>
 
@@ -71,7 +71,7 @@ If you want the tag to appear in your post. Enter the text of the post just like
 
 Then you’ll see the hashtag on the app board – the post.
 
-***
+
 
 ### <mark style="color:blue;">**2. Advanced Settings) Hash-tag Search Option**</mark>
 
@@ -83,7 +83,7 @@ You have entered hash-tag option values ​​such as #sweets #swing2app #desser
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/33@3x.png)
 
-***
+
 
 <mark style="color:orange;">**1) Create a hash-tag search option**</mark>
 
@@ -100,7 +100,7 @@ In the hash-tag search option, select
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b83-1.png)
 
-***
+
 
 <mark style="color:orange;">**2) If you created a search option, enter a search tag in the post.**</mark>
 
@@ -112,7 +112,7 @@ When entering a post, enter a search term in the hash-tag item.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b82.png)
 
-***
+
 
 <mark style="color:orange;">**3) Apply the bulletin board to the app.**</mark>
 

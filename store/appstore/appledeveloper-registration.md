@@ -16,7 +16,7 @@ The Apple Developer account can only be registered if you have an Apple-iPhone, 
 
 You can register an Apple Developer account only if you have an Apple device certification.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1  Access to Apple Developer Registration Site**</mark>
 
@@ -25,7 +25,7 @@ You can register an Apple Developer account only if you have an Apple device cer
 Apple Developer Site:  [**https://developer.apple.com/**](https://developer.apple.com/) \
 **Go to the Apple developer site and select the \[Account] button in the upper right corner.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Access to Apple Developer Registration Site**</mark>
 
@@ -35,7 +35,7 @@ If you have an Apple account, please enter your Apple ID and password to log in.
 If you need to create a new account, please create an account by registering.\
 I already have an account and I will log in with that account.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Accept Developer Agreement**</mark>
 
@@ -45,7 +45,7 @@ Please make sure you accept the Apple Developer Agreement.
 
 Check the agreement and select the \[Submit] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Join the Apple Developer Program**</mark>
 
@@ -53,7 +53,7 @@ Check the agreement and select the \[Submit] button.
 
 Select the **\[Join the Apple Developer Program]** area at the bottom.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 Enroll for Apple Developer Program**</mark>
 
@@ -61,7 +61,7 @@ Select the **\[Join the Apple Developer Program]** area at the bottom.
 
 Select the **\[Enroll]** button at the top.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.6 Confirm the procedure required for registration**</mark>
 
@@ -77,7 +77,7 @@ If not, you must apply and get it. \
 (It takes about 3-4 days to get issued) \
 The D-U-N-S number will be explained again below.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.7 Registration Type**</mark>
 
@@ -111,7 +111,7 @@ Postal Code: Enter zip code
 
 Please enter English in the **\[Romanized Contact information] field.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.9 Apple Developer Registration Agreement**</mark>
 
@@ -119,7 +119,7 @@ Please enter English in the **\[Romanized Contact information] field.**
 
 Check your consent and select **Continue.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.10 Final confirmation of basic information**</mark>
 
@@ -129,7 +129,7 @@ Please make sure that the basic information item is in check.
 
 If confirmed, select **Continue.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.11 Pay Apple Developer Registration Fee**</mark>
 
@@ -145,7 +145,7 @@ t the end of the one year, you will need to re-pay again.
 
 Please select the **\[Purchase]** button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.12 Pay Apple Developer Registration Fee**</mark>
 

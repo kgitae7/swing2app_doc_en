@@ -16,7 +16,7 @@ How to use web links, as well as their options.\
 \[Open in new window], \[Open as external app] function will also be announced.\
 **We’ll show you how to use the \[web link] menu in the page menu step.**&#x20;
 
-***
+
 
 <mark style="color:red;">**★ Wait!!**</mark>
 
@@ -30,7 +30,7 @@ When you link a site that is banned from loading in the app, the site will not o
 It’s not about opening links inside the app, it’s about creating a new window in the app so that the site can be opened without problems.\
 Therefore, if the linked site does not open in the app, please make sure you choose one of the two options.
 
-***
+
 
 ### <mark style="color:blue;">**▶ How to apply web links from the page menu**</mark>
 
@@ -46,7 +46,7 @@ Therefore, if the linked site does not open in the app, please make sure you cho
 If you apply a link to the home screen, you can only apply it in a style that opens within the app.\
 In the general menu except for the home screen, you can open in a new window or open in an external app.
 
-***
+
 
 ### <mark style="color:blue;">**1. Web Links – Opens in new window**</mark>
 
@@ -65,7 +65,7 @@ Please go to the **Maker(V2)** page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/page8.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Web Links – Open as External App**</mark>
 
@@ -84,7 +84,7 @@ Please go to the Maker(V2) page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/page9.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. App Launch Screen**</mark>
 

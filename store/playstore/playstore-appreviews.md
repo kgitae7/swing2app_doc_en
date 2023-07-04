@@ -12,7 +12,7 @@ When a user who downloads an app on the Play Store writes a review, does the dev
 
 See how to reply to Play Store app reviews in the Swing2App article.
 
-***
+
 
 <mark style="color:blue;">**Access to Google Developer Console Site**</mark>
 
@@ -80,7 +80,7 @@ Please keep this in mind as we will approve any content such as promotional text
 
 When you run the Play Store application, you can see the developer’s reply in the user review.
 
-***
+
 
 **More than that, we’ve learned how to reply to Play Store app reviews.**
 

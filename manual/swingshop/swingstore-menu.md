@@ -40,7 +40,7 @@ When creating an app, please apply various pages to the menu and check it throug
 
 When creating the Swing Store app, please check the manual below, as it provides a variety of style-specific applications that make up the shopping mall screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. \[Shopping Mall Main] page applied**</mark>
 
@@ -77,7 +77,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 7. Click on **Apply.**
 8. Click on **Save.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. Apply \[Shopping Mall Information] page**</mark>
 
@@ -112,7 +112,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 7. Click on **Apply.**
 8. Click on **Save.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP 3. Using the User Page**</mark>
 
@@ -221,7 +221,7 @@ After editing the image and text, create a – schedule link on the bottom butto
 
 You can compose a shopping mall screen using various web template designs.
 
-***
+
 
 <mark style="color:orange;">**2. Using Image Pages**</mark>
 

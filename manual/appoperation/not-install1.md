@@ -46,7 +46,7 @@ Unchecked the two items: “Scan apps with Play Protect” and “Improve harmfu
 
 <mark style="color:red;">Even after releasing all the security above, if you can not install the app, please check the following method.</mark>
 
-***
+
 
 Android varies slightly from version to version, but there are apps installed to manage all the files you use on your phone.
 
@@ -54,7 +54,7 @@ Therefore, open the file management app to find the APK file produced in Swing2A
 
 <mark style="color:red;">**★ All apps built-in Android – File Manager or My Files can be opened by running the app.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**Method 2. Search app on Android phone \[file manager]**</mark>
 
@@ -74,7 +74,7 @@ If you select the APK to reinstall here, the APK file is automatically installed
 
 **▶** [**If you can not install the paid version app, please check here!**](not-install2.md)
 
-***
+
 
 <mark style="color:red;">**\[Precautions]**</mark>
 

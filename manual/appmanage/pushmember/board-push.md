@@ -14,7 +14,7 @@ You can create a bulletin board and create a post from the web dashboard.
 
 If you want to make important announcements, events, and promotional announcements to more users, you can send pushes directly from the posts you’ve written.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Move post-management (Go to the created bulletin board)**</mark>
 
@@ -24,7 +24,7 @@ If you want to make important announcements, events, and promotional announcemen
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/p1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Send push from post**</mark>
 
@@ -66,7 +66,7 @@ In general, you choose to send all, but you can also push each platform separate
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/p4.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 App launch screen) Sending Push Screen**</mark>
 

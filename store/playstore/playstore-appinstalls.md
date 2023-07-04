@@ -27,7 +27,7 @@ You can easily check the number of installations.\
 You can check it out in detail.\
 \*When you select a number, you’ll be taken to the dashboard detail page.&#x20;
 
-***
+
 
 
 

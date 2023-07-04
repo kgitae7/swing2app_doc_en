@@ -24,7 +24,7 @@ If you enter the website (homepage) URL without any other production function, i
 
 Additionally, the push app can send push messages to users who have installed the app. \*Unlimited pushes are also sent.
 
-***
+
 
 * The first thing you should do is create a push version app, right? I’ll tell you how to make an app!
 
@@ -97,7 +97,7 @@ Since creating an app is simple, you can easily follow it by looking at the manu
 
 Production and operation are available for free at no extra cost, so first create an app for free, make it, and test it!
 
-***
+
 
 ### <mark style="color:blue;">**2. How to purchase and use push-only unlimited paid apps**</mark>
 
@@ -165,7 +165,7 @@ Store upload agency can apply for upload by purchasing \[Play Store upload ticke
 
 \*Please check the purchase page for details of each uploaded ticket.
 
-***
+
 
 ### <mark style="color:blue;">**3. Caution**</mark>
 

@@ -12,7 +12,7 @@ The default app setting created in Swing2App is \[Horizontal-Vertical Composite]
 
 If you want to see only the landscape mode or portrait mode depending on the app, you can change the app screen to landscape or portrait mode in the advanced settings – device mode.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**▶Example of creating an app in landscape**</mark>
 
@@ -30,7 +30,7 @@ You can build landscape mode apps with advanced setup options provided by Swing2
 
 Please switch the app screen to see how to create an app.
 
-***
+
 
 ### <mark style="color:blue;">**1. How to change app device mode**</mark>
 
@@ -57,7 +57,7 @@ Go to Maker(V2)
 >
 > **If you need to edit the device mode for a horizontal or vertical only, please set the mode according to the method above.**
 
-***
+
 
 ### <mark style="color:blue;">**2. Check the app on your phone**</mark>
 
@@ -87,7 +87,7 @@ In the landscape-vertical composite, you should be able to view the screen horiz
 
 Please check the screen switch in the phone settings.
 
-***
+
 
 <mark style="color:red;">**★ Device mode**</mark>
 

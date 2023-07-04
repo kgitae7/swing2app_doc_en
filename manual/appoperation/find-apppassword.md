@@ -14,7 +14,7 @@ You can reset and use your new password in Edit Membership.
 \
 **Please read the manual to find out how to find your password if you forgot it.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Run the app – go to the login menu**</mark>
 
@@ -64,7 +64,7 @@ If you change your name to ‘Email’ while using your normal ID, users who pre
 
 So, please do not change the ID form in the middle.
 
-***
+
 
 Then let’s continue to find out how to find the password in the app again.
 
@@ -88,7 +88,7 @@ Check and copy the temporary password.
 
 Go back to the app and paste your email and the temporary password you copied.
 
-***
+
 
 ### <mark style="color:blue;">**4. Set new password**</mark>
 
@@ -100,7 +100,7 @@ Select <mark style="color:blue;">**\[edit your account information]**</mark> men
 
 Enter and save your current and new password.
 
-***
+
 
 <mark style="color:red;">**★ Important TIP**</mark>
 

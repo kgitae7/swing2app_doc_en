@@ -4,7 +4,7 @@
 
 After creating the app, please purchase the Swing2App paid app voucher, upload the ticket, and fill the application form to upload your app to the store. &#x20;
 
-***
+
 
 First, you have to Purchase Paid app voucher & store upload ticket (**Only paid app users can buy upload ticket**) &#x20;
 

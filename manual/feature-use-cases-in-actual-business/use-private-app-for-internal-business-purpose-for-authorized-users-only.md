@@ -6,7 +6,7 @@ If you want to use your app for internal business purpose only where the access 
 
 <mark style="color:purple;">Let’s check the private app feature.</mark>&#x20;
 
-***
+
 
 **Sample 1. IT Industry(Software & other services)**
 

@@ -16,7 +16,7 @@ You can share the app with a variety of application paths installed on your phon
 * iPhone can not share the free version of the app, only apps released on the App Store can be shared.
 * When you share an app, if the app is released to the App Store or Play Store, you will be taken to the store launch link (URL).
 
-***
+
 
 ### <mark style="color:blue;">**01. Apply \[Share Apps]**</mark>
 
@@ -32,7 +32,7 @@ Go to **Maker(V2)**
 6. Click **Apply.**
 7. Click **Save** at the top of the page.
 
-***
+
 
 ### <mark style="color:blue;">**02. Launch App Screen: Share App**</mark>
 
@@ -50,7 +50,7 @@ Select \[Share app] in the menu to open a list of apps that can be shared.
 
 Select \[Share Others] to see a list of various apps.
 
-***
+
 
 <mark style="color:orange;">**▶Email App Sharing**</mark>
 
@@ -64,7 +64,7 @@ Selecting the link will take you to the app install window as shown above.
 
 How to launch and install an app is the same as the kakao talk sharing method described above, and you can run and download the app depending on whether the user installs the app or not.
 
-***
+
 
 ### <mark style="color:blue;">**03. Menu Settings: Sharing Apps**</mark>
 
@@ -85,7 +85,7 @@ As a result, the App Sharing feature is also available as a default feature in t
 
 **And in addition to sharing apps, you can share bulletin boards, posts, and images.**
 
-***
+
 
 \[App sharing instructions-including app sharing, bulletin board, post sharing]
 

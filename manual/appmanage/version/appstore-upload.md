@@ -46,7 +46,7 @@ However, the release time may be longer because it may be rejected.
 
 **☞** [**\[Go to Play Store Upload Application Method\]**](playstore-upload.md)
 
-***
+
 
 **To apply for App Store upload.**
 
@@ -58,7 +58,7 @@ You can apply to upload an App Store.
 
 In the free version, you can’t purchase an App Store upload ticket and you can’t apply for an upload.
 
-***
+
 
 ### <mark style="color:blue;">**1. How to apply for App Store upload**</mark>
 
@@ -70,7 +70,7 @@ Complete the purchase of the Swing2App paid app voucher and app store upload tic
 
 **Move to Manager Page → Manage Version → Production History page and press the \[App Store Upload Request] button.**
 
-***
+
 
 ### <mark style="color:blue;">**2. App Store Upload Application**</mark>
 
@@ -86,7 +86,7 @@ Select the <mark style="color:blue;">**question ‘?’ mark icon**</mark> to se
 
 Please check and write how the item appears on the App Store.
 
-***
+
 
 <mark style="color:blue;">**3. App Store Upload Input Guidelines**</mark>
 
@@ -188,7 +188,7 @@ Please check the upload policy.
 
 We are not responsible for any damage caused by not checking the precautions.
 
-***
+
 
 <mark style="color:blue;">**04. Upload application completed**</mark>
 
@@ -202,7 +202,7 @@ App Store review takes about 1 week to 2 weeks. Please note that the review peri
 
 Therefore, please be aware of the content when applying for upload.
 
-***
+
 
 <mark style="color:red;">**\[Guide]**</mark>
 

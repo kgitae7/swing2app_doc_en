@@ -18,7 +18,7 @@ You can find all the information you have made through your order ID, payment me
 
 – Go to the Reserved Product Types → Manage Managed Orders menu.
 
-***
+
 
 ### <mark style="color:blue;">**1. Sale of physical goods: order management**</mark>
 
@@ -66,7 +66,7 @@ If you are selling digital products (permission rights, PDF viewing, video and f
 
 Similarly, if you select <mark style="color:green;">**‘Order ID’**</mark> from your order list, you’ll see a pop-up of your order information.
 
-***
+
 
 ### <mark style="color:blue;">**3. Sales of pre-orders: Pre-order management**</mark>
 

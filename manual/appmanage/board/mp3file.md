@@ -4,7 +4,7 @@
 
 Upload music files (audio MP3 files) to the bulletin board.
 
-***
+
 
 ### <mark style="color:blue;">**01. Attach music file**</mark>
 
@@ -20,7 +20,7 @@ Only available on the swing2app web.
 
 \*Swing2App **Manager** → **Posts** can be registered by the administrator.
 
-***
+
 
 ### <mark style="color:blue;">**02. How to use**</mark>
 
@@ -38,7 +38,7 @@ Only available on the swing2app web.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/05/b15-e1587040743534-1.png)
 
-***
+
 
 <mark style="color:orange;">**2. Attach audio files to posts**</mark>
 
@@ -54,7 +54,7 @@ Make sure that the audio file is attached correctly and click **Publish.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/05/attmusic1.png)
 
-***
+
 
 ### <mark style="color:blue;">**03. App launch screen**</mark>
 
@@ -64,7 +64,7 @@ Press the play button to play audio (music).
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/05/Group-252@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">**04. File Attachment Operation TIP**</mark>
 
@@ -76,7 +76,7 @@ Please use the corresponding option function in HTML writing.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/05/b18-e1588065692591.png)
 
-***
+
 
 <mark style="color:red;">**Notice**</mark>
 

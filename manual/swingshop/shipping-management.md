@@ -16,7 +16,7 @@ Therefore, when setting the shipping cost – Please set in the Shipping Managem
 
 **Swing store management through the manual – We will check how to use the shipping management and the app launch screen with the actual delivery management menu.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Delivery Management**</mark>
 
@@ -46,7 +46,7 @@ Therefore, when setting the shipping cost – Please set in the Shipping Managem
 
 <mark style="color:red;">If you have any information that you need to receive at the time of ordering, you can fill out the form accordingly.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**3. Shipping Entry**</mark>
 
@@ -84,7 +84,7 @@ As you can see in the image above, when you make a purchase (the screen before y
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/ezgif.com-gif-maker-1-1.gif)
 
-***
+
 
 ### <mark style="color:blue;">**4. App Launch screen**</mark>
 

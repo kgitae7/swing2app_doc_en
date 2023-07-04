@@ -10,7 +10,7 @@ The slide style is a style where each menu is placed on the right and left side 
 
 Please check the manual on how to use the slide application.
 
-***
+
 
 **Image Reference)**
 
@@ -26,7 +26,7 @@ It doesn’t matter if you slide to the left or right, you can place it where yo
 
 **→ Save → Request App Production**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**1. Prototype: Select Slide Menu**</mark>
 
@@ -38,7 +38,7 @@ First, select the prototype as ‘Slide’ in the design theme phase – Maker(V
 
 **Since one menu is deleted at random, you can select the slide design.**
 
-***
+
 
 ### <mark style="color:blue;">**2. Deleting a Sub-Menu**</mark>
 
@@ -76,7 +76,7 @@ You can choose not to display the icon, but you do not have to delete it.
 
 Therefore, you only need to delete the sub-menus.
 
-***
+
 
 ### <mark style="color:blue;">**3. Delete completed – Check virtual machine**</mark>
 
@@ -86,7 +86,7 @@ After the sub-menus are deleted, you can see that all the right menus are gone t
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/left\_icon.png)
 
-***
+
 
 ### <mark style="color:blue;">**4. App Launch Screen**</mark>
 

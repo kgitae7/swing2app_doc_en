@@ -6,7 +6,7 @@ Sometimes we wish to share e-book, e-magazine, big reports, etc. with our users 
 
 <mark style="color:purple;">Let’s check out the function with some example:.</mark>&#x20;
 
-***
+
 
 **Sample 1. The Economist(newspaper)**
 
@@ -33,7 +33,7 @@ Admin will attach the file in app to be shared with the users of the app where t
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-13.png)
 
-***
+
 
 **Sample 2. Job Application**\
 **File Attachment**   Application form of 5 pages in .docx format\

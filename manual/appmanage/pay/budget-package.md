@@ -34,7 +34,7 @@ So cheaper! speedily! This is a package product that can be used.
 
 \*You do not need to purchase a separate upload ticket..
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02.How to use the Budget Package**</mark>
 
@@ -76,7 +76,7 @@ Please check as the person in charge will send you a separate e-mail for the sub
 
 Please check the store registration policy and usage policy in advance.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for use of a Budget Package**</mark>  &#x20;
 

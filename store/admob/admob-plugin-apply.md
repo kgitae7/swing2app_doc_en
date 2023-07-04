@@ -24,7 +24,7 @@ Enter Set ad unit ID, Set ad exposure pattern, and save\
 6\) Ad setting is complete. Download the app on your Android phone and test it to see if it’s working well\
 7\) Register store: Upload stores you wish to launch, such as Play Store, App Store, etc.
 
-***
+
 
 **1. App Production Completed**
 
@@ -36,7 +36,7 @@ If you want to test the advertisement setting first, you can proceed after makin
 
 The app can be modified and updated continuously in the future, so even if you apply the advertisement, it can be used continuously.
 
-***
+
 
 **2. Purchase AdMob plug-in products or package products**
 
@@ -70,7 +70,7 @@ So if you’re going to use the app for a long time, it’s much cheaper to buy 
 
 \*A discount of $245 is offered for individual purchases. ~~$825~~→ $580
 
-***
+
 
 **3. Create the ID required to subscribe to AdMob sites and set up ads**
 
@@ -96,7 +96,7 @@ Please check the manual below for how to sign up for ad mobs, create advertising
 
 ☞[**Go to see how to sign up for Google ad mobs and how to create advertising unit IDs**](admob-register.md)
 
-***
+
 
 **4. Set up ads in AdMob plug-in settings**
 
@@ -182,7 +182,7 @@ You’re free to modify it at any time! Please re-produce the app only during th
 
 After that, you just need to modify it and save it. If you exit and re-run the app, it will be reflected in the changed advertising settings.
 
-***
+
 
 **5. App Creation Request (App Update)**
 
@@ -204,7 +204,7 @@ You need to make an app only when you set up the first app advertisement.
 
 If you make any further modifications, just save it and it will be reflected in the app. (If you re-run after the app is closed, it will be reflected in the changed advertising settings.)
 
-***
+
 
 **6. Set ad app production completed (app test)**
 
@@ -260,7 +260,7 @@ Please check the link below and check the check item before proceeding.
 
 If you can’t proceed with the content, the actual app advertisement can be delayed even if you complete the ad-mob advertisement.
 
-***
+
 
 7\. Registering the Store
 
@@ -298,7 +298,7 @@ You must check the policies for each store.
 
 \*Store registration policy:  [https://support.swing2app.com/market-policy/](https://support.swing2app.com/market-policy/)
 
-***
+
 
 > **Advice on operation of AdMob (user confirmation)**
 
@@ -348,7 +348,7 @@ Google opens the advertisement only when the payment profile is confirmed, so pl
 \*After setting up the ad mob, you have to manage all of the ads yourself, so you must check and check the operation parts.\
 
 
-***
+
 
 > &#x20;**Precautions**
 
@@ -390,7 +390,7 @@ There are many conditions, and we need to get publicity and users to install man
 
 **-So you should be familiar with the content on the official ad-mob site.**
 
-***
+
 
 > **Refund guidance**
 

@@ -26,7 +26,7 @@ The account that paid $25 registration fee in Google Console becomes a developer
 
 Please check the manual to create a developer account with an existing Google account (Gmail), and to register a developer account by creating a new Google account.
 
-***
+
 
 ### <mark style="color:purple;">**01. If you have a Google gmail (gmail) account**</mark>
 

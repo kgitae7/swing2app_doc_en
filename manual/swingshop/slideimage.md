@@ -14,7 +14,7 @@ In Store Management – When you register multiple images of the store details, 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/ezgif.com-gif-maker-8.gif)
 
-***
+
 
 <mark style="color:red;">**★How to use**</mark>
 
@@ -22,7 +22,7 @@ In Store Management – When you register multiple images of the store details, 
 
 **App application: Maker(V2) page → Home screen → Swing2App page →  Shop Main Page → App Creation  Request.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Swing store basic information settin**</mark>
 
@@ -62,7 +62,7 @@ Click on the detailed background image to open the file for attachment.
 
 Press the Shift key to select and register multiple images at once.
 
-***
+
 
 ### <mark style="color:blue;">**2. App production page**</mark>
 
@@ -90,7 +90,7 @@ Go to the Maker(V2) page step 3.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/ezgif.com-gif-maker-7.gif)
 
-***
+
 
 ### <mark style="color:blue;">**3. App Launch Screen – Check Slide**</mark>
 
@@ -104,7 +104,7 @@ The main page should have all the contents in the basic settings.
 
 Category, product registration must be shown like the image.
 
-***
+
 
 <mark style="color:red;">**★ Information**</mark>
 

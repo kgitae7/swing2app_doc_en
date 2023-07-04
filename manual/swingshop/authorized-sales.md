@@ -24,7 +24,7 @@ Apply content that can be viewed by each grade!
 
 **\*When purchasing the right authority ☞ Only the basic information board can be read**
 
-***
+
 
 <mark style="color:red;">**★ In order to sell rights in the swing store, 2 things must be done first.**</mark>
 
@@ -40,7 +40,7 @@ Once permissions have been created, you’ll need to set permissions on the bull
 
 A bulletin board can be viewed by all levels, B bulletin board is visible only to members of the first level, C bulletin board is visible to members 1 to 3 grade, etc ..  Each bulletin board should be rated to access the bulletin board.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Create permission groups**</mark>
 
@@ -94,7 +94,7 @@ This is the first thing you need to do to sell your rights.
 
 From now on, we will create a category in the swing store menu and register the privilege product.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Product Category Registration after Swing Store Application**</mark>
 
@@ -136,7 +136,7 @@ Categories can still be added from that menu without limiting the number of cate
 
 You can edit the content by selecting the category, and delete the category with the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Digital Registration**</mark>
 
@@ -274,7 +274,7 @@ So it can be applied when you want to show your products by category.
 
 Go to the purchase page when selecting a product.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.6 Swing Stock Sample App) Confirm the purchase of permission change**</mark>
 

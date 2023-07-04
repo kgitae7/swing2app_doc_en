@@ -8,7 +8,7 @@ How to use the Google Play console support team
 
 Please check how to use the Google Customer Center below to receive consultation and help.
 
-***
+
 
 <mark style="color:blue;">**Contact the Google Play Console support team**</mark>
 

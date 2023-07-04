@@ -38,7 +38,7 @@ If you subsequently modify the app and proceed with the update, please select th
 If an update is required, please select the \[Update App] button to update the app version to use it.
 {% endhint %}
 
-***
+
 
 ## Check your app's creation history
 

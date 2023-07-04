@@ -20,7 +20,7 @@ Adding this feature allows you to place an image in the navigation area, or shad
 
 \*The app navigation design style is not a required feature, but an option. It’s optional! Please check and apply the style you want.
 
-***
+
 
 <mark style="color:blue;">**★ How to use the app navigation Style**</mark>
 
@@ -32,7 +32,7 @@ Adding this feature allows you to place an image in the navigation area, or shad
 
 **These features are not required but are optional, so you don’t have to apply them.**
 
-***
+
 
 ### <mark style="color:blue;">**1. App Navigation Style – Default**</mark>
 
@@ -44,7 +44,7 @@ If you set the skin color to blue, the navigation will also be shown as a blue c
 
 If you want to make a default style, please check ‘Default’.
 
-***
+
 
 ### <mark style="color:blue;">**2. Navigation App – Register background image**</mark>
 

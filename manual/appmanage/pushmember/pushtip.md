@@ -18,7 +18,7 @@ Therefore, please show the important message to the user first in the push, and 
 
 When you send a push, the message is checked first, then the Go button takes you to that link page.
 
-***
+
 
 <mark style="color:blue;">**▶ To send a push (How to send a push)**</mark>
 
@@ -40,7 +40,7 @@ When you send a push, the message is checked first, then the Go button takes you
 
 <mark style="color:red;">\*If you want to send an existing push: Please uncheck if you want to go directly to the link page without displaying a message.</mark>
 
-***
+
 
 <mark style="color:blue;">**▶ App Launch Screen: Display Push Notification Message**</mark>
 
@@ -54,7 +54,7 @@ Press the \[Move] button to go to the applicable link page.
 
 <mark style="color:red;">The iPhone doesn’t see the push image, so you can also check the image by displaying the message.</mark>
 
-***
+
 
 <mark style="color:blue;">**▶ Compare Push Notifications**</mark>
 

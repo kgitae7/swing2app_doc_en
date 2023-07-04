@@ -14,7 +14,7 @@ You can set different search options for each app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/32@3x.png)
 
-***
+
 
 **▶ How to use hash-tags**
 
@@ -30,7 +30,7 @@ When entering a post, enter a search term in the hash-tag item.
 3\. Apply the bulletin board to the app.\
 Maker(V2) → Page menu → Apply the created hash-tag bulletin board to the app and save.
 
-***
+
 
 <mark style="color:blue;">**Board Management-Move hash-tag search option**</mark>
 
@@ -46,7 +46,7 @@ In **Advanced style,** select the post settings as per your requirement and sele
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b83.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. Create a hash-tag search option**</mark>
 
@@ -71,7 +71,7 @@ When you select the banner, you’ll see the option value (hash-tag search term)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/33@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Hash-tag Operator**</mark>
 
@@ -80,7 +80,7 @@ If you run multiple hash-tag options, you can use the hash-tag operator to set t
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b87.png)
 
-***
+
 
 \
 **★What is a hash-tag operator?**\
@@ -105,7 +105,7 @@ Therefore, if the hash-tag operator has created multiple search options,\
 And If you want to see all the values you choose, select ‘OR’.\
 If you want to filter out the values that correspond to the condition, you can select ‘AND’.
 
-***
+
 
 ### <mark style="color:blue;">**3. How to add a hash-tag search option. Checking with gif images**</mark>
 
@@ -114,7 +114,7 @@ If you want to filter out the values that correspond to the condition, you can s
 **If you applied the hash-tag feature on the board, you will need to go to that post and enter the hash-tag.**\
 **The hash-tags of posts and bulletin boards must be entered to match each other then the only search is possible.**
 
-***
+
 
 ### <mark style="color:blue;">**4. Entering hash-tag search terms in posts**</mark>
 
@@ -132,7 +132,7 @@ If you look at the bottom of the post, you can see the \[Hash-tag] icon.&#x20;
 
 As you typed the hash-tag option value, and you enter the same keyword and hit enter, the hash-tag is applied.
 
-***
+
 
 **▶ If you add or edit a hash-tag on an existing post**
 
@@ -144,7 +144,7 @@ If you want to add a hash-tag to the existing post only.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/hashtag.png)
 
-***
+
 
 ### <mark style="color:blue;">**5. Apply hash-tags to the app**</mark>
 

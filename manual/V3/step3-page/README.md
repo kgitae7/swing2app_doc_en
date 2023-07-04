@@ -8,7 +8,7 @@ The App Making V3 Authoring Manual shows you how to create STEP3 page steps.
 
 **\[Page STEP3] is a step to organize the contents of the app in earnest by creating categories and menus in the overall app tool that we have created earlier.**
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### STEP3 Page
 
@@ -18,7 +18,7 @@ You can see the menus you need to apply in the Screen Settings category on the l
 
 We'll show you how to apply the home screen and how to apply the main menu.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**How to apply the home screen
 
@@ -68,7 +68,7 @@ Select the Apply menu.
 
 
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Menu Management
 

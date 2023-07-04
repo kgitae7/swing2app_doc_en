@@ -2,19 +2,19 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/Paid\_app.png)
 
-How to switch and use swing-to-app paid apps (paid version)
+How to switch and use swing2app paid apps (paid version)
 
-<mark style="color:purple;">\*Free version app: Use for personal use (you can use it by posting on homepage, blog, and can be used to share APK files) \*but the store cannot be distributed</mark>
+<mark style="color:purple;">\*Free version app: Use for personal use \*but the store cannot be distributed</mark>
 
 <mark style="color:purple;">\*Paid version app: Store distribution (PlayStore, App Store, OneStore can all be released)</mark>
 
-<mark style="color:purple;">\*Free commercial version app: If you want to launch on the store but you are charged a fee, you can apply for a free commercial version with swing-to-app ads.</mark>
-
-For free, paid, and free commercial use according to the purpose of operating the Swing-to-App app, you can check the helper manual below for more details.&#x20;
+For free, paid, and free commercial use according to the purpose of operating the Swing2App app, you can check the helper manual below for more details.&#x20;
 
 **☞** [**See How to use Swing2App**](https://support.swing2app.com/swinguse/)
 
-If you wish to launch the store, you will need to use the paid app and purchase a subscription and store an upload ticket. Please check the manual below to find out how to use the paid app!
+If you wish to launch the store, you will need to use the paid app and purchase a subscription and store an upload ticket.&#x20;
+
+Please check the manual below to find out how to use the paid app!
 
 ***
 
@@ -24,7 +24,7 @@ Check out the manuals and tips for creating the app.
 
 After production is complete, you can switch to the paid app.
 
-All of the Swing-to-App apps can be made free of charge, and there is no limit to using all functions with the free version app until the store is distributed.
+All of the Swing2App apps can be made free of charge, and there is no limit to using all functions with the free version app until the store is distributed.
 
 **Therefore, if you do not have any problems after fully testing with the free version app, you can purchase a paid app pass and switch to the paid version.**
 
@@ -32,15 +32,19 @@ All of the Swing-to-App apps can be made free of charge, and there is no limit t
 
 <mark style="color:red;">\*Because the date of use starts counting immediately after purchase, be sure to purchase it when proceeding with the store upload.</mark>
 
-<mark style="color:red;"></mark>
+<figure><img src="../../.gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.1 Purchase of the pass and upload ticket**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-1.png)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-1.png" alt="">
+
+</div>
 
 Go to the **Manager → Online Store → Voucher & Tickets**
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**https://swing2app.com/view/shop\_list**</mark>](https://swing2app.com/view/shop\_list)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**https://swing2app.com/view/shop\_list**</mark>](https://swing2app.com/view/shop\_list)
 
 Please select a paid app pass and purchase a store upload ticket as well.
 
@@ -56,11 +60,13 @@ If you are unsure of the contents, please leave the inquiry board. We’ll help 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/Package.png)
 
-In addition to regular tickets, you can also check out the various packages offered by the Swing-to-App.
+In addition to regular tickets, you can also check out the various packages offered by the Swing2App.
 
 Please check the products that fit your app.
 
-Packages are much cheaper for the duration of use than to purchase a regular subscription. <mark style="color:purple;">**So if you’re thinking of using the app for the long term, rather than monthly, please check the package slot and purchase it.**</mark>
+Packages are much cheaper for the duration of use than to purchase a regular subscription.&#x20;
+
+<mark style="color:purple;">**So if you’re thinking of using the app for the long term, rather than monthly, please check the package slot and purchase it.**</mark>
 
 ***
 
@@ -70,11 +76,11 @@ Packages are much cheaper for the duration of use than to purchase a regular sub
 
 If you have purchased both the pass and upload ticket above, please go to the **Manager → Manage Version → Production History** page, and proceed with the upload request.
 
-****[**https://swing2app.com/view/app\_work\_history**](https://swing2app.com/view/app\_work\_history)****
+[**https://swing2app.com/view/app\_work\_history**](https://swing2app.com/view/app\_work\_history)
 
 If you click the **Play Store Upload Application** or **App Store Upload Application** button, an application window will appear.
 
-You must enter the app information you want to release in the store and click the Apply button to submit your application as a Swing-to-App.
+You must enter the app information you want to release in the store and click the Apply button to submit your application as a Swing2App.
 
 <mark style="color:orange;">\* After purchasing an upload ticket, you must proceed with the application as described above. Once you pay, the application is not accepted!</mark>
 
@@ -92,7 +98,7 @@ Once the application is completed, the PlayStore upload representative of Swing2
 
 <mark style="color:purple;">\*Play Store review period: 7 days</mark>
 
-<mark style="color:purple;">\*App Store review period: 1 week to 2 weeks</mark>
+<mark style="color:purple;">\*App Store review period: 7 days</mark>
 
 Due to the length of the screening time for each store, you will need to wait for the review period after you apply for the upload.
 
@@ -110,9 +116,13 @@ Due to the length of the screening time for each store, you will need to wait fo
 
 Once the store is launched, you’ll be able to see apps released from the PlayStore and App Store
 
-The App Store is exposed when you search for your app name immediately after the app is launched. The PlayStore doesn’t immediately search for names when the app is released.
+The App Store is exposed when you search for your app name immediately after the app is launched.&#x20;
 
-\*Google checks how active the app is to prevent indiscriminate launches and then turns it into exposure. Therefore, you’ll have to install a lot of apps, manage reviews, ratings, etc., so that you’ll be exposed to app name search over time.
+The PlayStore doesn’t immediately search for names when the app is released.
+
+\*Google checks how active the app is to prevent indiscriminate launches and then turns it into exposure.&#x20;
+
+Therefore, you’ll have to install a lot of apps, manage reviews, ratings, etc., so that you’ll be exposed to app name search over time.
 
 You’ll need to check the store policy so you don’t have to worry about using the app later.
 
@@ -123,6 +133,8 @@ Must-have! Please check.
 ***
 
 ### <mark style="color:blue;">**Frequently Asked Questions**</mark>
+
+
 
 **Q. How can I manage and operate the app when using the paid app? (What is different from the free version?)**
 
@@ -186,7 +198,11 @@ If you do not pay again after the paid app period expires, the use of the app wi
 
 <mark style="color:red;">However, when the app is initially launched, the message’The expiration date has expired’ appears and the app is stopped and terminated.</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2020/04/%EC%98%81%EB%AC%B8\_%EC%9D%B4%EC%9A%A9%EA%B8%B0%EA%B0%84%EB%A7%8C%EB%A3%8C.jpg)
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/04/%EC%98%81%EB%AC%B8_%EC%9D%B4%EC%9A%A9%EA%B8%B0%EA%B0%84%EB%A7%8C%EB%A3%8C.jpg" alt="" width="375">
+
+</div>
 
 Refer to the image) \*App run screen after the expiration date
 

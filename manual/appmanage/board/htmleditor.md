@@ -6,7 +6,7 @@
 
 When writing a bulletin board post, you can apply various styles such as text style, text size, text color, underline, and bold text to make the post look more beautiful than the existing bulletin board post.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ You can apply a variety of styles such as text style, text size, text color, und
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_07\_16\_46\_45\_744.gif)
 
-***
+
 
 ### <mark style="color:blue;">**2. Easy Editor Writing**</mark>
 
@@ -42,7 +42,7 @@ If you only write simple phrases, you can use them.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/board.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. Edit your post**</mark>
 
@@ -66,7 +66,7 @@ If you select the Full-Screen icon in the HTML Editor, the screen will be conver
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/html6.png)
 
-***
+
 
 > **HTML editor writing can be used in Swing2App homepage (PC web, mobile) post management.**
 >

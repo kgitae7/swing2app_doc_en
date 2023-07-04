@@ -14,7 +14,7 @@ The image editing tool provided by Swing2App allows you to easily edit and uploa
 
 This manual will tell you how to use the image editing tools that can be used to attach app icon images.
 
-***
+
 
 **▶ Where to use Image Editing Tools?**
 
@@ -40,7 +40,7 @@ When you select an app icon image, a file attachment window appears where you ca
 
 Click the \[Upload Image] button here to attach an image from the file.
 
-***
+
 
 ### <mark style="color:blue;">**2. The Image Size does not match**</mark>
 
@@ -50,7 +50,7 @@ The required App icon image size is 1024 X 1024 px.
 
 If the attached image does not match the size, a pop-up window appears to remind about the required size as shown in the above image. If you select ‘OK’, you will be directed to the image editing tool window.
 
-***
+
 
 ### <mark style="color:blue;">**3. Image Editing Tool**</mark>&#x20;
 
@@ -70,7 +70,7 @@ Therefore, <mark style="color:red;">**we recommend that you use an image that is
 
 When you finished editing the image, select the \[Upload (Finish)] button.
 
-***
+
 
 ### <mark style="color:blue;">**4. Correct Image Size**</mark>&#x20;
 
@@ -86,7 +86,7 @@ Check the uploaded image in the file attachment window and select the \[Apply] b
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_04\_13\_47\_44\_228.gif)
 
-***
+
 
 <mark style="color:blue;">**5. Register the App Icon Image**</mark>
 
@@ -103,7 +103,7 @@ If the image is edited with the size editing tool, the icon image is registered 
 **Please refer to the post for the app icon creation guide.**\
 **☞** [**\[Go to the app icon creation guide\]**](appicon.md)
 
-***
+
 
 **App Basics – App icon, in addition to the idle image.**
 

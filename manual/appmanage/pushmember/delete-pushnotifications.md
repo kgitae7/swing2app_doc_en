@@ -12,7 +12,7 @@ You can delete a list that has been pushed, or process it as a read.
 
 There are three ways to tell you in this manual.
 
-***
+
 
 <mark style="color:blue;">**★ Important Guide!**</mark>
 
@@ -22,7 +22,7 @@ General guests who do not register can check the list of incoming push notificat
 
 <mark style="color:red;">**The ability to delete and read notifications entirely is not available.**</mark> &#x20;
 
-***
+
 
 ### <mark style="color:blue;">**1. Push Notifications – Mark as read**</mark>
 
@@ -36,7 +36,7 @@ As the reading process is processed, the number of notifications in the notifica
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/push-1.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Push Notifications-Individual Deletion**</mark>
 
@@ -48,7 +48,7 @@ If you want to delete pushes individually like this, simply push the push list t
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/61@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. Push Notifications – Delete All**</mark>
 

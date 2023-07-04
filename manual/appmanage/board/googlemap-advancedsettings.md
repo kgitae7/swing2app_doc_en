@@ -18,7 +18,7 @@ The map bulletin board not only provides a map, but also allows you to enter a v
 
 ☞ [Go to see how to use the Google Maps bulletin board ](googlemap.md)
 
-***
+
 
 ### <mark style="color:blue;">**1. How to use the advanced settings of the Google map board**</mark>
 
@@ -32,7 +32,7 @@ The map bulletin board not only provides a map, but also allows you to enter a v
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2431.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Map Bulletin Board – Information on functions provided in advanced settings**</mark>
 
@@ -52,7 +52,7 @@ The map bulletin board not only provides a map, but also allows you to enter a v
 
 3\) Initial display format: When you open the map board, you can select whether to show the screen as a map or as a satellite screen.
 
-***
+
 
 <mark style="color:blue;">**3. Mobile app execution screen**</mark>
 

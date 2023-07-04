@@ -4,7 +4,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 <mark style="color:purple;">Let’s check out the functioning of Survey with some examples.</mark>&#x20;
 
-***
+
 
 **Sample 1. Hotel**
 
@@ -27,7 +27,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-2.png)
 
-***
+
 
 **Sample 2. Hair and Beauty Salon**
 
@@ -48,7 +48,7 @@ In todays time alot of app builders need to conduct survey for their app users w
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Salon-%E2%80%93-7.png)
 
-***
+
 
 **Sample 3. E-commerce (Shopping app)**
 
@@ -71,6 +71,6 @@ NOTE - If the survey is already submitted by the user, then a pop-up will show t
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Canvas-%E2%80%93-10.png)
 
-***
+NOTE -  Admin can check the survey answer of all the users who submitted the survey. <mark style="color:purple;">Check the image below:</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-3.png)

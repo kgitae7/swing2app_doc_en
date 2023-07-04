@@ -18,7 +18,7 @@ Push device management is a newly added function. After registering a test devic
 
 Please check how to use push device management through the manual below.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Go to Push device management**</mark>&#x20;
 
@@ -54,7 +54,7 @@ That information becomes device\_token information.
 
 Therefore, you can register the device by checking the same device as the device information in Push Device Management.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Sending a test push**</mark>
 

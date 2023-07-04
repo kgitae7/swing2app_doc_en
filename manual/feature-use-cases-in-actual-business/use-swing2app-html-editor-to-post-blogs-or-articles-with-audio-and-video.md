@@ -4,7 +4,7 @@ Swing2App has its own inbuilt HTML editor for writings posts, articles, blogs, e
 
 <mark style="color:purple;">Let’s write one blog for e-magazine about ‘Earth’ for the ‘Nature’ bulletin board of the app using HTML editor in Posts on Swing2App.</mark>
 
-***
+
 
 **Bulletin Board**  Nature\
 **Board UI** Large Size\

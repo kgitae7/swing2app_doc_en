@@ -12,7 +12,7 @@ When you add this feature, you can put a background image in your main home page
 
 <mark style="color:orange;">**\*The app’s main design style is optional, not a mandatory feature. It is optional!! So please check and apply the style you want. ^^**</mark>
 
-***
+
 
 <mark style="color:blue;">★</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**How to use App Main Design Style**</mark>
 
@@ -24,7 +24,7 @@ You can select a prototype, choose a skin color, and then check it out.
 
 These features are not required, but they are optional, so you don’t have to apply them.
 
-***
+
 
 ### <mark style="color:blue;">**1. App Main Design Style – Default**</mark>
 
@@ -34,7 +34,7 @@ These features are not required, but they are optional, so you don’t have to a
 
 If you want to make a default style, please check ‘Default’.
 
-***
+
 
 ### <mark style="color:blue;">**2. App Main Design Style – Image-Based**</mark>
 
@@ -64,7 +64,7 @@ Therefore, **when inserting a background image, it is recommended that you inser
 
 <mark style="color:red;">Therefore, if you do not link the swing2app page as shown above, you may not see the image applied to the background.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**3. App Main Design Style – Image-Based + Background Mask**</mark>
 

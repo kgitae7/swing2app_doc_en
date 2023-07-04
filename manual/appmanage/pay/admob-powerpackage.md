@@ -4,7 +4,7 @@
 
 **How to use AdMob Power Package product**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is AdMob Power Package? Offer service?**</mark>
 
@@ -38,7 +38,7 @@ It is offered at a discount of $275 compared to purchasing as an individual prod
 
 \*AdMop plug-in single product $220 for purchase
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to use AdMob Power Package**</mark>
 
@@ -108,7 +108,7 @@ Please check as the person in charge will send you a separate e-mail for the sub
 
 Please check the store registration policy and usage policy in advance.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. AdMob Power Package Usage Guide and Precautions**</mark>
 
@@ -182,7 +182,7 @@ If you want to apply a package product to three apps, you must purchase the pack
 
 Therefore, a refund is only possible before the AdMob setting work.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. Notes on AdMob Ad Settings**</mark>
 

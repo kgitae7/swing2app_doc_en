@@ -86,7 +86,7 @@ If you preview, you can check the terms of service.
 
 You can copy the URL listed in the upper site address column and paste it into the Privacy Policy URL field.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 For WebViews and Push apps, please provide the website privacy policy.**</mark>
 
@@ -104,7 +104,7 @@ Then, you can easily modify the privacy policy you have already created without 
 
 \*\* If you made a push or web view app, please make sure to put the page in the website linked to the app ^^
 
-***
+
 
 ### <mark style="color:blue;">**STEP3. Entering the Privacy Policy URL in the Play Store**</mark>
 
@@ -163,7 +163,7 @@ If selected, the page written in the Swing2App App Subscription Policy-Terms of 
 
 6\. Paste the URL copied above into the ‘Personal Information Processing Policy’ field and click the \[Save] button to complete
 
-***
+
 
 <mark style="color:red;">**\[Notes on policy change]**</mark>
 

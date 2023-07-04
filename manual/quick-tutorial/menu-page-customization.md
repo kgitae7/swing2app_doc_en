@@ -2,7 +2,7 @@
 
 **Page Menu** is the most important step in app production. During the **Page Menu** step, you can create **the home screen and categories in the menu for your app.**&#x20;
 
-***
+
 
 **Main & Menu Management**
 
@@ -32,7 +32,7 @@
 
 **1.  You can create up to 3 levels(Parent Menu -> Main Menu -> Sub Menu). You can’t add an item under sub-menu.**
 
-***
+
 
 &#x20;
 
@@ -45,7 +45,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/pm3.png)
 
-***
+
 
 &#x20;
 
@@ -59,7 +59,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/pm4-1.png)
 
-***
+
 
 &#x20;
 
@@ -98,7 +98,7 @@
 
 <mark style="color:blue;">For Detailed Guide on Page Menu Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../maual/pagemenu/)
 
-***
+
 
 **Menu Type**&#x20;
 

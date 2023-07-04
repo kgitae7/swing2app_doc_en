@@ -6,7 +6,7 @@
 
 Once you’ve modified app content and confirmed update type, let’s see how the update works in the actual app depending on the type of update.
 
-***
+
 
 > **App Lunch Screen: Update Types**
 

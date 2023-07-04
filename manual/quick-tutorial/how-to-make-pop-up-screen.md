@@ -2,7 +2,7 @@
 
 **Pop-ups** are an image notification tool by which you can notify your users about events & offers. Swing2App provides 4 different types of pop-up screen style.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. How To Create Pop-Ups**</mark>
 
@@ -18,7 +18,7 @@ You’ll be directed to the pop-ups management page,  where you can create & edi
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/p1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. Link Pop-Up Image**</mark>
 

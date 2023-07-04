@@ -11,7 +11,7 @@ Since we don’t know what to put on the home screen when we first created the a
 
 So the home screen is, of course, in addition to the app introduction page, a variety of other menus like – image pages, web templates, HTML editor pages, images, bulletin boards, weblinks, etc.  can be freely changed.
 
-***
+
 
 ### <mark style="color:blue;">**01. App Introduction – Apply to the App**</mark>
 
@@ -31,7 +31,7 @@ Go to App Production Page – Page Menu.
 
 6\) Select the \[Apply] button once more, and, 7)Press the \[Save] button at the top to apply it to the app.
 
-***
+
 
 ### <mark style="color:blue;">**02. App Launch Screen: Check the app introduction page**</mark>
 
@@ -47,7 +47,7 @@ Therefore, you do not have to use the home screen as an ‘app introduction’.
 
 You can make your home screen with various other menus.
 
-***
+
 
 ### <mark style="color:blue;">**03. App introduction page – How to edit the menu (contents)**</mark>
 
@@ -78,7 +78,7 @@ If you want to make the multi-button visible, just press the RESET button on eac
 
 You can see that the navigation button at the bottom of the app introduction screen is missing.
 
-***
+
 
 **★ For more information on the app menu, please refer to the link posted below.**
 

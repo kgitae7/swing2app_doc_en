@@ -19,7 +19,7 @@ Clicking on the **Help** will take you to the corresponding help manual site des
 
 Therefore, when you want to check the manual while creating an app, be sure to check the **Help,** to view the manual.
 
-***
+
 
 &#x20;
 
@@ -111,7 +111,7 @@ In addition to a fixed color combination, detailed color settings are an option 
 
 <mark style="color:orange;">**\*If you’ve applied both prototypes and skin colors in the design theme, save them and go to the next level in the page menu.**</mark>
 
-***
+
 
 &#x20;
 
@@ -242,7 +242,7 @@ Therefore, please first check how to use each menu.
 
 <mark style="color:red;">When the production is completed with the page menu, press the app production request button to complete the app production.</mark>&#x20;
 
-***
+
 
 &#x20;
 
@@ -258,7 +258,7 @@ Therefore, please first check how to use each menu.
 
 &#x20;
 
-***
+
 
 &#x20;
 
@@ -307,7 +307,7 @@ With the app preview described above, you can download the app from your Android
 
 <mark style="color:red;">\*APK file installation can only be done on Android Phones. (iPhone not supported)</mark>
 
-***
+
 
 <mark style="color:red;">**★ App Preview**</mark>
 

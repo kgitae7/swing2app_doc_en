@@ -4,7 +4,7 @@
 
 Swing2App offers paid app vouchers and various paid products. Users can select and use the products they need.
 
-***
+
 
 <mark style="color:blue;">**Vouchers and Tickets**</mark>
 
@@ -14,7 +14,7 @@ Swing2App offers paid app vouchers and various paid products. Users can select a
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/d.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. Introduction to Paid Products**</mark>
 
@@ -56,7 +56,7 @@ You can find a total of 9 Swing2App paid product types in Vouchers & Tickets pag
 
 **☞**  [**Click here to view Swing2App Ticket FAQ**](https://support.swing2app.com/faq/%E2%96%B6swing2app-paid-product-voucher-faq/)
 
-***
+
 
 ### <mark style="color:blue;">**2. Purchase a swing2app paid product**</mark>
 
@@ -136,7 +136,7 @@ Therefore, it is not possible to confirm which customer paid which product and w
 
 Please do not forget to press the button.
 
-***
+
 
 ### <mark style="color:blue;">**3. Buy Swing2App Plug-in**</mark>
 
@@ -186,7 +186,7 @@ If you select the small triangular icon on the left side of the payment list, yo
 
 **\*Receipt can only be checked for payments made by electronic payment, excluding bankbooks and direct account transfer payments.**
 
-***
+
 
 <mark style="color:red;">**\*\* Please note when paying \*\***</mark>
 

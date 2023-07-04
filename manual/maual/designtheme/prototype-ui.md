@@ -8,7 +8,7 @@
 
 Check out the manual and see the prototype app screen with each prototype design description.
 
-***
+
 
 <mark style="color:blue;">**\* Prototype Singularity 1**</mark>
 
@@ -53,7 +53,7 @@ You can’t change your home address if you use unlimited items.
 
 ☞ [**\[For Swing2App unlimited web view use plug-in\]**](../../appmanage/pay/webview-unlimited.md)&#x20;
 
-***
+
 
 **▶ App production page – When applying the prototype in the design theme, the design is applied directly to the virtual machine on the right.**
 
@@ -61,7 +61,7 @@ You can’t change your home address if you use unlimited items.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_04\_14\_12\_14\_652.gif)
 
-***
+
 
 ### <mark style="color:blue;">**1. Slide Menu**</mark>
 
@@ -93,7 +93,7 @@ After deleting the 1 menu, you can create it with the menu button on the left si
 
 Maker(V2) page> Design theme → Prototype: Select slide> Page menu →**Delete all right or left sub-menu**→ Save → Request app production
 
-***
+
 
 ### <mark style="color:blue;">**2. Top Menu**</mark>
 
@@ -111,7 +111,7 @@ In the Top Style, **you can check the subcategory contents by selecting the menu
 
 You can easily check the entire menu at a glance.
 
-***
+
 
 ### <mark style="color:blue;">**3. Footer Menu**</mark>
 
@@ -129,7 +129,7 @@ In contrast to the top menu, **this menu is located at the bottom.**
 
 Selecting the same category opens a sub-category.
 
-***
+
 
 ### <mark style="color:blue;">**4. Drop Down List Menu**</mark>
 
@@ -145,7 +145,7 @@ The drop-down style is a style with one top menu, **cascading menus, and categor
 
 You can organize multiple menus and categories, which can be useful if you need to put a lot of menus in your app.
 
-***
+
 
 ### <mark style="color:blue;">**5. Drop-Down Box Menu**</mark>
 
@@ -162,7 +162,7 @@ You can organize multiple menus and categories, which can be useful if you need 
 
 **The drop-down box opens up a square sub-menu when the top menu is selected.**
 
-***
+
 
 ### <mark style="color:blue;">**6. Push Menu**</mark>
 
@@ -183,7 +183,7 @@ Click the bottom push settings button to turn on or off the push notifications.
 
 <mark style="color:red;">**★**</mark> [**\[Super Simple! Go to the Push Version App Production Manual\]**](../appbasic/push-webview.md)
 
-***
+
 
 &#x20;
 

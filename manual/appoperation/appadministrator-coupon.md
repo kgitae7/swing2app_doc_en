@@ -14,7 +14,7 @@ After launching the app, select the \[Settings] menu → \[Administrator Login] 
 
 Please check the manual on how to use the coupon.
 
-***
+
 
 <mark style="color:blue;">**▶App Administrator login**</mark>
 

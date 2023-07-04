@@ -30,7 +30,7 @@ iPhone users will not be able to see the free version of the app on the iPhone u
 
 Instead, download the ‘Swing2App Preview’ app created by our swing2app and log in to see the preview.
 
-***
+
 
 .
 
@@ -74,7 +74,7 @@ After storing the file on the PC, you can download it to your phone and install 
 
 We’ll show you how to download the app to your Android phone below.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 How to download APK files from your Android phone**</mark>
 
@@ -126,7 +126,7 @@ Only android phone users can install APK files directly on their mobile phones.
 >
 > **As a result, push and web-view apps are not available on the iPhone, and can be downloaded only on Android phones.**
 
-***
+
 
 **2. Download APK file directly (Android phone only)**
 
@@ -174,7 +174,7 @@ Apps created in the free version can also be downloaded and used on Android phon
 
 Free users can use the same functions and app operations as paying users.
 
-***
+
 
 **3. Access the mobile Swing2App site**
 

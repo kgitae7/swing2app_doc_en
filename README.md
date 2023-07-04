@@ -4,13 +4,13 @@ description: '[Swing2App] Update for 4th Week of June [Web App Converter app rel
 
 # Swing2App Update
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **\[Update Information]**
 
 **Swing2App Web App Converter app released**
 
-<figure><img src=".gitbook/assets/구분선.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## ![](https://ncdn2.swing2app.co.kr/public/swing\_notice\_editor\_attach/10271686/20233303.png) **Swing2App Web App Converter app released**
 
@@ -78,5 +78,5 @@ So, Check out the features available in the toolbar.&#x20;
 4\)Since it is not an actual app, functions such as push notification cannot be used.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

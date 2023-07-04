@@ -42,7 +42,7 @@ If you've created a template page, you'll need to apply it to your app, right?
 
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
 
@@ -58,7 +58,7 @@ From the home screen, each menu was all applied to the app using the Hotel03 tem
 
 [**http://wp.swing2app.co.kr/template-page/**](http://wp.swing2app.co.kr/template-page/)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
 
@@ -94,7 +94,7 @@ I'll tell you how to use it in detail below\~!
 
 **\*Users can select a page with the desired design.**
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
 
@@ -164,7 +164,7 @@ Items are reflected on the page as soon as they are modified.
 
 When all is done, press the \[Save] button and the page is finished saving as you are working.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page to app
 
@@ -198,11 +198,11 @@ You can also apply a template page to a menu.
 
 \*Menu icon during the production phase, menu settings are not applicable to HOME and are not required.
 
-**\*\*\*\* App launch** <mark style="color:red;"></mark> **screen) Template Page**&#x20;
+**\*\*\*\* App launch** **screen) Template Page**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP. 4** Editing the template page (how to modify)
 

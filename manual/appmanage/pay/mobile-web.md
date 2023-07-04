@@ -12,7 +12,7 @@ You can register the app created in Swing2App as a mobile website. &#x20;
 
 If you purchase a domain separately, purchase a mobile web registration ticket, and request a mobile web registration fee, we will register the app with the website.&#x20;
 
-***
+
 
 <mark style="color:orange;background-color:yellow;">**▶ Mobile web application as a swing2app official app**</mark>
 
@@ -32,11 +32,11 @@ Completion of the app: Manager → Online Stores of Swing2app Vouchers & Tickets
 
 **You can apply for mobile web registration only in the paid version of the paid app.**
 
-***
+
 
 &#x20;
 
-***
+
 
 ### <mark style="color:blue;">**1. Purchase a mobile web upload ticket**</mark>
 
@@ -64,7 +64,7 @@ If you pay for one year, you can use the mobile website for one year.
 
 **\*You can purchase the mobile web registration ticket from the **<mark style="color:blue;">**Swing2App Manager page → Online Stores → Vouchers & Ticket, ticket purchase page.**</mark>
 
-***
+
 
 ### <mark style="color:blue;">**2. Apply for mobile web registration**</mark>
 
@@ -109,7 +109,7 @@ Once your mobile web registration is complete, you will receive a completed emai
 
 Select \[Confirm Mobile Web Registration].
 
-***
+
 
 ### <mark style="color:blue;">**4. Launch the Mobile Web**</mark>
 
@@ -129,7 +129,7 @@ You can implement your app to appear as a website.
 3\. If rejected by the App Store review, alternatively, iPhone users can use the mobile web.\
 4\. If you need a mobile website and the production cost is too high, you can use it with the app.
 
-***
+
 
 <mark style="color:red;">**\[Mobile web registration notice]**</mark>
 

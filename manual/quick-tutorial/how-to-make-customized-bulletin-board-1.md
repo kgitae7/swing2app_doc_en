@@ -2,7 +2,7 @@
 
 Swing2App provides a tool for **Surveys**, that administrator can use to create questionnaires & send it to users of the app.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. How To Create Surveys**</mark>
 
@@ -25,7 +25,7 @@ It will direct you to the survey management page where you can create Surveys.
 
 **1.  Items marked with** <mark style="color:red;">\*</mark> **are mandatory items.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. How To Apply Survey To Your App**</mark>
 

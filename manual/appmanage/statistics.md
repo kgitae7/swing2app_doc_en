@@ -10,7 +10,7 @@ You can check the information required to run the app, so if you want to check t
 
 Please check the manual on how to use the statistics function.
 
-***
+
 
 <mark style="color:blue;">**▶ How to use the Analytics function**</mark>   &#x20;
 
@@ -22,7 +22,7 @@ We will tell you about each menu feature and how to use.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-07-17-at-5.10.08-PM.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. User Pageview**</mark>
 
@@ -34,7 +34,7 @@ All statistics can be selected from 3 months, 1 month, and 1 week.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ana2.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Hourly Page View**</mark>
 
@@ -44,7 +44,7 @@ Time phased statistics can help you determine which time zone receives the highe
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ana1.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. Device Usage**</mark>
 
@@ -52,7 +52,7 @@ Time phased statistics can help you determine which time zone receives the highe
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ana4.png)
 
-***
+
 
 ### <mark style="color:blue;">**4. Features Usage**</mark>
 
@@ -60,7 +60,7 @@ Time phased statistics can help you determine which time zone receives the highe
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ana3.png)
 
-***
+
 
 ### <mark style="color:blue;">**5. Push Notification Data**</mark>
 
@@ -68,7 +68,7 @@ Time phased statistics can help you determine which time zone receives the highe
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ana5.png)
 
-***
+
 
 ### <mark style="color:blue;">**6. New user data**</mark>
 
@@ -80,7 +80,7 @@ Time phased statistics can help you determine which time zone receives the highe
 
 <mark style="color:red;">You can check the number of registered members only on the date you lookup for.</mark> &#x20;
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:orange;">**▶You can check the number of members using the app on the Manager page.**</mark>
 
@@ -100,7 +100,7 @@ You can check the number of app members.
 
 **The Store lets you see how many apps install you have over time, so you can see how many people are downloading and using your app.**
 
-***
+
 
 ### <mark style="color:blue;">**7. Member Usage**</mark>
 
@@ -114,7 +114,7 @@ By setting the period shown at the top, you can check the usage statistics by th
 
 **\*The usage index is the total number of times you used all the features of the app.**
 
-***
+
 
 ### <mark style="color:blue;">**8. Post Views, Like Status**</mark>
 

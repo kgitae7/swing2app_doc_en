@@ -8,7 +8,7 @@ We will tell you how to switch to the free version app from the paid version aft
 
 Therefore, if you are using the free app again after the expiration of the paid version period, you can use the relevant manual.
 
-***
+
 
 **first! Please check the precautions below before looking at the conversion method !!**
 
@@ -58,7 +58,7 @@ As a result, the switched app is not available on the iPhone and is only availab
 
 (App Store will be provided upon request)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Paid app usage screen expired**</mark>
 
@@ -144,7 +144,7 @@ You can upload an app so that it is not visible in the store, such as by unpubli
 
 Those who have registered for the App Store with a Swing to App Apple account can drop the app by leaving it as an inquiry board!
 
-***
+
 
 <mark style="color:orange;">**★ How to use**</mark>
 

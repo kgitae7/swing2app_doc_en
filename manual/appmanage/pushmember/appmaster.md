@@ -34,7 +34,7 @@ The sub-administrator setting is the same as the administrator setting. Please c
 
 **☞** [**Click here to view how to set up an associate administrator**](associate-administrator.md)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Sign up for the app**</mark>
 
@@ -56,7 +56,7 @@ Let’s change that rating to ‘Admin’.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/56@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 App Operations Dashboard – Changing Administrator Level**</mark>
 

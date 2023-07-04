@@ -26,7 +26,7 @@ This post will show you a variety of menus that can be applied to your home scre
 > 6. User Page – Editor’s Page
 > 7. App Introduction Page
 
-***
+
 
 > **Swing2App home screen production can be applied from the Swing2App Maker(V2) page → page menu → Main & Menu Management → Home screen.**
 
@@ -53,7 +53,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 **If you look at the mobile phone virtual machine on the right, you can see the swing2app homepage has been applied to the home screen.**
 
-***
+
 
 ### <mark style="color:blue;">**2. Apply Image**</mark>
 
@@ -84,7 +84,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 If you are uncomfortable with this part of the app, we recommend that you create a separate image page.
 
-***
+
 
 ### <mark style="color:blue;">**3.**</mark> <mark style="color:blue;">**Applying the bulletin board**</mark>
 
@@ -112,7 +112,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 **If you look at the virtual machine on the right, you can see the bulletin board is applied to the home screen.**
 
-***
+
 
 ### <mark style="color:blue;">**4. Apply image page**</mark>
 
@@ -146,7 +146,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 **If you look at the virtual phone on the right, you can see that the image page has been applied to the home screen.**
 
-***
+
 
 ### <mark style="color:blue;">**5. Apply web template page**</mark>
 
@@ -207,7 +207,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_12\_16\_22\_31\_474.gif)
 
-***
+
 
 ### <mark style="color:blue;">**7.  App Introduction Page**</mark>
 
@@ -240,7 +240,7 @@ Go to **Maker(V2)** and click **Page Menu.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_12\_16\_29\_49\_668.gif)
 
-***
+
 
 **▶The description, address, email address, phone number, website address, etc. on the app introduction page can be modified in the advanced settings.**
 

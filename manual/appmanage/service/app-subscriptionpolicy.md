@@ -26,7 +26,7 @@ App subscription policy manages various policies such as permissions and terms f
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Policy9.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. App Privacy(Visibility)**</mark>
 
@@ -98,7 +98,7 @@ After editing the message text on the page, press the **Save** button to save it
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-205@3x-1.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. Terms of Service: Terms of Service and Privacy Policy**</mark>
 

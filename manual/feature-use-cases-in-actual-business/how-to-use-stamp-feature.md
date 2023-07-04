@@ -4,7 +4,7 @@ Swing2App provides Stamp feature which user can use as a digital loyalty card or
 
 <mark style="color:purple;">Let’s check out the functioning of Stamp with some examples.</mark>&#x20;
 
-***
+
 
 **Sample 1. Hair and Beauty Salon**
 
@@ -25,7 +25,7 @@ Swing2App provides Stamp feature which user can use as a digital loyalty card or
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/M\_test5.jpg)
 
-***
+
 
 **Sample 2. Event Attendance**
 

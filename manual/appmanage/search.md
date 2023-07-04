@@ -12,9 +12,9 @@ If you are an app administrator, this is a useful feature.
 
 It’s very easy! Please check the manual on how to use it.
 
-***
 
-***
+
+
 
 ### <mark style="color:blue;">▶</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**What is the full search function?**</mark>
 
@@ -34,7 +34,7 @@ Select the icon, then enter the keyword you want in the search box which will op
 
 **Manager → top-right magnifying glass (Full Search) → select icon → search term in the search box.**
 
-***
+
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/search2.png)
 

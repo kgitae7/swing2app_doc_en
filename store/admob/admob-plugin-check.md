@@ -12,7 +12,7 @@ Please check once more the contents announced in Swing2App.
 
 The order in which the manual guides you is not relevant. Please check all the contents.
 
-***
+
 
 ### <mark style="color:blue;">**1. Check whether the ad ID and app ID are correctly entered in the AdMob plugin.**</mark>
 
@@ -166,7 +166,7 @@ If the ad for AdMob test ads appear well in the app, there is no problem with th
 
 In general, it may take the usual time for the ad to be distributed to the app due to the ad sending time.
 
-***
+
 
 The AdMob plugin settings provided by Swing2App are available only by purchasing the ‘AdMob Application Plugin ($220)’ product of Swing2App.
 

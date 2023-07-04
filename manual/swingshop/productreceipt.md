@@ -18,7 +18,7 @@ After the 2019.05 update, it has been updated to allow the administrator to sele
 
 Please check the manual to find out how to pick up the physical goods.
 
-***
+
 
 ### <mark style="color:blue;">**01. How to set up to receive the goods**</mark>
 
@@ -38,7 +38,7 @@ Please refer to the following manual for the complete manual for registering sho
 
 **▶\[**[**Go to the swing store physical product registration manual\]**](registration.md)
 
-***
+
 
 <mark style="color:orange;">**Q. Where can I find out how to receive the product?**</mark>
 
@@ -60,7 +60,7 @@ You can also choose your shipping request.
 
 <mark style="color:red;">If you want to receive delivery to a different address, you can register an additional new destination by editing on \[Shipping Address].</mark>
 
-***
+
 
 ### <mark style="color:blue;">**02. App launch screen) How to receive: Select ‘Receive Directly’**</mark>
 
@@ -74,7 +74,7 @@ Select the date below to open the date box, and you can choose the date you want
 
 <mark style="color:red;">\*And because you need to visit the business to pick it up yourself, it will be listed with \[business listing: address, contact, opening hours].</mark>
 
-***
+
 
 ### <mark style="color:blue;">**03. App launch screen) How to pick up: Select ‘User’s Choice’**</mark>
 
@@ -86,7 +86,7 @@ By selecting ‘Delivery Method’, the user can select the desired delivery met
 
 The contents of the order details page will change according to the selected delivery method.
 
-***
+
 
 ### <mark style="color:blue;">**04. Check order information**</mark>
 
@@ -108,7 +108,7 @@ On the swing2app Manager page
 
 4\) You can see the delivery method chosen by the orderer.
 
-***
+
 
 <mark style="color:red;">​</mark><mark style="color:red;">**\[Instructions]**</mark>
 

@@ -77,7 +77,7 @@ We can upload your app to your console site without sharing your account informa
 
 <mark style="color:red;">The Google developer invitation is used for app registration only by checking only the user’s Google Play console without accessing the user’s Google account.</mark>&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Follow up**</mark>
 

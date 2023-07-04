@@ -24,7 +24,7 @@ They are all marked as ‘guests’.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b99.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Send Push**</mark>
 
@@ -39,7 +39,7 @@ They are all marked as ‘guests’.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b100.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Send Push Screen**</mark>
 

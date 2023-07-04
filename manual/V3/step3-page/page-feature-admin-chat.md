@@ -12,7 +12,7 @@ You can send and receive conversations in real time, like KakaoTalk or Messenger
 
 Please check the manual to find out how to use the admin chat (1:1 chat).
 
-***
+
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
@@ -116,7 +116,7 @@ If you use the admin chat feature, please add a chat list to the menu as well.
 
 ☞<mark style="color:blue;">**See how to use the chat list**</mark>
 
-***
+
 
 **How can admins chat with app members?**
 
@@ -127,7 +127,7 @@ Check out below how admins can chat with app members!!
 {% hint style="success" %}
 **How can admins chat with app members?**
 
-***
+
 
 Administrators can have a conversation by selecting members from the member lookup menu provided by the swing web (app operation page). Check out below how admins can chat with app members!!
 {% endhint %}
@@ -136,7 +136,7 @@ Administrators can have a conversation by selecting members from the member look
 
 Administrators can chat on the web (swing homepage) or use it in the app.
 
-***
+
 
 **1) Move the member inquiry page**
 
@@ -168,7 +168,7 @@ If you have multiple administrators, you can use them when you need to share you
 When you chat to have a public conversation, other managers are also pushed when the app member enters the chat message.
 {% endhint %}
 
-***
+
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2dc13263a89461196d4b6b6b8e942d77.png)
 
@@ -242,6 +242,5 @@ To learn how to use Group Chat, please check the manual below!
 **☞**[ ](https://wp.swing2app.co.kr/documentation/appmanage/board/groupchat/)<mark style="color:blue;">**\[View Group Chat How-to Manual]**</mark>
 {% endhint %}
 
-***
 
-***
+

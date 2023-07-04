@@ -4,7 +4,7 @@ description: Bulletin Boards – How to Write a Post
 
 # Bulletin Board – How to Enter Posts
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 There are many ways to write a post.
 
@@ -14,7 +14,7 @@ There are many ways to write a post.
 
 Please check the manual entry method below.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. Creating a post on the app operation page (admin page)
 
@@ -95,7 +95,7 @@ After confirming that the video is attached properly, attach the content and ima
 
 </div>
 
-***
+
 
 ### <mark style="color:blue;">**4. List of posts written**</mark>
 
@@ -109,7 +109,7 @@ Posts can be edited, deleted, and pushed.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-04-28-at-13.25.35.png)
 
-***
+
 
 <mark style="color:orange;">**▶ You can check it more easily if you look at the image.**</mark>
 
@@ -151,7 +151,7 @@ Please refer to the posting below for details on how to use it.
 
 **☞**[**\[Go to see how to use the bulletin board copy\]**](copy-board.md)
 
-***
+
 
 <mark style="color:green;">**2. Important Post Management Information**</mark>
 
@@ -181,7 +181,7 @@ You can choose video attachment, photo attachment, or file attachment.
 
 \*The functions applied to post management are three functions: video attachment, file attachment, and photo attachment!
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Write a post in the app
 
@@ -232,7 +232,7 @@ You can check the edit, delete, and share functions by selecting the top three d
 
 You can also share the post with other applications – katok, mail, and more.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. App production page – creating in the virtual machine
 

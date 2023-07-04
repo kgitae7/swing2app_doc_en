@@ -19,7 +19,7 @@ When you receive a coupon by e-mail, you can apply a coupon such as a ticket to 
 
 Check the coupon number, enter the number in the coupon use menu, and use it.
 
-***
+
 
 ### <mark style="color:blue;">**1. We will send a coupon to your swing2app subscription account (email).**</mark>
 
@@ -35,7 +35,7 @@ The coupon that was sent contains the coupon number, brand name, and expiration 
 
 <mark style="color:red;">\*You need to know the coupon number to use. Please copy the coupon number from the e-mail and paste it on the notepad.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**2. Use Coupon**</mark>
 
@@ -55,7 +55,7 @@ Please click ‘OK’ in the coupon use a pop-up window to complete the applicat
 
 **If you manage multiple apps in one account, make sure you are sure that the app you want to apply for the voucher coupon is correct.**
 
-***
+
 
 ### <mark style="color:blue;">**3. My payment status**</mark>
 

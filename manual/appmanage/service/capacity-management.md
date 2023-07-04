@@ -12,7 +12,7 @@ Large files can be deleted by selecting the post.\
 You can check which image file is registered by previewing.\
 Please check the manual on how to use resource management.
 
-***
+
 
 <mark style="color:blue;">**Frequently Asked Questions about App Capacity**</mark>
 
@@ -37,7 +37,7 @@ You can purchase low-priced items on the swing2app vouchers and ticket payment p
 If you go to the resource management page, you can see the list of each post.\
 You can check the contents of the post by clicking on **Move** under selecting Preview now and can delete the post if not required. The more post you delete, the more capacity you have.
 
-***
+
 
 ### <mark style="color:blue;">**1. Resource Management**</mark>&#x20;
 
@@ -79,7 +79,7 @@ If you want to delete the post with high capacity, old post, or post not require
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/e16.png)
 
-***
+
 
 <mark style="color:red;">**★Please note**</mark>
 
@@ -89,4 +89,3 @@ If you want to delete the post with high capacity, old post, or post not require
 
 **3. If the app capacity is exceeded, the app will be stopped. Same with the paid apps, the app will be suspended if the capacity is exceeded, even if the days of usage remain**.
 
-***

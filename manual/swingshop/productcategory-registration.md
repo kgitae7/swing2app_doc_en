@@ -20,7 +20,7 @@ Please first apply for the swing store. You need to apply for the swing store to
 
 You must apply for the swing store to create a \[Swing Store] menu at the top of the app operation page.
 
-***
+
 
 ### <mark style="color:blue;">**1. Product Category Registration Management**</mark>
 
@@ -30,7 +30,7 @@ You must apply for the swing store to create a \[Swing Store] menu at the top of
 
 In the swing Shop menu, go to Products → Product Category Registration  page.
 
-***
+
 
 ### <mark style="color:blue;">**2. Register product categories**</mark>
 
@@ -58,7 +58,7 @@ Product Category Registration Page.
 
 <mark style="color:red;">\*Categories must include a name that includes the product. Example) Top, Bottoms, Accessories… This is what you see.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**3. Category registration completed**</mark>
 
@@ -70,7 +70,7 @@ You can add more categories from the menu without limiting the number of categor
 
 You can edit the content by selecting that category, and you can delete the category with the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**4. How to register a category with gif**</mark>
 

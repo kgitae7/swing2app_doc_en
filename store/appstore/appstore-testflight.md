@@ -25,7 +25,7 @@ When the app is released normally, an invitation email to download the app will 
 iPhone users can download the app by checking the mail.\
 Therefore, it can be used inside the company or when only authorized iPhone users can use the app.
 
-***
+
 
 ### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;">**How to use**</mark>
 
@@ -67,7 +67,7 @@ Users can check the invitation mail and download the app to the iPhone.
 
 It is sooner than the release of the app rather than the distribution by the official release, and almost all of them are approved without rejection.
 
-***
+
 
 ### <mark style="color:blue;">**2. Precautions**</mark>
 
@@ -97,7 +97,7 @@ Please note that even if you use an iPhone, you won’t be able to install a tes
 
 **For TestFlight related inquiries, please leave an inquiry email: **<mark style="color:blue;">**help@swing2app.com**</mark>** and we will help you.**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**3. How to install the app after the launch of TestFlight**</mark>
 

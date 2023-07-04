@@ -18,7 +18,7 @@ If the app has a policy issue, you can fix it and request another review.
 
 **We’ll tell you how to file a counter-notice and an important TIP to restore your app.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Please check your email from Google.**</mark>
 
@@ -44,7 +44,7 @@ As a result, Google developers must be able to keep an eye on their account mana
 
 **If you select the blue \[Policy Support Team] listed on the body of the email, you will be redirected to the dispute page.**
 
-***
+
 
 ### <mark style="color:blue;">**SETP.2 How to appeal**</mark>
 
@@ -146,7 +146,7 @@ Once you file a counter-notification, you’ll receive an email from the develop
 
 **Please wait while we receive your counter-notification completion.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Approved Appeal**</mark>
 
@@ -166,7 +166,7 @@ In some cases, you may receive an email saying that your approval has been compl
 
 Therefore, please check continuously if there is any mail from Google.
 
-***
+
 
 <mark style="color:blue;">**★Notes on using Google Play Store Developer**</mark>
 

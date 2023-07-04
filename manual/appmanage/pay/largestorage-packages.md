@@ -4,7 +4,7 @@
 
 **How to use the Large Storage package**
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Large Storage Package?**</mark>
 
@@ -38,7 +38,7 @@ It is a product that can be used as a package at a lower price than purchasing i
 
 \*30GB capacity can be used for 1 year.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to purchase and use the Large Storage Package**</mark>
 
@@ -80,7 +80,7 @@ Please check as the person in charge will send you a separate e-mail for the sub
 
 Please check the store registration policy and usage policy in advance.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for using Large Storage Packages**</mark>
 

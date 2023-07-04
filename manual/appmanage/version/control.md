@@ -14,13 +14,13 @@ Since it is a management page for app operation, it is not particularly difficul
 
 You can check the features of each menu.
 
-***
+
 
 <mark style="color:blue;">**★ Manage Version menu reorganization**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/fy.png)
 
-***
+
 
 ### <mark style="color:blue;">**01. Manage Version  – Production History**</mark>
 
@@ -74,7 +74,7 @@ In your app production history, you can fill out an application by pressing the 
 
 \*The upload application button must purchase a paid app ticket, a Play Store upload ticket, and an App Store upload ticket before the button is activated.
 
-***
+
 
 ### <mark style="color:blue;">**02. Manage Version – Market Registration Management**</mark>
 
@@ -118,7 +118,7 @@ By selecting the **\[Play Store Info]** button, you will see the application reg
 
 The same is true when it is released on the App Store. You can check by selecting the \[App Store Information] button.
 
-***
+
 
 ### <mark style="color:blue;">**03. Manage Version – Market Registration History(Market Records)**</mark>
 
@@ -130,7 +130,7 @@ The market registration record page also has the same usage as market registrati
 
 If there are any differences, you can see which **versions of the app are released on the market by classifying each platform (Android, IOS, and mobile web) in market registration history.**
 
-***
+
 
 This is how you use the \[Manage Version] menu provided by the app producing swing2app.
 

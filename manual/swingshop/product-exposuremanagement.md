@@ -12,7 +12,7 @@ This menu is available as an option, and is not a choice.
 
 Please check on how to use product exposure management.
 
-***
+
 
 ### <mark style="color:blue;">**1. Product Exposure Management Page**</mark>
 
@@ -34,7 +34,7 @@ Currently it is only available as a main page-collection. Please wait a little b
 
 **Select \[Main Page-Collection]** and register.
 
-***
+
 
 ### <mark style="color:blue;">**3. Register the product to be exposed**</mark>
 
@@ -50,7 +50,7 @@ Register the items that will be exposed in the main page collection.
 6. Event Description: Enter an article that describes the collection.
 7. Press the Save button to complete.
 
-***
+
 
 ### <mark style="color:blue;">**4. Registration completed**</mark>
 
@@ -60,7 +60,7 @@ You have registered the product you want to expose.
 
 You can place multiple collections, so tap Register to add a new one.
 
-***
+
 
 ### <mark style="color:blue;">**5. Applying the shop mall main page in Maker(V2)**</mark>
 
@@ -85,7 +85,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 <mark style="color:red;">Therefore, once you have registered the product to be exposed in product exposure management, please come to the app production page and apply the main swing2app page of the shopping mall to the app.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**6. App launch screen**</mark>
 

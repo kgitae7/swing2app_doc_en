@@ -15,7 +15,7 @@ It is called iTunes connect.**☞**[**Go to the iTunes site**](https://itunescon
 **+Just go to the site and log in with your Apple Developer account.**\
 **+Please select \[My App].**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Select the Apps to Delete**</mark>
 
@@ -29,7 +29,7 @@ Some apps are on sale, while some apps have been rejected.\
 **Only apps marked as ready for sale can be deleted.**\
 **Please note that apps that are declined and are not released will not be deleted.**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3  Select Price and Availability**</mark>
 
@@ -38,7 +38,7 @@ Some apps are on sale, while some apps have been rejected.\
 Please select **\[price and availability]** from the left category.\
 
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4  Select \[Discontinue] and Save**</mark>
 
@@ -52,7 +52,7 @@ Press the **‘Save’** button on the top to complete the deletion.\
 **The app will stop selling in the App Store until it is reflected up to a day later.** \
 
 
-***
+
 
 <mark style="color:red;">**\[Instructions]**</mark>\
 1\. App Store app deletion is just to drop the app that was released, but not the app itself created by the swing2app.\

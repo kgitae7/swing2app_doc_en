@@ -51,7 +51,7 @@ When working with the simple editor, you can simply enter a post and register a 
 
 However, since the post decoration function provided by the editor is not provided, please check the following method when using the post decoration option!
 
-***
+
 
 **Case 2.  HTML Editor writing selection**
 

@@ -22,7 +22,7 @@ And after you’ve done the test, the app can be officially released back into p
 
 \*Test releases are not available on the Swing2App. Only official releases are available.
 
-***
+
 
 ### <mark style="color:blue;">**SETP.1 PlayStore upload(excluding app version steps)**</mark>
 
@@ -34,7 +34,7 @@ Therefore, please check the release method manual below for registration informa
 
 **▶**[**Go to ‘How to launch the Play Store app’**](update-playstore.md)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Register the private Alpha version app**</mark>
 
@@ -122,7 +122,7 @@ It’s easy to share url links with e-mail and more!!
 
 Please select the address of the app test link shared by e-mail
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 How to proceed with app testing**</mark>
 

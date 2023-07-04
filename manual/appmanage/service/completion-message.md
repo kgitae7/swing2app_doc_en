@@ -20,7 +20,7 @@ You can use the message for a variety of purposes.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/Group-236@3x.png)
 
-***
+
 
 ### <mark style="color:blue;">**02. How does it look like in the app?**</mark>
 
@@ -36,7 +36,7 @@ Since the message input is provided in HTML writing, you can input images, webli
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/welcome.png)
 
-***
+
 
 ### <mark style="color:blue;">**03. How to set up membership completion message**</mark>
 
@@ -59,7 +59,7 @@ After entering, press the **Save** button to reflect in the app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/Policy17.png)
 
-***
+
 
 <mark style="color:red;">**\[Guide]**</mark>
 

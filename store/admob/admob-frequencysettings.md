@@ -6,7 +6,7 @@
 
 When applying Google AdMob ads – banner ads are automatically displayed and entered.
 
-***
+
 
 **You can set your ad frequency time in your setting.**&#x20;
 
@@ -52,7 +52,7 @@ App already in use – Since you already have an ad ID, **select \[App] in the l
 \
 \*If you apply ads to both Android and iPhone platforms, you need to change them all, so please set them one by one.
 
-***
+
 
 ### <mark style="color:blue;">**2. Ad Units**</mark>
 
@@ -82,7 +82,7 @@ Go to the edit ad unit page. \*I’m already using an ad unit, so I’ll edit it
 
 Therefore, to set the frequency, you can edit it in the auto-refresh.
 
-***
+
 
 ### <mark style="color:blue;">**4. Editing Ad Unit Completed**</mark>
 
@@ -96,7 +96,7 @@ After entering, press the \[Save] button to complete, and the app will reflect t
 \
 If you are also working on an iPhone ad, then follow the same steps as you have edit your Android phone ad unit.
 
-***
+
 
 ### <mark style="color:blue;">**5. When registering a new ad unit**</mark>
 
@@ -120,7 +120,7 @@ Please refer to the manual for how to sign up for AdMob and create an ad unit.
 
 **☞** [**How to apply for AdMob Plug-In**](admob-plugin-apply.md)
 
-***
+
 
 <mark style="color:red;">**★ Information**</mark>
 

@@ -15,7 +15,7 @@ Post management is usually a menu for writing on bulletin boards, but you can al
 > 3. **Download post: Download and archive posts written on bulletin boards as excel files**
 > 4. **Delete posts: Delete multiple selected posts at once when you want**
 
-***
+
 
 ### <mark style="color:blue;">**1. How to use Board Copy**</mark>
 
@@ -27,7 +27,7 @@ When you go to the target board, you can see that the board that you copied has 
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/wr.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. How to use Copy Post**</mark>
 
@@ -52,7 +52,7 @@ When you go to the target board, you can see that the board that you copied has 
 
 For example, you should not copy posts from bulletin boards back to bulletin boards, but you can copy them to other bulletin boards.
 
-***
+
 
 ### <mark style="color:blue;">**3. How to use Download post**</mark>
 
@@ -76,7 +76,7 @@ When you open a downloaded Excel file, you can see the data stored in that post.
 1. Posts can’t be downloaded all at once, and you can download up to 100 posts.
 2. When the post is downloaded, the image stored in the post will not be downloaded. (Only text is downloaded)
 
-***
+
 
 ### <mark style="color:blue;">**4. How to use Delete posts**</mark>
 

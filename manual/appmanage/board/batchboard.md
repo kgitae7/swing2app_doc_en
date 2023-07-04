@@ -6,7 +6,7 @@
 
 In other words, if you want to post the same post on multiple bulletin boards, you can register them all at once by using the **Batch Board.**
 
-***
+
 
 ### <mark style="color:blue;">**1. Move the Bulk registration bulletin board**</mark>
 
@@ -18,7 +18,7 @@ Batch Board is the default board provided by Swing2App. Therefore, you do not ne
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b56.png)
 
-***
+
 
 ### <mark style="color:blue;">**2.  Create a Bulk registration bulletin board**</mark>
 
@@ -49,7 +49,7 @@ A post titled “Swing2App bulk registration board new release” has been writt
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/bb29.png)
 
-***
+
 
 ▶**Notice Board**
 
@@ -57,7 +57,7 @@ You can also check that the “Swing2App Collective Registration Board New Relea
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b60-e1587043443841.png)
 
-***
+
 
 **▶ Free Board**
 

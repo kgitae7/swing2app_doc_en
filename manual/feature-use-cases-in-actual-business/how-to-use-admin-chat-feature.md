@@ -2,7 +2,7 @@
 
 Swing2App provides the **Admin Chat** feature for 1:1 conversation with the users. Admin Chat is a feature similar to customer chat support feature to be used in the app. Let’s check out the functioning of Admin Chat as a customer support service with some examples.&#x20;
 
-***
+
 
 **Sample 1. Hair and Beauty Salon**
 
@@ -33,7 +33,7 @@ If you have any questions, please drop an email at help@swing2app.com\
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/M\_test2-1.jpg)
 
-***
+
 
 **Sample 2. Book Restaurant/Dining**
 
@@ -63,7 +63,7 @@ If the customer tries to reach you after office hours then they will be prompted
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/M\_test2-1.jpg)
 
-***
+
 
 **Sample 3. Ecommerce application**
 

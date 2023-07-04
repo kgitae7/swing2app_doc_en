@@ -4,7 +4,7 @@
 
 **App release on Google Play Store \_ Updated version in August 2021**
 
-***
+
 
 <mark style="color:red;">\* You must first create a Google Developer account to register the Play Store app.</mark>
 
@@ -26,7 +26,7 @@ The Play Store release is only available for Swing2App paid version app or free 
 
 Free apps are not available for store release.&#x20;
 
-***
+
 
 <mark style="color:blue;">**Google Developer Console Site**</mark>
 
@@ -48,7 +48,7 @@ When you go to the console site, the first step is to create an app by selecting
 6. Check US export laws
 7. Select the \[Create app] button.
 
-***
+
 
 &#x20;
 
@@ -298,7 +298,7 @@ All the information you need to enter in the play store is complete.
 
 Finally, upload the app (AAB file).
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 Production-Registering the app**</mark>
 
@@ -411,7 +411,7 @@ App registration is successful only when the message appears.
 
 When you go to the dashboard screen, you can see the “Reviewing updates” message on the review screen.
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**App release completed (within 7 days of review period)**</mark>
 

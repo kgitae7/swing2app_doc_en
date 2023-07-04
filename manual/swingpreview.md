@@ -20,7 +20,7 @@ You do not have to download and install APK files, you can check the app you cre
 
 **Check out how to use Swing2App Preview (App Preview) through the app production swing2app post!**
 
-***
+
 
 &#x20;
 
@@ -54,7 +54,7 @@ On Android phones, you can preview and download the app.
 
 \-Install via APK file download mail sent after app creation.
 
-***
+
 
 > **How to use swing2app preview (app preview)**
 
@@ -106,7 +106,7 @@ On Android phones, you can preview and download the app.
 
 <mark style="color:blue;">\*If your app is released on the Play Store or App Store, you can go to the released store by selecting ‘View in Market’.</mark>
 
-***
+
 
 > **Features available in App Preview**
 
@@ -170,7 +170,7 @@ Please attach the link below for more details.
 
 [**\[Verify Admin Post\]**](appmanage/pushmember/associate-administrator.md)
 
-***
+
 
 &#x20;
 
@@ -212,7 +212,7 @@ And the pop-up image is embedded with QR code. This QR code image will launch th
 
 **Launch Swing2App – App Preview – Select the \[Preview by QR Code] button → Bring your phone to the QR code image and the app will run as a preview on your phone.**
 
-***
+
 
 &#x20;
 

@@ -4,7 +4,7 @@ Swing2App calendar can be used to show the events and schedule as per user requi
 
 <mark style="color:purple;">Let’s check out the use of calendar with few examples.</mark>
 
-***
+
 
 **Sample 1. School or Colleges**
 
@@ -25,7 +25,7 @@ Swing2App calendar can be used to show the events and schedule as per user requi
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Hotel-%E2%80%93-15.png)
 
-***
+
 
 **Sample 2. Hospital or Medical Facility**
 

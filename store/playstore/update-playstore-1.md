@@ -6,7 +6,7 @@
 
 **How to update app version, store registration information, and app contents \_2021.08 Google Play Console updated version**
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.1 Update AAB file to a new version**</mark>
 
@@ -170,7 +170,7 @@ If a message such as ‘update rejected’, ‘update rejected’, or ‘app del
 
 You must check the rejection email received from Google and follow the measures taken.
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.2 Update by modifying store registration information**</mark>
 
@@ -209,7 +209,7 @@ Updates take an average of 1 day, but depending on the review, it may take up to
 
 When the review is complete, the store information will be changed to the updated version.
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.3 Fix and Update your store listing**</mark>
 
@@ -221,7 +221,7 @@ You can edit app categories and contacts in the store settings.
 
 <mark style="color:red;">**\*Revision of store settings will also be reflected after reviewing the update.**</mark>
 
-***
+
 
 ### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**STEP.4 Modify app content**</mark>
 
@@ -241,7 +241,7 @@ Click the Manage button and click **“Yes, it contains advertisements.”** Aft
 
 <mark style="color:red;">**\*App content modifications will also be reflected after reviewing the update**</mark>
 
-***
+
 
 #### ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**Play Store app update notice**</mark>
 

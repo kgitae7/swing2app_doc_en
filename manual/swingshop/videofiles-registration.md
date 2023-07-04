@@ -12,7 +12,7 @@ Digital products are the type of product that sells intangible content. You can 
 
 In this manual, you will be informed of digital products – how to register videos and files, and how to apply the app.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Product Category Registration after Swing Store Application**</mark>
 
@@ -50,7 +50,7 @@ Categories can still be added from that menu without limiting the number of cate
 
 You can edit the content by selecting the category, and delete the category with the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Select Digital Products \[Video and File Sales]**</mark>
 
@@ -152,7 +152,7 @@ If you need to modify the contents of the registered product, please select the 
 
 Go to the product registration modification screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Applying Product Categories**</mark>
 
@@ -171,7 +171,7 @@ Please go to the Maker(V2) page.
 7. Select the **Apply** button.
 8. Press the **Save** button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 App Launch Screen) Digital – Purchase Video File**</mark>
 

@@ -12,7 +12,7 @@ The coupon is a menu where an administrator sends and manages coupons to the mem
 
 We will provide detailed manuals on coupon management, including how to create coupons, how to issue coupons to users, app launch screens, and coupon processing.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Create Coupon**</mark>
 
@@ -49,7 +49,7 @@ In the coupon table, the user can check the created coupon.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/Screenshot-2020-04-14-at-01.32.58.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Send Coupon**</mark>
 
@@ -70,7 +70,7 @@ Select the coupon you wish to send. Then click **Ship Coupon** on the top left c
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/e31.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Check User App**</mark>
 
@@ -108,7 +108,7 @@ You can create coupon function in the **Maker(V2)** for the app. Go to **Maker(V
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up3.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4**</mark> <mark style="color:blue;">**How to use coupon**</mark>
 
@@ -148,7 +148,7 @@ After launching the app, select the \[Setup] menu → \[Administrator Login] →
 
 **☞ \[ App Administrator Menu: View the coupon usage manual]**
 
-***
+
 
 <mark style="color:blue;">**Summary:**</mark>
 

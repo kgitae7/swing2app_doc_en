@@ -12,7 +12,7 @@ This menu is for the administrator page, and the administrator can also check th
 
 In the manual, we will show you how to use the customer section management and how it is actually used in the app.
 
-***
+
 
 &#x20;
 
@@ -81,7 +81,7 @@ You can filter and search by **\[Content and User Name]**.\
 
 **\* Reviews, unlike product inquiries, are provided in a style that can not be commented or replied by the administrator.**
 
-***
+
 
 ### <mark style="color:blue;">**3.App launch screen – reviews and queries**</mark>
 
@@ -107,7 +107,7 @@ When the review registration is complete, you can see all the reviews written by
 
 Your star ratings are added together so you can see your overall rating at the top.
 
-***
+
 
 
 

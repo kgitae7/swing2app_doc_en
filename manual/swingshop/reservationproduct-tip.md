@@ -12,7 +12,7 @@ So depending on what kind of product you sell –
 
 We’ll tell you about the sales method of the reservation system through the manual.
 
-***
+
 
 **1. (Reservation date) select In-Out time**
 
@@ -74,7 +74,7 @@ Time-setting reservation products can be useful in industries that make reservat
 
 Example business type) It can be applied to hotels, pensions, motels, Airbnb hotels, water parks, travel products, etc.
 
-***
+
 
 **2. Select date, time and reservation**
 
@@ -135,7 +135,7 @@ Period and time-setting pre-sale products – this can be useful in industries w
 
 Example industry) You can use it at the nail salon, hair salon, hospital facilities such as dermatology, spa & massage shop, restaurant meal reservation, theater/movie and more.
 
-***
+
 
 The reservation system is a menu provided by the swing store.
 

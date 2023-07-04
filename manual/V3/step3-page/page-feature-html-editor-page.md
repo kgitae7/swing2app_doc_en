@@ -22,7 +22,7 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 3\) You can create an unlimited number of HTML editor pages!
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Steps to create an editor page
 
@@ -226,7 +226,7 @@ In addition to the regular website links, the \[Link Wizard] allows you to go to
 
 When the editor page is finished creating, press the Save button and exit.
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying HTML Editor Page to App
 
@@ -260,7 +260,7 @@ You can also apply a page to a menu.
 \*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
 {% endhint %}
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.** HTML Editor Page Creation TIP
 
@@ -298,9 +298,9 @@ If you look at the left side of the body screen, there is a \[+] shaped button.
 
 With the Quick Insert button, selecting it gives you quick access to frequently used options such as inserting images, inserting videos, and inserting horizontal lines.
 
-***
 
-***
+
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.5** Editing HTML Editor Pages (How to Modify**)**
 

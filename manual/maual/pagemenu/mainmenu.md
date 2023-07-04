@@ -32,7 +32,7 @@ Users can create their own menu by editing or deleting them. You can also manage
 
 You can set the home screen and category by using various menus.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 How to create a home screen**</mark>
 
@@ -44,7 +44,7 @@ Swing2App menus – You can apply menus such as web links, swing2app pages, user
 
 **\*Please check the home screen production manual for details on the home screen.** ☞ [**\[View how to create a home screen\]**](appintroductionpage.md)
 
-***
+
 
 <mark style="color:green;">**1. How to set up your home screen: Apply Web Link**</mark>
 
@@ -82,7 +82,7 @@ Swing2App menus – You can apply menus such as web links, swing2app pages, user
 
 ☞ [**\[View how to create an app home screen\]**](appintroductionpage.md)
 
-***
+
 
 <mark style="color:orange;">**2. Check the home screen application**</mark>
 
@@ -134,7 +134,7 @@ Menus can be deleted in this way.\
 \
 <mark style="color:orange;">**▶ How to add a sub-menu with animated images**</mark>
 
-***
+
 
 <mark style="color:green;">**3. Move Menu: Upper menu or lower menu**</mark>
 
@@ -171,7 +171,7 @@ In addition to the basic production methods described above,
 
 The menu also provides all the manual instructions, so please check the app before you create it which will help you in production and operation methods.
 
-***
+
 
 <mark style="color:blue;">**Completed App Production**</mark>
 

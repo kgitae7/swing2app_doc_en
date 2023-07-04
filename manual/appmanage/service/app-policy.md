@@ -10,7 +10,7 @@ Since Swing2App is created by you as a developer, you have to put these policies
 
 **Swing2App** provides the ability to write the Terms of Use and Privacy Policy on the App Sign-up Policy page so that users **can edit and write their content.**
 
-***
+
 
 **▶ Where and how do the app Terms and Conditions and Privacy Policy look?**
 
@@ -22,7 +22,7 @@ Changes to the Terms and Conditions, Privacy Policy can be made.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/terms-.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. Go to the App Subscription Policy page**</mark>
 
@@ -33,7 +33,7 @@ Changes to the Terms and Conditions, Privacy Policy can be made.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/u.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Fill out the Terms of Use and Privacy Policy**</mark>
 
@@ -79,7 +79,7 @@ If you select the button, you can see the terms of service and privacy policy en
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/terms-.png)
 
-***
+
 
 **★Terms of Use and Privacy Policy are mandatory. If you do not apply and release them to the market, you may be fined for violating policy violations.**
 

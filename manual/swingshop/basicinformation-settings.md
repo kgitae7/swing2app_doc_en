@@ -14,7 +14,7 @@ You can enter the basic information in the Store Management – Basic Settings m
 
 **Store management – In the manual, we’ll show you how to enter the basic information and how it looks like in the app.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Swing Store – Store Management – ​​Basic Information Setting Page**</mark>
 
@@ -30,7 +30,7 @@ Basic information setting page can be seen in the main page of the shopping mall
 The items entered in the basic information will be displayed on the App – Store main screen.\
 
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2  Enter basic information**</mark>
 
@@ -99,7 +99,7 @@ It’s the same size as the app icon. You can also include an app icon image. (Y
 
 \* Store footer: You can check at the bottom of the shopping mall main page.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3  Apply to apps – Shopping Mall Information, Mall Main page**</mark>
 
@@ -120,7 +120,7 @@ The main page of the shopping mall shown in the app and the shopping mall inform
 5\. Select the page and press \[Apply]-\[Save] button to apply it to the app.\
 
 
-***
+
 
 <mark style="color:red;">**\[Instructions]**</mark>
 

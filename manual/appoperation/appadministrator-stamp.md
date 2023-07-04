@@ -22,7 +22,7 @@ Go to the Maker(V2) page → select menu → load bulletin board → select stam
 
 You can register by processing the stamp number issued for each member, or by scanning the QR code image from the app administrator menu.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. Move to the App Administrator Menu**</mark>
 
@@ -34,7 +34,7 @@ You can register by processing the stamp number issued for each member, or by sc
 
 Select **\[Add Stamp]** in the admin menu.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. Registering stamps with QR code**</mark>
 
@@ -44,7 +44,7 @@ Selecting \[Scan QR Codes] will launch the QR Code Reader embedded in the app an
 
 \*At this time, you have to open the stamp in your app to see the QR code image.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 3. Stamp earning completed**</mark>
 
@@ -56,7 +56,7 @@ By scanning the QR code above, you can see that the user’s stamp has been adde
 
 In fact, the user’s stamp is registered by executing QR code on the app administrator menu – Stamp registration screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 4. How to create a stamp and apply it to your app??**</mark>
 

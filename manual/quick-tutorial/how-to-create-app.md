@@ -2,7 +2,7 @@
 
 **Swing2App Maker(V2) Page** – We’ll show you how to create an app in 3 steps: **App Basics**, **Design Themes**, and **Page Menus** and how to produce and install it on your phone.
 
-***
+
 
 > **App creation takes place in “Maker(V2)”**
 
@@ -30,7 +30,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/app\_basic.png)
 
-***
+
 
 &#x20;
 
@@ -46,11 +46,11 @@ Here you can set **App ID, App name, App icon,** and **Idle screen** for your ap
 
 &#x20;**1. Swing2App provides a built-in image editing tool so you can edit the image (icon & idle screen) anytime.**&#x20;
 
-***
+
 
 &#x20;
 
-### <mark style="color:blue;">**STEP 2. Design Theme**</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
+### <mark style="color:blue;">**STEP 2. Design Theme**</mark> <mark style="color:blue;"></mark>&#x20;
 
 Here you can select Design **(Prototype)** and Theme **(skin, detailed color setting, main design & app navigation style)** of your app.&#x20;
 
@@ -66,9 +66,9 @@ For Detailed Guide on Design Theme Visit: [**\[Go to Detailed Tutorial\]**](../m
 
 **2. Once you complete app creation, you can switch between regular prototype (slide, top, footer, drop-down)  but you won’t be able to switch to web view based(push and web view) prototype, you have to create a new app to use web view. So choose carefully.**&#x20;
 
-***
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+
+&#x20;
 
 ### <mark style="color:blue;">**STEP 3. Page Menu**</mark>
 
@@ -82,17 +82,17 @@ Here you can organize your **App’s Menu** screen like **Add/delete categories 
 
 1\. After every new change made, click on the **Apply** button and then **Save** button to save those changes.
 
-***
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+
+&#x20;
 
 ### <mark style="color:blue;">**STEP 4. Advanced**</mark>
 
 **You don’t need to work on this page.**
 
-***
 
-&#x20;<mark style="color:blue;"></mark>&#x20;
+
+&#x20;
 
 ### <mark style="color:blue;">**STEP 5. App Production**</mark>
 
@@ -102,7 +102,7 @@ It will redirect you to the page where you can check the progress of your app **
 
 <mark style="color:blue;">For Detailed Guide on App Preview and download visit:</mark> [**\[Go to Detailed Tutorial\]**](../swingpreview.md)
 
-***
+
 
 &#x20;
 
@@ -118,7 +118,7 @@ Within 15 minutes you’ll receive your created app via mail, please click on **
 
 [**\[Quick Tutorial on Updates\]**](how-to-update-app-after-production-completion.md)
 
-***
+
 
 &#x20;
 

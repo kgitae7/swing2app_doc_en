@@ -10,7 +10,7 @@ By default, it is set to ask for the app ID, password, and username.
 
 If you want to receive other information from the user during registration, the administrator can make additional settings on the signup form page.
 
-***
+
 
 ### <mark style="color:blue;">**▶ Membership form**</mark>
 
@@ -21,7 +21,7 @@ If you want to receive other information from the user during registration, the 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/o.png)
 
-***
+
 
 ### <mark style="color:blue;">**1.  ID Form**</mark>
 
@@ -75,7 +75,7 @@ If you can’t pay for the product, you can’t select a phone number.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/SMS4-1.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Setting up the membership form**</mark>
 
@@ -147,7 +147,7 @@ Swing2App Health Club’s membership form is an example of how to apply the app.
 
 ★ **Input information: phone number, birthday, height (short writing), weight (short writing), hope program (health, GX, yoga, pilates, dance), exercise goals (long sentence/narrative)**
 
-***
+
 
 ### <mark style="color:blue;">**3. Membership form app launch screen by item**</mark>
 

@@ -6,7 +6,7 @@ You can create 2 types of Private apps
 
 **2. Available after signing up**: Users can access the app after signing up, no need for admin approval.
 
-***
+
 
 <mark style="color:blue;">**How To Create Private App: Available After Admin Approval**</mark>
 
@@ -29,7 +29,7 @@ You’ll be directed to Membership Policy Page, where you can change, set your p
 
 **(Manager -> Go to Push & Members -> Click on Members View -> Give Permission to users)**
 
-***
+
 
 <mark style="color:blue;">**How to make Private app: Available after sign up**</mark>
 

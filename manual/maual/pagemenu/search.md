@@ -17,7 +17,7 @@ Swing2app provides two search post functions.
 
 –Please check the manual below on how to use and apply the search post.
 
-***
+
 
 ### <mark style="color:blue;">**1. Search post functions**</mark>
 
@@ -27,7 +27,7 @@ The search post window will pop up at the top of the board list screen.
 
 Enter a word to search for and tap the ‘magnifying glass’ icon in the upper right corner to filter your search terms.
 
-***
+
 
 ### <mark style="color:blue;">**2. Apply to \[Search Post] App**</mark>
 
@@ -52,7 +52,7 @@ Therefore, the function to search for posts in a specific bulletin board is auto
 
 On the top right of the bulletin board, you will see a window where you can enter your search term by tapping on the ‘magnifying glass’ icon.
 
-***
+
 
 ### <mark style="color:blue;">**3. App Launch Screen**</mark>
 

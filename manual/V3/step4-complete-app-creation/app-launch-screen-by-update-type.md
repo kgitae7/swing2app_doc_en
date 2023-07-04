@@ -14,9 +14,9 @@ Depending on the type of update, let's see how the update works in the actual ap
 **\*Users will not receive the update if you will only update the app to a new version, without re-upload the newly created version on the store.**&#x20;
 {% endhint %}
 
-***
 
-### **1)** Soft Updates & Recommended Updates. <mark style="color:blue;"></mark>&#x20;
+
+### **1)** Soft Updates & Recommended Updates.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
 
@@ -28,7 +28,7 @@ Because the recommendation is for the update to progress by the user, if you **s
 
 For soft updates, you don't have to reinstall the app, update will be **downloaded from within the app and will be updated automatically.**
 
-***
+
 
 ### **2)** Soft Updates & Required Updates.&#x20;
 
@@ -40,9 +40,9 @@ When selecting the display **option as 'Required',** **a pop-up will appear to i
 
 **When you select 'OK', the in-app update will take place immediately.**
 
-***
 
-### **3)**Hard Update & Recommended Updates. <mark style="color:blue;"></mark>&#x20;
+
+### **3)**Hard Update & Recommended Updates.&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
 

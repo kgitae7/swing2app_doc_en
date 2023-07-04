@@ -10,7 +10,7 @@ For example, if you copy a notice board to a free bulletin board, the post in th
 
 It is really simple and not too much to use, so please check the copy board manual.
 
-***
+
 
 ### <mark style="color:blue;">**1. Copy board**</mark>
 
@@ -23,7 +23,7 @@ It is really simple and not too much to use, so please check the copy board manu
 
 If you press the **Board Copy** button, you can copy all the posts to the board you want without moving the posts.
 
-***
+
 
 ### <mark style="color:blue;">**2. Copy board**</mark>
 
@@ -35,7 +35,7 @@ If you press the **Board Copy** button, you can copy all the posts to the board 
 
 It’s very simple to copy the bulletin board. We’ll check out the photo log below.
 
-***
+
 
 ### <mark style="color:blue;">**3. Copying board completed**</mark>
 
@@ -45,7 +45,7 @@ It’s very simple to copy the bulletin board. We’ll check out the photo log b
 
 You can see that all posts on the announcement board have been copied to that bulletin board.
 
-***
+
 
 ### <mark style="color:blue;">**4. You can check more easily with animated images.**</mark>
 

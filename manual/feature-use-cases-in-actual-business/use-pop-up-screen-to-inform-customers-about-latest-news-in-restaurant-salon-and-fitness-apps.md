@@ -4,7 +4,7 @@ Important information or new or features news can be shared first on app launch 
 
 <mark style="color:purple;">Let’s use a single screen pop-up to inform users of the cafe app to about the cafe being closed due the pandemic situation.</mark>
 
-***
+
 
 **Sample 1. Cafe or Restaurant**
 
@@ -24,7 +24,7 @@ Important information or new or features news can be shared first on app launch 
 
 Let’s use triple screen pop-up to inform users of the hair & beauty app about the new opening and various offers.
 
-***
+
 
 **Sample 2. Hair and Beauty Salon**
 
@@ -53,7 +53,7 @@ Let’s use triple screen pop-up to inform users of the hair & beauty app about 
 
 <mark style="color:purple;">Let’s use 9 screen pop-up to inform users of new gym facility.</mark>&#x20;
 
-***
+
 
 **Sample 3. Health & Fitness**
 

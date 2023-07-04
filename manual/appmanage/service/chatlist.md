@@ -8,7 +8,7 @@ When a member of the app sends a message in the chat room, admin can see a numbe
 
 Users can check the chat list of members on the list page to send and receive messages directly.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**1.Chat Administrator page**</mark>
 
@@ -20,7 +20,7 @@ To view chat list please follow below steps:
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/t.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Chat List**</mark>
 

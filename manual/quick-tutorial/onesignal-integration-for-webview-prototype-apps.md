@@ -52,7 +52,7 @@ Similarly, setup OneSignal Platform (Apple iOS) (if you are not using iOS , you 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/11/Group-2194.png)
 
-***
+
 
 &#x20;
 

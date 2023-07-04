@@ -15,7 +15,7 @@ Swing2App users also launch an app on the Play Store, so if you’re using it,
 
 We recommend that you select “Automatic Update app” in Play Store App > “Settings”.
 
-***
+
 
 <mark style="color:blue;">**How to set up Play Store automatic updates**</mark>
 

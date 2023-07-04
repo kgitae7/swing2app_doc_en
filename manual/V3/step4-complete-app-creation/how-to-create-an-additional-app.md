@@ -10,7 +10,7 @@ Swing2App lets you create and manage multiple apps in one account!
 
 We'll show you how to create additional new apps in your account.
 
-***
+
 
 ## \*\*\*\* **1.** PC Version – Create additional apps
 
@@ -26,7 +26,7 @@ You can use this button to create a new app. After you'll click on this button, 
 
 After you select a new app style (type), the app makerV3 screen will pop up and you can proceed with the app creation step by step.
 
-***
+
 
 ## \*\*\*\* **2.** Mobile version – Create additional apps
 
@@ -44,7 +44,7 @@ When you click on the add button, **the \[App Creation Wizard]** window will pop
 
 The rest of the app production method is the same.
 
-***
+
 
 ## \*\*\*\* **3.** See the list of apps you've created
 
@@ -68,4 +68,3 @@ To switch from one app to another, simply select the app from the list and it wi
 
 On the Manage Apps page, you can uninstall (delete) apps, change the order of apps, check expiration dates, and view simple information such as the number of members.
 
-***

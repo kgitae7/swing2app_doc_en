@@ -24,7 +24,7 @@ Promote much better because it provides a link to the page containing the conten
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/h.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1  Basic Setting**</mark>
 
@@ -63,7 +63,7 @@ If you want to set up a reservation, please check and complete the setup below.
 
 Once you have completed your push preferences, go to the next step, Send to Push.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Send Push**</mark>
 
@@ -98,7 +98,7 @@ If you select a bulletin board, you can move to reflect the desired bulletin boa
 
 You can search for posts and send pushes to specific posts.
 
-***
+
 
 <mark style="color:orange;">**▶ What is a push message display after checking notifications?**</mark>
 
@@ -126,7 +126,7 @@ Press the \[Move] button to go to the applicable link page.
 
 When you send a push, the message is checked first, then the Go button takes you to that link page.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 App launch screen: Push sent screen**</mark>
 
@@ -166,7 +166,7 @@ If you send a push while the app is running, it will be displayed in a popup win
 
 **Therefore, to receive push notifications in the normal route, please send the app while closed.**
 
-***
+
 
 <mark style="color:orange;">**▶ Push notification**</mark>
 
@@ -184,7 +184,7 @@ You can delete pushes you receive, process them as read, delete all notification
 
 <mark style="color:red;">The guest cannot use the above functions because there is no log record.</mark>
 
-***
+
 
 <mark style="color:orange;">**▶ Push-only app push delivery**</mark>
 

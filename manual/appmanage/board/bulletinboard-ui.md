@@ -4,7 +4,7 @@ description: Bulletin board type and design style provided by Swing2App
 
 # Bulletin board type, design style
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 Swing2App provides various styles of bulletin boards so that users can freely create bulletin boards.&#x20;
 
@@ -79,7 +79,7 @@ A style that is more organized than a free bulletin board\
 Use your writing and images to be seen at the same time\
 Use it to list multiple images
 
-***
+
 
 ### <mark style="color:blue;">**4. Accordion (Notice) Bulletin Board**</mark>
 
@@ -179,7 +179,7 @@ Multiple chat rooms can be opened\
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad\_chat.png)
 
-***
+
 
 ### <mark style="color:blue;">**9. Stamp Bulletin Board**</mark>
 
@@ -198,7 +198,7 @@ The app member’s membership number Add and use it.
 Use it as a coupon for visiting shops such as cafes and restaurants\
 Use stamps for events and promotions
 
-***
+
 
 ### <mark style="color:blue;">**10. Google Map Board**</mark>
 
@@ -222,7 +222,7 @@ Please refer to the posting for more information on how to use Google Maps.
 
 ☞ [**\[See how to use Google Map Board\]**](googlemap.md)
 
-***
+
 
 ### <mark style="color:blue;">**11. Calendar Board**</mark>
 

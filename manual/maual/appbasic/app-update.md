@@ -12,7 +12,7 @@ If you press \[App Creation Request], you can use the update type and update dis
 
 \-The page menu and the contents of the app operation are automatically reflected in the app even if you save it.
 
-***
+
 
 ### <mark style="color:blue;">**▶ Swing2App Important Update Information**</mark>&#x20;
 
@@ -55,7 +55,7 @@ When modifying the basic information of the app and the design theme, you can up
 
 As the new version of the app is rebuilt, the existing app is updated.
 
-***
+
 
 ### <mark style="color:blue;">**▶ App Update Style**</mark>
 
@@ -92,7 +92,7 @@ The Display Updates option selects how the update display will look to the user.
 <mark style="color:green;">**3) Ignore Update**</mark>\
 **Make sure that the update notification window does not appear. (It can be set when testing)**
 
-***
+
 
 ### <mark style="color:blue;">**▶ App launch screen: Update type**</mark>
 
@@ -172,7 +172,7 @@ It will install the update of the existing application and install it again by o
 
 It will install the update of the existing application and install it again by overwriting it with the new version of the app.
 
-***
+
 
 <mark style="color:orange;">**\[Information]**</mark>
 

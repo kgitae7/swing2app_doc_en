@@ -10,7 +10,7 @@ Swing2App does not provide a flash function, but you can apply the function of s
 
 We will show you how to create a Flash style home screen using Swing2App’s web template page creator.
 
-***
+
 
 <mark style="color:blue;">**★ Flash Style Home Screen**</mark>&#x20;
 
@@ -22,7 +22,7 @@ We will show you how to create a Flash style home screen using Swing2App’s web
 
 \+You can apply the gif image that you have created to the top header image.&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Create a web template page**</mark>
 
@@ -39,7 +39,7 @@ Go to **Maker(V2)** page and click on the **Page menu.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/temp1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Web Template Creator**</mark>
 
@@ -106,7 +106,7 @@ When you have finished entering the template content, select the \[Save Data] bu
 <mark style="color:red;">**★You must also edit the page name. Do not forget!**</mark>\
 <mark style="color:red;">**It appears in the app as the page name.**</mark>&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply to Web Template App you created**</mark>
 
@@ -127,7 +127,7 @@ Go to **Maker(V2)** page and click on the **Page menu.**
 
 As you can see in the virtual machine above, you can see the top header image is applied in Flash style.
 
-***
+
 
 <mark style="color:red;">**★ Notice**</mark>
 

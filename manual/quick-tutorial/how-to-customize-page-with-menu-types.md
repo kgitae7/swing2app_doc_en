@@ -2,7 +2,7 @@
 
 **User Page** is a tool that you can use in 3rd step **(Menu Page)** while creating an app. You can customize your app with **Page Template, Image Map, and HTML Editor.**
 
-***
+
 
 &#x20;
 
@@ -34,7 +34,7 @@ After you create & save your page with the User page, go back to Page Menu to ap
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/02/k2.png)
 
-***
+
 
 **1. Page Template:** Here you’ll get various web page templates that you can edit easily by filling out images & texts accordingly.
 
@@ -65,7 +65,7 @@ After customizing the web page template, click on the \[Save] button. Once you s
 
 <mark style="color:blue;">For Detailed Guide on Page Template Visit:</mark> [**\[Go to Detailed Tutorial\]**](../maual/pagemenu/template-page.md)
 
-***
+
 
 2\. **Image Map:** Here you can customize the image by applying multiple links and tooltip on it.
 
@@ -86,7 +86,7 @@ After customizing the image map, click on the \[Save] button. Once you save the 
 
 <mark style="color:blue;">For Detailed Guide on Image Map Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../maual/pagemenu/image-page.md)
 
-***
+
 
 3\. **HTML Editor:** Here you can create your web pages. You can easily apply web links, videos, images, etc
 

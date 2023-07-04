@@ -16,7 +16,7 @@ In addition to web links, the features provided by Swing2App: Swing2App function
 
 \-You can search for posts and send them to your specific posts.
 
-***
+
 
 <mark style="color:blue;">**★ Wait! Where can I use the link wizards?**</mark>
 
@@ -99,7 +99,7 @@ Tap the pop-up image to go to the linked post.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/01/%EB%85%B9%ED%99%94\_2020\_01\_15\_14\_10\_13\_709.gif)
 
-***
+
 
 We have informed you about the link wizard function and usage examples.
 

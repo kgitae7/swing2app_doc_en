@@ -6,7 +6,7 @@ description: >-
 
 # How to set up Bulletin Board Permission
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**★ How to use the board permission setting?**</mark>
 
@@ -32,7 +32,7 @@ In this way, you can specify different groups of users depending on the bulletin
 
 Setting Bulletin Board permission is very simple!! Please check out how to use it.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP1. Go to Bulletin Board Management
 
@@ -48,9 +48,9 @@ Create a new bulletin board and set the permission!
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/b22-1-1-1.png)
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Board and Feature Settings Window: Setting Permissions
 
@@ -78,7 +78,7 @@ It is provided as an administrator, user (the user who has registered in the app
 
 So you can set bulletin board permission: by which group the permission is assigned, the post detail view, and the post list view.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. Group Operations TIP
 
@@ -96,9 +96,9 @@ For more information on how to create a group and how to apply it to a bulletin 
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/%EB%85%B9%ED%99%94\_2020\_05\_07\_17\_50\_21\_349.gif)
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. Applying bulletin boards to your app
 
@@ -146,7 +146,7 @@ On the Swing2App Maker(V2), go to the Page menu.&#x20;
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP5. App Launch Screen
 

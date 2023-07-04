@@ -2,7 +2,7 @@
 
 **Push** is a tool that you can use to deliver announcements, events, and advertisements to members who use the app. You can also provide a link to the page containing the content you want to convey.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. How To Create Push Notification**</mark>
 

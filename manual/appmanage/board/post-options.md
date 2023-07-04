@@ -10,7 +10,7 @@ You can set various options such as registration date, registrant name, and shar
 
 Depending on the purpose of using the bulletin board, you can select various options and apply them to the app.
 
-***
+
 
 <mark style="color:blue;">▶</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Bulletin Board-Post Detailed Options**</mark>
 
@@ -29,7 +29,7 @@ There are a total of seven post option settings.
 
 Please refer to the image below for more details on the app launch screen.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. Post Details – Show registrant name**</mark>
 
@@ -43,7 +43,7 @@ If it’s a notice board where only one administrator writes, you don’t have t
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/f.png)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**2. Post details – Registration date and time**</mark>
 
@@ -55,7 +55,7 @@ Please choose to display the date the post was registered on the details page.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/m.png)
 
-***
+
 
 ### <mark style="color:blue;">**3. Post Details – Display share button**</mark>
 
@@ -69,7 +69,7 @@ If you don’t display it, there’s no Share button at the top.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/j.png)
 
-***
+
 
 ### <mark style="color:blue;">**4. Post Details – Attached image registration location**</mark>
 
@@ -85,7 +85,7 @@ The image will be exposed first, and the posts will appear down.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/l.png)
 
-***
+
 
 ### <mark style="color:blue;">**5. Post List – Show registrant name**</mark>
 
@@ -99,7 +99,7 @@ Like the first setting item introduced, you can choose whether or not to display
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/h.png)
 
-***
+
 
 ### <mark style="color:blue;">**6. List of posts – registration date and time**</mark>
 
@@ -115,7 +115,7 @@ If the post-registration date doesn’t make sense in the list, check Unchecked.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/i.png)
 
-***
+
 
 ### <mark style="color:blue;">**7. Post Details – Whether to display post views**</mark>
 
@@ -145,7 +145,7 @@ The number of views varies depending on the date and time of registration and wh
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**8.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Post sort order - descending, ascending</mark>
 

@@ -10,9 +10,9 @@ You can set the post view only for the user, set the full privileges as a guest,
 
 Please check the manual for details on how to set permissions in the bulletin board.
 
-***
 
-***
+
+
 
 ### <mark style="color:blue;">**1. Setting Board Permissions**</mark>
 
@@ -70,7 +70,7 @@ Please check the posted link below on how to create a membership level.\
 > (If you want to use the upper level including the ratings) Please uncheck the designation authority.\
 > Ex) When checking a user, the administrator can also check // If a 3rd, 2nd leval or 1st level are applied or not.
 
-***
+
 
 ### <mark style="color:blue;">**2. App Launch screen**</mark>
 

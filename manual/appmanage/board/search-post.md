@@ -4,7 +4,7 @@ description: How to use search post
 
 # Search Post Functions
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 Integrated post search is to find all the posts in the bulletin board that has been applied to the app.
 
@@ -14,7 +14,7 @@ If you apply the **Search Post** menu, you can search and show the search terms 
 
 See how to use the post search menu.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;1. Search for individual boards-posts
 
@@ -40,7 +40,7 @@ If you tap after entering a search word, it will filter and display the search t
 
 <mark style="background-color:red;">Please check the function to find search terms in the entire article below!</mark>
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. All boards integrated search
 

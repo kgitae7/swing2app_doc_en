@@ -1,6 +1,6 @@
 # Set menu settings: Access permissions
 
-***
+
 
 **What is an access permission setting?**
 
@@ -30,7 +30,7 @@ The menu permission function is exclusively available on the Maker V3 version (n
 
 So, if you wish to use this feature, you can switch to the MakerV3 version easily. Be sure to proceed with the initial update at the time of the transition from MakerV2 to MakerV3.
 
-***
+
 
 > **Menu Permission Settings – How to Use Permission Settings**
 
@@ -116,7 +116,7 @@ If you have selected the Assigned Permissions only for Level 2 members, this is 
 
 As you can see, only members of Level 2 will have access to the menu, and users who are not at that level will notice that the menu is not visible in the app.
 
-***
+
 
 > #### **3.**Permission setting: Member-only selection
 

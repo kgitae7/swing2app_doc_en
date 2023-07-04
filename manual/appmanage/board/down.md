@@ -10,7 +10,7 @@ We will show you how to use the \[Download Post] function in the post-management
 
 **If you need to save and operate the posts created in the app, or if you need to collect data, please use \[Post].**
 
-***
+
 
 ### <mark style="color:blue;">**01. Post download function**</mark>
 
@@ -21,7 +21,7 @@ We will show you how to use the \[Download Post] function in the post-management
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/rty.png)
 
-***
+
 
 ### <mark style="color:blue;">**02. Post-Download Excel File**</mark>
 

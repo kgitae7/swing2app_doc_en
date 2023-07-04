@@ -15,7 +15,7 @@ Therefore, dividing ratings by member and setting up bulletin boards is a freque
 2. Apply a grade to a member to what grade to apply to each member.
 3. Once you have set up the membership grade, set the authority for each grade on the board.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**\[Summary of how to use]**</mark>
 
@@ -55,7 +55,7 @@ Go to the app operation page → Push\&Member → Member Inquiry menu.
 
 3\)Click the \[Save Group Change] button to complete the change.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.1 Create a member group**</mark>
 
@@ -81,7 +81,7 @@ Let’s add a member group with 8, 7, and 6 levels
    **\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.2 Apply Member Levels**</mark>
 
@@ -119,7 +119,7 @@ If the member’s name alone cannot determine the level
    You can find out how to set up the membership form according to the app in the help book >[**\[Setting up a registration form\].**](../service/membership-form.md)
 3. Current Group Information – Groups are changed individually without changing the groups in a list.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Set Board Level Permissions**</mark>
 
@@ -138,7 +138,7 @@ Go to **Manager.** Select **Services.**
 \*Closing Privilege Setting – If you set all privileges as corresponding privileges, only the upper group that includes them can use the menu.\
 \*Partial permission setting – You can specify only the writing permission as the corresponding permission, and by setting the detail view and list view permission as the lower permission, more members can view but restrict the writing.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 App Launch Screen**</mark>
 

@@ -20,7 +20,7 @@ If you apply for Swing Shop, all pages necessary for the shopping mall are provi
 
 Please look at the manual and check what pages there are, and we will guide you with the application screen of the app.
 
-***
+
 
 **Q. Where do I check the Swing Shop page and how do I apply it to the app?**
 
@@ -60,7 +60,7 @@ So, as you build the app, you can apply several pages to the menu and see how it
 
 I’ll show you the app execution screen for each page through the manual below\~!!
 
-***
+
 
 <mark style="color:blue;">**1. Shopping Cart**</mark>
 
@@ -194,7 +194,7 @@ Products available for reservation on that date will be inquired. This is the st
 
 Therefore, if you have registered a date and time reservation product, you can apply page 2!
 
-***
+
 
 **Swing Shop (shopping mall) Basic Page Guidelines**
 

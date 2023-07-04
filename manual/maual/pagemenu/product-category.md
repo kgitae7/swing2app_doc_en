@@ -6,7 +6,7 @@
 
 **This menu is available only to those who use Swing Shop (shopping mall).**
 
-***
+
 
 ### <mark style="color:blue;">**1. Menu type: Apply product category**</mark>
 
@@ -42,7 +42,7 @@ After applying for Swing Shop, you can register product categories in Manager �
 
 This is the screen with the ‘Product Category’ menu applied to the app.
 
-***
+
 
 <mark style="color:red;">**\*Notes on using product categories**</mark>
 

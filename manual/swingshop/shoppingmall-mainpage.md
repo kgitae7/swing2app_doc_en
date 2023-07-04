@@ -19,7 +19,7 @@ Store main images and product thumbnail images are all placed on the screen when
 
 Refer to the manual and when using Swing Shop) Please check how to use and apply the shopping mall main page ^^
 
-***
+
 
 **You need to apply for Swing Shop first to use Swing Shop Page, so if you haven’t applied, please apply before using it!**\
 Next, I will apply the main page of the shopping mall to the home screen of the app.
@@ -54,7 +54,7 @@ As you can see, the main page of the shopping mall is produced as a screen with 
 
 Therefore, please check the method below and fill in the main screen.
 
-***
+
 
 **1. Main image**
 
@@ -84,7 +84,7 @@ For the main image, we recommend **1000px wide and 545px vertical.**
 
 **After the store detailed image registration is complete, run the app and the main image at the top of the app will slide.**
 
-***
+
 
 **2. Popular Product**
 
@@ -104,7 +104,7 @@ So first of all! Products must be registered to be exposed, and then users will 
 
 The administrator can’t set the order\~!
 
-***
+
 
 **3. Category**
 
@@ -118,7 +118,7 @@ Example) Category: If you create TOP, you can compose products with blouses, kni
 
 Therefore, after creating a category, you must register the product for sale in Product Registration to display the actual product in the app.
 
-***
+
 
 **4. Main Product**
 
@@ -154,7 +154,7 @@ Please check the image below for how to register the event.
 
 7\) Click the Save button to finish.
 
-***
+
 
 **4. Bottom – footer message**
 

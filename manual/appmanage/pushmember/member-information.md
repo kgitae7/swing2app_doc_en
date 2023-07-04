@@ -10,7 +10,7 @@ In particular, if you add multiple items to the app signup form. (**\* e.g. Phon
 
 In this manual, we will show you how to check the member details on the member inquiry page and how to use the member information menu.
 
-***
+
 
 <mark style="color:blue;">**▶Go to the member inquiry page**</mark>
 
@@ -112,7 +112,7 @@ Please refer to the manual for the registration form.
 
 ☞[ **\[View the registration form manual post\]**](../service/membership-form.md)
 
-***
+
 
 &#x20;<mark style="color:blue;">**Point Management (General user use X)**</mark>
 

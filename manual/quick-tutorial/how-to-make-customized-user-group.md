@@ -2,7 +2,7 @@
 
 Swing2Aapp offers **Ratings from 1 to 9**. **Permission Group tool** lets you give access to **Bulletin boards** to specified groups. As an administrator, you can create the groups you need for each rating and apply them to your members.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. Create a Group**</mark>
 
@@ -19,7 +19,7 @@ You’ll be directed to Page where you can create Permission groups for your use
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b39-copy.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. Give Permission To Users**</mark>
 
@@ -29,7 +29,7 @@ On the same page, **Go to Member inquiries -> Select Member -> Select Group from
 
 <mark style="color:blue;">For Detailed Guide on Permission Group Visit:</mark>[ **\[Go to Detailed Tutorial\]**](../appmanage/pushmember/member-group.md)
 
-***
+
 
 <mark style="color:red;">\*NOTE</mark>
 

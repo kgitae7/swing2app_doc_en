@@ -231,4 +231,3 @@ Depending on what kind of product you are selling, there are some pages you need
 3\) You can check the screen applied to the virtual machine, so please use the virtual machine 100% when making ^^
 {% endhint %}
 
-***

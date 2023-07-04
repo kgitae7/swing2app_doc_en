@@ -6,7 +6,7 @@
 
 We will tell you about the page creation tools provided by the user page.
 
-***
+
 
 <mark style="color:green;">**▶ What is a user page?**</mark>
 
@@ -72,7 +72,7 @@ You can check the user page in the \*Maker(V2) → Page Menu Step 3.
 
 [**☞Go to HTML editor page how to make a manual**](editor-page.md)
 
-***
+
 
 ### <mark style="color:blue;">**2. How to apply to the created user page app**</mark>
 
@@ -112,7 +112,7 @@ After creating each page creation tool, open the app creation page again and you
 
 Create a category and apply the user page.
 
-***
+
 
 **\[Information]**
 

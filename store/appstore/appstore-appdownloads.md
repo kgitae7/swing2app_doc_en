@@ -10,7 +10,7 @@
 
 This manual will show you how to check app sales (downloads) on the Apple-App Store.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Access to Apple iTunes Connect site**</mark>
 
@@ -26,7 +26,7 @@ This manual will show you how to check app sales (downloads) on the Apple-App St
 \+Log in with the Apple Developer account.\
 \+On the main dashboard page, please select the **\[Sales and Trends]** menu.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Sales and Trends page**</mark>
 
@@ -43,7 +43,7 @@ If you have multiple apps registered in one account, you’ll see all the apps r
 **If you want to check the sales of a specific app among several apps, select the app from the list.**\
 **Only selected apps are filtered to see the sales figures for that app.**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Check downloads by period**</mark>
 
@@ -54,7 +54,7 @@ If you want to see how many app downloads you have, you can set a time period.\
 Then you can check the number of app downloads by period.\
 
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 Download sales statistics**</mark>
 
@@ -74,7 +74,7 @@ Select the appropriate button → select **\[Download as XLS File]** to view it 
 When you open an Excel file, you can see the statistics of app sales for the week. \
 
 
-***
+
 
 
 

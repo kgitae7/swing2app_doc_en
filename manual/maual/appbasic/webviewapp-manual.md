@@ -6,7 +6,7 @@
 
 We will tell you how to make a WebView app (a web app made by walking a website) and how to release it to the store.
 
-***
+
 
 Swing2App is a user-created app builder, and you must create your app with the app-creation tool provided by Swing2App.
 
@@ -41,7 +41,7 @@ After logging in to the Swing2App homepage, \[Maker(V2)] Step 1 Basic Informatio
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/12/make18.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Check the App**</mark>
 
@@ -75,7 +75,7 @@ When launching the App Store or Play Store app, you need to switch from the free
 
 To convert the paid version, simply purchase a Swing2App paid app pass, please check below.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Purchasing passes and tickets**</mark>
 
@@ -147,7 +147,7 @@ Therefore, be sure to check the product before purchasing it.
 
 If you are not sure if you look at the contents, please leave an inquiry on the bulletin board. We will help you in detail. ^^
 
-***
+
 
 ### **STEP. 4 Store upload request**
 
@@ -171,7 +171,7 @@ You must check the policy of each store.
 
 \*Store registration policy: [http://swing2app.com/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice](http://swing2app.com/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 Store launch completion (release after review)**</mark>
 
@@ -209,7 +209,7 @@ Make sure to check the contents of the store policy, so there will be no problem
 
 Please check. [**☞ \[Check the store terms and conditions\]**](https://support.swing2app.com/market-policy/)
 
-***
+
 
 <mark style="color:blue;">**Precautions and WebView app production Q\&A**</mark>
 
@@ -301,7 +301,7 @@ When a new version app is created, you can update the store again with the versi
 
 <mark style="color:purple;">However, users who use the WebView unlimited plugin cannot change it.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 **Q. How do I change the web link address after creating a web view app?**
 

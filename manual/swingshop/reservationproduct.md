@@ -16,7 +16,7 @@
 
 **Please check the subscription method, application method, and application screen.**
 
-***
+
 
 **1. Create a category to use in the reservation system by clicking the Products → Product category registration menu → Add button in the Shop.**&#x20;
 
@@ -24,7 +24,7 @@
 
 **3. When the reservation product registration is completed, go to the app production page and select \[Swing2App Page], then select the \[Book reservation] page.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Product Category Registration**</mark>
 
@@ -64,7 +64,7 @@ Categories can still be added from that menu without limiting the number of cate
 
 You can edit the content by selecting the category, and delete the category within the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2  Product Registration for Reservation**</mark>
 
@@ -106,7 +106,7 @@ Go to Shop → Products → Product Item Registration.
 
 \*As mentioned above, you must create a product category first so that you can select a category in the product registration! Don’t forget to create a category first.
 
-***
+
 
 <mark style="color:blue;">**★ Set Time Schedule**</mark>
 
@@ -150,7 +150,7 @@ You can’t make multiple reservations at one time, can only make one reservatio
 
 (2 teams reservation at 2 pm, 3 teams reservation at 3 pm X → Only 1 team is allowed for reservation)
 
-***
+
 
 Let’s explain the product registration again!
 
@@ -202,7 +202,7 @@ If you need to modify the content of the product, select the product you want to
 
 Go to the product registration modification screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply the reservation system to the app**</mark>
 
@@ -256,7 +256,7 @@ Not only does My Page check the completion of the purchase, but it also provides
 
 In addition, there are many other functions such as the main product and the hot product view.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 App launch screen) running a reservation system**</mark>
 
@@ -302,4 +302,3 @@ It will be canceled immediately after payment of 1,000 won.
 
 [**\[Go to see the manual for registering time-booking products\]**](timereservation-product.md)
 
-***

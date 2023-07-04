@@ -22,7 +22,7 @@ For more information on how to download the app to share, please refer to the ma
 **☞**<mark style="color:blue;">**\[Go to the manual on how to download the app to share]**</mark>
 {% endhint %}
 
-***
+
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[Share App] to your app
 

@@ -44,7 +44,7 @@ If you can scroll like this, you can just keep the horizontal and the vertical s
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_12\_18\_54\_49\_115.gif)
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. Add an image page**</mark>
 
@@ -67,7 +67,7 @@ Since you need to create an image page first, just select the image page.
 
 When you’re done creating your image page, we’ll show you how to apply it to your app again.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 2. Creating an image page**</mark>
 
@@ -187,7 +187,7 @@ If you use the <mark style="color:blue;">**\[Duplicate Style button]**</mark> in
 
 You only need to change the link settings, so you can create it easily.
 
-***
+
 
 <mark style="color:blue;">**5. Complete Production**</mark>
 
@@ -201,7 +201,7 @@ Press the Save button and you’re done.
 
 Then go back to the app production page and apply the image page to the app.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply image pages to your app**</mark>&#x20;
 
@@ -223,7 +223,7 @@ The image page has been applied to the home screen.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-04-23-at-14.19.13.png)
 
-***
+
 
 .
 

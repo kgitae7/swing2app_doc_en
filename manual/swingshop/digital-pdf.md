@@ -12,7 +12,7 @@ You can view the document as a PDF file.&#x20;
 
 You can choose how to download PDF files from the Swing Store, the app launch screen, and the product.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Register a product category after applying for a swing store**</mark>
 
@@ -52,7 +52,7 @@ Category registration is complete.Categories can continue to add menus without l
 
 Choose a selection category to edit the content.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Register digital products -PDF**</mark>
 
@@ -154,7 +154,7 @@ If you need to edit the registered product, select the product you want to edit 
 
 Go to the product registration modification screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply product categories to your app**</mark>
 
@@ -178,7 +178,7 @@ Please go to the Maker(V2) page.
 7. Select the **Apply** button.
 8. Press the **Save** button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 App Launch Screen) Digital Product Sales App**</mark>
 

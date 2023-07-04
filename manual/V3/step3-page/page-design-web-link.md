@@ -64,7 +64,7 @@ This will generate a link address, but for web addresses that are opened using t
 
 **Even websites that are not secured should be selected to view in a new window so that you can use them more reliably in the app.**
 
-***
+
 
 #### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> App launch screen - Apply Internet address Screen
 
@@ -74,7 +74,7 @@ In the Link Wizard, I linked the 'Internet address' and launched the app.
 
 When you select the WebLink menu, you will be taken to the website page that has been applied.
 
-***
+
 
 **I'll launch the app to see how the view in a new window and the view in the external app are different!**
 
@@ -88,7 +88,7 @@ Selecting the menu takes you to a new webpage and launches the site. It's a conc
 
 Press the screen X button or the back button to return to the app.
 
-***
+
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Open as a new app**
 
@@ -239,7 +239,7 @@ Example) If Google mail is linked, send it after running gmail app / Send it aft
 
 It comes from an email set up for each user's phone.
 
-***
+
 
 {% hint style="danger" %}
 <mark style="color:red;">**\*Link function important guide**</mark>
@@ -273,6 +273,5 @@ These sites will not work properly if you link to the app if you get an error or
 Please refer to the usage.
 {% endhint %}
 
-***
 
-***
+

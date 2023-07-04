@@ -12,7 +12,7 @@ If you want to change the form of the ID, you can change it to a phone number or
 
 Please check with the manual on how to set the ID type in the registration form and how the ID input screen is changed through the app execution screen.
 
-***
+
 
 ### <mark style="color:blue;">Go to the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Membership form**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">page</mark>
 
@@ -25,7 +25,7 @@ This is the page that sets up the sign-up form. The username form provided by th
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/o.png)
 
-***
+
 
 ### <mark style="color:blue;">**1. General ID Settings**</mark>
 
@@ -83,7 +83,7 @@ When authentication is completed, you can log in by entering the registered emai
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/04/email@3x.png)
 
-***
+
 
 When signing up for a membership, please set it to receive the desired ID.
 

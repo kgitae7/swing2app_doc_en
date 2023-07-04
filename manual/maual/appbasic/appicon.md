@@ -6,7 +6,7 @@
 
 In this manual, we will guide you on how to create and register an app icon image on the Swing2App Maker(V2) – App Basic Information.
 
-***
+
 
 ### <mark style="color:blue;">**1. What is an App Icon?**</mark>
 
@@ -26,7 +26,7 @@ All the images you see on your phone are app icons.
 
 Users can create their app icon images like this.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### <mark style="color:blue;">**2. Guide to create an app icon**</mark>
 
@@ -58,7 +58,7 @@ When working with Paint, PowerPoint, etc., the picture quality may be worse than
 
 We will explain the icon image design below.
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### <mark style="color:blue;">**3. Guide on App Icon Design**</mark>
 
@@ -88,7 +88,7 @@ Also, if you look at the apps installed on your phone, you can check how they ar
 
 **\*And as mentioned above, please be sure to use the professional image design tool.**
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### <mark style="color:blue;">**4. Apply the App icon**</mark>
 
@@ -105,7 +105,7 @@ Swing2App creation can be further edited, so you can apply it as a sample and ed
 
 The image editing tool window is a page where only the size of the image can be adjusted according to the recommended size (it cannot design images)
 
-![](<../../../.gitbook/assets/구분선 (1) (1).PNG>)
+![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
 ### <mark style="color:blue;">**5. App Icon size is different on Android and iPhones!**</mark>
 

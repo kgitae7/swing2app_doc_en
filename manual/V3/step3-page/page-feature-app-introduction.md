@@ -124,6 +124,5 @@ It's a guideline setting screen for first-time creators.
 Therefore, in addition to the app introduction page, the home screen can be decorated with various menus.
 {% endhint %}
 
-***
 
-***
+

@@ -10,7 +10,7 @@ You can check order amount and order quantity by period.
 
 You can check the order amount by product and the number of readings per product by statistics.
 
-***
+
 
 #### <mark style="color:blue;">**Move to store statistics menu**</mark>
 
@@ -18,7 +18,7 @@ You can check the order amount by product and the number of readings per product
 
 [Go to Swing store Menu – \[Store Statistics\]](https://www.swing2app.com/view/store\_statistics\_month)
 
-***
+
 
 ### <mark style="color:blue;">**1. Monthly order amount**</mark>
 
@@ -30,7 +30,7 @@ The monthly order amount can be viewed as a sum of the order amount and the sum 
 
 You can also check the order amount and order quantity statistics separately.
 
-<mark style="color:orange;"></mark>
+
 
 <mark style="color:orange;">**1-1 Monthly Order Amount**</mark>
 
@@ -46,7 +46,7 @@ After applying the time period you want to check, you can see the order amount f
 
 Similarly, if you check the number of orders, you can check the number of items ordered by the time they are applied.
 
-***
+
 
 ### <mark style="color:blue;">**2. Daily order amount**</mark>
 
@@ -56,7 +56,7 @@ The daily order amount is a statistic that allows you to see the sum and quantit
 
 Just like your monthly statistics, you can select the date and see your order value and quantity.
 
-***
+
 
 ### <mark style="color:blue;">**3. Order amount by product**</mark>
 
@@ -74,7 +74,7 @@ All menus on the statistics page can be downloaded and verified by Excel.
 
 If you are documenting, please check the statistics by product through Excel download.
 
-***
+
 
 ### <mark style="color:blue;">**4. Viewing Products**</mark>
 

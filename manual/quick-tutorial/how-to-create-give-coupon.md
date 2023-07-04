@@ -2,7 +2,7 @@
 
 **\[Coupons Management]** is a menu where an administrator can create & send coupons to customers & manage them using the app.
 
-***
+
 
 ### <mark style="color:blue;">**STEP 1. ​How to create a coupon**</mark>
 
@@ -30,7 +30,7 @@ On Coupons screen, click **Add Coupons.** A Coupon information window will open 
 
 **1. While creating coupon you can also set Unlimited Coupon Validity.**
 
-***
+
 
 <mark style="color:blue;">**STEP 2. How To Issue Coupon**</mark>
 

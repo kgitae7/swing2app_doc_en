@@ -4,7 +4,7 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 <mark style="color:purple;">Let’s check out the functioning of coupon with some examples.</mark>&#x20;
 
-***
+
 
 **Sample 1. Fitness Club**
 
@@ -25,9 +25,9 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-1.png)
 
-***
+4\. Now the customer will go to the respective gym and show this serial number to avail the service. Admin will enter this serial number in their app so that customer can use the coupon and avail the offer.
 
-***
+
 
 **Sample 2. Law Firm**
 
@@ -50,9 +50,9 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-2-%E2%80%93-1.png)
 
-***
+4\. Now the customer will go to the respective law firm and show this serial number to avail the service. Admin will enter this serial number in their app so that customer can use the coupon and avail the offer.
 
-***
+
 
 **Sample 3. Hair & Beauty Salon**
 
@@ -75,16 +75,16 @@ Swing2App provides coupon feature which user can use as a rewards or offers for 
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-2.png)
 
-***
+4\. Now the customer will go to the salon and show this serial number to avail the service. Admin will enter this serial number in their app so that customer can use the coupon and avail the offer.
 
-***
 
-***
+
+NOTE - Let’s check how the coupon will be used by the admin. <mark style="color:purple;">Check the image below:</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-5.png)
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-10.png)
 
-***
+NOTE - User can check if the coupon is used or not in their coupon section of the app. The used coupon will move to used coupon. <mark style="color:purple;">Check the image below:</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Ecom-%E2%80%93-11-1.png)

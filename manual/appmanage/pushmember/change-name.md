@@ -18,7 +18,7 @@ You can use it for so many purposes.
 
 The administrator can change the names of the app members to suit the purpose of the app operation.
 
-***
+
 
 ### <mark style="color:blue;">**1. Change Member Name**</mark>
 
@@ -32,7 +32,7 @@ Select <mark style="color:blue;">**Member name**</mark> from the member inquirie
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/04/chname.png)
 
-***
+
 
 ### <mark style="color:blue;">**2. Check Member Name after Change: Member Lookup Page**</mark>
 
@@ -40,7 +40,7 @@ Select <mark style="color:blue;">**Member name**</mark> from the member inquirie
 
 You can see that the name of the user (member) has been changed by the administrator.
 
-***
+
 
 ### <mark style="color:blue;">**3. App Launch screen**</mark>
 
@@ -52,7 +52,7 @@ If you look at the app launch screen, you can see that the existing username has
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/04/name.png)
 
-***
+
 
 <mark style="color:orange;">**\[Guide]**</mark>
 

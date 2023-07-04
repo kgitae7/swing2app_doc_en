@@ -4,7 +4,7 @@ description: How to schedule a post
 
 # Bulletin Board – Post Schedule Settings
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 You can set a schedule when you create a post.
 
@@ -12,7 +12,7 @@ If you hang a reservation, your posts will be exposed in the app on a set date a
 
 Please check the manual for setting up a reservation when writing a post.
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **1. How to use reservation settings**
 
@@ -42,7 +42,7 @@ You can see the Set Up: Set Up Schedule feature under Create Post.
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,7 +58,7 @@ If you look at the list of articles written, a clock-shaped icon will be display
 
 \*You can modify the appointment time before the registered reservation time. (You can click the pencil icon to modify it.)
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **3. App Launch Screen) Check the Apps** &#x20;
 

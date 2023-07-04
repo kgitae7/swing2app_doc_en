@@ -20,7 +20,7 @@ Please check the time reservation product registration method, application appli
 
 [**\[\[Go to the manual to register the date reservation product\]**](reservationproduct.md)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Register product category after applying for Swing Shop**</mark>
 
@@ -60,7 +60,7 @@ You can continue to add categories from the menu without a limit on the number o
 
 You can edit the content by selecting the category, and delete the category with the \[Delete] button.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Reservation system product registration**</mark>
 
@@ -172,7 +172,7 @@ If you need to edit the registered product details, select the product you want 
 
 You will be directed to the product registration edit screen.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Apply the reservation system (product purchase) page to the app**</mark>
 
@@ -225,7 +225,7 @@ My Page provides not only confirmation of purchase completion, but also delivery
 
 In addition, various functions such as viewing recently viewed products and favorite products are provided.
 
-***
+
 
 <mark style="color:blue;">**STEP.4 App execution screen) Purchase time reservation products**</mark>
 

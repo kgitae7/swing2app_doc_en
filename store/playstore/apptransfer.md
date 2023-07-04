@@ -18,7 +18,7 @@ Please refer to the Swing2App article for instructions on how to transfer your a
 
 \-App transfer must be done by the developer account owner, and Swing2App does not act on behalf of or on behalf of.
 
-***
+
 
 ### <mark style="color:blue;">**01. Google Developer Account App Transfer Site**</mark>
 
@@ -38,7 +38,7 @@ You should check all the contents of the 4 steps before the app migration.
 
 Once you’ve confirmed it, please select the blue letter <mark style="color:blue;">**\[Submit transfer request]**</mark>  in the previous request submission item.
 
-***
+
 
 ### <mark style="color:blue;">**02. Fill out the app transfer application**</mark>
 
@@ -96,7 +96,7 @@ Exclude the numbers from here. R**egistration- Please copy from the beginning an
 >
 > PDS.1234-5678-9012-3456
 
-***
+
 
 ### <mark style="color:blue;">**04. Completed the application transfer**</mark>
 
@@ -106,7 +106,7 @@ You have completed the app transfer application.
 
 The message appears which says that the transfer request has been received and the transfer will take approximately two days.
 
-***
+
 
 ### <mark style="color:blue;">**05. Completed app transfer**</mark>
 

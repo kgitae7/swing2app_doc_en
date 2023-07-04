@@ -4,7 +4,7 @@ Users need some support feature in app so that they can raise their queries imme
 
 <mark style="color:purple;">Let’s check out all these features in the app.</mark>&#x20;
 
-***
+
 
 **Sample 1. Cafe or Restaurants**
 
@@ -27,7 +27,7 @@ Users need some support feature in app so that they can raise their queries imme
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-1-%E2%80%93-4.png)
 
-***
+
 
 **Sample 2. Cafe or Restaurants**
 
@@ -50,7 +50,7 @@ Users need some support feature in app so that they can raise their queries imme
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/Coup-1-%E2%80%93-5.png)
 
-***
+
 
 **Sample 3. Cafe or Restaurants**
 

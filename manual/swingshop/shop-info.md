@@ -12,7 +12,7 @@ From customer center information to operating hours introduction, etc. are displ
 
 It can be used on the Swing page, and the page can be applied together when using the Swing Shop.&#x20;
 
-***
+
 
 &#x20;
 
@@ -20,7 +20,7 @@ It can be used on the Swing page, and the page can be applied together when usin
 
 <figure><img src="../../.gitbook/assets/Group-420@3xfg (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 &#x20;
 
@@ -82,7 +82,7 @@ It is the same size as the app icon. You can also put the app icon image. (You c
 
 When the basic information setting input is complete, you will be directed to the app creation page.&#x20;
 
-***
+
 
 &#x20;
 

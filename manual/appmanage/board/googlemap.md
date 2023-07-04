@@ -18,7 +18,7 @@ In addition to the general location registration board that works with the follo
 
 **☞** [**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
 
-***
+
 
 &#x20;<mark style="color:blue;">**App execution screen-map board**</mark>&#x20;
 
@@ -124,9 +124,9 @@ You can just enter the Google Map API key and save it, and you can edit several 
 
 Then, we will register the location on the Google Map bulletin board!
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP2. Register your location on Google Maps
 
@@ -149,7 +149,7 @@ To register a location, use the search toolbar above to enter an address or sear
 
 <figure><img src="https://support.swing2app.com/wp-content/uploads/2018/09/google3.png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 &#x20;
 
@@ -190,7 +190,7 @@ You can edit and delete the location, and if you have an app that manages multip
 
 
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. Apply the Map Board to the App
 
@@ -240,9 +240,9 @@ Go to **Maker(V2)** and select the **Page Menu.**
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-***
 
-<figure><img src="../../../.gitbook/assets/구분선 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. App Launch screen
 
@@ -256,7 +256,7 @@ Let’s open the app and see how the Google Maps bulletin board looks like.
 
 </div>
 
-***
+
 
 Select the ‘Tiffany and Co.’ from saved locations.
 

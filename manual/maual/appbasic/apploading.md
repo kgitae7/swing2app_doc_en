@@ -18,7 +18,7 @@ So the official screen size provided by the application is (2282 \* 2282) px.\
 
 Check the manual to find out how to create the idle screen image.
 
-***
+
 
 <mark style="color:blue;">**▶ Idle Screen Guidelines**</mark>
 
@@ -44,7 +44,7 @@ Existing apps also provide **an important image in the center when you look at t
 
 **Check out the instruction below.**
 
-***
+
 
 ### &#x20;<mark style="color:blue;">**STEP.1  Production Method 1 – Launch Photoshop**</mark>&#x20;
 
@@ -66,7 +66,7 @@ Create an image by putting the image or logo of the company you want to make int
 
 <mark style="color:red;">**The grey color is cut off on the phone, so make sure not to cross the blue area.**</mark>&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2   Insert an image into the blue area**</mark>
 
@@ -79,7 +79,7 @@ If you want to create a separate promotional image, just place it inside the are
 We place Swing2App image which is the company’s logo.\
 As you can see in the image, you can place it neatly into this area. &#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3  Deleting a background color**</mark>
 
@@ -88,7 +88,7 @@ As you can see in the image, you can place it neatly into this area. &#x20;
 When you’re done working on the image, delete the background and area colors you’ve put in earlier. \
 **\* If you remove the background color altogether, it will be transparent. It can be white or any other color you want!**&#x20;
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4  Upgrading Background Image**</mark>
 
@@ -101,7 +101,7 @@ The background image looks cut off on your phone, so you might want to give it a
 If you look at the atmospheric screen guidelines and create an image, it will never be cut off or distorted on your phone. Let’s Go!!\
 
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 Check Idle Screen Image on Phone and run the Application**</mark>
 
@@ -113,7 +113,7 @@ If you look at the atmospheric screen guidelines and create an image, it will ne
 **Obviously we made it square but it fits very well into the rectangular cell phone screen.**\
 **\*\*Please  create an idle screen image in this way.** &#x20;
 
-***
+
 
 <mark style="color:blue;">**▶Create Idle Screen Image with Paint!!**</mark>
 
@@ -127,7 +127,7 @@ If you look at the atmospheric screen guidelines and create an image, it will ne
 3\. You can then create an image inside the area just like you saw in Photoshop.\
 4\. After creating, delete the rectangular area.
 
-***
+
 
 &#x20;<mark style="color:blue;">**▶ Incorrect Screen Image 1**</mark>
 

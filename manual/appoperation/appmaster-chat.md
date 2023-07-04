@@ -8,7 +8,7 @@ App Administrator Menu – Lets you know about 1: 1 chat function between admini
 
 The app also allows 1: 1 chat, and push notifications are sent in real time when chatting in the chat room.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.1 Move the App Administrator Menu**</mark>
 
@@ -16,7 +16,7 @@ The app also allows 1: 1 chat, and push notifications are sent in real time when
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/admin1.png)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Admin Menu: User Management**</mark>
 
@@ -28,7 +28,7 @@ The user list allows you to view the list of the users who are subscribed to the
 
 (Guests who are not subscribed do not have login information, so they are not listed!)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 1:1 Chat**</mark>
 
@@ -52,7 +52,7 @@ If you select 1: 1 chat, the chat window will open immediately.
 
 \*\* Let’s enter a message to the Windy user.
 
-***
+
 
 ### <mark style="color:blue;">**STEP.4 User app launch screen**</mark>
 
@@ -70,7 +70,7 @@ Users can also send and receive messages in real time by sending messages to adm
 
 **\*Administrators too! When a user sends a message, a push notification is sent in real time.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 Chat Window – Attach Photos**</mark>
 

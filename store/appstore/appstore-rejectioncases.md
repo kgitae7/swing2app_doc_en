@@ -42,7 +42,7 @@ For example, in an app, you’ll be described as Apple, but when you go to the l
 
 Therefore, when creating an app, the **‘web link’** part is a must. Please check
 
-***
+
 
 ### <mark style="color:blue;">**3. Loading images used only on iPhone**</mark>
 
@@ -70,7 +70,7 @@ As you can see from the image attached above, you can see the difference between
 
 **Therefore, when you insert a screenshot image, either delete the top bar image or edit and register the image for iPhone.**
 
-***
+
 
 ### <mark style="color:blue;">**4. You can’t have poor-quality images.**</mark>
 
@@ -92,7 +92,7 @@ Occasionally**, even if the icon image, the standby screen image, and the like a
 
 All images are registered directly according to the nature of the app.
 
-***
+
 
 ### <mark style="color:blue;">**5. It doesn’t even ask for personal information.**</mark>
 
@@ -111,7 +111,7 @@ In particular, there are cases where the user’s gender, age, contact informati
 
 **If these items are never passed, the app store review will not pass.**
 
-***
+
 
 ### <mark style="color:blue;">**6. Please check if you need to submit a demo account.**</mark>
 
@@ -131,7 +131,7 @@ In these cases, you’ll need to provide a demo account- ID and a non-number whe
 
 Tell us your account and we’ll be able to launch your app if we’re sure there are no issues with the app.
 
-***
+
 
 Also, there are so many cases of app rejection in the App Store.
 

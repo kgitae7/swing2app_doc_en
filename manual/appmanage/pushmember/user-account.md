@@ -22,7 +22,7 @@ Unlike in general, users accessing the app and signing up directly! Member creat
 
 \-Otherwise, it can be used when you need to create a specific ID at the discretion of the administrator.
 
-***
+
 
 <mark style="color:blue;">**1.**</mark>
 

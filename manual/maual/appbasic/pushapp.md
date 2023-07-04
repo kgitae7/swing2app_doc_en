@@ -20,7 +20,7 @@ If you are thinking of creating a push app, be sure to check the push app creati
 
 You can check everything from push app creation to store launch method, push delivery method, and precautions.
 
-***
+
 
 Swing2App is an app builder created by the user, and the user must create an app with the app creation tool provided by Swing2App.
 
@@ -124,7 +124,7 @@ If the connection is rejected in the app, please contact us through the inquiry 
 
 <mark style="color:red;">\*However, the URL for internal use and the site address used by the company’s internal server cannot be connected, and cannot be created with a web app.</mark>
 
-***
+
 
 ### <mark style="color:blue;">**STEP.2 Download and check the created app**</mark>
 
@@ -170,7 +170,7 @@ If there is no problem, you can prepare for the store launch.
 
 **To switch to the paid version, you can purchase a swing-to-app paid app license, please check below.**
 
-***
+
 
 ### <mark style="color:blue;">**STEP.3 Purchase of vouchers and tickets**</mark>
 
@@ -268,7 +268,7 @@ If you are not sure about the contents, please leave an inquiry on the inquiry b
 
 \-Apple is optional for developer account: Select between user Apple developer account registration or Swing2App account proxy registration
 
-***
+
 
 ### <mark style="color:blue;">**STEP. 4 Store upload application**</mark>
 
@@ -290,7 +290,7 @@ You must check the policies for each store.
 
 **\*Store registration:** [**https://support.swing2app.com/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice**](https://swing2app.com/view/swing\_notice\_detail?notice\_id=292\&notice\_type=normalNotice)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.5 Store launch complete (release after review)**</mark>
 
@@ -326,7 +326,7 @@ Make sure to check the contents of the store policy so that there will be no pro
 
 **By all means! Please check.☞** [**\[Check the store terms and conditions\]**](https://support.swing2app.com/market-policy/)
 
-***
+
 
 ### <mark style="color:blue;">**STEP.6 Sending push from push app**</mark>
 
@@ -344,7 +344,7 @@ Therefore, if the app is created, check the push sending function and familiariz
 
 **☞**[**Go to see how to send push in push app**](../../appmanage/pushmember/pushapp-push.md)
 
-***
+
 
 **Precautions and push app production Q\&A**
 

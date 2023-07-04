@@ -16,7 +16,7 @@ Just enter the basic information of the app and select ‘push’ or ‘ web vie
 \
 **We’ll show you a manual on how to build an app with a push version and a web-view version.**
 
-***
+
 
 <mark style="color:orange;">**\[Create a push version app]**</mark>&#x20;
 
@@ -82,7 +82,7 @@ On the Manager page→ Push & Member → Send Push menu, enter the subject and c
 
 <mark style="color:orange;">\*Scheduled push delivery is also available.</mark>&#x20;
 
-***
+
 
 <mark style="color:orange;">**\[Create a Web View Version App]**</mark>
 
@@ -136,7 +136,7 @@ You can check the completed app using the swing2app preview or by downloading th
 
 **\* Apps made with web view and push can only be checked on Android phones. (Can’t be checked on iPhone)**
 
-***
+
 
 <mark style="color:red;">**\*Please be careful when creating a push version and web-view version.**</mark>
 
