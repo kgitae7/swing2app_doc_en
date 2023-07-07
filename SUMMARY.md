@@ -344,7 +344,6 @@
 * [Server Side API Specifications](developer/server-side-api/README.md)
   * [Sending a push notification By API](developer/server-side-api/push-api-notification.md)
 * [Webview (Webview, Push only) Development tool](developer/webview/README.md)
-  * [Page 1](developer/webview/page-1.md)
   * [Website Member Integration Guide](developer/webview/user-integration/README.md)
     * [Wix Website User Integration Guide](developer/webview/user-integration/wix-website-user-integration-guide.md)
     * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
