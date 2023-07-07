@@ -47,7 +47,7 @@ js file insertion tips
 
 After completing the member linkage, you can send the push by the website itself using the push-sending API.
 
-\[Push Sending API Guide]
+[\[Push Sending API Guide\]](../../server-side-api/)
 
 ###
 
