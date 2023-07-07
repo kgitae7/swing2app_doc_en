@@ -72,7 +72,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**1.**</mark><mark style="color:blue;">When using app production V3 version</mark>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. App creation screen - Select the STEP3 page
 2. Select Menu. \*If you haven't created a menu, please create a new one. (+Select the shape button to add a menu)
@@ -86,7 +86,7 @@ Therefore, **when creating a bulletin board, the service is always used! Please 
 
 ### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using the app production V2 version</mark>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Move to the Maker(V2) → Page menu.**
 
