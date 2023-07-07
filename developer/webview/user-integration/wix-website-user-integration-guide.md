@@ -26,7 +26,7 @@ Once the user integration is completed, you will be able to view the website mem
 
 (1) Insert the following code in the designated area
 
-{% code title="HTML 요소 코드" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```html
 <script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2022_06_17_001/js/swing_app_on_web.js"></script>
 
