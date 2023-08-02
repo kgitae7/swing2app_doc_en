@@ -344,6 +344,7 @@
 * [Server Side API Specifications](developer/server-side-api/README.md)
   * [Sending a push notification By API](developer/server-side-api/push-api-notification.md)
 * [Webview (Webview, Push only) Development tool](developer/webview/README.md)
+  * [Implementing Google and Facebook Login in WebView](developer/webview/implementing-google-and-facebook-login-in-webview.md)
   * [Website Member Integration Guide](developer/webview/user-integration/README.md)
     * [Wix Website User Integration Guide](developer/webview/user-integration/wix-website-user-integration-guide.md)
     * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
