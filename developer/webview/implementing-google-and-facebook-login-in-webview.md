@@ -6,7 +6,7 @@ While developing Android apps, if you want to use the login features of platform
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt="" width="375"><figcaption><p>Example Screen of Google Login Blocked in WebView</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption><p>Example Screen of Facebook Login Blocked in WebView</p></figcaption></figure>
 
 
 
