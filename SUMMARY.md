@@ -349,3 +349,7 @@
     * [Wix Website User Integration Guide](developer/webview/user-integration/wix-website-user-integration-guide.md)
     * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
   * [Javascript Integration API Documentation](developer/webview/javascript-api.md)
+
+***
+
+* [Limit on the Number of Devices for Free User](limit-on-the-number-of-devices-for-free-user.md)
