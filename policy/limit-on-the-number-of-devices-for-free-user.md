@@ -23,11 +23,11 @@ description: Swing2App Free Version App Device Limit Guide
 
 Go to [Manager -> Push & Members -> Push Device Management](https://www.swing2app.com/view/push\_device\_management)&#x20;
 
-<figure><img src=".gitbook/assets/[en]mau3 (1).png" alt=""><figcaption><p>Swing2App Console</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[en]mau3 (1).png" alt=""><figcaption><p>Swing2App Console</p></figcaption></figure>
 
 2\) Webview app users can check in the [Manager -> Services -> App registered devices](https://www.swing2app.com/view/app\_device\_management) menu
 
-<figure><img src=".gitbook/assets/[en]mau4.png" alt=""><figcaption><p>Swing2App Console</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[en]mau4.png" alt=""><figcaption><p>Swing2App Console</p></figcaption></figure>
 
 ![](https://88478715-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2FAlSKEpMRZj9Ro289BsG8%2F%EA%B5%AC%EB%B6%84%EC%84%A0.PNG?alt=media\&token=eee09ed6-c394-4be9-a8b1-f2bc7faedf37)
 
@@ -37,7 +37,7 @@ The app will be suspended, and a page like the one below will appear, making the
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/[en]mau1.png" alt="" width="211"><figcaption><p>Example of the restriction message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[en]mau1.png" alt="" width="211"><figcaption><p>Example of the restriction message</p></figcaption></figure>
 
 </div>
 
@@ -99,7 +99,7 @@ Go to [Manager -> Services -> App registered devices](https://www.swing2app.com/
 
 
 
-<figure><img src=".gitbook/assets/[en]mau2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/[en]mau2.png" alt=""><figcaption></figcaption></figure>
 
 **\*Select the \[Inactivate] button**
 

@@ -350,6 +350,6 @@
     * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
   * [Javascript Integration API Documentation](developer/webview/javascript-api.md)
 
-***
+## Policy
 
-* [Limit on the Number of Devices for Free User](limit-on-the-number-of-devices-for-free-user.md)
+* [Limit on the Number of Devices for Free User](policy/limit-on-the-number-of-devices-for-free-user.md)
