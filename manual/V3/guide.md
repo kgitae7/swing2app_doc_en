@@ -2,7 +2,7 @@
 description: MakerV3 App Creation Guide Manual
 ---
 
-# Manual on How to Create an App In MakerV3
+# Manual on How to Create an App In MakerV3 Screen
 
 ### ![](../../.gitbook/assets/단락1-1.png) STEP1 Basic Information
 
@@ -14,13 +14,13 @@ When you finish entering the information in the app creation wizard screen, the 
 
 **1. App Name:** Enter your app name.
 
-**2. App ID:** Apply a unique ID to the app you created. After entering, check for duplicate confirmation!!
+**2. App ID:** Apply a unique ID to the app you created. After entering, check for duplicate confirmation!! <mark style="color:red;">**(Start from the alphabet and should be 6-20 characters long)**</mark>
 
-**3. App icon:** Register the app icon image
+**3. App icon:** Register the app icon image <mark style="color:red;">**(1024x1024px)**</mark>
 
-**4. Standby screen:** Register a splash screen image that will be displayed for 1-2 seconds when the app is launched.
+**4. Standby screen:** Register a splash screen image that will be displayed for 1-2 seconds when the app is launched. <mark style="color:red;">**(2282x2282px)**</mark>&#x20;
 
-**5. Save:** After you are satisfied with your app creation, select the \[Save] button to save the work.
+**5. Save:** After you are satisfied with your app creation, click on, the \[Save] button to save the work.
 
 ###
 
@@ -43,19 +43,19 @@ Icon image size: **1024px\*1024px**
 (3)After registering the image, click on the Apply button.\
 
 
-**2)Upload the waiting screen**
+**2)Upload the splash screen image**
 
 ![](../../.gitbook/assets/가이드2-1.png)
 
-Standby Screen Image Size : **2282px\*2282px**
+Splash Screen Image Size: **2282px\*2282px**
 
 (1)Click on the app splash screen upload button
 
-(2)Select the Upload Image button in the file attachment window.
+(2)Click on the Upload Image button in the file attachment window.
 
-(3)After registering the image to be used as the standby screen, click on the Apply button.
+(3)After registering the image to be used as the splash screen, click on the Apply button.
 
-
+***
 
 Check out the icons image creation guide for a more detailed explanation.
 
@@ -87,20 +87,20 @@ Select Color Set: Sets the app and color of the UI design.
 
 It offers a color combination consisting of 3 sets which are the main background colors, text colors, and theme colors.
 
-Once you have selected the desired combination, you can see the UI changing colors in real-time through the virtual machine.
+Once you have selected the desired combination, you can see the UI changing colors in real time through the virtual machine.
 
 **3. Advanced styles and options**
 
 This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 
-This is not a required setting, users can modify if they want to.
+This is not a required setting, users can modify it if they want to.
 
 **4. Custom settings**
 
 **​**
 
 {% hint style="warning" %}
-<mark style="color:orange;"><mark style="color:red;">What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.<mark style="color:red;"></mark>
+<mark style="color:orange;">What if none of the combined colors present in the preset are as per your interest? In that case,  please use the detailed settings.</mark>
 {% endhint %}
 
 ![](../../.gitbook/assets/가이드2-2.png)
@@ -119,7 +119,7 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 The Home option is to set the main home screen of the app.&#x20;
 
-On the left area, you can set menus of the app.
+On the left area, you can set the menus of the app.
 
 We'll show you how to apply the home screen and menus of the app.
 
@@ -137,7 +137,7 @@ We'll show you how to modify and apply the menu to the home screen.
 
 ![](../../.gitbook/assets/가이드3-1.png)
 
-Click on the \<Home> option from the menu category on the left side of MakerV3 page.
+Click on the \<Home> option from the menu category on the left side of the MakerV3 page.
 
 1\) Enter the name of the home screen, which will be shown at the top of the main screen. After typing, click anywhere on the screen or press the Enter button to reflect it directly to the virtual screen.
 
@@ -165,13 +165,13 @@ To learn how to create a template page, please check out the production manual b
 
 4\)Hover your cursor over the template, **\<preview, apply, manage>** options will pop up
 
-If you want to check how the template looks before applying it to the app, select 'Preview', select the 'Apply' option to apply the created template to the app, and choose the 'Manage' option if you wish to modify your created template. &#x20;
+If you want to check how the template looks before applying it to the app, select the 'Preview' button, select the 'Apply' option to apply the created template to the app and choose the 'Manage' option if you wish to modify your created template. &#x20;
 
 5\)Click on the \[Save] button and check the template applied to the home screen on the virtual machine screen.
 
 
 
-### **2.**Menu Management
+### **2.** Menu Management
 
 <mark style="color:green;">**1)Add and delete menus**</mark>
 
@@ -195,11 +195,11 @@ Like this, you can easily delete and add menus.
 
 ![](../../.gitbook/assets/가이드3-메뉴적용.png)
 
-(1)first, add a menu.
+(1)First, add a menu (Click on the \[+] button).
 
 (2)Enter a menu name.
 
-(3)Menu icon: Uplaod icon as per your requirement. \*Not required
+(3)Menu icon: Upload the icon as per your requirement. \*Not required
 
 (4)From Page Menu option- Select which feature you wish to apply to your menu.
 
@@ -213,7 +213,7 @@ You can cross-check on the virtual machine to see if everything is applied prope
 
 
 
-<mark style="color:green;">**3)Change Placement of the menu**</mark>
+<mark style="color:green;">**3)Change the Placement of the menu**</mark>
 
 ![](../../.gitbook/assets/가이드3-4.png)
 
@@ -221,7 +221,7 @@ You can cross-check on the virtual machine to see if everything is applied prope
 
 Select the menu and drag it to where you want to move it.
 
-Like this, you can change position of menus, from a sub to a top menu and vice versa.
+Like this, you can change the position of menus, from a sub to a top menu and vice versa.
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -229,7 +229,7 @@ Like this, you can change position of menus, from a sub to a top menu and vice v
 
 Once you've finished building your app, complete the process by clicking on the \[App creation] button.
 
-<mark style="color:red;">\*STEP1 Basic should be 100% complete to complete app production successfully.</mark>
+<mark style="color:red;">\*STEP1 Basic settings should be 100% complete to complete app production successfully.</mark>
 
 Even after you finish the app creation process, you can freely modify your app at any time.
 
@@ -257,7 +257,7 @@ So complete app production and preview it on your mobile without worrying about 
 
 Once you click on the \[App creation] button, you'll get redirected to the App Production History page on the  Manager page.
 
-The status of each platform will be marked as 'Pending Production Order', and it'll change to complete after 5-10 minutes. Then you'll receive apk file of your app via registered mail.&#x20;
+The status of each platform will be marked as 'Pending Production Order', and it'll change to Complete after 5-10 minutes. Then you'll receive apk file of your app via registered mail.&#x20;
 
 ![](../../.gitbook/assets/make14.png)
 
@@ -267,7 +267,7 @@ It's a feature that allows you to preview the app through a swing2app preview sc
 
 \*View on the web: Select the \[Watch directly on the web] button to preview apps created on virtual machines on the web.
 
-\*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing account or scan the QR code shown in the pop-up window and you can preview the app on your phone!&#x20;
+\*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing2app account or scan the QR code shown in the pop-up window and you can preview the app on your phone!&#x20;
 
 
 
@@ -279,7 +279,7 @@ When the production is complete, the **APK file** (the file that you can downloa
 
 
 
-**​**\*APK you can't open this file on your PC, so make sure to check it on your phone.
+**​**\*APK files can't be opened on your PC, so make sure to check it on your phone.
 
 \*APK files can only be installed on Android phones. (iPhones are not supported.)
 
