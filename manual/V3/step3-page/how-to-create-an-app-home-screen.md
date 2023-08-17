@@ -1,6 +1,6 @@
-# How to create an app home screen
+# How to Create a Home Screen For an App
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **How to create an app home screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **Varieties in which you can create a home screen for an app**
 
 1\. Apply an image
 
@@ -10,11 +10,11 @@
 
 4\. User Page - Web Template
 
-5\. User Page – Editor Page
+5\. User Page – HTML Editor Page
 
 6\. App Introduction Page
 
-**\*Please do not apply web links (websites) to your home screen. If you are connecting to a website, please create it in a webview, a push, not a regular prototype.**
+**\*Please do not apply web links (websites) to your home screen. If you wish to connect the website with the home screen then please create it in a webview or a push-only prototype and not in a regular prototype.**
 
 **Home screen creation can be created by selecting the HOME button → the HOME screen setting → the STEP3 page → the App Maker Maker.**
 
@@ -24,11 +24,11 @@ You can create a screen by choosing from the different features that come with t
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1**.Home screen - Apply image
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1**. Home screen - Apply image
 
-Apply the Home screen The first way is to upload an image.
+The first way to apply the Home screen is to upload an image.
 
-​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">**App launch screen)Image applied home screen**
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line">**App launch screen) Image applied to the home screen**
 
 <div align="left">
 
@@ -41,21 +41,21 @@ Apply the Home screen The first way is to upload an image.
 
 ![](../../../.gitbook/assets/홈제작1-1.png)
 
-1\)STEP3 Page Menu Selection
+1\)Go to the STEP3 Page option
 
-2\)Select \[HOME] menu
+2\)Click and select \[HOME] menu
 
-3\)Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
+3\)Enter the menu name: Enter the name that will be visible at the top of the home.&#x20;
 
 \*If you don't rename it, it will appear as the app name.
 
-4\)Select the \[Upload Image] menu from the page design.
+4\) From the page design, go to the \[Upload Image] option and Click on the \[Image Upload] button.
 
 5\)When the Attach File window appears, select the image file you want.
 
-6\)Select the \[Apply] button
+6\)Click on the \[Apply] button
 
-7\)Press the \[Save] button at the top of the screen and you're done!
+7\)Click on the \[Save] button at the top of the screen and you're done!
 
 {% hint style="info" %}
 \*The images are different in size than the size of the cellphone, so there is no exact recommended size.
@@ -64,7 +64,7 @@ However, if you want to make the phone screen more or less full, please work wit
 
 \-Portrait varies depending on the mobile phone model, so please adjust the size a little bit by looking at the vertical app screen.
 
-\- Since it is resized to the mobile screen in line with the horizontal screen, the vertical length can be a little bit or longer for each phone, resulting in scrolling.
+\- Since it is resized to the mobile screen in line with the horizontal screen, the vertical length can be a little bit longer for each phone, resulting in scrolling.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
@@ -91,25 +91,25 @@ This means that the home screen only provides a detailed article view of the lis
 
 ![](../../../.gitbook/assets/홈제작2.png)
 
-1\)STEP3 Page Menu Selection
+1\)Go to the STEP3 Page Menu&#x20;
 
-2\)Select \[HOME] menu
+2\)Click and Select \[HOME] menu
 
-3\)Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
+3\)Enter the menu name: Enter the name that will appear at the top of the home.&#x20;
 
 \*If you do not change the name, it will be displayed as the name of the board.
 
-4\)In the page design, select UI KIT – Board.
+4\)In the page design, select UI KIT –> Board.
 
-5\)Select the bulletin board and select the \[Apply] button.
+5\)Select the bulletin board and click on the \[Apply] button.
 
 \*Hover your mouse over the bulletin board screen to see the Apply button.
 
-6\)Press the \[Save] button at the top of the screen and you're done!
+6\)Click on the \[Save] button at the top of the screen and you're done!
 
-If you don't have a board you created, create one first and then apply it to your app.
+If you don't have a board to attach on the home screen, create one first and then apply it to your app.
 
-Selecting New above takes you to the Manage Board screen.
+Click on the \[Add New Page] option takes you to the Manage Board screen where you can create and edit board pages.
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App Manager-Bulletin Board Screen**
 
@@ -133,15 +133,15 @@ The third way is to create an image page and apply it to the home screen.
 
 ![](../../../.gitbook/assets/홈화면3.png)
 
-1\)STEP3 Page Menu Selection
+1\)Click on the STEP3 Page Menu&#x20;
 
-2\)Select \[HOME] menu
+2\)Click and Select \[HOME] menu
 
 3\) The menu name does not need to be changed.&#x20;
 
-\*The image page is the name saved by the Image Page Creator and is displayed at the top of the home screen.
+\*The image page name is the name saved by the Image Page Creator and is displayed at the top of the home screen.
 
-4\)Select Image Page from the page design.
+4\)Select the Image Page from the page design.
 
 5\)Select the image page to apply to the home screen and select the \[Apply] button.
 
@@ -337,7 +337,7 @@ If you delete it, it will be removed along with the share button and the site ad
 
 ★**The representative image of the app introduction page is displayed in conjunction with the app icon image. \*Separate modification and removal are not possible.**
 
-
+***
 
 {% hint style="danger" %}
 **Instructions for applying the home screen**
@@ -401,5 +401,6 @@ We recommend that you modify it to other menus in addition to the default set of
 **\*Users who create in the style of push, webview are created by applying the website link to the app, so they don't have to create a home screen separately. ^^**
 {% endhint %}
 
+***
 
-
+***

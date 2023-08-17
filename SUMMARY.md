@@ -64,7 +64,7 @@
   * [STEP1 Basic Information](manual/V3/step1-basic-information.md)
   * [STEP2 Prototype](manual/V3/step2-prototype.md)
   * [STEP3 Page](manual/V3/step3-page/README.md)
-    * [How to create an app home screen](manual/V3/step3-page/how-to-create-an-app-home-screen.md)
+    * [How to Create a Home Screen For an App](manual/V3/step3-page/how-to-create-an-app-home-screen.md)
     * [Registering a menu icon image](manual/V3/step3-page/registering-a-menu-icon-image.md)
     * [How to use: Menu Exposure Settings](manual/V3/step3-page/how-to-use-disable-app-menus.md)
     * [Set menu settings: Access permissions](manual/V3/step3-page/permission-setting.md)
