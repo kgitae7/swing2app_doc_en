@@ -98,20 +98,20 @@ The map board allows you to enter a variety of details, such as a business addre
 
 <mark style="color:red;">**\*NOTE:**</mark>
 
-<mark style="color:red;">\*Please create a location registration board first. If you don't have a location registration board that you created, it won't appear on the screen and won't be applicable to your app.</mark>
+<mark style="color:red;">\*Please create a location registration board first. If you don't create one, the location registration board won't appear on the screen and won't be applicable to your app.</mark>
 
-<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
+<mark style="color:red;">\*To create a location registration board, you should click on the \[New] button on the UI KIT screen, or you can create a bulletin board from App Manager-Service Management- Board Management.</mark>
 
-7\) Press the \[Save] button at the top of the screen to apply it to the app.
+7\) Click on the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
 \*If you select the Preview button, you can check how the page will look with a web preview (virtual machine).
 
 \*After applying a page, you can also check how the page is applied to the app through a virtual machine.
 
-\*Menu icon during the production phase, menu settings are not required.
+\*Menu icons during the production phase are not required.
 
-In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
+In the manual, we proceeded without such settings, so please apply additional if required.
 {% endhint %}
 
 **Please check the detailed manual on how to use the location registration (map) bulletin board.**
@@ -142,9 +142,9 @@ You can also set chat room permissions for each group of members, and you can al
 
 6\) Preview the board you want to register and click on the \[Apply] button. (Hover the mouse cursor over the bulletin board page to see the Apply button)
 
-<mark style="color:red;">\*Please create a group chat board first. If you don't have a group chat board that you've created, it won't appear on the screen and won't be applicable to your app.</mark>
+<mark style="color:red;">\*Please create a group chat board first. If you don't have a group chat board, it won't appear on the screen and won't be applicable to your app.</mark>
 
-<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Operation-Service Management- Board Management.</mark>
+<mark style="color:red;">\*You can select the \[New] button on the UI KIT screen, or you can create a bulletin board from App Manager-Service Management- Board Management.</mark>
 
 7\) Press the \[Save] button at the top of the screen to apply it to the app.
 
