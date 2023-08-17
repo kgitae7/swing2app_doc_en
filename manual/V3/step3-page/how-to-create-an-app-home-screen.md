@@ -153,9 +153,9 @@ The third way is to create an image page and apply it to the home screen.
 
 If you don't have an image page that you have created, create an image page first and then apply it to your app.
 
-Selecting New above takes you to the Image Page Maker screen.
+Selecting the \[New] button takes you to the Image Page Maker screen.
 
-You can create an image page in the authoring tool, and then apply it in your app.
+You can create an image page in the page creation editor tool, and then apply it in your app.
 
 
 
@@ -169,7 +169,7 @@ You can create an image page in the authoring tool, and then apply it in your ap
 
 The fourth method is to create and apply a user page - a web template page.
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launchscreen) Home screen with web template page applied**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) Home screen with web template page applied**
 
 <div align="left">
 
@@ -181,39 +181,39 @@ The fourth method is to create and apply a user page - a web template page.
 
 ![](../../../.gitbook/assets/홈화면4.png)
 
-1\)STEP3 Page Menu Selection
+1\)Click on the STEP3 Page Menu
 
-2\)Select \[HOME] menu
+2\)Click and Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
+3\) Enter the menu name: Enter the name that will be visible at the top of the home.&#x20;
 
 \*If you do not rename the menu, it will be displayed as the name you saved when the template page was created.
 
-4\) Under Page Design, select an Page templates.
+4\) Under Page Design, select a Page template option.
 
-5\) Select the template you want to apply to the home screen and select the \[Apply] button.
+5\) Select the template you want to apply to the home screen and click on the \[Apply] button.
 
 \*Hover your mouse over the template page screen to see the Apply button.
 
-\*If you don't have a page created, please create it by pressing the \[Add new page] button.
+\*If you don't have a template page created, please create it by pressing the \[Add new page] button.
 
-6\) Press the \[Save] button at the top of the screen and you're done!
+6\) Click on the \[Save] button at the top of the screen and you're done!
 
 If you don't have an image page that you created, create a template page first and apply it to your app.
 
-Selecting New above takes you to the Template Page Authoring Tool.
+Selecting New above takes you to the Template Page Editor Tool.
 
-You can create a template page in that authoring tool, and then apply it in your app.
+You can create a template page in that Editor tool, and then apply it in your app.
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **Template Page Authoring Screen**
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **Template Page Editor Screen**
 
 ![](../../../.gitbook/assets/EN-페이지-템플렛.png)
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.**User Page – Apply HTML E**d**tor Page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.** User Page – Apply HTML Editor Page
 
-The fifth way is to create and apply a user page - an editor page.
+The fifth way is to create and apply a user page - an HTML editor page.
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **App launch screen) HTML Editor Page applied Home Screen**
 
@@ -227,11 +227,13 @@ The fifth way is to create and apply a user page - an editor page.
 
 ![](../../../.gitbook/assets/홈화면6.png)
 
-1\)STEP3 Page Menu Selection
+1\)Click on the STEP3 Page Menu&#x20;
 
-2\)Select \[HOME] menu
+2\)Click and Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home. \*If you do not rename the menu, it will be displayed as the name you saved when you created the editor page.
+3\)Enter the menu name: Enter the name that will be visible at the top of the home.&#x20;
+
+\*If you do not rename the menu, it will be displayed as the name you saved when you created the editor page.
 
 4\) In the page design, choose HTML Editor.
 
@@ -245,9 +247,9 @@ The fifth way is to create and apply a user page - an editor page.
 
 If you don't have an HTML editor page you've created, create one first and apply it to your app.
 
-Selecting New above takes you to the HTML Editor Page Authoring Tool screen.
+Click on the \[New] button will take you to the HTML Editor Page Editor Tool screen.
 
-You can create an editor page in that authoring tool, and then apply it in your app.
+You can create an editor page in that editor tool, and then apply it in your app.
 
 
 
@@ -257,9 +259,9 @@ You can create an editor page in that authoring tool, and then apply it in your 
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Apply the app introduction page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Apply the App Introduction Page
 
-The app introduction page is the home screen that becomes the default setting as the home screen when you first build your app in a swing-to-app app.
+The app introduction page is the home screen that is the default setting as the home screen when you first build your app in a swing2app app.
 
 Therefore, users can use the app introduction page as it is, and they can change the home screen in various styles according to the above method\~!
 
@@ -277,21 +279,21 @@ If you use the home screen in a different style and then apply the home screen b
 
 ![](../../../.gitbook/assets/홈화면5.png)
 
-1\)STEP3 Page Menu Selection
+1\)Click on the STEP3 Page Menu&#x20;
 
-2\)Select \[HOME] menu
+2\)Click and Select \[HOME] menu
 
-3\) Enter the menu name: Enter the name that is visible at the top of the home.&#x20;
+3\) Enter the menu name: Enter the name that will be visible at the top of the home.&#x20;
 
-\*If you don't rename the menu, it will automatically display as the app name.
+\*If you don't rename the menu, \[App Information] will automatically display as the app name.
 
 4\) In the page design, select the \[Basic Functions] – \[Page] menu.
 
-5\) Select 'App Introduction' and then select the \[Apply] button.
+5\) Select 'App Introduction' and then click on the \[Apply] button.
 
 \*Hover your mouse over the App introduction screen to see the Apply button.
 
-6\) Press the \[Save] button at the top of the screen and you're done!
+6\) Click on the \[Save] button at the top of the screen and you're done!
 
 > **The introduction, description, address, email address, phone number, website address, etc. listed on the app introduction page can be modified and used in \[Advanced Settings].**
 
@@ -301,17 +303,17 @@ You can modify the items on the About App page from the Advanced Settings menu o
 
 By selecting App Service Information, you can edit the app description, phone, email, address, app description, website address, etc. as shown on the home screen.
 
-**\[How to fix]**
+**\[How to modify it]**
 
 **1)Select the \[Advanced Settings] menu at the top of the app creation page**
 
 **2)Settings: App Service Information**
 
-**3)You can modify it by pressing the itemized \[EDIT] button.**
+**3)You can modify it by clicking on the \[EDIT] button.**
 
-**4)After modification, press the top \[Save] button and it will be reflected in the app.**
+**4)After modification, click on the \[Save] button and it will be reflected in the app.**
 
-When you create your first app, you need to \[create an app] to reflect it. When you make a modification back to an app you've created, it is automatically reflected in the app when you save it.
+When you create your first app, you need to click on the \[App Creation] button to reflect it. When you make any modification to the app you've created, it is automatically reflected in the app when you save it.
 
 **​**
 
@@ -319,13 +321,13 @@ When you create your first app, you need to \[create an app] to reflect it. When
 
 ![](../../../.gitbook/assets/앱소개-배너삭제방법.png)
 
-If you want to clear all the banner buttons, press the \[RESET] button for each item and then press \[Save] to remove the banner from the app.
+If you want to clear all the banner buttons, click on the \[RESET] button for each item and then click on the \[Save] button to remove the banner from the app.
 
 
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy6EfxfjJ6wzTyBtue1Kt%2Fuploads%2FPrhIVCMdoxO4wv7cJjv9%2Fimage%20(1).png?alt=media&#x26;token=84bacc38-89c7-4362-9d28-03271721b37d" alt="" data-size="line"> **If I edit the introductory text of the app and save it, won't it be reflected immediately?**
 
-App Introduction Title Phrase Modification will be reflected only if you save it on the first 1 modification and then press the \[Request App Creation] button to update it to the new version.
+App Introduction Title Phrase Modification will be reflected only if you save it on the first 1 modification and then press the \[App Creation] button to update it to the new version.
 
 After 1 modification, just save it and it will be automatically reflected in the app from then on.
 
@@ -335,7 +337,9 @@ Therefore, if you enter the site address, the sharing button and the site addres
 
 If you delete it, it will be removed along with the share button and the site address.
 
-★**The representative image of the app introduction page is displayed in conjunction with the app icon image. \*Separate modification and removal are not possible.**
+★**The representative image of the app introduction page is displayed in conjunction with the app icon image.**&#x20;
+
+**\*Separate modification and removal are not possible.**
 
 ***
 
@@ -346,9 +350,9 @@ If you delete it, it will be removed along with the share button and the site ad
 
 **1) Home Screen – Applying a web link is not recommended.**
 
-\-When you put a website on the home screen, the new screen may not open and end abnormally, or the site may not open in the app due to the security settings within the site.
+\-When you link a website on the home screen, the new screen may not open and might show an error, or the site may not open in the app due to the security settings within the site.
 
-\- For webpages that need to be opened in a new window, they can look foreign on the app screen. (Screen configuration of pop-up windows, etc.)
+\- For webpages that need to be opened in a new window, they can look weird on the app screen. (Screen configuration of pop-up windows, etc.)
 
 Therefore, please use only the menus mentioned above on the home screen.
 
@@ -366,7 +370,7 @@ In general, shopping mall sites may also not be applicable inside the app due to
 
 
 
-**2) For those who want to build an app by walking through a website – we recommend that you build it as a webview app or a push app.**
+**2) For those who want to build an app by linking through a website – we recommend that you build it as a webview app or a push-only app.**
 
 It is a style that is created by linking the web browser to the app as it is in the form of a web app.
 
@@ -374,31 +378,31 @@ If you set up a link to the site on the main home screen of the app, events such
 
 Especially for shopping mall sites, the same security behavior as the purchase will not work properly when applied to a regular prototype app.
 
-So if you want to use your website as your main one, you can create it by applying it as 'WebView' or 'Push' in Design Theme - Prototype.
+So if you want to use your website as your main one, you can create it by applying it as 'WebView' or 'Push-Only' in Design Theme - Prototype.
 
 
 
-**3) The home screen can be freely decorated using the menus.**
+**3) The home screen can be freely modified by using the menus.**
 
-You can apply an image page, apply a template page, and then freely change to another menu.
+You can apply an image page, or a template page, and then freely change to another menu.
 
-If you just press Save, it will be automatically reflected in the app as well, so you don't need to update it separately.
+If you just click on the \[Save] button, it will be automatically reflected in the app as well, so you don't need to update it separately.
 
 
 
 **4) The home screen has the main screen set to the 'About the App' page.**
 
-It's a guideline setting screen for first-time creators.
+It's a guideline-setting screen for first-time creators.
 
 Therefore, in addition to the app introduction page, we recommend that you change the home screen to another menu and use it.
 
 Above, I told you how to create a home screen.
 
-There are a lot of different menus that make up the home screen, so try to decorate your home screen in different styles\~!
+There are a lot of different menus that you can make as home screens, so try to modify your home screen in different styles\~!
 
 We recommend that you modify it to other menus in addition to the default set of app introduction menus.
 
-**\*Users who create in the style of push, webview are created by applying the website link to the app, so they don't have to create a home screen separately. ^^**
+**\*Users who create in the style of push-only, and webview are created by applying the website link to the app, so they don't have to create a home screen separately. ^^**
 {% endhint %}
 
 ***
