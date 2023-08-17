@@ -1,6 +1,6 @@
 # Set menu settings: Access permissions
 
-
+***
 
 **What is an access permission setting?**
 
@@ -8,17 +8,17 @@ With the ability to set permissions to access in-app menus, you can set user-spe
 
 If the menu that can be viewed by permission needs to be different depending on the nature of the app, the administrator can set the access permissions for each menu directly.
 
-The Access Permission feature was only available on the bulletin board, but in the V3 update, it was added to apply to all menus.
+The Access Permission feature was only available on the bulletin board, but in the MakerV3 update, it was added to apply to all menus.
 
 > <mark style="color:blue;">**Permission setting options**</mark>
 >
-> 1\)**Full Disclosure**: Accessible to anyone who has installed the app, regardless of whether they are registered or not.
+> 1\)**Full Disclosure**: Accessible to anyone who has installed the app, regardless of whether they are registered user or not.
 >
 > \*By default, menus are set to ' Full disclosure' if you do not set permissions.
 >
 > 2\)**Permission Group Disclosure**: You can set it to be accessible only to certain members.
 >
-> \*You can set it like: Only members of Level 2 can be accessed, only 1 administrator and 1 deputy manager can access etc.
+> \*You can set it like: Only members of Level 2 can be access, only 1 administrator and 1 deputy manager can access etc.
 >
 > 3\) **Private**: Access to all users who have registered in the app, regardless of membership level
 >
@@ -26,11 +26,11 @@ The Access Permission feature was only available on the bulletin board, but in t
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
-The menu permission function is exclusively available on the Maker V3 version (not available in the MakerV2 version).
+The menu permission function is exclusively available on the Maker V3 version (not available in the Maker V2 version).
 
 So, if you wish to use this feature, you can switch to the MakerV3 version easily. Be sure to proceed with the initial update at the time of the transition from MakerV2 to MakerV3.
 
-
+***
 
 > **Menu Permission Settings – How to Use Permission Settings**
 
@@ -66,7 +66,7 @@ You can also see the applied screen on the virtual machine on the right to check
 
 When you set the permissions to 'Full disclosure', everyone who has installed the app can access it, irrespective of their membership status.
 
-If you launch the app as a guest, you can see that the logged-in user has access to the menu if the app is launched! &#x20;
+If you launch the app as a guest, you can see that the logged-in user has access to the same menu as the guest.&#x20;
 
 ​
 
@@ -92,7 +92,7 @@ If you launch the app as a guest, you can see that the logged-in user has access
 
 The Members Groups tab allows you to add members of a specific group.
 
-**-Select as a group of members**
+**-Select a group of members**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%952-1.png)
 
@@ -116,7 +116,7 @@ If you have selected the Assigned Permissions only for Level 2 members, this is 
 
 As you can see, only members of Level 2 will have access to the menu, and users who are not at that level will notice that the menu is not visible in the app.
 
-
+***
 
 > #### **3.**Permission setting: Member-only selection
 
@@ -147,7 +147,7 @@ If you modify the access permission after creation, such as setting it from Full
 
 \*Reflects when you exit the app and relaunch it.
 
-2\)The menu permission function is exclusively available on the Maker V3 version (not available in the MakerV2 version).
+2\)The menu permission function is exclusively available on the Maker V3 version (not available in the Maker V2 version).
 
 So, if you wish to use this feature, you can switch to the MakerV3 version easily. Be sure to proceed with the initial update at the time of the transition from MakerV2 to MakerV3.
 {% endhint %}
