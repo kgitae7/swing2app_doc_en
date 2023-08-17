@@ -4,11 +4,11 @@
 
 When you create a generic prototype app, you can register an icon in the menu.
 
-(When creating a push app, there is also an icon menu in the toolbar, and you can register an image from that menu as well.)
+(When creating a push-only app, there is also an icon menu in the toolbar, and you can register an image from that menu as well.)
 
-In addition to the built-in icon image in the app authoring program, the user can register and use the desired image themselves.
+In addition to the built-in icon image in the app MakerV3 screen, the user can register and use the desired image themselves.
 
-Check out the manure to see how to organize the menu and how to register icon images.
+Check out the manual to see how to organize the menu and how to register icon images.
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
@@ -24,9 +24,9 @@ Check out the manure to see how to organize the menu and how to register icon im
 
 If you look at the bottom footer bar, you can see that the icon image is registered in the menu.
 
-<mark style="color:blue;">In the previous v2 version, the icon could only be selected as an image provided by the Swing2App.</mark>
+<mark style="color:blue;">In the previous MakerV2 version, the icon could only be selected as an image provided by Swing2App.</mark>
 
-<mark style="color:blue;">In the v3 update, if you have an icon image you want to add, you can upload the file directly and use it.</mark>
+<mark style="color:blue;">In the MakerV3 update, if you have an icon image you want to add, you can upload the file directly and use it.</mark>
 
 Below we will show you how to register an icon image in the menu.
 
@@ -34,15 +34,15 @@ Below we will show you how to register an icon image in the menu.
 
 ### ![](../../../.gitbook/assets/단락1-1.png) Registering a menu icon image
 
-The menu icon image can be applied in step STEP3 of the page.
+The menu icon image can be applied in step STEP 3 of the page.
 
 ![](../../../.gitbook/assets/20221415.png)
 
-1\)Select menu (+You can create a menu by selecting the button)
+1\)Select menu (You can create a menu by selecting the \[+] button)
 
 2\)Enter the menu name
 
-3\)Select the third upload button from the menu icon.
+3\)Select the third \[Upload] button from the menu icon.
 
 4\)In the file attachment window, select the image you want to register on the icon.
 
@@ -54,7 +54,9 @@ The menu icon image can be applied in step STEP3 of the page.
 
 In this manual, you created an industry-specific template in advance and applied it.
 
-7\)Select the Save button to finish\*Save will be automatically reflected in the app as well. You don't have to re-create the app.
+7\)Select the Save button to finish.
+
+\*Save will be automatically reflected in the app as well. You don't have to re-create the app.
 
 
 
@@ -62,7 +64,7 @@ In this manual, you created an industry-specific template in advance and applied
 
 You can also check it on a virtual machine, but most of all, you have to make sure that the image is displayed in the app!!
 
-We recommend that you run the app and test it.
+We recommend that you run the app on your mobile and test it.
 
 {% hint style="info" %}
 **\*Icon images can only be applied to squares of the same width\*height length, and sizes should be at least 20px to 512px or less.**
@@ -82,11 +84,11 @@ However, when using images taken from external sites, please be careful if they 
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../../.gitbook/assets/단락1-1.png) App launchscreen) to check the icon image
+### ![](../../../.gitbook/assets/단락1-1.png) App launch screen) to check the icon image
 
 ![](../../../.gitbook/assets/메뉴아이콘2.png)
 
-The screen on which the icon image applied to the menu is applied.
+The screen on which the icon image is applied to the menu is applied.
 
 I've registered an image for each category.
 
@@ -105,9 +107,9 @@ The image size I registered is 512\*512px.
 {% hint style="danger" %}
 <mark style="color:red;">**Instructions**</mark>
 
-The icon image registration function is an addition to the V3 version and is not available in the V2 version.
+The icon image registration function is an addition to the MakerV3 version and is not available in the MakerV2 version.
 
-If you use this feature, you can switch to the V3 version.&#x20;
+If you use this feature, you can switch to the MakerV3 version.&#x20;
 
 Be sure to proceed with the initial update at the time of the transition.
 {% endhint %}
