@@ -203,7 +203,7 @@ For example, **if you select a banner and you want it to go to your blog, you ca
 
 Let me give you a TIP.
 
-If you use the **\*\*\[Duplicate Style button]\*\* in the list, you can get the same area style and the default style as is.**
+If you use the **\*\*\[Duplicate Style button]\*\* in the list, you can get the same area style and the default style.**
 
 All you have to do is change the link settings, which makes it a little easier!
 
@@ -215,7 +215,7 @@ The image page has been applied
 
 Finally, please enter the page name. (When applied to the app, the page name will appear in the menu.)
 
-Press the Save button and you're done.
+Press the \[Save] button and you're done.
 
 So let's go back to the app creation page and apply that image page to the app!!
 
@@ -244,7 +244,9 @@ Go to the MakerV3 screen
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus .\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.
+
+\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
 
 \*Select the Preview button to see how the page will look with a web preview (virtual machine).
 

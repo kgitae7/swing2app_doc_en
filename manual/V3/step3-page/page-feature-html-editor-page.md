@@ -22,7 +22,7 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 3\) You can create an unlimited number of HTML editor pages!
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Steps to create an editor page
 
@@ -226,7 +226,7 @@ In addition to the regular website links, the \[Link Wizard] allows you to go to
 
 When the editor page is finished creating, press the Save button and exit.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying HTML Editor Page to App
 
@@ -257,10 +257,10 @@ You can also apply a page to a menu.
 
 \*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
 
-\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+\*Menu icon during the editing phase, Menu settings are not applicable to HOME and are not required.
 {% endhint %}
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.** HTML Editor Page Creation TIP
 
@@ -286,7 +286,7 @@ As the page scrolls down, the top options bar disappears from the work view.&#x2
 
 At this time! **If you select the \[Full Screen] button, which is the last button on the option bar**, the screen is moved to the full screen, and this inconvenience disappears.&#x20;
 
-The option bar is right at the top!! Since it is fixed, no matter how many pages are turned down, it does not disappear from the view of the work, and it is possible to work comfortably ^^
+The options bar is right at the top!! Since it is fixed, no matter how many pages are turned down, it does not disappear from the view of the work, and it is possible to work comfortably ^^
 
 ​
 
@@ -298,9 +298,9 @@ If you look at the left side of the body screen, there is a \[+] shaped button.
 
 With the Quick Insert button, selecting it gives you quick access to frequently used options such as inserting images, inserting videos, and inserting horizontal lines.
 
+***
 
-
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.5** Editing HTML Editor Pages (How to Modify**)**
 
@@ -308,7 +308,7 @@ The same can be done by going into the App MakerV3 screen– HTML Editor \[Modif
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
 
-Hover your mouse cursor over the editor page and there is a\[Edit] button.
+Hover your mouse cursor over the editor page and there is a \[Edit] button.
 
 Select the \[Edit] button and then select the \[Modify] button →.
 
@@ -316,4 +316,4 @@ Go to the HTML Editor Page Editor Tool screen.
 
 Editing the editor page doesn't mean that there is a separate page.
 
-You can update it by going in the same way as the creation page, and making changes.
+You can update it by going in the same way as the creation page and making changes.
