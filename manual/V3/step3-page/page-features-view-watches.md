@@ -58,13 +58,13 @@ Even if the user who clicked "Like" and another user log in, they will not see t
 
 1\) In order to use 'View Interesting Articles', you will need to recreate the app and use it in the new version. (Soft update is possible when creating the app)
 
-\*If you have created or updated your app after 2019.1.7 as of the update, you only need to save it after applying 'View Interest'.
+\*If you have created or updated your app after 7/01/2019 as of the update, you only need to save it after applying 'View Interest'.
 
 2\) The post 'like' check is only available to users who are logged in after registering for membership in the app.
 
 Therefore, the view of the article is also available only to the user and not to the guest.
 
-3\) Please check the logged in user account.
+3\) Please check the logged-in user account.
 
 The user who likes must be logged in as the same user in order to see the likes list in the Watchlist of Followers.
 
