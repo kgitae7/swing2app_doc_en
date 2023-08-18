@@ -81,11 +81,9 @@ When you select a coupon from the coupon list, the window switches to full scree
 If the coupon you receive is used by the administrator, you can see that it has been used in the \[Used coupons] list.
 
 {% hint style="info" %}
-Have you checked how to use the Coupon Lookup menu?
+Have you checked how to use the Coupon menu?
 
 On the app makerv3 page, you can apply the Page Basic Feature - View Coupons menu to your app to see the coupons that users have received.
-
-And the manual showed me how to apply the Lookup Coupon menu to the app on the swing page.
 
 **How to create coupons, issue them to users, and process them for use, please check the manual below for the whole process\~!!**
 
