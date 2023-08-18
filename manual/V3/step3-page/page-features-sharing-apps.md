@@ -22,7 +22,7 @@ For more information on how to download the app to share, please refer to the ma
 **☞**<mark style="color:blue;">**\[Go to the manual on how to download the app to share]**</mark>
 {% endhint %}
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[Share App] to your app
 
@@ -48,7 +48,7 @@ On the MakerV3 screen.
 
 \*Menu icon during the production phase, menu settings are not required.
 
-In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
+In the manual, we proceeded without any additional settings, so please apply then as per your requirement.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Share the app
 
@@ -58,7 +58,7 @@ If you select \[Share App] that you applied to the menu, the list of apps that c
 
 <mark style="color:green;">\*The app list does not look the same on all phones but will be displayed differently depending on the user's mobile phone device and model.</mark>
 
-<mark style="color:green;">\*The first window that opens displays the representative application, and if you select \[Share Other], you can select other applications.</mark>
+<mark style="color:green;">\*The first window that opens displays the selective application, and if you select \[Share Other], you can see and select other applications.</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B04.png)
 
@@ -70,7 +70,7 @@ If you select \[Share Other], you can see a list of various applications.
 
 When sharing the app with KakaoTalk, please select the \[Read More] button in the chat window.
 
-A new window will pop up and you will be asked to select Run App and Down.
+A new window will pop up and you will be asked to select Run App.
 
 If the app is already installed on your phone, press the \[Launch App] button to go directly to the app.
 
@@ -82,7 +82,7 @@ If the app is already installed on your phone, press the \[Launch App] button to
 
 In addition to sharing Katok, you can also share it by email.
 
-When you access the recipient's email, you'll receive an app sharing email in your inbox.
+When you access the recipient's email, you'll receive an app-sharing email in your inbox.
 
 If you select the link, you will be taken to the app installation window as shown in the image above.
 
@@ -92,11 +92,11 @@ The method of launching the app and installing the app is the same as the KakaoT
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B03.png)
 
-App sharing is also available in the settings menu set by default within the app without having to use the app sharing function on the swing page.
+App sharing is also available in the settings menu which is set by default within the app without having to add the app sharing function separately on the swing page.
 
 After launching the app, you can use the Share App function in the → Settings menu.
 
-Settings is a page where you can set app basics, set notifications, and sign up, and the settings menu is created as the default settings when you create an app.
+The setting is a page where you can set app basics, set notifications, and sign up, and the settings menu is created as the default settings when you create an app.
 
 Therefore, you can also use the app sharing function as a basic function in the settings menu.
 
