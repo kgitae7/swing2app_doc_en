@@ -2,17 +2,17 @@
 
 **What is an app introduction?**
 
-**The app introduction is a home screen style provided by the swing page, and is one of the menus that decorate the main home screen.**
+**The app introduction is a home screen style page provided by the swing page and is one of the menus that fills up the main home screen.**
 
 It can show you the app introduction, site address (URL), address, phone number, and email address, making it the most basic home screen configuration design.
 
-Since I don't know what to put on the home screen when I first build my app with Swing2App, I provide the app introduction page with a default setting to show users the home screen guidelines.
+&#x20;When you first build your app with Swing2App, If you are not sure about what to put on the home screen, go with the app introduction page which has a default setting to show users the home screen guidelines.
 
 In addition to the app introduction page, you can freely change and create various other menus – image pages, web templates, HTML editor pages, images, bulletin boards, web links, etc.
 
 \*Since the app introduction is the default sample page, we recommend that you change it to another menu.
 
-**Go to the HomeScreen editing Manual :** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
+**Go to the HomeScreen editing Manual:** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[App Introduction Page] to your app
 
@@ -28,7 +28,7 @@ On the MakerV3 screen.
 
 3\) Enter the menu name
 
-4\) Select \[Basic Feature]-> \[Page] option from under the page design.
+4\) Select the \[Basic Feature]-> \[Page] option from under the page design.
 
 5\) Click on the \[Function] option-> Select \[App Info] page. Click on the \[Apply] button. (Hover the mouse cursor over the page and the Apply button opens)
 
@@ -43,7 +43,7 @@ On the MakerV3 screen.
 
 \*Menu icon during the production phase, menu settings are not required.
 
-In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
+In the manual, we proceeded without any additional settings, so please apply additional settings if required.
 {% endhint %}
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Check the app introduction page
@@ -58,7 +58,7 @@ The app introduction is the home main screen that we provide by default to those
 
 Therefore, you do not have to apply the home screen as an 'Introduction to the App' and use it.
 
-You can decorate your home screen with a variety of different menus to create.
+You can modify your home screen with a variety of different menus to create.
 
 **▶ Please check the page you are moving to when selecting the App Introduction-Icon banner through the image that you are in.**
 
@@ -78,7 +78,7 @@ You can modify the items on the app introduction page from the \[Advanced Settin
 
 3\)You can modify it by pressing the \[EDIT] button.
 
-4\)After modification, press the top \[Save] button and it will be reflected in the app.
+4\)After modification, press the \[Save] button and it will be reflected in the app.
 
 When you create your first app, you need to request that the app be created.
 
@@ -90,7 +90,7 @@ When you make a modification back to an app you've created, it is automatically 
 
 **Advanced Settings – In the App Service Information, press the \[Reset] button in the 'Phone number, email, site address, address, app description'**
 
-Press \[Inset] and then simply press the \[Save] button at the top to remove the navigation button.
+Press \[Reset] and then simply press the \[Save] button at the top to remove the navigation button.
 
 If you want the buttons to be visible again, you can press the \[EDIT] button on each setting value and enter the contents.
 
@@ -105,7 +105,7 @@ On the app introduction screen, you can see that the navigation button at the bo
 
 **1)If I modify the introductory text of the app and save it, will it not be reflected immediately?**
 
-App Introduction Title Phrase Modification will be reflected only if you save it on the first 1 modification and then press the \[Request App Creation] button to update it to the new version.
+App Introduction Title Phrase Modification will be reflected only if you save it on the first 1 modification and then press the \[App Creation] button to update it to the new version.
 
 After 1 modification, just save it and it will be automatically reflected in the app from then on.
 
@@ -119,10 +119,11 @@ If you delete it, it will be removed along with the share button and the site ad
 
 **4) When the first app was created, the home screen set the main screen to the 'About App' page.**
 
-It's a guideline setting screen for first-time creators.
+It's a guideline-setting screen for first-time creators.
 
-Therefore, in addition to the app introduction page, the home screen can be decorated with various menus.
+Therefore, in addition to the app introduction page, the home screen can be modified with various menus.
 {% endhint %}
 
+***
 
-
+***
