@@ -27,17 +27,17 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 **Please refer to it when using it\~**
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Steps: Apply Image Page&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page: App launch screen
 
-
+***
 
 **\***Swing2App Official App – Image Page Application Screen
 
@@ -55,7 +55,7 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%BA%A1%EC%B2%98.png)
 
-
+***
 
 **User App) Example App Image Page Application Screen**
 
@@ -79,7 +79,7 @@ You'll get redirected to the Image Page editor Tool screen.
 
 Below we'll show you how to create an image page and how to apply that page to your app after it's built.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2.** Creating an Image Page
 
@@ -101,7 +101,7 @@ If this is the first time you are working, please select the \[New] button to do
 If you need to re-upload a modified image in addition to what you have already done, you may want to use the \[Upload Image] button!
 {% endhint %}
 
-
+***
 
 **2. Modify the image page**
 
@@ -121,7 +121,7 @@ Modification process of the image page:
 If you don't want the tool to be visible when you select the mouse, you can set the transparency to '0'\*\*.\*\*
 {% endhint %}
 
-
+***
 
 **3. Shape Tools – Check your style**
 
@@ -139,7 +139,7 @@ If you don't want the tool to be visible when you select the mouse, you can set 
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
 
-
+***
 
 **4. Apply the link**
 
@@ -185,7 +185,7 @@ Of course\~ in the Link Wizard, you can apply it to all other menus in addition 
 
 For example, **if you select a banner and you want it to go to your blog, you can select \[Link Wizard] and then in \[Weblink] – enter the blog site address URL and reflect it**
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with help of video**
 
@@ -195,7 +195,7 @@ For example, **if you select a banner and you want it to go to your blog, you ca
 
 **If you set it to '0' in Background Opacity, you can also set the banner to be transparent.**
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Creating Image Pages TIP**
 
@@ -219,7 +219,7 @@ Press the Save button and you're done.
 
 So let's go back to the app creation page and apply that image page to the app!!
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying an Image Page to Your App
 
@@ -244,16 +244,16 @@ Go to the MakerV3 screen
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus .\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
 
 \*Select the Preview button to see how the page will look with a web preview (virtual machine).
 
 \*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
 
-\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+\*Menu icon during the editing phase, Menu settings are not applicable to HOME and are not required.
 {% endhint %}
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4** Image Page Creator – Applying the Tooltip
 
@@ -354,13 +354,15 @@ Go to the MakerV3 screen
 7\)Press the \[Save] button at the top of the screen to apply it to the app.
 
 {% hint style="info" %}
-\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
+\*I have selected the home screen and applied the page, but I can apply it to the menu in addition to the home screen. You can also apply pages to menus.
+
+\*Image pages are subject to the 'Page Name' entered in the Page Maker as the home screen name.
 
 \*Select the Preview button to see how the page will look with a web preview (virtual machine).
 
-\*After the page is applied, you can also check how the page is applied to the app through the virtual machine.
+\*After the page is applied, you can page appearance in the app through the virtual machine.
 
-\*Menu icon during the authoring phase, menu settings are not applicable to HOME and are not required.
+\*Menu icon during the editing phase, Menu settings are not applicable to HOME and are not required.
 {% endhint %}
 
 ​
@@ -369,7 +371,7 @@ Go to the MakerV3 screen
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
 
