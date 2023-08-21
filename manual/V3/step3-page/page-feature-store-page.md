@@ -23,7 +23,7 @@ When you sign up for a swing shop, they provide you with basic pages that you ca
 
 → On the MakerV3 page-> Go to the STEP3 page → Click on the \[eStore] option provided under Page design-> here you can see the pages related to the swing shop (the page required to operate the mall).
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B02.png)
+<figure><img src="../../../.gitbook/assets/Rectangfle 1.png" alt=""><figcaption></figcaption></figure>
 
 **\[Swing2App eStore provides]**
 
@@ -65,7 +65,7 @@ It is not mandatory to apply the page as a home screen, so you can customize it 
 
 ### How to apply: Shop main page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%87%BC%ED%95%91%EB%AA%B0-%EB%A9%94%EC%9D%B8.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1fj-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 On the MakerV3 page
 
@@ -231,3 +231,4 @@ Depending on what kind of product you are selling, there are some pages you need
 3\) You can check the screen applied to the virtual machine, so please use the virtual machine 100% when making ^^
 {% endhint %}
 
+***
