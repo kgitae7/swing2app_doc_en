@@ -20,7 +20,7 @@ The Swing2App provides a variety of bulletin board-style UI.
 
 You can create a board for each UI-specific style and apply it to your app to make use of it.
 
-<figure><img src="../../../.gitbook/assets/Untitled-1-Rdecovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UntGSitled-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -76,7 +76,7 @@ The map function is provided in conjunction with Kakao Map.
 
 The map board allows you to enter a variety of details, such as a business address, business description, directions, homepage, phone number, business image etc.
 
-<figure><img src="../../../.gitbook/assets/Untitled-df1-Recovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-1FES-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -122,7 +122,7 @@ Within the app, multiple users can chat at the same time, and you can also chat 
 
 You can also set chat room permissions for each group of members, and you can also set up a secret chat room where app users need to enter the password to access the chat room.
 
-<figure><img src="../../../.gitbook/assets/Untitleddg-1-Recovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-1-ReBFXcovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -166,7 +166,7 @@ You can easily register key events in your calendar, and businesses that need to
 
 In the calendar, you can also keep important news and announcements.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BA%98%EB%A6%B0%EB%8D%94.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1-RecoGHvered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -212,7 +212,7 @@ You can use it in conjunction with a coupon. The administrator can add a stamp w
 
 When you register for the stamp board, you can add a stamp with the QR code and membership number that are automatically generated.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/UI%ED%82%A4%ED%8A%B8-%EC%8A%A4%ED%83%AC%ED%94%84.png)
+<figure><img src="../../../.gitbook/assets/UntiDStled-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
