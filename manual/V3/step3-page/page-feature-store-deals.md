@@ -10,7 +10,7 @@ Please check how to apply the product page to the app and the app launch screen 
 
 The product page is available in the app creation STEP3 page step - eStore function.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D1.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1fj-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)Go to STEP3 Page&#x20;
 
@@ -40,7 +40,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Where can I register my products?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D3-1.png)
+<figure><img src="../../../.gitbook/assets/Untitledvbb-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 **After applying for the swing shop,**
 
@@ -50,7 +50,7 @@ Products can be registered by selecting physical, digital, and reservation syste
 
 **To modify a registered product:**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951-1.png)
+<figure><img src="../../../.gitbook/assets/Untiegtled-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\) Shop - In \[Product] Management Selection
 
@@ -58,7 +58,7 @@ Products can be registered by selecting physical, digital, and reservation syste
 
 3\) Select the product name you want to edit from the product inquiry list.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%952-1.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1-ReFcovered.png" alt=""><figcaption></figcaption></figure>
 
 You will be taken to the Edit Product Item Registration screen.
 
@@ -66,7 +66,7 @@ The product item registration screen and the edit screen work on the same page.
 
 It becomes the registration screen when registering a new product, and switches to the edit screen when modifying an already registered product.
 
-Therefore, **after you modify what you want to edit on that page, select the \[Edit] button at the bottom of the screen to take effect.**
+Therefore, **after you modify what you want to edit on that page, select the \[SAVE] button at the bottom of the screen to take effect.**
 
 Instead of needing a separate app update, just select Modify and the fix will be automatically reflected in the app.
 

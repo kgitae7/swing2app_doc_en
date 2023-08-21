@@ -65,7 +65,7 @@ It is not mandatory to apply the page as a home screen, so you can customize it 
 
 ### How to apply: Shop main page
 
-<figure><img src="../../../.gitbook/assets/Untitled-1fj-Recovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-1fj-Recovered (1).png" alt=""><figcaption></figcaption></figure>
 
 On the MakerV3 page
 
