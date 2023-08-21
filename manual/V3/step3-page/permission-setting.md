@@ -1,7 +1,5 @@
 # Set menu settings: Access permissions
 
-***
-
 **What is an access permission setting?**
 
 With the ability to set permissions to access in-app menus, you can set user-specific permissions to view the menu, such as making it accessible only to specific members and registered users.
@@ -34,7 +32,7 @@ So, if you wish to use this feature, you can switch to the MakerV3 version easil
 
 > **Menu Permission Settings – How to Use Permission Settings**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%95.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1-Rescovered.png" alt=""><figcaption></figcaption></figure>
 
 The permission setting feature can be applied on the MakerV3 screen – **STEP3 page**.
 
@@ -46,7 +44,9 @@ Through the manual, we will show you how to apply each access permission feature
 
 > #### 1.Set permissions: **Full Disclosure**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%951.png)
+
+
+<figure><img src="../../../.gitbook/assets/Untitled-1-Recrovered.png" alt=""><figcaption></figcaption></figure>
 
 **Set Permissions – Full Disclosure**
 
@@ -74,7 +74,7 @@ If you launch the app as a guest, you can see that the logged-in user has access
 
 ​\*\*_-Select Specific Members_\*
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%952.png)
+<figure><img src="../../../.gitbook/assets/UntitledEF-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 **Set Permissions – Permission Group Disclosure**
 
@@ -94,7 +94,7 @@ The Members Groups tab allows you to add members of a specific group.
 
 **-Select a group of members**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%952-1.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1-ReFGcovered.png" alt=""><figcaption></figcaption></figure>
 
 Members can see which groups you have created as ratings.
 
@@ -120,7 +120,7 @@ As you can see, only members of Level 2 will have access to the menu, and users 
 
 > #### **3.**Permission setting: Member-only selection
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%953.png)
+<figure><img src="../../../.gitbook/assets/Untitled-1-RecDCBovered.png" alt=""><figcaption></figcaption></figure>
 
 **Permission Settings – Private**
 
