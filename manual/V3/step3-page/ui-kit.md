@@ -6,7 +6,7 @@ This kit includes all types of bulletin board features provided by Swing2App.
 
 You can view the general board UI, location registration (map)board, group chat, calendar, and stamp board functions from here and apply them to your app.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/UI%ED%82%A4%ED%8A%B8.png)
+<figure><img src="../../../.gitbook/assets/Untitlfthed-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 Below, we'll show you how to apply each bulletin board UI to your app.
 
@@ -20,11 +20,7 @@ The Swing2App provides a variety of bulletin board-style UI.
 
 You can create a board for each UI-specific style and apply it to your app to make use of it.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/en_게시판적용.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/Untitled-1-Rdecovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -80,7 +76,7 @@ The map function is provided in conjunction with Kakao Map.
 
 The map board allows you to enter a variety of details, such as a business address, business description, directions, homepage, phone number, business image etc.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9C%84%EC%B9%98%EB%93%B1%EB%A1%9D.png)
+<figure><img src="../../../.gitbook/assets/Untitled-df1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
@@ -126,7 +122,7 @@ Within the app, multiple users can chat at the same time, and you can also chat 
 
 You can also set chat room permissions for each group of members, and you can also set up a secret chat room where app users need to enter the password to access the chat room.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%85.png)
+<figure><img src="../../../.gitbook/assets/Untitleddg-1-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 1\)On MakerV3, go to the STEP3 page
 
