@@ -10,7 +10,9 @@ After you click on the \[Update App] button, you can choose the update type and 
 
 **-Page menu and app manager contents can be automatically reflected in the app even if you just save it.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.png)
+
+
+<figure><img src="../../../.gitbook/assets/Untitled-2-Rechfovered.png" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How to update an app
 
@@ -74,15 +76,15 @@ Swing2App does not take responsibility for this option, so be sure to check the 
 
 If you have not launched your app on the store and you are a free user, in that case, you can proceed with the soft update.
 
-
+***
 
 ## App update type, display options
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.** Update Type
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9C%A0%ED%98%95.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Rergrcovered.png" alt=""><figcaption></figcaption></figure>
 
 **1) Hard Update**
 
@@ -98,11 +100,11 @@ The Soft update does not require you to reinstall the app, it is an updated styl
 
 **\*For those who have the app released on the Play Store, please select Hard Update (App Reinstallation) instead of soft when modifying the design theme!**
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**2.** Show Updates option
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%91%9C%EC%8B%9C%EC%9C%A0%ED%98%95.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recrdovered.png" alt=""><figcaption></figcaption></figure>
 
 The \[Update message option] is for how you want users to see updates.
 
@@ -122,7 +124,7 @@ Forces the update without the user’s selection**.**
 
 Disable the update notification window. (You can set it up when you are doing app testing, etc.)
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.**App launch screen: Update type
 
@@ -148,7 +150,7 @@ Because it's a soft update, you **don't have to reinstall the app, it's download
 
 When selecting the display **option as 'Required',** **a pop-up will appear to inform the user that an update is taking place.** &#x20;
 
-
+***
 
 <mark style="color:blue;">**3)**</mark><mark style="color:blue;">**Hard Update & Recommended Updates**</mark>
 
@@ -166,9 +168,9 @@ It will install the update of the existing application and install it again by o
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_36\_49\_697.gif)
 
+***
 
-
-<mark style="color:blue;">**4)**</mark> <mark style="color:blue;">**Hard Updates & Required Updates**</mark>
+<mark style="color:blue;">**4)**</mark>** **<mark style="color:blue;">**Hard Updates & Required Updates**</mark>
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
 
