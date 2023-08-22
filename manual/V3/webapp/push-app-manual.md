@@ -26,7 +26,7 @@ Here, you choose what type of app you want to build, then enter the basic inform
 
 <mark style="color:blue;">**1.App Creation process: Select a web app based on the website**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B00.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecovIered.png" alt=""><figcaption></figcaption></figure>
 
 For push apps, please select the 2nd method of creation, "Web App Based on Website".
 
@@ -38,7 +38,9 @@ Select the \[Next] button.
 
 The next step is to enter the basic information, where you enter the basics needed to build a web app.
 
-![](broken-reference)
+
+
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recoveghrred.png" alt=""><figcaption></figcaption></figure>
 
 **1) Enter the website address (URL).**
 
@@ -65,6 +67,8 @@ Select the \[Next] button.
 <mark style="color:blue;">**3.Enter app name, icon, standby screen image**</mark>
 
 ![](broken-reference)
+
+
 
 The final step is to **register the app name input, app icon, and standby image.**
 

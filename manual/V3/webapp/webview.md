@@ -26,7 +26,7 @@
 
 1. <mark style="color:blue;">**How to create: Select a web app type based on the website**</mark>
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-RecovIered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecovIered (1).png" alt=""><figcaption></figcaption></figure>
 
 For a webview app, please select the 2nd method of creation, "Create Web App".
 
@@ -42,7 +42,7 @@ Select the \[Next] button.
 
 The next step is to enter the basic information, where you enter the basic details needed to build a web app.
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Recfovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recfovered (1).png" alt=""><figcaption></figcaption></figure>
 
 **1) Enter the website address (URL).**
 
