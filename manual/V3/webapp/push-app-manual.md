@@ -66,9 +66,7 @@ Select the \[Next] button.
 
 <mark style="color:blue;">**3.Enter app name, icon, standby screen image**</mark>
 
-![](broken-reference)
-
-
+<figure><img src="../../../.gitbook/assets/Untitled-2-Regcovered.png" alt=""><figcaption></figcaption></figure>
 
 The final step is to **register the app name input, app icon, and standby image.**
 
@@ -82,7 +80,7 @@ Icons and images that will fit on the splash screen can be reapplied in the App 
 
 <mark style="color:green;">**–> How to upload icon and splash screen image**</mark>
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovejuhred.png" alt=""><figcaption></figcaption></figure>
 
 On the app icon and the splash screen, select the \[Register] button and the file attachment window will open.
 
@@ -106,9 +104,7 @@ Step by step, enter your content and you're done.
 
 ## **STEP1** Basic Information
 
-
-
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered.png" alt=""><figcaption></figcaption></figure>
 
 **STEP1 The contents in the basic information have already been registered in the App Creation Wizard except for the app ID.**
 
@@ -176,7 +172,7 @@ The STEP3 page menu is automatically reflected in the app by simply modifying an
 **STEP4 Complete App Creation**
 -------------------------------
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/RG2-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 ​All steps have been entered. You can build apps.
 

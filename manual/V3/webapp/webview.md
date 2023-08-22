@@ -66,7 +66,7 @@ Select the \[Next] button.
 
 <mark style="color:blue;">**3. App name, icon, splash screen image upload**</mark>
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Regcovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Regcovered (1).png" alt=""><figcaption></figcaption></figure>
 
 The final step is to **register the app name, app icon, and splash screen ( idle screen ) image.**
 
@@ -80,7 +80,7 @@ Icons and images that will fit on the splash screen can be reapplied in the App 
 
 <mark style="color:green;">**–> How to upload App icon and splash screen image**</mark>
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Recovejuhred.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovejuhred (1).png" alt=""><figcaption></figcaption></figure>
 
 On the app icon and the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -104,7 +104,7 @@ Step by step, enter your content and you're done.
 
 ## **STEP1** Basic
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered (1).png" alt=""><figcaption></figcaption></figure>
 
 **STEP1 The contents in the basic information have already been registered in the App Creation Wizard except for the App ID.**
 
