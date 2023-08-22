@@ -26,7 +26,7 @@
 
 1. <mark style="color:blue;">**How to create: Select a web app type based on the website**</mark>
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecovIered.png" alt=""><figcaption></figcaption></figure>
 
 For a webview app, please select the 2nd method of creation, "Create Web App".
 
@@ -42,7 +42,7 @@ Select the \[Next] button.
 
 The next step is to enter the basic information, where you enter the basic details needed to build a web app.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B0%EC%95%B11.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recfovered.png" alt=""><figcaption></figcaption></figure>
 
 **1) Enter the website address (URL).**
 
@@ -66,7 +66,7 @@ Select the \[Next] button.
 
 <mark style="color:blue;">**3. App name, icon, splash screen image upload**</mark>
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Regcovered.png" alt=""><figcaption></figcaption></figure>
 
 The final step is to **register the app name, app icon, and splash screen ( idle screen ) image.**
 
@@ -80,7 +80,7 @@ Icons and images that will fit on the splash screen can be reapplied in the App 
 
 <mark style="color:green;">**–> How to upload App icon and splash screen image**</mark>
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovejuhred.png" alt=""><figcaption></figcaption></figure>
 
 On the app icon and the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -104,7 +104,7 @@ Step by step, enter your content and you're done.
 
 ## **STEP1** Basic
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered.png" alt=""><figcaption></figcaption></figure>
 
 **STEP1 The contents in the basic information have already been registered in the App Creation Wizard except for the App ID.**
 
@@ -150,13 +150,13 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 ## STEP2 Design
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecoGRSvered.png" alt=""><figcaption></figcaption></figure>
 
 STEP2 Design – Set the prototype, basic options, and advanced options.
 
 The prototype has already been selected in the App Creation Wizard, so you can move on.
 
-In Webview – If you want tomodify it as a push prototype, you can change it and update it.
+In Webview – If you want to modify it as a push prototype, you can change it and update it.
 
 1. Select Prototype: It is selected as 'WebView Only'.
 2. Basic Options
@@ -201,7 +201,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 ## STEP3 Page
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovesred.png" alt=""><figcaption></figcaption></figure>
 
 The STEP3 page step will enter a link to the website that you want to convert into your app, which you have already registered in the App Creation Wizard.
 
@@ -228,6 +228,8 @@ The STEP3 page menu is automatically reflected in the app by simply modifying an
 ## **STEP4 Complete App Creation**
 
 ![](broken-reference)
+
+
 
 All steps have been entered. You can build apps.
 
@@ -264,7 +266,7 @@ The App production is free of charge, no extra charges are applied.
 
 Swing2App Official App – Download the app created by \[App Preview] to check it out.
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Receffeovered.png" alt=""><figcaption></figcaption></figure>
 
 **1) Download the official 'Swing2App' app from the Play Store. \*If the app is already installed, please update to the latest version.**
 
@@ -334,7 +336,7 @@ If the app still refuses to connect, please contact the Swing2App Help.
 
 ## Webview app creation instructions
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%9B%B9%EB%B7%B05.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recoegrvered.png" alt=""><figcaption></figcaption></figure>
 
 When creating a webview app or push app, after entering the website address, you can see that the virtual machine (preview window) displays the message "Please check after installing the app on your mobile phone" or "Refused to connect".
 
