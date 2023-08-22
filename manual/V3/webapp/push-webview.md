@@ -175,7 +175,7 @@ To learn how to send a push from the Push app, please check the manual below.
 
 <mark style="color:blue;">\[Go to see Sending Push in the Push Version app]</mark>
 
-
+***
 
 
 

@@ -44,7 +44,7 @@ However, if you modify the toolbar design during the STEP2 design phase, the app
 
 [**https://wp.swing2app.co.kr/documentation/v3manual/push/**](https://wp.swing2app.co.kr/documentation/v3manual/push/)
 
-
+***
 
 ## **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.** How to use the Toolbar
 
