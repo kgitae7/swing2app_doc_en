@@ -28,11 +28,11 @@ Simply enter the step-by-step information in the App Creation Wizard to create a
 
 **1.In the Start App Creation Wizard pop-up – Select a webview app prototype based on the website and select the \[Next] button**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A81.png)
+![](<../../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
 
 **2.Enter the web app basic information.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A82.png)
+![](<../../../.gitbook/assets/Untitled-2-Recoveghrred (1).png>)
 
 **1)Website address**
 
@@ -62,7 +62,7 @@ So make sure you set it to match your app's style. Check the default setting as 
 
 **3.Register the app name, icon, and splash screen image.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A83.png)
+![](<../../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
 
 1\)Enter the app name
 
@@ -76,7 +76,7 @@ So make sure you set it to match your app's style. Check the default setting as 
 
 <mark style="color:green;">**–> How to register app icon and splash screen image**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EC%95%B14.png)
+![](<../../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
 
 On the app icon, the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -92,7 +92,7 @@ When the image uploading is complete, select the \[Apply] button.
 
 **4.The registration of the basic information to enter the push app is completed.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A85.png)
+![](../../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
 
 Selecting the \[Done] button opens the App Maker screen.
 
@@ -100,7 +100,7 @@ Selecting the \[Done] button opens the App Maker screen.
 
 ### \[App Maker]
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A86.png)
+![](<../../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
 
 If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP3 Page.
 
@@ -112,7 +112,7 @@ The app ID must be at least 6 characters long, including English + numbers, and 
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A87.png)
+![](../../../.gitbook/assets/Untitled-2-Recoverdvvcovered.png)
 
 Step by step, enter your content and you're done.
 
@@ -199,9 +199,9 @@ Simply enter the step-by-step information in the App Creation Wizard to create a
 
 **1.App Creation Wizard pop-up: Select a web app style based on the website and select the \[Next] button.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%B4%88%EA%B0%84%EB%8B%A81.png)
+![](<../../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
 
-**2.Enter the web app basic information.**
+**2. Enter the web app's basic information.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A81.png)
 
@@ -223,7 +223,7 @@ Since we will be creating it as a webview app, please check the push function as
 
 **3.Register the app name, icon, and splash screen image.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A82.png)
+![](<../../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
 
 1\)Enter the app name
 
@@ -237,7 +237,7 @@ Since we will be creating it as a webview app, please check the push function as
 
 <mark style="color:green;">**–> How to register App icon and splash screen image**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%95%B13.png)
+![](<../../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
 
 On the app icon and the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -253,15 +253,15 @@ When the registration is complete, select the \[Done] button.
 
 **4.The registration of basic information for the webview app has been completed.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A85.png)
+![](../../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
 
-Selecting the \[Done] button opens the App Maker screen.
+Selecting the \[FINISH] button opens the App Maker screen.
 
 
 
 ### **\[**App Maker]
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A84.png)
+![](<../../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
 
 If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP3 Page.
 
@@ -275,7 +275,7 @@ The app ID must be at least 6 Alphanumeric characters long (including English le
 
 Step-by-step, enter your content and you're done.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A86.png)
+![](../../../.gitbook/assets/Untitled-2-dhrRecovered.png)
 
 \*When the STEP progress reaches 100%, all steps are completed.
 
@@ -299,7 +299,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 \-When creating an app with a webview, you can create an app by simply including the web link URL address.
 
-\-Since the website is displayed within the app in the same style as it is, you cannot use other app menus provided by the Swing2App. (Push function is not available)
+\-Since the website is displayed within the app in the same style as it is, you cannot use other app menus provided by Swing2App. (Push function is not available)
 
 \-If you want to send push notifications, you need to select Prototype: Push Only.
 
@@ -339,7 +339,7 @@ As you can see in the image, the mobile web and the webview app you create are t
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push App, Webview App Creation Guide
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B05.png)
+![](<../../../.gitbook/assets/Untitled-2-Recoegrvered (2).png>)
 
 When creating a webview app or push app, after entering the website address, you can see that the preview window (virtual machine) displays the message "Please check after installing the app on your mobile phone" or "Refused to connect".
 
