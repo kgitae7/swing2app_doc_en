@@ -10,13 +10,13 @@ Swing2App lets you create and manage multiple apps in one account!
 
 We'll show you how to create additional new apps in your account.
 
-
+***
 
 ## \*\*\*\* **1.** PC Version – Create additional apps
 
 **First, let's access the PC version of the Swing2App homepage and add the app\~**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%B6%94%EA%B0%80%EC%A0%9C%EC%9E%91.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-ReDGDcovered.png" alt=""><figcaption></figcaption></figure>
 
 **After logging in to the Swing2App homepage, go to the \[MakerV3] screen.**
 
@@ -26,7 +26,7 @@ You can use this button to create a new app. After you'll click on this button, 
 
 After you select a new app style (type), the app makerV3 screen will pop up and you can proceed with the app creation step by step.
 
-
+***
 
 ## \*\*\*\* **2.** Mobile version – Create additional apps
 
@@ -44,13 +44,13 @@ When you click on the add button, **the \[App Creation Wizard]** window will pop
 
 The rest of the app production method is the same.
 
-
+***
 
 ## \*\*\*\* **3.** See the list of apps you've created
 
 **Where can I find a list of apps created by Swing2App as well as newly added apps?**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%B6%94%EA%B0%80%EC%A0%9C%EC%9E%912.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecoverFed.png" alt=""><figcaption></figcaption></figure>
 
 **We've provided a list of apps in the upper-left corner of the Swing2App MakerV3 dashboard.**
 
@@ -62,9 +62,10 @@ To switch from one app to another, simply select the app from the list and it wi
 
 ### **▶**Manage your apps
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%A0%9C%EC%9E%91%EC%B6%94%EA%B0%80new3.png)
+<figure><img src="../../../.gitbook/assets/Untitled-2-RecoveHRred.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Go to App Manager Page-> My Menu-> Manage apps**</mark> option for information on all of your apps.
 
 On the Manage Apps page, you can uninstall (delete) apps, change the order of apps, check expiration dates, and view simple information such as the number of members.
 
+***
