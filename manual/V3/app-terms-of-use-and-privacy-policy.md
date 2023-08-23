@@ -42,11 +42,11 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Go to the App Subscription Policy page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%96%91%EC%8B%9DNEW12.png)
+![](../../.gitbook/assets/Untitled-2-Redg.png)
 
 <mark style="color:blue;">**App Manager Page → Service option →Subscription settings→ \[Add Subscription Policy]**</mark> Go to the menu.
 
-
+***
 
 ### ![](broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
 
@@ -100,13 +100,13 @@ If you violate it, you may be fined under the Information and Communications Net
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3. Ge**t the privacy policy URL
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%854.png)
+![](../../.gitbook/assets/Untitled-2-Reegsd.png)
 
 You can also check the terms and conditions of service you have written by the URL. Please select **\[View Terms of Service URL]** at the bottom.&#x20;
 
 &#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%80%EC%9E%85%EC%A0%95%EC%B1%853886.png)
+![](../../.gitbook/assets/Untitled-2-Recy5yd.png)
 
 As shown in the image above, a new web page window with terms and conditions will appear.
 
