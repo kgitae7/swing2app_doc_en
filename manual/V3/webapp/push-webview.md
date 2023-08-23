@@ -203,7 +203,7 @@ Simply enter the step-by-step information in the App Creation Wizard to create a
 
 **2. Enter the web app's basic information.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9B%B9%EB%B7%B0%EC%B4%88%EA%B0%84%EB%8B%A81.png)
+![](../../../.gitbook/assets/Untitled-2-Recdrhred-Recovered.png)
 
 **1)Website address**
 
