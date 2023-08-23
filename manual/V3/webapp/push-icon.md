@@ -44,7 +44,7 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Setting up a push icon image
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%91%B8%EC%8B%9C%EC%95%84%EC%9D%B4%EC%BD%98\_886.png)
+![](../../../.gitbook/assets/Untitled-2-Rzrgd.png)
 
 1\) Move to V3 app creation
 
