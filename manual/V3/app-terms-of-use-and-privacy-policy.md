@@ -24,8 +24,6 @@ Swing2App provides the ability to <mark style="color:red;">write the terms of us
 
 **Where and how do the App Terms of Use and Privacy Policy look like?**
 
-![](broken-reference)
-
 **1)Go to the manager page – select \[Check the subscription settings] and you can check the contents.**
 
 The feature is present by default when the app is created, so the user doesn't need to create it from scratch.
@@ -37,8 +35,6 @@ You can change the terms of use and the contents of the Privacy Policy of your a
 2\)When you release your app to the Play Store or the App Store, you have to also include the privacy policy URL in the release information field.
 
 Because it is a mandatory registration, those who release apps to the Store must also complete and submit the applicable terms.
-
-![](broken-reference)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Go to the App Subscription Policy page
 
@@ -58,15 +54,11 @@ On the App Subscription Policy page, in addition to the terms of use, **you can 
 
 **☞ **<mark style="color:blue;">**Check the App Subscription Policy Manual**</mark>
 
-![](broken-reference)
+![](../../.gitbook/assets/Untitled-2-Rerhvered.png)
 
 You can check the 'Terms of Service' and 'Privacy Policy' sections in the \[Add subscription policy] option.
 
 When you create an app with Swing2app, you must fill out the Terms of Use and Privacy Policy information.
-
-
-
-![](broken-reference)
 
 **As you can see in the image, Swing2app has a default policy example for those who are not sure what to put in the policy section.**
 
@@ -95,8 +87,6 @@ This is a policy officially put forward by the Korea Internet & Security Agency 
 
 If you violate it, you may be fined under the Information and Communications Network Act, so be sure to fill it out!!
 {% endhint %}
-
-![](broken-reference)
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) **3. Ge**t the privacy policy URL
 
@@ -132,7 +122,7 @@ To learn how to apply the link to the Privacy Policy on the Play Store, please r
 ☞<mark style="color:blue;">\[How to apply the Google Play Store Privacy Policy]</mark>
 {% endhint %}
 
-![](broken-reference)
+![](../../.gitbook/assets/Untitled-2-Recorhered.png)
 
 
 
