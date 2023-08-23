@@ -96,7 +96,7 @@ You can also check the terms and conditions of service you have written by the U
 
 &#x20;
 
-![](../../.gitbook/assets/Untitled-2-Recy5yd.png)
+![](../../.gitbook/assets/Untitled-2-Resegsred.png)
 
 As shown in the image above, a new web page window with terms and conditions will appear.
 
@@ -113,7 +113,7 @@ When uploading the Google Play Store and One Store -You must include the privacy
 
 So users who create an app with swing2app must use this link of the applicable Terms of Service!!
 
-Therefore, do modify this information carefully as per your app service terms.
+Therefore, to modify this information carefully as per your app service terms.
 
 (Please note that if you use the trade name or app name as it is without modifying it, you may run into problems.)
 
