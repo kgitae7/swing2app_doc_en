@@ -88,7 +88,7 @@ The main design style can also be changed from basic to transparent.
 
 <mark style="color:blue;">**Main Design Style – Transparent setting**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B81.png)
+![](../../.gitbook/assets/Untitled-2-Rrhhd.png)
 
 If you set the main design style to transparent, the bar area shown at the top will disappear. In other words, it will change to a transparent area.
 
@@ -96,7 +96,7 @@ When selecting the transparent option, you can utilize the top bar area 100%.
 
 
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%94%94%EC%9E%90%EC%9D%B82-1.png)
+![](../../.gitbook/assets/Untitled-2-RecZRGHd.png)
 
 It is recommended to apply the template pages, image pages, etc with the home screen.
 
