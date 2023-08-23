@@ -72,7 +72,7 @@ In addition to the basic functionality of the toolbar, page design can additiona
 
 <mark style="color:blue;">**–Applying the Refresh Toolbar Menu**</mark>
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Recovegrred-Recovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovegrred-Recovered (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)Add toolbar menu + Select icon to add
 
@@ -92,9 +92,9 @@ Changes can be checked in real-time on the right Preview Window (virtual machine
 
 **-- **<mark style="color:blue;">**Basic functions provided by the toolbar**</mark>
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Recovered-d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovered-d (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../../.gitbook/assets/Untitled-2-Recovered-RecovDFered.png)
+![](<../../../.gitbook/assets/Untitled-2-Recovered-RecovDFered (1).png>)
 
 > <mark style="color:blue;">Pages: Bookmark List, Menus, Notification List, Settings</mark>
 >
@@ -110,7 +110,7 @@ The toolbar is provided as a default setting, so you can customize the toolbar y
 
 ### How to modify a menu list
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Recover.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recover (1).png" alt=""><figcaption></figcaption></figure>
 
 The menu list provided by the toolbar can be found in 'Menu' under the Toolbar menu.
 
@@ -124,7 +124,7 @@ Menus registered in the menu list can also be easily modified by the app creator
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Add or remove toolbar menus
 
-![](../../../.gitbook/assets/Untitled-2-Recove.png)
+![](<../../../.gitbook/assets/Untitled-2-Recove (1).png>)
 
 To add a toolbar menu, select the + **icon to the right of the toolbar to add a new menu.**
 
@@ -168,7 +168,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ### <mark style="color:blue;">**-**</mark><mark style="color:blue;">Uploading toolbar icon images</mark>
 
-![](../../../.gitbook/assets/Untitled-2-ReEF.png)
+![](<../../../.gitbook/assets/Untitled-2-ReEF (1).png>)
 
 1\)Select the toolbar menu to apply icons
 
@@ -182,7 +182,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ​
 
-![](../../../.gitbook/assets/Untitled-2-RecEed.png)
+![](<../../../.gitbook/assets/Untitled-2-RecEed (1).png>)
 
 The icon application is complete.
 
@@ -206,7 +206,7 @@ Check out the Basic style options, Advanced style options.
 
 ### <mark style="color:blue;">**1)**</mark><mark style="color:blue;">Basic Options – Toolbar Enabled, Auto-Hide Function</mark>
 
-![](../../../.gitbook/assets/Untitled-2-RSGRed.png)
+![](<../../../.gitbook/assets/Untitled-2-RSGRed (1).png>)
 
 STEP2 Design Steps
 

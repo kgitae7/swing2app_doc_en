@@ -48,7 +48,7 @@ However, if you modify the toolbar design during the STEP2 design phase, the app
 
 ## **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.** How to use the Toolbar
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A91.png)
+![](<../../../.gitbook/assets/Untitled-2-Recovered-Recorverded-Recovered (1).png>)
 
 PushApp STEP3 Page Steps
 
@@ -72,7 +72,7 @@ In addition to the basic functionality of the toolbar, page design can additiona
 
 <mark style="color:blue;">**–Applying the Refresh function in Toolbar Menu**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A93.png)
+![](../../../.gitbook/assets/Untitled-2-Recovegrred-Recovered.png)
 
 1\)Add toolbar menu + Select icon to add
 
@@ -90,9 +90,9 @@ Changes can be checked in real-time on the right Preview Window (virtual machine
 
 <mark style="color:blue;">**–**</mark> <mark style="color:blue;">**Basic functions provided by the toolbar**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%8A%A51.png)
+![](../../../.gitbook/assets/Untitled-2-Recovered-d.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%8A%A52.png)
+![](../../../.gitbook/assets/Untitled-2-Recovered-RecovDFered.png)
 
 > <mark style="color:blue;">Pages: Bookmark List, Menus, Notification List, Settings</mark>
 >
@@ -108,7 +108,7 @@ The toolbar is provided as a default setting, so you can customize the toolbar y
 
 ### How to modify a menu list
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EB%A9%94%EB%89%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
+![](../../../.gitbook/assets/Untitled-2-Recover.png)
 
 The menu list provided by the toolbar can be found in 'Menu' under the Toolbar menu.
 
@@ -122,7 +122,7 @@ Menus registered in the menu list can also be easily modified by the user.
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Add, remove toolbar menus
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%9D%B4%EC%9A%A92.png)
+![](../../../.gitbook/assets/Untitled-2-Recove.png)
 
 To add a toolbar menu, select the + **icon to the right of the toolbar to add a new menu.**
 
@@ -170,7 +170,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ### <mark style="color:blue;">**-**</mark><mark style="color:blue;">Registering toolbar icon images</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%981.png)
+![](../../../.gitbook/assets/Untitled-2-RecoEFvered-Recovered.png)
 
 1\)Select toolbar menu to apply icons
 
@@ -184,7 +184,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%982.png)
+![](../../../.gitbook/assets/Untitled-2-RecEed.png)
 
 The toolbar icon registration is complete.
 
@@ -208,7 +208,7 @@ Check out the Basic style options, Advanced style options.
 
 ### <mark style="color:blue;">**1)**</mark><mark style="color:blue;">Basic Options – Toolbar Enabled, Auto-Hide Function</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95.png)
+![](../../../.gitbook/assets/Untitled-2-RSGRed.png)
 
 STEP2 Design Steps
 
@@ -234,7 +234,7 @@ In the advanced style options, you can set the toolbar-specific colors.
 
 **(1)Toolbar background color**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%951.png)
+![](../../../.gitbook/assets/Untitled-2-Recovd-Recovered.png)
 
 You can select a toolbar background color and apply it to any color you want. (Default: Set to white)
 
@@ -242,7 +242,7 @@ You can select a toolbar background color and apply it to any color you want. (D
 
 **(2)Menu list background color**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%952.png)
+![](../../../.gitbook/assets/Untitled-2-Red.png)
 
 You can apply a color that goes into the background of the menu list. (Default: Set to white)
 
@@ -250,7 +250,7 @@ You can apply a color that goes into the background of the menu list. (Default: 
 
 **(3)Menu list text colo**r
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EA%B3%A0%EA%B8%89%EC%84%A4%EC%A0%953.png)
+![](../../../.gitbook/assets/Untitled-2-Recosefed.png)
 
 You can apply a menu list letter color. (default: set to black)
 
