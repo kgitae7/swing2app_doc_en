@@ -18,15 +18,15 @@ The page is only visible the first time the app is launched, and not when the ap
 
 The first-launch address is a common feature in web apps.
 
-You can use a separate page to promote your use of the app a lot and as a reminder before you launch the app.
+You can use a separate page to promote your use of the app a lot and as a reminder, before you launch the app.
 
-Or, if you have important instructions and must-see things to do when installing the app, you can show it to users by attatching a separate link in the first run address.
+Or, if you have important instructions and must-see things to do when installing the app, you can show it to users by attaching a separate link in the first run address.
 
 ​
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)How to use the first run address
 
-![](broken-reference)
+![](../../../.gitbook/assets/Untitled-2-fasd.png)
 
 The first launch address is only available in the webview app and the push only app.
 
