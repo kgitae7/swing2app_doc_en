@@ -18,7 +18,7 @@ You can create an attendance check page first, and then apply it to your app.
 
 Attendance check registration can be made in App Manager – Service Management. Also, please check the detailed manual.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC1\_2020.03.png)
+![](../../../.gitbook/assets/Untitled-2-ReSGd.png)
 
 {% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
 
@@ -28,7 +28,7 @@ Once the attendance check registration is complete, you will need to apply it to
 
 App Creation – On the MakerV3 screen, go to the STEP3 page, we'll apply attendance checks to the app!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC.png)
+![](../../../.gitbook/assets/Untitled-2-Efgd.png)
 
 Move the app creation screen
 
@@ -60,7 +60,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 You can go directly from the app creation to the attendance check page.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC2.png)
+![](../../../.gitbook/assets/Untitled-2-Resged.png)
 
 Select the \[Manage] button on the attendance check page → Select the \[Manage attendance check] button will take you to the app-operated attendance check page.
 
@@ -94,3 +94,4 @@ App operators can check the comments on attendance check posts on the App Manage
 
 Once you have selected your username, you will be able to view your membership information.
 
+***
