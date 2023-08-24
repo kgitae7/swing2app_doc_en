@@ -122,7 +122,7 @@ To learn how to apply the link to the Privacy Policy on the Play Store, please r
 ☞<mark style="color:blue;">\[How to apply the Google Play Store Privacy Policy]</mark>
 {% endhint %}
 
-![](../../.gitbook/assets/Untitled-2-Recorhered.png)
+![](../../.gitbook/assets/Untitled-2-RgesESred.png)
 
 
 
@@ -152,7 +152,7 @@ Let's see how the app privacy policy you wrote above is applied on the Play Stor
 
 **1) Play Store**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B41\_20.04.png)
+![](../../.gitbook/assets/fwad-3.png)
 
 Apps released on the Play Store can be found in the **Developer Contact menu – Privacy Policy.**
 
