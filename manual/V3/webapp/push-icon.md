@@ -26,7 +26,7 @@ Please check the manual to see how to register a push icon image!
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push icon image
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9A%A9-%ED%91%B8%EC%8B%9C.png)
+![](../../../.gitbook/assets/gesd-1.png)
 
 As you can see on the app launch screen, you can see that in the same application, two different icon images are applied for each push message.
 
@@ -88,7 +88,7 @@ The screen is the V3 version of the app creation, and the icon image application
 
 2\)The push icon can be set in the general prototype app, the push-only app.
 
-The webview app is not available because it does not have a push sending function.
+The webview app is not available because it does not have a push-sending function.
 
 3\) The use of this function will be reflected in the app only if the app is created again. (App update required)
 
