@@ -14,7 +14,7 @@ Depending on the type of update, let's see how the update works in the actual ap
 **\*Users will not receive the update if you will only update the app to a new version, without re-upload the newly created version on the store.**&#x20;
 {% endhint %}
 
-
+***
 
 ### **1)** Soft Updates & Recommended Updates.&#x20;
 
@@ -28,7 +28,7 @@ Because the recommendation is for the update to progress by the user, if you **s
 
 For soft updates, you don't have to reinstall the app, update will be **downloaded from within the app and will be updated automatically.**
 
-
+***
 
 ### **2)** Soft Updates & Required Updates.&#x20;
 
@@ -40,7 +40,7 @@ When selecting the display **option as 'Required',** **a pop-up will appear to i
 
 **When you select 'OK', the in-app update will take place immediately.**
 
-
+***
 
 ### **3)**Hard Update & Recommended Updates.&#x20;
 
