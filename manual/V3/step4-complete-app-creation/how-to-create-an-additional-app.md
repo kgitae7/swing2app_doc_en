@@ -34,7 +34,7 @@ After you select a new app style (type), the app makerV3 screen will pop up and 
 
 **We'll also show you how to use \[Add App] to create a new app on your mobile.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%B6%94%EA%B0%80%EC%A0%9C%EC%9E%91-%EB%AA%A8%EB%B0%94%EC%9D%BC.png)
+![](../../../.gitbook/assets/xjtjed-1.png)
 
 Accessed the Swing2App site on my mobile and it will take you to the app manager page.
 
