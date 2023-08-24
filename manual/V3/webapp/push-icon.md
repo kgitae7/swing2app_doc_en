@@ -20,7 +20,7 @@ When you use the newly added \<Android push icon> function, a push icon is sent 
 
 Please check the manual to see how to register a push icon image!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%91%B8%EC%8B%9C%EB%9E%80\_886.png)
+![](../../../.gitbook/assets/Urgg-1.png)
 
 ***
 
