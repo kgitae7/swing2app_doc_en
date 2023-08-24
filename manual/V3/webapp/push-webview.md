@@ -327,15 +327,13 @@ It can be changed during the general subscription.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **W**ebview app - app launch screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/12/%EC%9B%B9%EB%B7%B0%EC%95%B1%EC%A0%9C%EC%9E%91.png)
+![](../../../.gitbook/assets/sfcacled-1.png)
 
 The WebView prototype also converts mobile websites into a webview app by linking the URL, and the app is exactly the same as the website.
 
 Unlike the push version, you can't send a "push notification" because it's an app prototype that doesn't use other app features and is only created by clicking a link to a website.
 
 As you can see in the image, the mobile web and the webview app you create are the same without any difference.
-
-![](broken-reference)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push App, Webview App Creation Guide
 
@@ -361,9 +359,7 @@ If the app also refuses to connect, please contact the Swing2App Help.
 
 To learn how to download (install) your app, please check the manual below.
 
-**☞ **<mark style="color:blue;">**See how to install the app on your phone**</mark>
-
-![](broken-reference)
+**☞ **<mark style="color:blue;">**Go to**</mark> <mark style="color:blue;">**See how to install the app on your phone**</mark>
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Please be careful when creating push and webview apps.
 
