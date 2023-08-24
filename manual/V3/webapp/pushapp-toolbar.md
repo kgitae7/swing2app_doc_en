@@ -120,21 +120,21 @@ Menus registered in the menu list can also be easily modified by the user.
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Add, remove toolbar menus
+## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Add, and remove toolbar menus
 
 ![](../../../.gitbook/assets/Untitled-2-Recove.png)
 
 To add a toolbar menu, select the + **icon to the right of the toolbar to add a new menu.**
 
-Removing the toolbar menu is **deleted by selecting the trash can shaped icon.**
+Removing the toolbar menu is **deleted by selecting the trash can-shaped icon.**
 
 ​
 
 ## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**3.** Move the toolbar menu
 
-![](broken-reference)
+![](../../../.gitbook/assets/Untitled-2-Recawdvered.png)
 
-![](broken-reference)
+![](../../../.gitbook/assets/Untitled-2-GRred.png)
 
 You can change the order of the toolbar menus.
 
@@ -160,7 +160,7 @@ We'll show you how to register an image with an icon.
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%ED%88%B4%EB%B0%94%EC%95%84%EC%9D%B4%EC%BD%983.png" alt="">
+<img src="../../../.gitbook/assets/Untitled-2-Rrgd.png" alt="">
 
 </div>
 
@@ -262,9 +262,7 @@ Therefore, after the initial app creation, if you have made any modifications to
 
 If the App Store or Play Store has been released, please re-create it with the updated version.
 
-​
 
-![](broken-reference)
 
 <mark style="color:red;">**\[Instructions]**</mark>
 
