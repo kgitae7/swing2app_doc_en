@@ -12,8 +12,6 @@
 >
 > Unlike a webview app, the biggest feature of a push app is that it allows you to send push notifications to users who have installed the app via Swing2App platform!
 
-![](broken-reference)
-
 
 
 > ## **Start.** Get started with the App Creation Wizard
