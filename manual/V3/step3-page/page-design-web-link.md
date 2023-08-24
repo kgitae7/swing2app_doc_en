@@ -8,7 +8,7 @@ Creating an App – Step 3 Page – Page Features: We'll show you how to use lin
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Apply an Internet address (site URL) link
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png)
+![](../../../.gitbook/assets/Untitled-2-RefEd.png)
 
 Move the app creation screen
 
@@ -50,7 +50,7 @@ Sites that are prohibited from embedding may result in an app refusing to connec
 
 **It's not a style of opening links within the app, it's about popping up a new window in the app so that the site can open without problems!!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B82.png)
+![](../../../.gitbook/assets/Untitled-2-ReSDGed.png)
 
 The same goes for opening it as a new app. What makes it different from the view in a new window is the structure in which the app is launched and the link is opened.
 
@@ -64,7 +64,7 @@ This will generate a link address, but for web addresses that are opened using t
 
 **Even websites that are not secured should be selected to view in a new window so that you can use them more reliably in the app.**
 
-
+***
 
 #### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> App launch screen - Apply Internet address Screen
 
@@ -74,7 +74,7 @@ In the Link Wizard, I linked the 'Internet address' and launched the app.
 
 When you select the WebLink menu, you will be taken to the website page that has been applied.
 
-
+***
 
 **I'll launch the app to see how the view in a new window and the view in the external app are different!**
 
@@ -88,7 +88,7 @@ Selecting the menu takes you to a new webpage and launches the site. It's a conc
 
 Press the screen X button or the back button to return to the app.
 
-
+***
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Open as a new app**
 
@@ -100,7 +100,7 @@ As the YouTube app launches, you will be taken to the linked video link.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Apply your phone number
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%A0%84%ED%99%94%EA%B1%B8%EA%B8%B0.png)
+![](../../../.gitbook/assets/Untitled-2-EFGeed.png)
 
 Move the app creation screen
 
@@ -144,7 +144,7 @@ When you select the Make a call menu, the phone is connected to the number you a
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** Apply a text message number
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EB%AC%B8%EC%9E%90%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
+![](../../../.gitbook/assets/Untitled-2-ReefgSed.png)
 
 Move the app creation screen
 
@@ -192,7 +192,7 @@ For the number, please enter your mobile phone number to receive the actual text
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** Apply your email address
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
+![](../../../.gitbook/assets/Untitled-2-RecefAWcovered.png)
 
 Move the app creation screen
 
@@ -239,7 +239,7 @@ Example) If Google mail is linked, send it after running gmail app / Send it aft
 
 It comes from an email set up for each user's phone.
 
-
+***
 
 {% hint style="danger" %}
 <mark style="color:red;">**\*Link function important guide**</mark>
@@ -273,5 +273,6 @@ These sites will not work properly if you link to the app if you get an error or
 Please refer to the usage.
 {% endhint %}
 
+***
 
-
+***
