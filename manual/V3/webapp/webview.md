@@ -10,8 +10,6 @@
 >
 > Because the website works with the app as it is, you can create the same app as the web.
 
-![](broken-reference)
-
 
 
 ## **Start.** Get started with the App Creation Wizard
@@ -227,7 +225,7 @@ The STEP3 page menu is automatically reflected in the app by simply modifying an
 
 ## **STEP4 Complete App Creation**
 
-![](broken-reference)
+![](../../../.gitbook/assets/Untitled-2-Rawfrd.png)
 
 
 
@@ -242,7 +240,7 @@ So you just have to check any option.
 
 \*WebView App Update: If your app is released on the Play Store/App Store, etc., you will need to upload a new version of the app to get the app updated through the Store.
 
-If your app is for personal use that hasn't been released, you'll need to delete the existing app and reinstall it as an updated version.
+If your app is for personal use and hasn't been released, you'll need to delete the existing app and reinstall it as an updated version.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
