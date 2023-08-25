@@ -20,7 +20,7 @@ You can see it all in the Watchlist view
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** How to apply the Watchlist app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
+![](../../../.gitbook/assets/Untitled-2-ReRGR.png)
 
 Move the app creation screen
 
