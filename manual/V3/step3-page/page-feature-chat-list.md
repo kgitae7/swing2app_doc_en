@@ -28,7 +28,7 @@ Admins can also check the list of users they've chatted with to see their conver
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**\[Chat List] Applying it to the app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
+![](<../../../.gitbook/assets/Untitled-2-zrghhg (1).png>)
 
 Move the app creation screen
 
@@ -78,7 +78,7 @@ The chat room was not admin-separated because there was no distinction, and all 
 Therefore, it is difficult for the user to determine which manager they have been chatting with, and they want to ask the manager they were chatting with again, but they couldn't choose it, which was a lot of inconvenience.
 {% endhint %}
 
-
+***
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
 
@@ -112,3 +112,4 @@ If you chat in a public chat, the administrators are not separated, and they are
 We hope you find it useful to make it easier for users to use.
 {% endhint %}
 
+***
