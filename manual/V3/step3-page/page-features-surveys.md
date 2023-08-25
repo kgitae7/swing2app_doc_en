@@ -12,11 +12,11 @@ The Swing2App provides a tool for surveying, so you can create a questionnaire s
 
 First and foremost, create a survey on the app operation page.
 
-
+***
 
 **1. Move the Survey Management menu**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%832.png)
+![](../../../.gitbook/assets/Untitled-2-awsfd.png)
 
 1\) <mark style="color:blue;">App Manager Page → Service Management → Survey Management</mark> Go to the menu.
 
@@ -24,7 +24,7 @@ First and foremost, create a survey on the app operation page.
 
 **2. Enter basic information**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%831.png)
+![](../../../.gitbook/assets/Untitled-2-REFgd.png)
 
 On the Survey Management page, please enter the basic information required for the survey\~!!
 
@@ -46,7 +46,7 @@ Select +Push Settings, select the sender and enter the title, content, and image
 
 **3. Enter Survey Entries**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%833.png)
+![](../../../.gitbook/assets/Untitled-2-Regrhered.png)
 
 **1) Questions:** Enter the questions you want to fill out the questionnaire.
 
@@ -144,7 +144,7 @@ You can also manage the members who participated in the survey.
 
 **\*If you select the number of participants, you can check the member information that participated in the survey, and if you select a member, you can check the survey results.**
 
-
+***
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW4.png)
 
@@ -196,3 +196,4 @@ When you select a member, you will be able to see a list of survey answers enter
 
 </details>
 
+***
