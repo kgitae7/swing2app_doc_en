@@ -22,7 +22,7 @@ Please check the manual to find out how to use the admin chat (1:1 chat).
 
 The admin chat function is provided in the app creation – step 3 – page basics of the page.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85.png)
+![](../../../.gitbook/assets/Untitled-2-REGSe.png)
 
 Move the app creation screen
 
@@ -56,7 +56,7 @@ The chat list is a menu where you can check your chatting history.
 
 Chat lists must also be applied to the app so that you can still check your conversation history in the list window after the conversation ends.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)
+![](../../../.gitbook/assets/Untitled-2-zrghhg.png)
 
 Move the app creation screen
 
@@ -125,7 +125,7 @@ If you use the admin chat feature, please add a chat list to the menu as well.
 Check out below how admins can chat with app members!!
 
 {% hint style="success" %}
-**How can admins chat with app members?**
+**You'llHow can admins chat with app members?**
 
 ***
 
@@ -140,11 +140,9 @@ Administrators can chat on the web (swing homepage) or use it in the app.
 
 **1) Move the member inquiry page**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW3.png)
-
 Swing Homepage App <mark style="color:blue;">Maker Page → Push & Member → Member Inquiry ->Go to the menu.</mark>
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/cca635bc95d24b41faf85085df5e224c.png)
+![](../../../.gitbook/assets/Untitled-2-sfecd.png)
 
 **If you look at the member inquiry page, you can check the \[Dedicated Conversation] and \[Public Conversation] buttons.**
 
@@ -170,13 +168,13 @@ When you chat to have a public conversation, other managers are also pushed when
 
 ***
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/2dc13263a89461196d4b6b6b8e942d77.png)
+![](../../../.gitbook/assets/Untitled-2-eFFged.png)
 
 Select the person you want to talk to, and then choose the Chat button at the top.
 
 **3) Move the chat list page: Chat window opens**
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/3fcc69ed87bd25a069dd51f8f2500c74.png)
+![](../../../.gitbook/assets/Untitled-2-Recovered-fgdgrred.png)
 
 When you choose to talk, you'll be taken to the chat list page.
 
@@ -188,7 +186,7 @@ Admins can enter text and chat with members in the chat room.
 
 **\[Chat List Page]**
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/492065986285557345eeb5a28689a5e.png)
+![](../../../.gitbook/assets/Untitled-2-Rzrgrd.png)
 
 ![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d6aae0ea19d77c3e352ce2426cdb6399.png)
 
