@@ -16,7 +16,7 @@ In addition to the app introduction page, you can freely change and create vario
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[App Introduction Page] to your app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![](../../../.gitbook/assets/Untitled-2-RrGtgerd.png)
 
 On the MakerV3 screen.
 
