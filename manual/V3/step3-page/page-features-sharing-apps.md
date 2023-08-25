@@ -26,7 +26,7 @@ For more information on how to download the app to share, please refer to the ma
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[Share App] to your app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-1.png)
+![](../../../.gitbook/assets/Untitled-2-RESfd.png)
 
 On the MakerV3 screen.
 
