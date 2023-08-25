@@ -66,7 +66,7 @@ You can modify your home screen with a variety of different menus to create.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.** How to modify the app introduction menu and contents
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
+![](../../../.gitbook/assets/Untitled-2-Rdrgd.png)
 
 **\[How to modify the app introduction description and banner content]**
 
