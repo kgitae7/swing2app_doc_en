@@ -10,7 +10,7 @@ Please see how to apply the product category to the app and the app launch scree
 
 The product category page is available in the app creation STEP3 page step - eStore function.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC1.png)
+![](../../../.gitbook/assets/Untitled-2-Rdfvvd.png)
 
 1\)Go to the STEP3 Page Selection
 
@@ -42,7 +42,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Where can I register a product category?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC3\_20.11.png)
+![](../../../.gitbook/assets/Untitled-2-Rgegovered.png)
 
 **After applying for the swing shop,**
 
