@@ -40,7 +40,7 @@ Alternatively, you can select the App Manager menu in the app to process coupon 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply the coupon lookup menu to the app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B0%EC%A1%B0%ED%9A%8C.png)
+![](../../../.gitbook/assets/Untitled-2-EFFGd.png)
 
 On the MakerV3 screen.
 
