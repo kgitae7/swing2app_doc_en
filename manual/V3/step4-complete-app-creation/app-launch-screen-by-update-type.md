@@ -18,7 +18,7 @@ Depending on the type of update, let's see how the update works in the actual ap
 
 ### **1)** Soft Updates & Recommended Updates.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
+![](../../../.gitbook/assets/UESGSGered.png)
 
 In this type of update, the message window will **pop up asking users if they want to update the app.**&#x20;
 
@@ -32,7 +32,7 @@ For soft updates, you don't have to reinstall the app, update will be **download
 
 ### **2)** Soft Updates & Required Updates.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
+![](../../../.gitbook/assets/GSRGervered.png)
 
 Because it's a soft update, you **don't have to reinstall the app, it's downloaded from within the app and gets auto-updated.**
 
@@ -44,7 +44,7 @@ When selecting the display **option as 'Required',** **a pop-up will appear to i
 
 ### **3)**Hard Update & Recommended Updates.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
+![](../../../.gitbook/assets/srgrgered.png)
 
 **Hard update, on the recommended selection, a message window will pop up asking if you want to do the → update, and the user will have to select 'OK' before the update will proceed.**
 
@@ -60,7 +60,7 @@ It will install the update of the existing application and install it again by o
 
 ### **4)** Hard Updates & Required Updates.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
+![](../../../.gitbook/assets/UFWfed.png)
 
 Hard Update, if you choose Required, **the update will proceed immediately if you click OK.**
 
