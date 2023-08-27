@@ -132,7 +132,7 @@ Depending on the type of update, let's see how the update works in the actual ap
 
 #### <mark style="color:blue;">**1)**</mark><mark style="color:blue;">Soft Updates &</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Recommended Updates**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B81.png)
+![](<../../../.gitbook/assets/UESGSGered (1).png>)
 
 In this type of update, the message window will **pop up asking users if they want to update the app.**&#x20;
 
@@ -144,7 +144,7 @@ For soft updates, you don't have to reinstall the app, update will be **download
 
 <mark style="color:blue;">**2)**</mark>** **<mark style="color:blue;">**Soft Updates & Required Updates**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.png)
+![](<../../../.gitbook/assets/GSRGervered (1).png>)
 
 Because it's a soft update, you **don't have to reinstall the app, it's downloaded from within the app and gets auto-updated.**
 
@@ -154,7 +154,7 @@ When selecting the display **option as 'Required',** **a pop-up will appear to i
 
 <mark style="color:blue;">**3)**</mark><mark style="color:blue;">**Hard Update & Recommended Updates**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.png)
+![](<../../../.gitbook/assets/srgrgered (1).png>)
 
 **Hard update, on the recommended selection, a message window will pop up asking if you want to do the → update, and the user will have to select 'OK' before the update will proceed.**
 
@@ -172,7 +172,7 @@ It will install the update of the existing application and install it again by o
 
 <mark style="color:blue;">**4)**</mark>** **<mark style="color:blue;">**Hard Updates & Required Updates**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B84-1.png)
+![](<../../../.gitbook/assets/UFWfed (1).png>)
 
 Hard Update, if you choose Required, **the update will proceed immediately if you click OK.**
 
