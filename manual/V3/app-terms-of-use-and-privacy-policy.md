@@ -128,21 +128,11 @@ To learn how to apply the link to the Privacy Policy on the Play Store, please r
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 4**.** App launch screen- Check the Terms of Service and Privacy Policy
 
-![](broken-reference)
+![](../../.gitbook/assets/dbgdbred.png)
 
 At the bottom of the registration menu, there is a **View Terms and Conditions** button.
 
-
-
-<div align="left">
-
-<img src="broken-reference" alt="">
-
-</div>
-
 Select the button to see the terms of service you entered in the app subscription policy.
-
-![](broken-reference)
 
 ### **​**​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmsJj00k8mj8AcVpnn9Xs%2Fuploads%2F6SD8AfYRweHpLxAGRhwZ%2Fimage.png?alt=media\&token=337da748-ab67-46fc-97ff-c0eecda431d1) 5**.** Application of Privacy Policy by Store (Play Store, App Store)
 
