@@ -62,7 +62,7 @@ You can also see the applied screen on the virtual machine on the right to check
 
 ### <mark style="color:blue;">App launch screen</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%954\_886.png)
+![](../../../.gitbook/assets/Untitled-1-Rrhdhr.png)
 
 When you set the permissions to 'Full disclosure', everyone who has installed the app can access it, irrespective of their membership status.
 
@@ -110,7 +110,7 @@ For instructions on how to create a group, please refer to the manual below.
 
 ### <mark style="color:blue;">App launch screen</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%955\_886.png)
+![](../../../.gitbook/assets/gessgvered.png)
 
 If you have selected the Assigned Permissions only for Level 2 members, this is how users will see your app while accessing the menu.&#x20;
 
@@ -132,7 +132,7 @@ As you can see, only members of Level 2 will have access to the menu, and users 
 
 ### <mark style="color:blue;">App launch screen</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/06/%EA%B6%8C%ED%95%9C%EC%84%A4%EC%A0%956\_886.png)
+![](../../../.gitbook/assets/Unrzhrdhd.png)
 
 If you select 'Private' for the access right, the menu will be accessible to all users who have registered in the app, and only guests who have not registered for membership will not be able to access it.
 
