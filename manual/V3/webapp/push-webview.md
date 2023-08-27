@@ -157,7 +157,7 @@ Changing the weblink address applied to your app is the same as the App Maker me
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Push App (App Launchscreen)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%91%B8%EC%8B%9C%EC%95%B1%EC%A0%9C%EC%9E%91.png)
+![](<../../../.gitbook/assets/sfcacled-1 (1).png>)
 
 It is a push-only app created by applying the Swing2App homepage (website) weblink to the app as it is.
 
