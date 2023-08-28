@@ -294,7 +294,7 @@ It's not an account signed up for in the official Swing2App app!
 
 <div align="left">
 
-<img src="broken-reference" alt="">
+<img src="../../../.gitbook/assets/VDer-2023-08-29-02-26-01-867_1.gif" alt="" width="375">
 
 </div>
 
