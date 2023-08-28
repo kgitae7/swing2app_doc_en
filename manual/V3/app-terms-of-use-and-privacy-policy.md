@@ -40,7 +40,7 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ![](../../.gitbook/assets/Untitled-2-Redg.png)
 
-<mark style="color:blue;">**App Manager Page → Service option →Subscription settings→ \[Add Subscription Policy]**</mark> Go to the menu.
+<mark style="color:blue;">**App Manager Page → Service option →Subscription settings→**</mark> Go to the menu <mark style="color:blue;">**\[Add Subscription Policy]**</mark>.
 
 ***
 
@@ -66,7 +66,7 @@ If you don't modify this menu, our default message will be reflected in the App 
 
 Please check the contents and modify them for your app service.
 
-For each question, you can select the button on the right to write the content.
+For each question, you can click on the drop-down button on the right to write the content.
 
 \*Note: The \[Name of the person in charge of the app, contact information], etc is written as an example, so please modify it as per the information of the actual administrator\~!
 
@@ -79,7 +79,7 @@ After modifying the contents on that page, click on the \[Save] button.
 {% hint style="info" %}
 There are 7 items in the privacy policy that the user must modify as per the app's services.
 
-This default information was updated in November 2017, so it is not up to date.&#x20;
+This default information was updated in November 2017, so it is not up-to-date.&#x20;
 
 ★ The mobile application must also provide a privacy policy\~!!
 
@@ -113,7 +113,7 @@ When uploading the Google Play Store and One Store -You must include the privacy
 
 So users who create an app with swing2app must use this link of the applicable Terms of Service!!
 
-Therefore, to modify this information carefully as per your app service terms.
+Therefore, modify this information carefully as per your app service terms.
 
 (Please note that if you use the trade name or app name as it is without modifying it, you may run into problems.)
 
@@ -187,7 +187,7 @@ We are receiving more and more reports of people who don't build an app with a s
 
 **Kindly do not use our default policy for your app! If you do so, It will be considered an unauthorized theft of the program.**
 
-**Therefore, those who continuously use our unique Usage Policy URL will report it to Google for action.**
+**Therefore, those who continuously use our unique Usage Policy URL will get reported to Google.**
 
 If you receive this report on Google, it can result in the deletion of your app.&#x20;
 
