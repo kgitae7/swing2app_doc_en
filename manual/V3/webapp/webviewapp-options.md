@@ -42,7 +42,7 @@ I'll introduce you below to the Apply App with this feature screen.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/Swing Web Pushv - Copy (1).gif" alt="">
+<img src="../../../.gitbook/assets/Swing Web Pushv - Copy (1).gif" alt="" width="375">
 
 </div>
 
@@ -72,7 +72,7 @@ Unused and the refresh is not available in the app upon check.
 
 <div align="left">
 
-<img src="broken-reference" alt="">
+<img src="../../../.gitbook/assets/Screenrecorder-2023-08-29-02-09-37-626.gif" alt="" width="375">
 
 </div>
 
@@ -101,10 +101,6 @@ If you check Yes, the top button will be shown as duplicate.
 As you can see in the image, I have a problem where the top button on the website and the top button in the webview app are seen together.
 
 Therefore, please use this function only if there is no top button on the website.
-
-
-
-{% file src="../../../.gitbook/assets/Swing Web Pushv (1).mp4" %}
 
 ## **3.** Using System Fonts
 
