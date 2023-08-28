@@ -72,7 +72,7 @@ You'll be shown a direct link to the Swing2App homepage.
 
 ​
 
-![](broken-reference)
+![](../../../.gitbook/assets/GVG-1.png)
 
 In the manual I introduced, I put a link to my blog, but if you have created a separate page for introduction, we recommend that you enter a link to that page.
 
