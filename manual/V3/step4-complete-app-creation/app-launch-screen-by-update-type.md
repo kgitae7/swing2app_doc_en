@@ -56,7 +56,7 @@ It will install the update of the existing application and install it again by o
 
 **\[Reinstall Progress]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_36\_49\_697.gif)
+![](../../../.gitbook/assets/SVDV023-08-29-02-26-01-867\_1.gif)
 
 ### **4)** Hard Updates & Required Updates.&#x20;
 
@@ -70,7 +70,7 @@ It will install the update of the existing application and install it again by o
 
 **\[Reinstall Progress]**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_07\_11\_44\_37\_946.gif)
+![](../../../.gitbook/assets/VSVD2023-08-29-02-26-01-867\_1.gif)
 
 ### <mark style="color:red;">\[Instructions]</mark>
 
