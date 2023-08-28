@@ -99,7 +99,7 @@
     * [How to use the first run address in webview and push app](manual/V3/webapp/firstrun-url.md)
     * [WebviewApp basic settings and advanced setting options](manual/V3/webapp/webviewapp-options.md)
     * [Push App Toolbar - Introduction: How to Use and Functions](manual/V3/webapp/pushapp-toolbar.md)
-    * [Registering a push icon image](manual/V3/webapp/push-icon.md)
+    * [Registering a Push Notification Icon Image](manual/V3/webapp/push-icon.md)
   * [App Terms of Use And Privacy Policy](manual/V3/app-terms-of-use-and-privacy-policy.md)
 * [App production manual(V2)](manual/maual/README.md)
   * [App basics](manual/maual/appbasic/README.md)

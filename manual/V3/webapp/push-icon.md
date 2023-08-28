@@ -1,18 +1,18 @@
-# Registering a push icon image
+# Registering a Push Notification Icon Image
 
-**How to Apply AndroidPhone Push Icon Image**
+**How to Apply Push-Notification Icon Image for Android Phone**&#x20;
 
 We're going to show you how to register a push icon image on your Android phone.
 
 
 
-> ### What is a push? What is a push icon image?
+> ### What is a push notification? What is a push notification icon image?
 
-Push is a feature available in regular prototype apps, push-only apps.
+Push notification is a feature available in regular prototype apps, and push-only apps.
 
 When users who have installed an app receive notifications, updates, etc., sending a message from within the app is called a 'push'.
 
-And when a push is sent, the image that appears next to the subject and message is called the push icon.
+When a push is sent, the image that appears next to the subject and message is called the push icon.
 
 At this time, the icon that is displayed when sending the push is automatically set to an image of the app icon and sent out.
 
@@ -32,7 +32,7 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 **When you register a push icon image, you can register and send a different push icon for each push notification message.**
 
-**You can fix the error of icon image not popping up on Android phones.**
+**In case you face issues (error of icon image not popping up on Android phones) with your default push icon image, you can fix it by setting a separate icon image for your push notification.**&#x20;
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
@@ -46,25 +46,23 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 ![](../../../.gitbook/assets/Untitled-2-Rzrgd.png)
 
-1\) Move to V3 app creation
+1\) On the MakerV3 app creation screen
 
-2\)Select \[Advanced Settings]
+2\)Click on the \[Advanced Settings] button
 
-3\)Settings: Select App Authoring Settings
+3\)Click on drop-down icon and Select \[App Production Settings] option
 
-4\)Android Push Icon \[EDIT] button selection
+4\)Click on Android Push Icon \[EDIT] button&#x20;
 
-5\)Image attachment to register as push icon in setting value \_Check image size (128X128)
+5\)Attach image to register push icon in setting, Check image size (128X128)
 
-6\)Select \[UPDATE] button
+6\)Click on \[UPDATE] button
 
-7\)Select \[Save]
+7\)Click on \[Save] button
 
-8\)Select \[App Update] or \[App Creation]
+8\)Select \[App Update] or \[App Creation] button
 
 \*If the app has not been created, \[App Creation] button will be displayed to build the app(1st time), and an  \[App Update] button will be displayed when the app is already created and just needs to be updated.
-
-The screen is the V3 version of the app creation, and the icon image application method is the same when using the V2 version.
 
 <div align="left">
 
