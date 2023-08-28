@@ -32,7 +32,7 @@ The App Maker V3  Manual will show you how to edit your app in step 2- prototype
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Check the prototype style
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_50\_40\_340.gif)
+![](../../.gitbook/assets/DSF2023-08-29-02-26-01-867\_1.gif)
 
 The normal app prototype style is available in 5 different designs.\*The webviews and push-only prototypes are excluded.
 
@@ -42,7 +42,7 @@ You can preview each prototype by selecting them, virtual machine on the right (
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – Color settings
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%85%B9%ED%99%94\_2022\_07\_01\_14\_52\_49\_797.gif)
+![](../../.gitbook/assets/SFG23-08-29-02-26-01-867\_1.gif)
 
 **Select Color Preset: To Set the skin color of the UI design.**
 
@@ -76,7 +76,7 @@ This feature allows you to set additional color options and design styles that y
 
 **\*This is not a required but an optional setting.**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%83%80%EC%9D%BC%EC%83%89%EC%83%81.gif)
+![](../../.gitbook/assets/Sbdb3-08-29-02-26-01-867\_1.gif)
 
 **Advanced Style & Option** – Here you can modify the background and text color of the prototype.
 
