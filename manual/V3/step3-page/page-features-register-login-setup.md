@@ -52,7 +52,7 @@ You can find out more about how to set up the membership form by checking the ma
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2. Basic Feature->** Page: Login
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+![](<../../../.gitbook/assets/1.. (2).png>)
 
 Go to the MakerV3 screen.&#x20;
 
@@ -94,7 +94,7 @@ After registering and completing the login, the login listed in the menu name wi
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3. Basic Feature->** Page: Settings
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EC%A0%95.png)
+![](<../../../.gitbook/assets/1.. (3).png>)
 
 Go to the MakerV3 screen.&#x20;
 
