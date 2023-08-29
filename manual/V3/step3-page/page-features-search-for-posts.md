@@ -16,7 +16,7 @@ The Swing2App offers 2 different types of search post functions.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Post Search Function
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%892.png)
+![](../../../.gitbook/assets/ADAUntitled-2.png)
 
 To search for a post, a search term input window will appear at the top of the bulletin board list.
 
@@ -46,7 +46,7 @@ Move the app creation screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EB%85%B9%ED%99%94\_2020\_12\_29\_16\_53\_54\_855.gif)
+![](../../../.gitbook/assets/Screenrecorder-2023-08-29-18-50-01-742.gif)
 
 If you select the Search Posts menu that you have created, you will see a list of posts from all the boards applied to the app, as shown in the image above.
 
