@@ -123,7 +123,7 @@ Therefore, even the categories you create in this way can be configured with the
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **4.** Digital Products Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AC%EB%A7%A4%EC%83%81%ED%92%88.png)
+![](../../../.gitbook/assets/UntitleEAAWd-2.png)
 
 This page is only available if you have registered a digital product Page dedicated to digital products.
 
@@ -175,7 +175,7 @@ You can tap the magnifying glass icon button to search for the product name.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **8.** Booking Page: Schedule Products(based on Date)&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%82%A0%EC%A7%9C%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
+![](../../../.gitbook/assets/UGHDXDJd-2.png)
 
 This page is only available if you have registered the reservation system page dedicated to the reservation system
 
@@ -193,7 +193,7 @@ When the date lookup is complete, the products available for that date will be v
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **9.** Booking Page: Make Reservation (based on Date+Time)&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%8B%9C%EA%B0%84%EC%98%88%EC%95%BD%EC%83%81%ED%92%88.png)
+![](../../../.gitbook/assets/UntitleAEFd-2.png)
 
 This page is only available if you have registered the reservation system page dedicated to the reservation system
 

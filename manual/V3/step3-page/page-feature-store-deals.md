@@ -74,7 +74,7 @@ If you exit the app and relaunch it, you can see the modifications.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product application screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EB%93%B1%EB%A1%9D2.png)
+![](../../../.gitbook/assets/VVVtitled-1.png)
 
 This is the screen where the 'Product Category' menu is applied to the app.
 
