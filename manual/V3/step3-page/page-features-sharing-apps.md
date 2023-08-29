@@ -52,7 +52,7 @@ In the manual, we proceeded without any additional settings, so please apply the
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Share the app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B02.png)
+![](../../../.gitbook/assets/fUntitlfawaed-2.png)
 
 If you select \[Share App] that you applied to the menu, the list of apps that can be shared will open.
 
@@ -90,7 +90,7 @@ The method of launching the app and installing the app is the same as the KakaoT
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** Settings menu: Share the app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%8A%A4%EC%9C%99%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%B1%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B03.png)
+![](../../../.gitbook/assets/sfsvfsUntitled-2.png)
 
 App sharing is also available in the settings menu which is set by default within the app without having to add the app sharing function separately on the swing page.
 
