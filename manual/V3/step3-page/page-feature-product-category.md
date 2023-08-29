@@ -50,7 +50,7 @@ App Manager page → Go to \[Shop] option - Click on \[Products] option → You 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen) Product category application screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/11/%EC%83%81%ED%92%88%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC2\_20.11.png)
+![](../../../.gitbook/assets/FDFed-1.png)
 
 This is the screen where the 'Product Category' menu is applied to the app.
 
