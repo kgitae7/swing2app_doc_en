@@ -49,7 +49,7 @@ I'll show you the app launch screen for each page through the manual below\~!!
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Shop Main Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%87%BC%ED%95%91%EB%AA%B0%EB%A9%94%EC%9D%B8.png)
+![](../../../.gitbook/assets/UntiDFDled-1.png)
 
 The shop main page is the main home screen page suitable for application to the home screen.
 
@@ -91,7 +91,7 @@ If you want to add it as a menu, select the \[+] shape button to create a new me
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **2. Shopping** Cart
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png)
+![](../../../.gitbook/assets/UDFtled-1.png)
 
 A shopping cart is a **page that stores items of interest and items that you plan to buy.**
 
@@ -101,7 +101,7 @@ You can check the items you put in your shopping cart to make a purchase.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **3.** Category List
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A6%AC%EC%8A%A4%ED%8A%B81.png)
+![](../../../.gitbook/assets/UntitledVZSV-1.png)
 
 A category list is a **page that shows a list of categories, not individual products.**
 
@@ -139,7 +139,7 @@ You will need to apply this page to see what users have purchased from the app.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **5.** My Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+![](../../../.gitbook/assets/UntitlFEGed-1.png)
 
 \[My Page] is a page where you can check everything related to user purchase information, payment, and delivery.
 
@@ -151,7 +151,7 @@ As you can see in the image, it provides functions such as order status, trackin
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Shop Info
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%EC%A0%90%EC%A0%95%EB%B3%B42.png)
+![](../../../.gitbook/assets/UFEEGed-1.png)
 
 It's a store information page.
 
@@ -161,7 +161,7 @@ It is a page consisting of basic shopping mall information, which provides custo
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%8B%A8%EB%9D%BD1-1.png) **7.** Search Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/07/%EC%83%81%ED%92%88%EA%B2%80%EC%83%89.png)
+![](../../../.gitbook/assets/UntitFEGled-1.png)
 
 A product search page where you can search for and find products registered in the app.
 
