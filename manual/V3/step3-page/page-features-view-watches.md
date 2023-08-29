@@ -42,13 +42,13 @@ Move the app creation screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B43.png)
+![](../../../.gitbook/assets/UnSVVDAtitled-2.png)
 
 After you do a 'like' check, go to the View Posts Interested, and you'll be able to see all the posts you've just checked on Likes.
 
 \*The View Watches bulletin board is displayed in the Timeline UI style.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/01/%EA%B4%80%EC%8B%AC%EA%B8%80%EB%B3%B4%EA%B8%B0%EC%95%B1%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B41.png)
+![](../../../.gitbook/assets/Unscvtitsled-1.png)
 
 If you don't have a 'liked' post, you'll be marked as missing a post.
 
