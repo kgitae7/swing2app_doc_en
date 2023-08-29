@@ -24,7 +24,7 @@ After typing in the word you want to search, click the "magnifying glass" icon i
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply it to the \[Search Post] app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89.png)
+![](<../../../.gitbook/assets/1.. (4).png>)
 
 Move the app creation screen
 
@@ -74,7 +74,7 @@ If you are searching for content in posts on all bulletin boards – please appl
 If you apply the board without adding any other features, the search term input window within the board is provided with the default settings.
 {% endhint %}
 
-
+***
 
 {% hint style="info" %}
 <mark style="color:blue;">**Search individual posts**</mark>
@@ -86,11 +86,11 @@ So the ability to search for posts on a specific board is automatically provided
 Board List Click the icon in the shape of a 'magnifying glass' in the upper-right corner of the screen to open a window where you can enter a search term.
 {% endhint %}
 
+***
 
+***
 
-
-
-
+***
 
 **Related Articles**
 
