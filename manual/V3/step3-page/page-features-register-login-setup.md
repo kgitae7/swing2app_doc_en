@@ -34,7 +34,7 @@ Go to the MakerV3 screen.&#x20;
 
 #### **▶**App launch screen) Registration
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%99%94%EB%A9%B4.png)
+![](../../../.gitbook/assets/Untitledvzd-1.png)
 
 This is the app launch screen with the registration function applied.
 
@@ -74,7 +74,7 @@ Go to the MakerV3 screen.&#x20;
 
 **▶ App launch screen) Login**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+![](../../../.gitbook/assets/Untifeaatled-1.png)
 
 The app launch screen with the sign-up feature applied.
 
@@ -86,7 +86,7 @@ The login screen also displays the ability to sign up.
 
 **Once the login is complete, the login menu will change to 'Log Out'.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
+![](../../../.gitbook/assets/Untitdvzdled-2.png)
 
 After registering and completing the login, the login listed in the menu name will automatically change to → logout.
 
@@ -116,9 +116,7 @@ Go to the MakerV3 screen.&#x20;
 
 **▶App launch screen) Settings**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B42.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%84%A4%EC%A0%95%ED%99%94%EB%A9%B41.png)
+![](../../../.gitbook/assets/Untitlcssved-1.png)
 
 The app launch screen with the settings features applied.
 
