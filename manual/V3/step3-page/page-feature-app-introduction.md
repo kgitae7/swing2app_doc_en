@@ -48,7 +48,7 @@ In the manual, we proceeded without any additional settings, so please apply add
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Check the app introduction page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
+![](../../../.gitbook/assets/UnFFHFd-1.png)
 
 **This is the screen where the app introduction page is applied.**
 
@@ -62,7 +62,7 @@ You can modify your home screen with a variety of different menus to create.
 
 **▶ Please check the page you are moving to when selecting the App Introduction-Icon banner through the image that you are in.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
+![](../../../.gitbook/assets/RRGer-2023-08-29-02-26-01-867\_1.gif)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.** How to modify the app introduction menu and contents
 
@@ -86,7 +86,7 @@ When you make a modification back to an app you've created, it is automatically 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04.** App introduction content, how to delete buttons
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
+![](<../../../.gitbook/assets/1.. (5).png>)
 
 **Advanced Settings – In the App Service Information, press the \[Reset] button in the 'Phone number, email, site address, address, app description'**
 
@@ -94,7 +94,7 @@ Press \[Reset] and then simply press the \[Save] button at the top to remove the
 
 If you want the buttons to be visible again, you can press the \[EDIT] button on each setting value and enter the contents.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B42.png)
+![](../../../.gitbook/assets/UntitlASDFGHed-2.png)
 
 On the app introduction screen, you can see that the navigation button at the bottom is missing\~!
 
