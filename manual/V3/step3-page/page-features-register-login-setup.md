@@ -1,6 +1,6 @@
 # Page Design - Sign Up, login & Settings Page.
 
-
+***
 
 **Page design provided by the page step - A swing page is a menu that provides the essential functionality of the app provided by Swing2App.**
 
@@ -12,7 +12,7 @@ We'll show you how to apply the sign-up, login, and settings pages provided by t
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **1. Basic Feature->** Page: Sign up
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
+![](<../../../.gitbook/assets/1.. (1).png>)
 
 Go to the MakerV3 screen.&#x20;
 
@@ -48,7 +48,7 @@ You can find out more about how to set up the membership form by checking the ma
 
 **☞**<mark style="color:blue;">**Setting up the membership form**</mark>
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **2. Basic Feature->** Page: Login
 
@@ -90,7 +90,7 @@ The login screen also displays the ability to sign up.
 
 After registering and completing the login, the login listed in the menu name will automatically change to → logout.
 
-
+***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **3. Basic Feature->** Page: Settings
 
@@ -158,5 +158,6 @@ Available only on the pages provided.
 Depending on the prototype color change, the background color, etc., can be modified, but the design cannot be changed.
 {% endhint %}
 
+***
 
-
+***
