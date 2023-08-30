@@ -32,7 +32,7 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Apply HTML Editor Page (app launch screen)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_07\_17\_17\_31\_06\_778.gif)
+![](<../../../.gitbook/assets/Update ApFp.gif>)
 
 It's an HTML editor page applied to the official Swing2App app.
 
@@ -40,7 +40,7 @@ We'll refer to the editor page above to make the production the same style.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating an HTML Editor Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B01.png)
+![](<../../../.gitbook/assets/1.. (15).png>)
 
 HTML editor page can be created in the App MakerV3 screen.
 
@@ -58,7 +58,7 @@ Below I'll show you how to create an editor page and how to apply it to your app
 
 #### \*\*\*1.\*\*HTML Editor Page Editor
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%801\_20.07.png)
+![](<../../../.gitbook/assets/1.. (16).png>)
 
 The image above is the HTML Editor Page Maker screen.
 
@@ -84,7 +84,7 @@ So let's work on it like the editor page of the official app shown above!
 
 **2. Register the video (enter YouTube URL)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%802\_20.07.png)
+![](<../../../.gitbook/assets/1.. (18).png>)
 
 1\)For videos, please select the \[Insert Video] icon button in the option bar.
 
@@ -104,13 +104,13 @@ I entered the video using the above method, but when I look at it in the app, th
 
 **See app launch)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8016\_20.07.png)
+![](../../../.gitbook/assets/Untitlefgghed-1.png)
 
 So if you want to scale it to fit the screen, you can modify the video size in the following ways:
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8017\_20.07.png)
+![](<../../../.gitbook/assets/1.. (19).png>)
 
 When you click on the registered video, you can directly modify the image size: landscape and portrait length.
 
@@ -118,13 +118,13 @@ Modified it to 380px wide and 200px vertical.
 
 **App launch screen)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8018\_20.07.png)
+![](../../../.gitbook/assets/UntitlEGEed-2.png)
 
 By resizing the video, you can adjust the video thumbnail ratio on the app screen to fit the screen.
 
 **3. Image Registration**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%803\_20.07.png)
+![](<../../../.gitbook/assets/1.. (20).png>)
 
 1\) Select the \[Insert Image] icon button in the option bar.
 
@@ -142,7 +142,7 @@ You can edit the image size again!!
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%99%94%EC%82%B4%ED%91%9C-3.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%804\_20.07.png)
+![](<../../../.gitbook/assets/1.. (21).png>)
 
 11\) When you click on the image, an options window will open below. Select the \[Resize] button here.
 
@@ -162,7 +162,7 @@ Instead, if the image needs to appear smaller on the screen, you can modify the 
 
 **4. Registration of text articles**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%805\_20.07.png)
+![](<../../../.gitbook/assets/1.. (22).png>)
 
 You can input text when you hold the mouse cursor in the body.
 
@@ -170,7 +170,7 @@ From the top options bar, you can select font, size, color, etc, and modify it t
 
 **5. Insert a web link**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%806\_20.07.png)
+![](<../../../.gitbook/assets/1.. (23).png>)
 
 If you look at the Swing2App Official App Editor page for a moment, tap on the image and you'll be taken to a new page!!
 
@@ -202,7 +202,7 @@ Please check the details below.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Using the Link Wizard**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%807\_20.07.png)
+![](<../../../.gitbook/assets/Untitled design (8).png>)
 
 1\) When you click on the image, an options window will open below. Select the \[Insert Link] button here.
 
@@ -222,7 +222,7 @@ In addition to the regular website links, the \[Link Wizard] allows you to go to
 
 **6. Press the Save button when you finish the production.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%808\_20.07.png)
+![](<../../../.gitbook/assets/1.. (25).png>)
 
 When the editor page is finished creating, press the Save button and exit.
 
@@ -230,7 +230,7 @@ When the editor page is finished creating, press the Save button and exit.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying HTML Editor Page to App
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%97%90%EB%94%94%ED%84%B02.png)
+![](<../../../.gitbook/assets/1.. (26).png>)
 
 Go to the MakerV3 screen.
 
@@ -268,7 +268,7 @@ Here are a few more features you need to create!
 
 **1. Horizontal Line**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%809\_20.07.png)
+![](<../../../.gitbook/assets/1.. (27).png>)
 
 As you write, there are times when you need something to differentiate between the two topics.
 
@@ -278,7 +278,7 @@ If you press the Insert Horizontal Line button in the option bar, the divider is
 
 **2. Full Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%97%90%EB%94%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%A7%8010\_20.07.png)
+![](<../../../.gitbook/assets/1.. (28).png>)
 
 As you work on the page, the content gets long and the page goes down.
 
@@ -306,7 +306,7 @@ With the Quick Insert button, selecting it gives you quick access to frequently 
 
 The same can be done by going into the App MakerV3 screen– HTML Editor \[Modify] button.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
+![](<../../../.gitbook/assets/1.. (29).png>)
 
 Hover your mouse cursor over the editor page and there is a \[Edit] button.
 
