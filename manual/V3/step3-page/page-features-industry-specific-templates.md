@@ -10,38 +10,6 @@ Users can create pages more easily by providing templates for each style and ind
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Template page creation steps
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%85%9C%ED%94%8C%EB%A0%9B.png)
-
-**\[Creating a Template Page]**
-
-1\) On the MakerV3 page – Go to STEP3 Page
-
-2\)Under the Page Design option, select the \[Page Template] option.
-
-3\)Click on the \[+] Add new page-> to open the template editor screen.
-
-4\) Select the industry-specific template of the desired design from the template page creation tool and create it.
-
-**\[Apply your created template page app to]**
-
-If you've created a template page, you'll need to apply it to your app, right?
-
-1\)On the MakerV3 page – Go to STEP3 Page
-
-2\)Select HOME or submenu \*Select the submenu or select the home screen depending on where you apply the web template.
-
-3\)Enter the name of the menu&#x20;
-
-4\)Under the Page Design option, select the \[Page Template] option.
-
-5\)Click on the 'Refresh' button on the right to see the template you have created.
-
-6\)After previewing the page you want to apply, select \[Apply]. (Hover the mouse cursor over the page and the Apply button opens)
-
-7\)Press the \[Save] button at the top of the screen to apply it to the app.
-
 ***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
