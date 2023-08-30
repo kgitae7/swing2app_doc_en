@@ -14,7 +14,7 @@ Please check the manual to find out how to use the admin chat (1:1 chat).
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
+![](../../../.gitbook/assets/FAFEed-1.png)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply admin chat to the app
 
@@ -76,7 +76,7 @@ Move the app creation screen
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Chat room screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW2.png)
+![](../../../.gitbook/assets/FAFEed-1.png)
 
 When you view the app launch screen, you receive messages entered by administrators in the chat room, and app members can send and receive text by typing in text.
 
@@ -94,7 +94,7 @@ Users can have a conversation by entering the chat menu in the app, and the conv
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3.** How users can chat with the app manager
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW4.png)
+![](<../../../.gitbook/assets/UnSFGGtitled-2 (1).png>)
 
 As soon as you enter the chat room menu created above, a chat window will open.
 
@@ -102,7 +102,7 @@ Users are free to enter messages (texts).
 
 ### ▶ Chat List
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85NEW5.png)
+![](../../../.gitbook/assets/UntEGEGitled-2.png)
 
 If you want to chat with the manager again after a conversation, you can go into the 'Chat List'.
 
@@ -120,12 +120,12 @@ If you use the admin chat feature, please add a chat list to the menu as well.
 
 **How can admins chat with app members?**
 
-**Administrators can have a conversation by selecting members from the member lookup menu provided by the swing web (app operation page).**
+**Administrators can have a conversation by selecting members from the member lookup menu provided by the Swing web (app operation page).**
 
 Check out below how admins can chat with app members!!
 
 {% hint style="success" %}
-**You'llHow can admins chat with app members?**
+**How can admins chat with app members?**
 
 ***
 
@@ -188,7 +188,7 @@ Admins can enter text and chat with members in the chat room.
 
 ![](../../../.gitbook/assets/Untitled-2-Rzrgrd.png)
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/d6aae0ea19d77c3e352ce2426cdb6399.png)
+![](../../../.gitbook/assets/Ssvcreenrecorder-2023-08-29-02-26-01-867\_1.gif)
 
 On the Chat List page, you can see a chat list of all the members you've previously chatted with.
 
@@ -202,7 +202,7 @@ So if you need to talk to a member you've previously chatted with, you can conti
 
 If you want to talk back to a member you've previously chatted with in the app, please use the chat list.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
+![](../../../.gitbook/assets/UntEGEGitled-2.png)
 
 The chat list allows you to see a list of members and conversations you've already chatted with.
 
