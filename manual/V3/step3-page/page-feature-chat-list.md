@@ -10,11 +10,11 @@ Users can check the admin chat list in the chat list and select the desired mana
 
 Admins can also check the list of users they've chatted with to see their conversation history and re-establish the conversation.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D-KR.png)
+![](../../../.gitbook/assets/DDZ.png)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**What is a chat list?
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png)
+![](../../../.gitbook/assets/UntitleEFEGd-1.png)
 
 \- As shown in the image above, the chat list is divided into separate chats for each user or administrator who they talked to.
 
@@ -60,7 +60,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.**Chat List app launch screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D3-1.png)
+![](../../../.gitbook/assets/UntEGEGitled-2.png)
 
 In the app menu, select – Chat list, and you'll see a list of users chatting with your manager, as shown in the image above.
 
@@ -80,13 +80,13 @@ Therefore, it is difficult for the user to determine which manager they have bee
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D4.png)
+![](../../../.gitbook/assets/Untitdfghled-1.png)
 
 However!! Now you can use \[Chat List] to see a list of each admin you have talked to..
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/03/%EB%85%B9%ED%99%94\_2019\_03\_12\_17\_14\_21\_497.gif)
 
-\*If you are one of the several managers who have chatted with you and would like to contact the 'Kim Swing' manager who last exchanged chats, you can start the chat by selecting the 'Kim Swing' manager from the chat list.
+\*If you have chatted with several managers and would like to contact the specific manager who last exchanged chats, you can start the chat by selecting that specific manager from the chat list.
 
 Thus, the user can have a conversation at any time by checking the list of managers who want to chat.
 
