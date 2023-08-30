@@ -70,23 +70,23 @@ If you need to register a new attendance check or make any corrections, you can 
 
 Let's launch the app and see how the attendance check is executed in the app!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC3\_20.03.png)
+![](../../../.gitbook/assets/UnSDFGled-1.png)
 
 If you check the attendance check post, you can check the content and image of the post that you entered when you registered for the attendance check.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC4\_20.03.png)
+![](../../../.gitbook/assets/FEFed-1.png)
 
 You can participate by commenting on \[Join Attendance Check Event] at the bottom of the post.
 
 **▶Attendance check event closed**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC5\_20.03.png)
+![](../../../.gitbook/assets/UntiFAFtled-1.png)
 
 When you close an event, the app will also display a window called 'Closed Event'.
 
 **▶ Check the app manager dashboard**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC6\_20.03.png)
+![](<../../../.gitbook/assets/1.. (14).png>)
 
 App operators can check the comments on attendance check posts on the App Manager Dashboard – Attendance Check page.
 
