@@ -10,7 +10,7 @@ Check out the how-to manual on how to apply the View My Posts feature to your ap
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the View My Posts page to the app
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B0.png)
+![](<../../../.gitbook/assets/1.. (13).png>)
 
 Move the app creation screen
 
@@ -46,9 +46,7 @@ In previous versions, I don't see the View My Posts feature. So, after you creat
 
 Go to the View My Posts menu applied to the app and you'll be able to see all the posts you've written.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B03\_2019.11.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/12/%EB%82%98%EC%9D%98%EA%B8%80%EB%B3%B4%EA%B8%B02\_2019.11.png)
+![](../../../.gitbook/assets/Uaefgentitled-2.png)
 
 You must be logged in as the user who wrote the article. Not available to guests.
 
@@ -68,7 +66,7 @@ If you select View My Posts applied to your app, you can see all the posts that 
 5\) If you have created an app before 2019.11.30, an app update is required to use the feature.
 {% endhint %}
 
-
+***
 
 **Related Articles**
 
