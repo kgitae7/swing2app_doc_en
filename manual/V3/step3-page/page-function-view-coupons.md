@@ -14,7 +14,7 @@ This function is available on page **MakerV3 screen-> STEP3 → Basic Feature→
 
 I'll show you how to apply the coupon lookup menu to the app and use it\~!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EC%BF%A0%ED%8F%B0%EC%82%AC%EC%9A%A9-KR.png)
+![](../../../.gitbook/assets/Unetttitled-3.png)
 
 **Find out how to create and apply coupons!**
 
@@ -62,7 +62,7 @@ On the MakerV3 screen.
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. App launch screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B01.png)
+![](../../../.gitbook/assets/UntitlVDBed-2.png)
 
 After launching the app, select the \[Check My Coupon] menu, and the coupon lookup page will open.
 
@@ -70,13 +70,13 @@ When the app issues a coupon, the coupon you received appears in the list of ava
 
 \*If there is no coupon issued, the message "Coupon does not exist" will be displayed.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B02.png)
+![](../../../.gitbook/assets/UEGESled-1.png)
 
 When you select a coupon from the coupon list, the window switches to full screen so you can see the coupon details in more detail.
 
 **- Check the coupons used**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%BF%A0%ED%8F%B03.png)
+![](../../../.gitbook/assets/UntitleDVd-1.png)
 
 If the coupon you receive is used by the administrator, you can see that it has been used in the \[Used coupons] list.
 
