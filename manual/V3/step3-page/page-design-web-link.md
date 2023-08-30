@@ -68,7 +68,7 @@ This will generate a link address, but for web addresses that are opened using t
 
 #### <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> App launch screen - Apply Internet address Screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew3.png)
+![](../../../.gitbook/assets/sdfled-2.png)
 
 In the Link Wizard, I linked the 'Internet address' and launched the app.
 
@@ -80,7 +80,7 @@ When you select the WebLink menu, you will be taken to the website page that has
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Open in a new window**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_15\_59\_42\_883.gif)
+![](<../../../.gitbook/assets/Update Ap4.gif>)
 
 I've linked the URL of the homepage.
 
@@ -92,7 +92,7 @@ Press the screen X button or the back button to return to the app.
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Open as a new app**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_03\_16\_02\_05\_720.gif)
+![](../../../.gitbook/assets/Chrome.gif)
 
 The YouTube link was linked to "View as an external app."
 
@@ -136,7 +136,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **App launch screen - Apply phone number screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew2.png)
+![](../../../.gitbook/assets/Untitlfeged-2.png)
 
 In the link wizard, I connected the 'phone number' and launched the app.
 
@@ -182,7 +182,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **App launch screen - Apply text message number screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew4.png)
+![](../../../.gitbook/assets/Untitlehnggmd-2.png)
 
 In the Link Wizard, I linked the 'text message number' and launched the app.
 
@@ -227,7 +227,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 \
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**App launch screen - Apply Email Address screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/12/%EC%9B%B9%EB%A7%81%ED%81%AC-%EB%A7%81%ED%81%AC%EB%A7%88%EB%B2%95%EC%82%ACnew5.png)
+![](../../../.gitbook/assets/Ugshntitled-2.png)
 
 In the link wizard, I linked my 'email address' and launched the app.
 
