@@ -78,11 +78,11 @@ Select and check if this is a descriptive answer that needs to be entered in wri
 
 **4. Complete the registration of the questionnaire**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%838.png)
+![](<../../../.gitbook/assets/1.. (7).png>)
 
 When you have finished entering the questionnaire preferences and contents, press 'Save'.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%85%EB%8E%839.png)
+![](<../../../.gitbook/assets/1.. (8).png>)
 
 If you look at the survey management page, you can see the completed questionnaire\~!
 
@@ -92,7 +92,7 @@ Once you've created all the surveys in your app, you should be able to apply the
 
 We'll show you how to apply the survey menu to the app!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC.png)
+![](<../../../.gitbook/assets/1.. (6).png>)
 
 Move the app creation screen
 
@@ -124,7 +124,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 
 Once you've even applied the app, let's see how the survey runs in the actual app!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%84%A4%EB%AC%B8%EC%97%85%EB%8E%837.png)
+![](../../../.gitbook/assets/Untsgsgtled-1.png)
 
 When you launch the app again after you've finished entering the survey, the entered survey will appear.
 
@@ -136,7 +136,7 @@ You also need to know how to view and manage your survey results, right?
 
 <mark style="color:blue;">App Manager Page → Service Management → Survey Management</mark> Go to the menu.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW.png)
+![](<../../../.gitbook/assets/1.. (9).png>)
 
 In the Survey Management menu, you can manage ongoing and closed surveys.
 
@@ -146,17 +146,17 @@ You can also manage the members who participated in the survey.
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW4.png)
+![](<../../../.gitbook/assets/1.. (10).png>)
 
 If you select the \[download] button, you can also download the survey result sheet to an Excel file.
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW2.png)
+![](<../../../.gitbook/assets/1.. (11).png>)
 
 When you select a member, you will be able to see a list of survey answers entered by that member.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/06/%EC%84%A4%EB%AC%B8%EA%B2%B0%EA%B3%BC-NEW3.png)
+![](<../../../.gitbook/assets/1.. (12).png>)
 
 **You can add new polls, close surveys, and edit \&delete all features.**
 
