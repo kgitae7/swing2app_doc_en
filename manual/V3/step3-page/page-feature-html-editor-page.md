@@ -24,12 +24,6 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Steps to create an editor page
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-HTML.png)
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
-
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Apply HTML Editor Page (app launch screen)
 
 ![](<../../../.gitbook/assets/Update ApFp.gif>)
