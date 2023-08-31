@@ -14,7 +14,7 @@ Users can create pages more easily by providing templates for each style and ind
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+![](../../../.gitbook/assets/Screenrecorder-2023-08-31-13-59-26-972.gif)
 
 This is the screen where I launched the Swing Hotel sample app.
 
@@ -168,7 +168,7 @@ You can also apply a template page to a menu.
 
 **\*\*\*\* App launch** **screen) Template Page**&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_03\_05\_12\_51\_29\_731.gif)
+![](../../../.gitbook/assets/Screenrecorder-2023-08-31-13-59-26-972.gif)
 
 ***
 
