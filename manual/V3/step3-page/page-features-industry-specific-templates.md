@@ -68,7 +68,7 @@ I'll tell you how to use it in detail below\~!
 
 3\) Select the page and press the **\[Add]** button.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF4\_19.09.png)
+![](<../../../.gitbook/assets/1.. (35).png>)
 
 4\) You can see the template page added to the Template editor screen like this.
 
@@ -80,9 +80,9 @@ If you look at the right side of the screen, you can modify and use each of them
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Please check how to use it\~!**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_46\_33\_274.gif)
+![](<../../../.gitbook/assets/ScreenrqSDFGecorder-2023-08-29-02-26-01-867\_1 (1).gif>)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2019\_09\_25\_16\_50\_15\_66.gif)
+![](../../../.gitbook/assets/ScreenrecordXCVer-2023-08-29-02-26-01-867\_1.gif)
 
 \-The **page name** at the top is the page name that will be displayed in the app, so please modify it accordingly.
 
@@ -106,7 +106,7 @@ If you look at the right side of the screen, you can modify and use each of them
 
 If you look at the settings provided on the, you can modify and apply them one by one in the areas that can be modified.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF6\_19.09.png)
+![](<../../../.gitbook/assets/1.. (36).png>)
 
 **6) To attach an image, you can register the desired image by pressing the image button.**
 
@@ -116,7 +116,7 @@ Even if the size has not been modified, pressing the Edit Image button will open
 
 Here you can register by adjusting it to the size of the image.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF8\_19.09.png)
+![](<../../../.gitbook/assets/1.. (37).png>)
 
 **7) The Link Wizard refers to the feature, by which links can be applied to each banner (button).**
 
@@ -136,7 +136,7 @@ When all is done, press the **\[Save]** button, and the page is finished saving 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page to the app
 
-![템플릿 페이지 앱에 적용하기](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%802.png)
+![템플릿 페이지 앱에 적용하기](<../../../.gitbook/assets/1.. (38).png>)
 
 
 
@@ -176,7 +176,7 @@ You can also apply a template page to a menu.
 
 Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on **\[More]** button-> Click on **\[Update]** button.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%803.png)
+![](<../../../.gitbook/assets/1.. (39).png>)
 
 Template modifications don't have a separate page.
 
