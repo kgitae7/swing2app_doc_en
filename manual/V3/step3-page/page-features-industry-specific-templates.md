@@ -8,8 +8,6 @@ Users can create a web page by inputting only text and images according to the g
 
 Users can create pages more easily by providing templates for each style and industry for web pages that are difficult to create directly in terms of design.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%98%B8%ED%85%943-886\_2019.07.png)
-
 ***
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
