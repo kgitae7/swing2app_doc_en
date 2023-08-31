@@ -32,7 +32,7 @@ From the home screen, each menu was applied to the app using the Hotel03 templat
 
 You can create a page template on the App MakerV3 screen.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%801.png)
+![](<../../../.gitbook/assets/1.. (30).png>)
 
 1\)On the MakerV3 page – Go to STEP3 Page
 
@@ -44,7 +44,7 @@ Below we'll show you how to build a template and how to apply it to your app aft
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-e1611212616323.png) **STEP.2** Creating a Template Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9B%B9%ED%85%9C%ED%94%8C%EB%A6%BF%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%85%EB%8E%831.png)
+![](<../../../.gitbook/assets/1.. (32).png>)
 
 Select the **\[Add] button** at the bottom of the site to open the **‘New Page‘** window.
 
@@ -52,7 +52,7 @@ Select a template from here and start modifying your template as per your requir
 
 I'll tell you how to use it in detail below\~!
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF2\_19.09.png)
+![](<../../../.gitbook/assets/1.. (33).png>)
 
 1\)Select the \[**+New**] button on the left side of the Template production screen.
 
@@ -64,7 +64,7 @@ I'll tell you how to use it in detail below\~!
 
 ***
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%ED%85%9C%ED%94%8C%EB%A6%BF3\_19.09.png)
+![](<../../../.gitbook/assets/1.. (34).png>)
 
 3\) Select the page and press the **\[Add]** button.
 
