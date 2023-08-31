@@ -29,12 +29,6 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Steps: Apply Image Page&#x20;
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/KR-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-
-***
-
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page: App launch screen
 
 ***
@@ -65,7 +59,7 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1.** Create an image page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B51.png)
+![](<../../../.gitbook/assets/1.. (40).png>)
 
 You can create a page template on the App MakerV3 screen.
 
@@ -83,7 +77,7 @@ Below we'll show you how to create an image page and how to apply that page to y
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2.** Creating an Image Page
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%802.18.09.png)
+![](<../../../.gitbook/assets/1.. (41).png>)
 
 In this editor tool screen, you can easily create an image page.
 
@@ -105,7 +99,7 @@ If you need to re-upload a modified image in addition to what you have already d
 
 **2. Modify the image page**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%804.18.09.png)
+![](<../../../.gitbook/assets/1.. (42).png>)
 
 Modification process of the image page:
 
@@ -125,7 +119,7 @@ If you don't want the tool to be visible when you select the mouse, you can set 
 
 **3. Shape Tools – Check your style**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%805.18.09.png)
+![](<../../../.gitbook/assets/1.. (43).png>)
 
 **Tool shapes are available in dot shapes, squares, ellipses, and polygons.**
 
@@ -145,7 +139,7 @@ If you don't want the tool to be visible when you select the mouse, you can set 
 
 Once you've set up a shape, let's see how to apply a link inside the shape zone you set.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%806.18.09.png)
+![](<../../../.gitbook/assets/1.. (44).png>)
 
 **For links, please select the \[Link Action] option provided on the right side settings screen.**
 
@@ -159,13 +153,13 @@ Select \[Move Link] because you need to go to the link when selecting \[View: Do
 
 **3) Link Wizard:** A tool that allows you to select the app menu, web link, etc. page to be linked.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%808.18.09.png)
+![](<../../../.gitbook/assets/1.. (45).png>)
 
 When you select the Link Wizard button, the 'Link Wizard' window will pop up as shown in the image above.
 
 Here, when you have selected the banner, you can select the menu you want to move.
 
-In the manual, we chose the introductory banner for the image, so we'll choose the 'Introduction to Swing Cafe' template that we've worked on beforehand.
+In the manual, we chose the introductory banner for the image, so we'll choose the 'HOMEPAGE' template that we've worked on beforehand.
 
 You can select \[Reflect].
 
@@ -179,7 +173,7 @@ If you don't have a bulletin board or user page at all, you won't have a menu to
 So, when you're done creating all the content that will go into your app, use the Link Wizard on the Images page.
 {% endhint %}
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%809.18.09.png)
+![](<../../../.gitbook/assets/1.. (46).png>)
 
 Of course\~ in the Link Wizard, you can apply it to all other menus in addition to the above menus.
 
@@ -209,7 +203,7 @@ All you have to do is change the link settings, which makes it a little easier!
 
 **5. Complete Production**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%8010.18.09.png)
+![](<../../../.gitbook/assets/1.. (47).png>)
 
 The image page has been applied
 
@@ -223,7 +217,7 @@ So let's go back to the app creation page and apply that image page to the app!!
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying an Image Page to Your App
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B52-1.png)
+![](<../../../.gitbook/assets/1.. (48).png>)
 
 Go to the MakerV3 screen
 
@@ -271,7 +265,7 @@ What is a tooltip?
 
 **1. Image Page - How to Apply Tooltips**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW11.png)
+![](../../../.gitbook/assets/8..png)
 
 Select the \[New] button in the Image Page Creation Tool and import the image.
 
@@ -307,8 +301,6 @@ You can modify the horizontal and vertical size, set the color, tooltip position
 
 \*Caution\* When modifying the size, please make sure that the horizontal length does not exceed 330. (up to 330px)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW12.png)
-
 **5) Text Style**
 
 Text Style is a menu where you can modify the text color, font size, tooltip box size, etc. created in the tooltip.
@@ -325,13 +317,13 @@ Enter what you want to enter in the tooltip box. The tooltip is divided into a t
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80%ED%88%B4%ED%8C%81NEW13.png)
+![](<../../../.gitbook/assets/1.. (50).png>)
 
 **9)** **Select \[Preview]** to see the tooltip box applied over the image.
 
 **2. Apply the tooltip to the Image Page app**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B54.png)
+![](<../../../.gitbook/assets/1.. (51).png>)
 
 Image pages created with the tooltip can also be applied to your app.
 
@@ -379,7 +371,7 @@ Go to the MakerV3 screen
 
 Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on \[More] button-> Click on \[Update] button.&#x20;
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%B53.png)
+![](<../../../.gitbook/assets/1.. (49).png>)
 
 Modifying the image page doesn't mean you have a separate page.
 
