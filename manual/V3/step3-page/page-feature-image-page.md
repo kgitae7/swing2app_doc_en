@@ -35,13 +35,13 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 **\***Swing2App Official App – Image Page Application Screen
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW9.png)
+![](../../../.gitbook/assets/Untitgsfgled-2.png)
 
 \*This is the image page screen applied to the official Swing2App app.
 
 ​
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_12\_04\_18\_25\_45\_117.gif)
+![](<../../../.gitbook/assets/Inner Peac.gif>)
 
 \- I selected an area above the image and linked the page to each of the banner areas.
 
@@ -53,9 +53,9 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 **User App) Example App Image Page Application Screen**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%802.png)
+![](../../../.gitbook/assets/Untegshsitled-2.png)
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_10\_23\_12\_00\_46\_924.gif)
+![](<../../../.gitbook/assets/Mom loved.gif>)
 
 ### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1.** Create an image page
 
@@ -131,7 +131,7 @@ If you don't want the tool to be visible when you select the mouse, you can set 
 
 **▶ Please check how to set the area through the image that you are receiving.**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%95%B1%EC%A0%9C%EC%9E%91%EB%8F%84%EA%B5%AC.gif)
+![](../../../.gitbook/assets/Screenrecefeorder-2023-08-29-02-26-01-867\_1.gif)
 
 ***
 
@@ -183,7 +183,7 @@ For example, **if you select a banner and you want it to go to your blog, you ca
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Check out how to create an image page with help of video**
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/b824e2f0d6ea8e64bc29df25fd9d65b8.gif)
+![](../../../.gitbook/assets/Screenrdbdbdecorder-2023-08-29-02-26-01-867\_1.gif)
 
 **You can use the mouse over style to color the Background Color.**
 
@@ -193,7 +193,7 @@ For example, **if you select a banner and you want it to go to your blog, you ca
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">**Creating Image Pages TIP**
 
-![](https://s3.ap-northeast-2.amazonaws.com/swing2bucket/resource/image/help/159009ee19bc2784599d2211fabc309b.gif)
+![](../../../.gitbook/assets/Screenragedgeecorder-2023-08-29-02-26-01-867\_1.gif)
 
 Let me give you a TIP.
 
@@ -261,7 +261,7 @@ What is a tooltip?
 
 **Example of applying tooltips)**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+![](../../../.gitbook/assets/Untitleddv-1.png)
 
 **1. Image Page - How to Apply Tooltips**
 
@@ -363,7 +363,7 @@ Go to the MakerV3 screen
 
 **3. App launch screen) Image Page Tooltip**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8E%98%EC%9D%B4%EC%A7%80NEW10.png)
+![](../../../.gitbook/assets/Untitleddv-1.png)
 
 ***
 
