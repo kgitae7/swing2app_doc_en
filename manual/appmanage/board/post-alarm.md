@@ -140,7 +140,7 @@ Selecting push notifications will take you to that bulletin post.
 
 <div align="left">
 
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/notif.png" alt="">
+<img src="../../../.gitbook/assets/Untitlgesed-2.png" alt="">
 
 </div>
 
