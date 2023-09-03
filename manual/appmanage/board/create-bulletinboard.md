@@ -205,7 +205,7 @@ You can set different search options for each app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad\_style.png)
 
-
+***
 
 
 
@@ -269,7 +269,7 @@ For more information on how to enter a post please refer to the relevant post.
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-1-2.png" alt="">
+<img src="../../../.gitbook/assets/rgrhh-2.png" alt="">
 
 </div>
 
