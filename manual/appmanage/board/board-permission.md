@@ -48,7 +48,7 @@ Create a new bulletin board and set the permission!
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/b22-1-1-1.png)
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ For more information on how to create a group and how to apply it to a bulletin 
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/12/%EB%85%B9%ED%99%94\_2020\_05\_07\_17\_50\_21\_349.gif)
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -184,6 +184,6 @@ Depending on the group, you can set different permissions to access.
 
 <div align="left">
 
-<img src="https://support.swing2app.com/wp-content/uploads/2019/12/Group-261@3x.png" alt="">
+<img src="../../../.gitbook/assets/Untitefgled-1.png" alt="">
 
 </div>
