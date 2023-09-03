@@ -16,7 +16,7 @@ At this time – Select List screen and Create screen.
 
 <mark style="color:blue;">**Bulletin board: Where do I use the list screen and creation screen?**</mark>
 
-<figure><img src="../../../.gitbook/assets/게시판목록.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (52).png" alt=""><figcaption></figcaption></figure>
 
 The bulletin board is available on the App Production – STEP3 page.
 
@@ -30,7 +30,7 @@ Page Design - UI KIT Selection - \[Board] Selection - From the Board screen
 
 ### <mark style="color:blue;">**1. Bulletin board: list screen**</mark>
 
-<figure><img src="../../../.gitbook/assets/게시판목록1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (54).png" alt=""><figcaption></figcaption></figure>
 
 1\)App creation screen - STEP3 Select page
 
@@ -66,9 +66,9 @@ If you select a post from the list, you can go to the post details page to check
 
 
 
-### <mark style="color:blue;">**2. Bulletin board: writing screen**</mark>
+### <mark style="color:blue;">**2. Bulletin board: Create screen**</mark>
 
-<figure><img src="../../../.gitbook/assets/게시판작성1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (55).png" alt=""><figcaption></figcaption></figure>
 
 1\)App creation screen - Select STEP3 page
 
@@ -94,7 +94,7 @@ If you select a post from the list, you can go to the post details page to check
 
 <mark style="color:blue;">**App launch screen**</mark>
 
-![](<../../../.gitbook/assets/image (1).png>)
+<figure><img src="../../../.gitbook/assets/Untitleddvbd-1.png" alt="" width="323"><figcaption></figcaption></figure>
 
 If you select 'Compose screen', the screen (page) where you can write a post will open first.
 
