@@ -28,7 +28,7 @@ The search function for a specific board does not need to be applied separately,
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EA%B2%80%EC%83%89NEW1.png" alt="">
+<img src="../../../.gitbook/assets/UntitAFWled-1.png" alt="">
 
 </div>
 
@@ -58,7 +58,7 @@ You can see the search field at the top.
 
 **-When using app production V3 version**
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Move the app creation screen
 
