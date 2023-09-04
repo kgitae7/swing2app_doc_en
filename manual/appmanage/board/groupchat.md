@@ -12,7 +12,7 @@ You can also set chat room permissions for each member group, and you can also s
 
 Please check the manual on how to use the group chat room.
 
-
+***
 
 **\[Group chat room usage policy by swing2app]**
 
@@ -73,7 +73,7 @@ If you want to use all the members of the app, select ‘Guest’ if you want to
 
 </div>
 
-
+***
 
 <mark style="color:blue;">**2. Create a group chat room – Chat detailed settings**</mark>
 
@@ -101,7 +101,7 @@ If you created a group chat board, you should apply a chat room to the app. Let�
 
 ### <mark style="color:blue;">**1.**</mark><mark style="color:blue;">When using app production V3 version</mark>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 1\)Select the app production screen STEP3 page
 
@@ -142,7 +142,7 @@ If you created a group chat board, you should apply a chat room to the app. Let�
 
 You can see that the group chat room is applied to the app through the right virtual machine (preview) screen.
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -241,7 +241,7 @@ When you select a push that users receive from your app, they are taken directly
 
 <div align="left">
 
-<img src="https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B7%B8%EB%A3%B9%EC%B1%84%ED%8C%8512_20.06.png" alt="">
+<img src="../../../.gitbook/assets/1.. (57).png" alt="">
 
 </div>
 
