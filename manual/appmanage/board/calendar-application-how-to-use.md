@@ -16,7 +16,7 @@ The calendar can be used in various ways depending on the purpose of the app.
 
 **☞**[ **\[See how to use calendar function\]**](calendar.md)
 
-
+***
 
 ### <mark style="color:blue;">**STEP.1 Create a calendar**</mark>
 
@@ -29,7 +29,7 @@ The calendar can be used in various ways depending on the purpose of the app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b72-e1587044315452.png)
 
-
+***
 
 
 
@@ -39,7 +39,7 @@ Apply the calendar to the app.
 
 **1)When using app production V3 version**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (59).png" alt=""><figcaption></figcaption></figure>
 
 1\)App Maker v3 screen – Select STEP3 page
 
@@ -81,7 +81,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 
 
 
-
+***
 
 ### <mark style="color:blue;">**STEP3. How to use the calendar application**</mark>
 
@@ -126,7 +126,7 @@ If you go to the detail page in the schedule list, you can check who wrote the a
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/b73-e1587044375657-1.png)
 
-
+***
 
 <mark style="color:blue;">**2. Calendar application 2: Create an event only for administrators**</mark>
 
@@ -167,7 +167,7 @@ If you go to the detail page in the schedule list, you can see the details of th
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/b73-e1587044375657-1.png)
 
-
+***
 
 <mark style="color:blue;">**3. Calendar application 3: Create an event only for administrators**</mark>
 
