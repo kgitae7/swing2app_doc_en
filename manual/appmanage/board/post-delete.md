@@ -10,11 +10,11 @@ This can be useful when you want to delete several posts from the bulletin board
 
 It’s easy to use! Check out the manual below.
 
-
+***
 
 <mark style="color:blue;">**Delete Posts**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2019/12/%EC%98%81%EB%AC%B8%EA%B2%8C%EC%8B%9C%ED%8C%901.png)
+![](../../../.gitbook/assets/OK.png)
 
 1. Go to **Manager** and select **Posts.**
 2. Click on the **list view** so that you can select multiple posts easily.
@@ -32,7 +32,7 @@ You can choose whether to view the post as ‘thumbnail type’ or ‘list’ as
 
 \-If you select the \[Delete all posts] button, you can delete the selected posts at once.
 
-
+***
 
 **Check how to use GIF images**
 
@@ -42,7 +42,7 @@ You can choose whether to view the post as ‘thumbnail type’ or ‘list’ as
 
 </div>
 
-
+***
 
 <mark style="color:orange;">**–Instructions–**</mark>
 
