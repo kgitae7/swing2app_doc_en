@@ -14,7 +14,7 @@ If you are set as a board administrator, you have the right to delete a post wri
 
 In this manual, we will guide you on how to set the board administrator and how to apply the administrator through the app launch screen.
 
-
+***
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ In this manual, we will guide you on how to set the board administrator and how 
 
 <mark style="color:blue;">**-When using app production V2 version**</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%A0%81%EC%9A%A9NEW1-1.png)
+![](<../../../.gitbook/assets/1.. (56).png>)
 
 **On the Swing app creation page, go to the → page menu.**
 
