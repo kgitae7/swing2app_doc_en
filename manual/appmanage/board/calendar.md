@@ -58,7 +58,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 6\. Click on **Reflect.**\
 7\. Click on **Apply** and then **Save.**
 
-
+***
 
 ### <mark style="color:blue;">**1. Create a calendar**</mark>
 
@@ -74,7 +74,7 @@ Go to **Maker(V2)** and click on **Page Menu.**
 If you select ‘Custom’ in Service Purpose, the fixed grey shaded area will be solved. By selecting ‘Calendar’ again in the UI and function selection, you can edit the detail setting-writing permission, list view, and detail view permission. \
 
 
-
+***
 
 ### <mark style="color:blue;">**2. Enter your calendar events**</mark>
 
@@ -94,7 +94,7 @@ The calendar is displayed based on the month.
 You can choose the year, month, and day you want.\
 You can add a schedule for each date with the schedule creation button and make major announcements through the notification creation button.
 
-
+***
 
 \
 <mark style="color:blue;">**1) Create a schedule**</mark>
@@ -117,7 +117,7 @@ If you set the text color and background color, the calendar screen shows differ
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/cal101.png)
 
-
+***
 
 <mark style="color:blue;">**2) Edit or delete a schedule**</mark>
 
@@ -146,9 +146,9 @@ Important announcements can be made by selecting the **Notification Form** butto
 Your calendar has been entered.\
 This created calendar will be applied to the app.
 
+***
 
-
-
+***
 
 ### <mark style="color:blue;">**3. Apply the calendar to the app**</mark>
 
@@ -158,7 +158,7 @@ Apply the calendar to the app.
 
 **1)When using app production V3 version**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.. (59).png" alt=""><figcaption></figcaption></figure>
 
 1\)App creation screen – Select STEP3 page
 
@@ -241,7 +241,7 @@ Calendar events can also be created in the app.
 >    <mark style="color:orange;">**☞ Write permission: Select user, Detail view permission: Select user, List view permission: Select administrator**</mark>\
 >    **\*If you set permissions like the secret bulletin board (1:1 Customer Center), the user can check only his or her writings, and other users cannot see the writings of others. However, administrators can see the posts of all users**.
 
-
+***
 
 <mark style="color:orange;">**▶How to create a calendar event in the app**</mark>
 
@@ -257,7 +257,7 @@ Press the Write icon button in the upper right corner.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/cal.png)
 
-
+***
 
 <mark style="color:orange;">**1. How to set the date**</mark>
 
@@ -267,7 +267,7 @@ Please select the date you want.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/cal1.png)
 
-
+***
 
 <mark style="color:orange;">**2. How to set the time**</mark>
 
@@ -287,7 +287,7 @@ Since the calendar is also a bulletin board function, a user who creates an even
 
 </div>
 
-
+***
 
 {% hint style="danger" %}
 <mark style="color:red;">**Notice**</mark>
