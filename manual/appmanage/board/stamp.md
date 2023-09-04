@@ -12,7 +12,7 @@ If you run the app provided by the company without the hassle of carrying a coup
 
 **Since it is a function provided as a bulletin board, you can select the stamp UI in the bulletin board management and reflect it in the app.**
 
-
+***
 
 ### <mark style="color:blue;">**STEP.1 Create a stamp**</mark>
 
@@ -24,7 +24,7 @@ If you run the app provided by the company without the hassle of carrying a coup
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b77-e1587044470326-1.png)
 
-
+***
 
 &#x20;
 
@@ -48,7 +48,7 @@ If you want to change the permissions in the detailed setup, please follow the i
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b77-e1587044470326-1.png)
 
-
+***
 
 <mark style="color:blue;">**2. Stamp bulletin board setting method 2**</mark>
 
@@ -133,7 +133,7 @@ We will show you how to put stamps on the app members.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-202@3x-1.png)
 
-
+***
 
 <mark style="color:blue;">**2. How to add a stamp 2 – Add a stamp to the member finder**</mark>
 
@@ -152,7 +152,7 @@ Search for a username, select the member, and register a stamp.&#x20;
 3. In Admin Log-in, go to Admin Menu.
 4. Click on Add Stamp.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp-1.png)
+![](<../../../.gitbook/assets/Untifbn tled-2.png>)
 
 <figure><img src="../../../.gitbook/assets/Rectangle 2.pngsg.png" alt=""><figcaption></figcaption></figure>
 
@@ -184,7 +184,7 @@ You can press the **Delete** button to delete as many quantities as you like, or
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/s11.png)
 
-
+***
 
 **STEP.5 App Launch Screen**
 
