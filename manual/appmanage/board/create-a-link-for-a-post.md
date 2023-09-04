@@ -76,7 +76,7 @@ If you link directly from a category, you can't link the post directly, so you c
 
 ### <mark style="color:blue;">2)</mark><mark style="color:blue;">When using the V2 version of the app production</mark>
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2021/04/%EA%B2%8C%EC%8B%9C%EB%AC%BC%EB%A7%81%ED%81%AC%EC%83%9D%EC%84%B13.png)
+![](<../../../.gitbook/assets/1.. (58).png>)
 
 **On the Swing app creation page, go to the → page menu.**
 
