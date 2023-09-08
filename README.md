@@ -73,9 +73,19 @@ A service that anyone can easily access, including customer support necessary fo
 
 ## Most Frequently Asked Questions FAQ
 
-## Help Program Guide
+{% embed url="https://documentation.swing2app.com/FAQ" %}
+
+## Tutorial Guide
 
 Choose the swing2app service provided in Help to East Sea quickly.&#x20;
+
+{% embed url="https://documentation.swing2app.com/manual/V3" %}
+
+{% embed url="https://support.swing2app.com/pricing-table/" %}
+
+{% embed url="https://support.swing2app.com/custormizing/" %}
+
+{% embed url="https://support.swing2app.com/event/" %}
 
 ## Free features offered by Swing2App&#x20;
 
