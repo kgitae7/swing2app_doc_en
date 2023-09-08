@@ -6,8 +6,6 @@ description: What is the Swing2App service?
 
 ***
 
-What is the Swing2App service?
-
 {% embed url="https://youtu.be/zfLdr-wnLns?si=abCAuLZmr8RX5fv6" %}
 
 Swing2App is a free app creation service, where users can create their own no-code apps.&#x20;
@@ -64,7 +62,7 @@ Accessible to all, we provide essential customer support for production and a de
 * Online Live chat customer service&#x20;
 * Online email help service&#x20;
 * Providing customization services&#x20;
-* Google, Apple Store registration upload service agency is available&#x20;
+* Google, and Apple Store registration upload service agency is available&#x20;
 
 ## Swing2App Production Guide Video
 
@@ -89,3 +87,4 @@ Choose the swing2app service provided in Help to East Sea quickly.&#x20;
 ## Free features offered by Swing2App&#x20;
 
 Swing2App offers all the essential app creation and operation functions at no cost.
+
