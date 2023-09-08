@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Swing2App](README.md)
-* [Swing2App Update](README.md)
+* [Swing2App Update](<README (2).md>)
 * [FAQ(Frequently Asked Questions)](FAQ/README.md)
   * [Frequently Asked Questions (FAQ)](FAQ/frequently-asked-questions-faq.md)
   * [App Creation FAQ](FAQ/app-creation-faq.md)
