@@ -206,7 +206,7 @@ If you ask us to produce it, we will do it all for you.
 
 From designing icons and splash screen images to creating apps and uploading them to the store.
 
-\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">**http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom**</mark>
+\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">**https://www.swing2app.com/view/payment\_list\_by\_recommend\_custom**</mark>
 
 However, you will need to create your own Google developer account to upload to the Play Store and let us know your account.
 
