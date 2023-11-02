@@ -276,7 +276,7 @@ Swing2App Official App – Download the app created by \[App Preview] to check i
 
 \*Easy Login User: If you used to log in with Easy Login when you signed up for Swing2App, please select the Naver, Google, and Facebook icons to log in.
 
-\*Note: To log in, you must enter the account you signed up for in the http://www.swing2app.co.kr of the Swing2App homepage. http://www.swing2app.co.kr/
+\*Note: To log in, you must enter the account you signed up for in the https://www.swing2app.com of the Swing2App homepage. https://www.swing2app.com/
 
 It's not an account signed up for in the official Swing2App app!
 
@@ -426,7 +426,7 @@ If you ask us to produce it, we will do it all for you.
 
 From designing icons and splash screen images, to creating apps and uploading them to the store.
 
-\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">http://www.swing2app.co.kr/view/payment\_list\_by\_recommend\_custom</mark>
+\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">https://www.swing2app.com/view/payment\_list\_by\_recommend\_custom</mark>
 
 However, you will need to create your own Google developer account to upload to the Play Store and let us know your account.
 
