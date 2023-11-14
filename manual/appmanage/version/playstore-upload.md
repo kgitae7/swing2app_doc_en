@@ -48,7 +48,7 @@ If you do not have a developer account, please make a $25 payment through [https
 
 **☞** [**\[Go to App Store Upload Application Method\]**](appstore-upload.md)
 
-
+***
 
 ### <mark style="color:blue;">**1. How to Apply for Play Store Upload**</mark>
 
@@ -60,7 +60,7 @@ Complete the purchase of the Swing2App paid app voucher and app store upload tic
 
 **Move to Manager Page → Manage Version → Production History page and press the \[Play Store Upload Request] button.**
 
-
+***
 
 ### <mark style="color:blue;">**2. Play Store Upload Application**</mark>
 
@@ -78,7 +78,7 @@ Please enter the items.
 
 Please indicate how the item appears in the Play Store.&#x20;
 
-
+***
 
 ### <mark style="color:blue;">**3. Guidelines for Filling Out the Play Store Upload Application**</mark>
 
@@ -181,7 +181,7 @@ Please check the details before proceeding.
 
 11\) When finished, press the **\[Request]** button.
 
-
+***
 
 ### <mark style="color:blue;">**4. Upload application completed**</mark>
 
@@ -199,7 +199,7 @@ The Play Store has a review time, the app will not be launched immediately after
 
 Please note that when applying for uploading.
 
-
+***
 
 <mark style="color:red;">**\[Guide]**</mark>
 

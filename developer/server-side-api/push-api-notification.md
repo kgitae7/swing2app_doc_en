@@ -12,51 +12,11 @@ This API is available to users of paid apps.
 
 {% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="API for sending push notification to Swing2App application" %}
 {% swagger-description %}
-<mark style="color:orange;">
-
-<mark style="color:orange;">
-
-\***
-
-<mark style="color:orange;">
-
-</mark>
-
- 
-
-<mark style="color:orange;">
-
-
-
-</mark>
-
-<mark style="color:orange;">
-
-App ID and API KEY that need to be issued can be issued upon request to the customer center.
-
-</mark>
-
- 
-
-<mark style="color:orange;">
-
-
-
-</mark>
-
-<mark style="color:orange;">
-
-<mark style="color:orange;">
-
-\**
-
-<mark style="color:orange;">
-
-</mark>
+<mark style="color:orange;"><mark style="color:orange;">\*\*\*<mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">App ID and API KEY that need to be issued can be issued upon request to the customer center.</mark> <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="color:orange;">\*\*<mark style="color:orange;"></mark>
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="app_id" required="true" type="" %}
-APP_ID provided by Swing2App
+APP\_ID provided by Swing2App
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="api_user" required="true" type="" %}
@@ -68,50 +28,18 @@ API KEY provided by Swing2App
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="send_target_list" required="true" %}
-Send destination type setting items When sending to indiviUser ID to send to user_id in single dispatch When sending multiple messages, separate them with “,” 
-
-\
-
-
-Ex:) user_id1,user_id2 Enter -1 
-
-\
-
-
-\[When sending all ]
-
-\
-
-
+Send destination type setting items When sending to indiviUser ID to send to user\_id in single dispatch When sending multiple messages, separate them with “,” \
+Ex:) user\_id1,user\_id2 Enter -1 \
+\[When sending all ]\
 Ex:) -1
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="send_target_type_list" required="true" %}
-Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all. 
-
-\
-
-
-enter 'ALL_TARGET'
-
-\
-
-
-\[When sending to 2 specific users] Ex:) MEMBER, MEMBER 
-
-\
-
-
-\[When sending to all] 
-
-\
-
-
-Ex:) ALL_TARGET
-
-\
-
-
+Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all. \
+enter 'ALL\_TARGET'\
+\[When sending to 2 specific users] Ex:) MEMBER, MEMBER \
+\[When sending to all] \
+Ex:) ALL\_TARGET\
 
 {% endswagger-parameter %}
 
