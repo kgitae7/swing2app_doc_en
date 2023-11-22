@@ -38,13 +38,11 @@ All of the Swing2App apps can be made free of charge, and there is no limit to u
 
 <div align="left">
 
-<img src="https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-1.png" alt="">
+<figure><img src="../../.gitbook/assets/d8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-Go to the **Manager → Online Store → Voucher & Tickets**
-
-[<mark style="color:blue;">**https://swing2app.com/view/shop\_list**</mark>](https://swing2app.com/view/shop\_list)
+[**Manager → Online Store → Swing paid app plan**](https://www.swing2app.com/view/new\_product\_list\_by\_use\_term)
 
 Please select a paid app pass and purchase a store upload ticket as well.
 
@@ -54,7 +52,7 @@ Depending on the product, you need to check the services and functions offered f
 
 When you click the Buy button, you can check the details of the services and instructions provided by the voucher. Therefore, be sure to check your product before you buy it.
 
-If you are unsure of the contents, please leave the inquiry board. We’ll help you with more details. ^^
+If you are unsure of the contents, please leave the inquiry board. We’ll help you with more details.&#x20;
 
 <mark style="color:orange;">**▶ Package deals**</mark>
 
@@ -110,6 +108,8 @@ Due to the length of the screening time for each store, you will need to wait fo
 
 ***
 
+
+
 ### <mark style="color:blue;">**STEP.4 Store launch completion (release after review)**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/07/Group-201-1-e1596628274458.png)
@@ -131,6 +131,8 @@ Must-have! Please check.
 **☞** [**\[Check store terms and conditions\]**](https://support.swing2app.com/market-policy/)
 
 ***
+
+
 
 ### <mark style="color:blue;">**Frequently Asked Questions**</mark>
 
@@ -164,7 +166,7 @@ You can register directly to the Google Play Store console without purchasing an
 
 Please see the posting below for how to register the Play Store app.
 
-**☞** [**\[To see how to register (release) the Play Store app\]**](https://support.swing2app.com/knowledgebase/playstore-apprelease/)
+**☞** [**\[To see how to register (release) the Play Store app\]**](https://documentation.swing2app.com/store/playstore/update-playstore)
 
 
 

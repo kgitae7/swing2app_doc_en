@@ -354,3 +354,7 @@
 ## Policy
 
 * [Limit on the Number of Devices for Free User](policy/limit-on-the-number-of-devices-for-free-user.md)
+
+***
+
+* [Store Policy](store-policy.md)
