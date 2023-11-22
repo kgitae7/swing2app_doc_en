@@ -128,7 +128,7 @@ You’ll need to check the store policy so you don’t have to worry about using
 
 Must-have! Please check.
 
-**☞** [**\[Check store terms and conditions\]**](https://support.swing2app.com/market-policy/)
+**☞** [**Check store terms and conditions**](https://documentation.swing2app.com/store-policy)
 
 ***
 
