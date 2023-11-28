@@ -14,7 +14,7 @@ The Swing2App offers 2 different types of search post functions.
 
 –Please check the manual below to find out how to use and apply the post search.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Post Search Function
+###  **1.** Post Search Function
 
 ![](../../../.gitbook/assets/ADAUntitled-2.png)
 
@@ -22,7 +22,7 @@ To search for a post, a search term input window will appear at the top of the b
 
 After typing in the word you want to search, click the "magnifying glass" icon in the upper-right corner to filter the search terms to show them.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply it to the \[Search Post] app
+###  **2.**Apply it to the \[Search Post] app
 
 ![](<../../../.gitbook/assets/1.. (4).png>)
 
@@ -44,7 +44,7 @@ Move the app creation screen
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
+###  **3.** App launch screen
 
 ![](../../../.gitbook/assets/Screenrecorder-2023-08-29-18-50-01-742.gif)
 

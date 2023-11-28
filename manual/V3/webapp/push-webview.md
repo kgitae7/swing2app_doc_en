@@ -132,7 +132,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)PushApp Features
+### PushApp Features
 
 \- When you create an app with a push-only prototype, you only need to include the web link URL address to create the app.
 
@@ -143,7 +143,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 **- You can configure the toolbar in different styles yourself.**\
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How do I change the weblink address after creating a push app?
+###  How do I change the weblink address after creating a push app?
 
 Changing the weblink address applied to your app is the same as the App Maker method.
 
@@ -155,7 +155,7 @@ Changing the weblink address applied to your app is the same as the App Maker me
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Push App (App Launchscreen)
+### Push App (App Launchscreen)
 
 ![](<../../../.gitbook/assets/sfcacled-1 (1).png>)
 
@@ -165,7 +165,7 @@ Push Version The app creates a \[Push Toolbar] below the app screen.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Sending a push
+###  Sending a push
 
 With the push version, you can send push notifications after building your app.
 
@@ -295,7 +295,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2021/03/%EC%BA%A1%EC%B2%9833.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)WebViewApp Features
+### WebViewApp Features
 
 \-When creating an app with a webview, you can create an app by simply including the web link URL address.
 
@@ -307,7 +307,7 @@ If it's released on the App Store or Play Store, you'll need to resubmit updates
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How do I change the weblink address after creating the webview app?
+###  How do I change the weblink address after creating the webview app?
 
 The same goes for changing the weblink address applied to your app.
 
@@ -325,7 +325,7 @@ It can be changed during the general subscription.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **W**ebview app - app launch screen
+###  **W**ebview app - app launch screen
 
 ![](../../../.gitbook/assets/sfcacled-1.png)
 
@@ -335,7 +335,7 @@ Unlike the push version, you can't send a "push notification" because it's an ap
 
 As you can see in the image, the mobile web and the webview app you create are the same without any difference.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push App, Webview App Creation Guide
+###  Push App, Webview App Creation Guide
 
 ![](<../../../.gitbook/assets/Untitled-2-Recoegrvered (2).png>)
 
@@ -361,7 +361,7 @@ To learn how to download (install) your app, please check the manual below.
 
 **☞ **<mark style="color:blue;">**Go to**</mark> <mark style="color:blue;">**See how to install the app on your phone**</mark>
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Please be careful when creating push and webview apps.
+###  Please be careful when creating push and webview apps.
 
 **1) There is a web link that does not work with the app, that is, there is a site that prohibits embedding.**
 

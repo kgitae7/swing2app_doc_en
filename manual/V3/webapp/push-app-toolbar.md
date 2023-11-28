@@ -46,7 +46,7 @@ However, if you modify the toolbar design during the STEP2 design phase, the app
 
 ***
 
-## **​**![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.** How to use the Toolbar
+## **​****1.** How to use the Toolbar
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Recoverthed-Recovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -122,7 +122,7 @@ Menus registered in the menu list can also be easily modified by the app creator
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Add or remove toolbar menus
+##  **2.** Add or remove toolbar menus
 
 ![](<../../../.gitbook/assets/Untitled-2-Recove (1).png>)
 
@@ -132,7 +132,7 @@ Removing the toolbar menu is deleted by **selecting the trash can-shaped icon.**
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**3.** Move the toolbar menu
+## **3.** Move the toolbar menu
 
 ![](<../../../.gitbook/assets/Untitled-2-Recawdvered (1).png>)
 
@@ -194,7 +194,7 @@ After exiting the app completely, you can relaunch it to see the changed toolbar
 
 
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.** Toolbar Basic Options, Advanced Options
+##  **5.** Toolbar Basic Options, Advanced Options
 
 ​
 

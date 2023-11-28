@@ -10,7 +10,7 @@ Users can create pages more easily by providing templates for each style and ind
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)App launch screen - Apply template page
+### App launch screen - Apply template page
 
 ![](../../../.gitbook/assets/Screenrecorder-2023-08-31-13-59-26-972.gif)
 

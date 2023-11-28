@@ -36,7 +36,7 @@ Ability to move posts to another board
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How to move a post
+##  How to move a post
 
 <figure><img src="../../../.gitbook/assets/en_게시물이동.png" alt=""><figcaption></figcaption></figure>
 
