@@ -8,7 +8,7 @@ If you are using an older version (V2), please switch to V3 and use it.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the first run address?
+###  What is the first run address?
 
 The first run address is the separate web page that is only shown the first time installation in the app in addition to the website associated with the app(from which the app is created).
 
@@ -24,7 +24,7 @@ Or, if you have important instructions and must-see things to do when installing
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)How to use the first run address
+## How to use the first run address
 
 ![](../../../.gitbook/assets/Untitled-2-fasd.png)
 
@@ -52,7 +52,7 @@ After reinstalling (updating) the app to the new version, you need to launch the
 
 ​
 
-## ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Check the app\_ Check the video of the first launch address
+## Check the app\_ Check the video of the first launch address
 
 &#x20;![](../../../.gitbook/assets/Screenrecorder-2023-08-29-01-35-19-871.gif)
 

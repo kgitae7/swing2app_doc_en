@@ -8,7 +8,7 @@ Objective surveys can be conducted with feedback from users, and surveys can be 
 
 The Swing2App provides a tool for surveying, so you can create a questionnaire simply by entering the question and answer questions..
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Create a survey
+###  **1.**Create a survey
 
 First and foremost, create a survey on the app operation page.
 
@@ -86,7 +86,7 @@ When you have finished entering the questionnaire preferences and contents, pres
 
 If you look at the survey management page, you can see the completed questionnaire\~!
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** \[Survey] – Apply it to your app
+###  **2.** \[Survey] – Apply it to your app
 
 Once you've created all the surveys in your app, you should be able to apply them to your app and run the actual surveys in your app, right?
 
@@ -120,7 +120,7 @@ Move the app creation screen
 In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** App launch screen: Check the survey page
+###  **STEP.3** App launch screen: Check the survey page
 
 Once you've even applied the app, let's see how the survey runs in the actual app!
 
@@ -130,7 +130,7 @@ When you launch the app again after you've finished entering the survey, the ent
 
 Selecting the item takes you to the survey.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4** View Survey Results & Manage Surveys
+###  **STEP.4** View Survey Results & Manage Surveys
 
 You also need to know how to view and manage your survey results, right?
 

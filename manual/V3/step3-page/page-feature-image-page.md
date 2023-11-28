@@ -29,7 +29,7 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)Apply Image Page: App launch screen
+### Apply Image Page: App launch screen
 
 ***
 
@@ -57,7 +57,7 @@ Because it is fixed horizontally and vertically changes depending on the mobile 
 
 ![](<../../../.gitbook/assets/Mom loved.gif>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 1.** Create an image page
+###  **STEP 1.** Create an image page
 
 ![](<../../../.gitbook/assets/1.. (40).png>)
 

@@ -16,7 +16,7 @@ Please check the manual to find out how to use the admin chat (1:1 chat).
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EC%8A%A4%EC%9C%99%EA%B3%B5%EC%8B%9D%EC%95%B1-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85-KR.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply admin chat to the app
+###  **1.** Apply admin chat to the app
 
 \* You need to apply the \[admin chat] page to the app first, so that both the user and the admin can chat, right?
 

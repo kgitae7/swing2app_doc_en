@@ -6,7 +6,7 @@ Regardless of the type of product (physical, booked, digital), the method of mod
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Modify your swing shop merchandise
+###  Modify your swing shop merchandise
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%951.png)
 
@@ -38,7 +38,7 @@ If you exit the app and relaunch it, you can see the modifications.
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Copy an item
+###  Copy an item
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%83%81%ED%92%88%EC%88%98%EC%A0%953.png)
 

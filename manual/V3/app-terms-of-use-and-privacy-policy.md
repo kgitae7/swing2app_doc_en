@@ -36,7 +36,7 @@ You can change the terms of use and the contents of the Privacy Policy of your a
 
 Because it is a mandatory registration, those who release apps to the Store must also complete and submit the applicable terms.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Go to the App Subscription Policy page
+###  **1.** Go to the App Subscription Policy page
 
 ![](../../.gitbook/assets/Untitled-2-Redg.png)
 

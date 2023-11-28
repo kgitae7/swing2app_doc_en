@@ -24,7 +24,7 @@ Therefore, if you think about how to build it in advance, and then work on it, i
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Apply HTML Editor Page (app launch screen)
+###  Apply HTML Editor Page (app launch screen)
 
 ![](<../../../.gitbook/assets/Update ApFp.gif>)
 

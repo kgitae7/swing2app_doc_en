@@ -8,7 +8,7 @@ We will tell you how to use the 'View My Article' provided by the basic function
 
 Check out the how-to manual on how to apply the View My Posts feature to your app and how it will look in the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** How to apply the View My Posts page to the app
+###  **1.** How to apply the View My Posts page to the app
 
 ![](<../../../.gitbook/assets/1.. (13).png>)
 
@@ -42,7 +42,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 In previous versions, I don't see the View My Posts feature. So, after you create a new one, please apply the View My Posts feature on the app creation page.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen
+###  **2.** App launch screen
 
 Go to the View My Posts menu applied to the app and you'll be able to see all the posts you've written.
 

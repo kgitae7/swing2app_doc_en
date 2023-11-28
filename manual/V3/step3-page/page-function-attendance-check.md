@@ -10,7 +10,7 @@ Various attendance check events can engage app members.
 
 Check the manual to find out how to apply the attendance check page to the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Register for attendance check
+###  **1.**Register for attendance check
 
 Please check the registration method for attendance check through the manual below.
 
@@ -22,7 +22,7 @@ Attendance check registration can be made in App Manager – Service Management.
 
 {% embed url="https://wp.swing2app.co.kr/documentation/appmanage/service/attendance-check/" %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**Apply the attendance check menu to the app
+###  **2.**Apply the attendance check menu to the app
 
 Once the attendance check registration is complete, you will need to apply it to the app, right?
 
@@ -66,7 +66,7 @@ Select the \[Manage] button on the attendance check page → Select the \[Manage
 
 If you need to register a new attendance check or make any corrections, you can manage it by going directly from the App Maker.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen – check attendance&#x20;
+###  **3.** App launch screen – check attendance&#x20;
 
 Let's launch the app and see how the attendance check is executed in the app!
 

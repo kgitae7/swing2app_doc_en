@@ -24,7 +24,7 @@ Please check the manual to see how to register a push icon image!
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Push icon image
+###  Push icon image
 
 ![](../../../.gitbook/assets/gesd-1.png)
 
@@ -42,7 +42,7 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 ​
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Setting up a push icon image
+###  Setting up a push icon image
 
 ![](../../../.gitbook/assets/Untitled-2-Rzrgd.png)
 
@@ -78,7 +78,7 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 ​
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Instructions
+###  Instructions
 
 1\)This feature only applies to Android phones.
 
