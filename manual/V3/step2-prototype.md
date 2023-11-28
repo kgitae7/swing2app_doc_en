@@ -30,7 +30,7 @@ The App Maker V3  Manual will show you how to edit your app in step 2- prototype
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  Check the prototype style
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Check the prototype style
 
 ![](../../.gitbook/assets/DSF2023-08-29-02-26-01-867\_1.gif)
 
@@ -40,7 +40,7 @@ You can preview each prototype by selecting them, virtual machine on the right (
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  Basic styles and options – Color settings
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – Color settings
 
 ![](../../.gitbook/assets/SFG23-08-29-02-26-01-867\_1.gif)
 
@@ -52,7 +52,7 @@ Once you have selected the desired combination, you can see the UI changing colo
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  Basic styles and options – custom settings
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic styles and options – custom settings
 
 <mark style="color:red;">What if none of the combined colors present in the preset are not as per your interest? In that case,  please use the detailed settings.</mark>
 
@@ -70,7 +70,7 @@ After selecting a color, click the mouse cursor on the empty space to reflect th
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  Advanced styles and options
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Advanced styles and options
 
 This feature allows you to set additional color options and design styles that you can add to the prototype UI.
 

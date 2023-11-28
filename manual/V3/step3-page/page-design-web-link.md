@@ -6,7 +6,7 @@ The link feature provided by Swing2App allows you to apply a generic website URL
 
 Creating an App – Step 3 Page – Page Features: We'll show you how to use links.
 
-###  **1.**Apply an Internet address (site URL) link
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**Apply an Internet address (site URL) link
 
 ![](../../../.gitbook/assets/Untitled-2-RefEd.png)
 
@@ -98,7 +98,7 @@ The YouTube link was linked to "View as an external app."
 
 As the YouTube app launches, you will be taken to the linked video link.
 
-###  **2.** Apply your phone number
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Apply your phone number
 
 ![](../../../.gitbook/assets/Untitled-2-EFGeed.png)
 
@@ -142,7 +142,7 @@ In the link wizard, I connected the 'phone number' and launched the app.
 
 When you select the Make a call menu, the phone is connected to the number you applied.
 
-###  **3.** Apply a text message number
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** Apply a text message number
 
 ![](../../../.gitbook/assets/Untitled-2-ReefgSed.png)
 
@@ -190,7 +190,7 @@ When you select the Send Text menu, you can send a text message to the number th
 
 For the number, please enter your mobile phone number to receive the actual texts!
 
-###  **4.** Apply your email address
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** Apply your email address
 
 ![](../../../.gitbook/assets/Untitled-2-RecefAWcovered.png)
 

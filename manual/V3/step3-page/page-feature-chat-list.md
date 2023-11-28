@@ -12,7 +12,7 @@ Admins can also check the list of users they've chatted with to see their conver
 
 ![](../../../.gitbook/assets/DDZ.png)
 
-###  **1.**What is a chat list?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**What is a chat list?
 
 ![](../../../.gitbook/assets/UntitleEFEGd-1.png)
 
@@ -26,7 +26,7 @@ Admins can also check the list of users they've chatted with to see their conver
 
 **☞** <mark style="color:blue;">**See how to use the admin chat**</mark>
 
-###  **2.**\[Chat List] Applying it to the app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.**\[Chat List] Applying it to the app
 
 ![](<../../../.gitbook/assets/Untitled-2-zrghhg (1).png>)
 
@@ -58,7 +58,7 @@ In the manual, we proceeded without any input, and please apply additional if ne
 \*For apps created before 2019.3.8, the \[Chat List] menu is not visible on the swing page. Please use it after updating.
 {% endhint %}
 
-###  **3.**Chat List app launch screen
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.**Chat List app launch screen
 
 ![](../../../.gitbook/assets/UntEGEGitled-2.png)
 

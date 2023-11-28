@@ -8,7 +8,7 @@ We'll tell you how to use the 'View Interest' provided by Swing2App.
 
 Check the manual – how to apply the Attention Writing feature to the app and use it!
 
-###  **1.** What is a View Interest?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** What is a View Interest?
 
 **It's a feature that brings together and shows all the posts that the user has pressed the 'like' button on the app post.**
 
@@ -18,7 +18,7 @@ If any of your posts are from what you want to see again later, or if you want t
 
 You can see it all in the Watchlist view
 
-###  **2.** How to apply the Watchlist app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** How to apply the Watchlist app
 
 ![](../../../.gitbook/assets/Untitled-2-ReRGR.png)
 
@@ -40,7 +40,7 @@ Move the app creation screen
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-###  **3.** App launch screen
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** App launch screen
 
 ![](../../../.gitbook/assets/UnSVVDAtitled-2.png)
 
@@ -54,7 +54,7 @@ If you don't have a 'liked' post, you'll be marked as missing a post.
 
 Even if the user who clicked "Like" and another user log in, they will not see the favorite post.
 
-###  **4.** Instructions
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** Instructions
 
 1\) In order to use 'View Interesting Articles', you will need to recreate the app and use it in the new version. (Soft update is possible when creating the app)
 

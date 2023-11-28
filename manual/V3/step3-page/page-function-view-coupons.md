@@ -38,7 +38,7 @@ Alternatively, you can select the App Manager menu in the app to process coupon 
 
 **☞** <mark style="color:blue;">**\[ Go to the full process manual for creating and issuing coupons]**</mark>
 
-###  **1.** Apply the coupon lookup menu to the app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply the coupon lookup menu to the app
 
 ![](../../../.gitbook/assets/Untitled-2-EFFGd.png)
 
@@ -60,7 +60,7 @@ On the MakerV3 screen.
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-###  **2. App launch screen**
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2. App launch screen**
 
 ![](../../../.gitbook/assets/UntitlVDBed-2.png)
 

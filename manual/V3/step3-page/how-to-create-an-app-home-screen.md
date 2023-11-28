@@ -24,7 +24,7 @@ You can create a screen by choosing from the different features that come with t
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **1**. Home screen - Apply image
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1**. Home screen - Apply image
 
 The first way to apply the Home screen is to upload an image.
 
@@ -69,7 +69,7 @@ However, if you want to make the phone screen more or less full, please work wit
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **2.** Apply bulletin board
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Apply bulletin board
 
 The second way is to apply the bulletin board to your home screen!
 
@@ -117,7 +117,7 @@ Click on the \[Add New Page] option takes you to the Manage Board screen where y
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **3.** User Page – Apply Image Page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** User Page – Apply Image Page
 
 The third way is to create an image page and apply it to the home screen.
 
@@ -165,7 +165,7 @@ You can create an image page in the page creation editor tool, and then apply it
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **4.** User Page – Apply a web template page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **4.** User Page – Apply a web template page
 
 The fourth method is to create and apply a user page - a web template page.
 
@@ -211,7 +211,7 @@ You can create a template page in that Editor tool, and then apply it in your ap
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **5.** User Page – Apply HTML Editor Page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **5.** User Page – Apply HTML Editor Page
 
 The fifth way is to create and apply a user page - an HTML editor page.
 
@@ -259,7 +259,7 @@ You can create an editor page in that editor tool, and then apply it in your app
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **6.** Apply the App Introduction Page
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **6.** Apply the App Introduction Page
 
 The app introduction page is the home screen that is the default setting as the home screen when you first build your app in a swing2app app.
 

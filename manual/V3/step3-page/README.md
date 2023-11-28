@@ -20,7 +20,7 @@ We'll show you how to apply the home screen and how to apply the main menu.
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **1.**How to apply the home screen
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.**How to apply the home screen
 
 The Home screen is the main screen that is visible when you launch the app, and you can configure how the main screen will be displayed by the user themselves.
 
@@ -70,7 +70,7 @@ Select the Apply menu.
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **2.** Menu Management
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** Menu Management
 
 **1)Add and delete menus**
 

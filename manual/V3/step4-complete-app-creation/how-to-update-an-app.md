@@ -14,7 +14,7 @@ After you click on the \[Update App] button, you can choose the update type and 
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Rechfovered.png" alt=""><figcaption></figcaption></figure>
 
-###  How to update an app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) How to update an app
 
 **★ In Swing2App, you can modify and update your apps unlimited times!!**
 
@@ -26,7 +26,7 @@ When modifying the app basic information and design theme content, you must upda
 
 You will be able to see modified content after confirming the update requirement message within the app.
 
-###  Swing2App App Update Important Content
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Swing2App App Update Important Content
 
 <mark style="color:red;">**\*This is important, so please check it first!!**</mark>
 
@@ -50,7 +50,7 @@ You will be able to see modified content after confirming the update requirement
 
 → Users whose apps have been released to the Play Store, App Store, etc. will need to update the new version of the app within the Store after the new version of the app is created.
 
-###  Play Store, App Store Update Guide
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Play Store, App Store Update Guide
 
 **1.If you need a Store Update**
 
@@ -82,7 +82,7 @@ If you have not launched your app on the store and you are a free user, in that 
 
 ***
 
-### **1.** Update Type
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**1.** Update Type
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Rergrcovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +102,7 @@ The Soft update does not require you to reinstall the app, it is an updated styl
 
 ***
 
-### **2.** Show Updates option
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png)**2.** Show Updates option
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Recrdovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -126,7 +126,7 @@ Disable the update notification window. (You can set it up when you are doing ap
 
 ***
 
-###  **3.**App launch screen: Update type
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.**App launch screen: Update type
 
 Depending on the type of update, let's see how the update works in the actual app.
 

@@ -24,7 +24,7 @@ For more information on how to download the app to share, please refer to the ma
 
 ***
 
-###  **1.** Apply \[Share App] to your app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[Share App] to your app
 
 ![](../../../.gitbook/assets/Untitled-2-RESfd.png)
 
@@ -50,7 +50,7 @@ On the MakerV3 screen.
 
 In the manual, we proceeded without any additional settings, so please apply then as per your requirement.
 
-###  **2.** App launch screen: Share the app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Share the app
 
 ![](../../../.gitbook/assets/fUntitlfawaed-2.png)
 
@@ -88,7 +88,7 @@ If you select the link, you will be taken to the app installation window as show
 
 The method of launching the app and installing the app is the same as the KakaoTalk sharing method described above, and you can launch the app and download the app according to the user's presence or absence of the app installation.
 
-###  **3.** Settings menu: Share the app
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **3.** Settings menu: Share the app
 
 ![](../../../.gitbook/assets/sfsvfsUntitled-2.png)
 

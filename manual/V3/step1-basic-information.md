@@ -32,7 +32,7 @@ Here you need to enter the basic information required to create an app, such as 
 
 
 
-###  Upload an icon image
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Upload an icon image
 
 ![](../../.gitbook/assets/가이드1-1.png)
 
@@ -46,7 +46,7 @@ Icon image size: **1024px\*1024px**
 
 
 
-###  Upload a splash screen image
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Upload a splash screen image
 
 ![](../../.gitbook/assets/가이드2-1.png)
 
@@ -70,7 +70,7 @@ We also have a guide in which we have shown a different way to use an app icon a
 
 ###
 
-###  Basic information registration complete
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) Basic information registration complete
 
 ![](../../.gitbook/assets/1제작완료.png)
 
@@ -82,7 +82,7 @@ Except for the app ID, the app name, icons, and splash screen images can be modi
 
 
 
-###  What is the image editing tool?
+### ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) What is the image editing tool?
 
 **The image editing tool is a feature that allows you to easily modify the size of the image.**&#x20;
 
