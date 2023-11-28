@@ -26,7 +26,7 @@ From the home screen, each menu was applied to the app using the Hotel03 templat
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating a new web template page
+###  **STEP.1** Creating a new web template page
 
 You can create a page template on the App MakerV3 screen.
 
@@ -132,7 +132,7 @@ When all is done, press the **\[Save]** button, and the page is finished saving 
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying your web template page to the app
+###  **STEP.3** Applying your web template page to the app
 
 ![템플릿 페이지 앱에 적용하기](<../../../.gitbook/assets/1.. (38).png>)
 

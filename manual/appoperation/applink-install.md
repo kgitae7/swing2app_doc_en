@@ -14,7 +14,7 @@ When creating an app in Swing2App, not only the app installation file but also a
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Copy the app installation link address**</mark>
+###  <mark style="color:blue;">**STEP.1 Copy the app installation link address**</mark>
 
 <mark style="color:red;">**\*Copy the app installation link address!!**</mark>
 
@@ -54,7 +54,7 @@ Then, please check how you can download the app with the link\~
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Download through the app installation link**</mark>
+###  <mark style="color:blue;">**STEP. 2 Download through the app installation link**</mark>
 
 <mark style="color:orange;">**Download after sending the app installation link by e-mail**</mark>
 

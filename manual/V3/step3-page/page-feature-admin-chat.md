@@ -74,7 +74,7 @@ Move the app creation screen
 
 6\) Press the \[Save] button at the top of the screen to apply it to the app.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Chat room screen
+###  **2.** App launch screen: Chat room screen
 
 ![](../../../.gitbook/assets/FAFEed-1.png)
 
@@ -92,7 +92,7 @@ Please check below how to chat!!
 Users can have a conversation by entering the chat menu in the app, and the conversation list can be viewed in the chat list. Please check below how to chat!!
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **3.** How users can chat with the app manager
+###  **3.** How users can chat with the app manager
 
 ![](<../../../.gitbook/assets/UnSFGGtitled-2 (1).png>)
 
@@ -132,7 +132,7 @@ Check out below how admins can chat with app members!!
 Administrators can have a conversation by selecting members from the member lookup menu provided by the swing web (app operation page). Check out below how admins can chat with app members!!
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **4.** How admins can chat with app members
+###  **4.** How admins can chat with app members
 
 Administrators can chat on the web (swing homepage) or use it in the app.
 
@@ -214,7 +214,7 @@ You can start chatting by selecting the member you want to talk to again.
 
 The app administrator login allows the administrator to communicate with members in the app as well.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **5.** Alarm Push Notification - Manager, Member
+###  **5.** Alarm Push Notification - Manager, Member
 
 When you chat, both the app manager – the app member can receive a push for chat message notifications.
 

@@ -26,7 +26,7 @@ Reservation products do not go to the product purchase page even if the category
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
+###  <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
 
 Maker(V2) Page → Move to Step 3 Page Menu
 
@@ -55,7 +55,7 @@ Therefore, please register the product after completing the product category reg
 
 Then, apply the category list page to the app.&#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Category list page App execution screen**</mark>
+###  <mark style="color:blue;">**STEP. 2 Category list page App execution screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_12\_15\_42\_16\_705.gif)
 

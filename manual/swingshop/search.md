@@ -18,7 +18,7 @@ In addition to product search, all registered products are displayed in a list, 
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
+###  <mark style="color:blue;">**STEP.1 Applying the product search menu to the app**</mark>
 
 Go to Maker(V2) Step 3 Page menu level.
 
@@ -44,7 +44,7 @@ After completing product registration at Swing Shop, please apply the product se
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Product search page App execution screen**</mark>
+###  <mark style="color:blue;">**STEP. 2 Product search page App execution screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/03/%EB%85%B9%ED%99%94\_2021\_03\_12\_15\_23\_36\_558.gif)
 

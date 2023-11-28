@@ -14,7 +14,7 @@ In addition to the app introduction page, you can freely change and create vario
 
 **Go to the HomeScreen editing Manual:** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[App Introduction Page] to your app
+###  **1.** Apply \[App Introduction Page] to your app
 
 ![](../../../.gitbook/assets/Untitled-2-RrGtgerd.png)
 
@@ -46,7 +46,7 @@ On the MakerV3 screen.
 In the manual, we proceeded without any additional settings, so please apply additional settings if required.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Check the app introduction page
+###  **2.** App launch screen: Check the app introduction page
 
 ![](../../../.gitbook/assets/UnFFHFd-1.png)
 
@@ -64,7 +64,7 @@ You can modify your home screen with a variety of different menus to create.
 
 ![](../../../.gitbook/assets/RRGer-2023-08-29-02-26-01-867\_1.gif)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.** How to modify the app introduction menu and contents
+###  **03.** How to modify the app introduction menu and contents
 
 ![](../../../.gitbook/assets/Untitled-2-Rdrgd.png)
 
@@ -84,7 +84,7 @@ When you create your first app, you need to request that the app be created.
 
 When you make a modification back to an app you've created, it is automatically reflected in the app when you save it.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04.** App introduction content, how to delete buttons
+###  **04.** App introduction content, how to delete buttons
 
 ![](<../../../.gitbook/assets/1.. (5).png>)
 

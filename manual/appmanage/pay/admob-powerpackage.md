@@ -6,7 +6,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is AdMob Power Package? Offer service?**</mark>
+###  <mark style="color:blue;">**01. What is AdMob Power Package? Offer service?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/06/%EC%BA%A1%EC%B2%983.png)
 
@@ -40,7 +40,7 @@ It is offered at a discount of $275 compared to purchasing as an individual prod
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to use AdMob Power Package**</mark>
+###  <mark style="color:blue;">**02. How to use AdMob Power Package**</mark>
 
 **1) Please complete the test after final production of the app.**
 
@@ -110,7 +110,7 @@ Please check the store registration policy and usage policy in advance.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. AdMob Power Package Usage Guide and Precautions**</mark>
+###  <mark style="color:blue;">**03. AdMob Power Package Usage Guide and Precautions**</mark>
 
 \* AdMob package products are recommended if you operate an app for monetization by applying AdMob ads to the app.
 
@@ -184,7 +184,7 @@ Therefore, a refund is only possible before the AdMob setting work.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**04. Notes on AdMob Ad Settings**</mark>
+###  <mark style="color:blue;">**04. Notes on AdMob Ad Settings**</mark>
 
 1\) Swing2App does not provide information related to AdMob operation, such as advertising revenue costs, operating methods, and policies related to AdMob.
 

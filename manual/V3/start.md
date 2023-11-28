@@ -60,7 +60,7 @@ Since you can modify and update the app unlimited times, feel free to modify and
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### &#x20;![](../../.gitbook/assets/단락1-1.png) Method 2. Create Web App
+### &#x20; Method 2. Create Web App
 
 ![](../../.gitbook/assets/제작마법사2.png)
 
@@ -84,7 +84,7 @@ So if you wish to create a web app, choose the second option of the app creation
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../.gitbook/assets/단락1-1.png) Method 3. Create Custom App
+###  Method 3. Create Custom App
 
 ![](../../.gitbook/assets/제작마법사3.png)
 

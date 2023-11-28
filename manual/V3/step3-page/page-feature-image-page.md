@@ -75,7 +75,7 @@ Below we'll show you how to create an image page and how to apply that page to y
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP 2.** Creating an Image Page
+###  **STEP 2.** Creating an Image Page
 
 ![](<../../../.gitbook/assets/1.. (41).png>)
 
@@ -215,7 +215,7 @@ So let's go back to the app creation page and apply that image page to the app!!
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying an Image Page to Your App
+###  **STEP.3** Applying an Image Page to Your App
 
 ![](<../../../.gitbook/assets/1.. (48).png>)
 
@@ -251,7 +251,7 @@ Go to the MakerV3 screen
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.4** Image Page Creator – Applying the Tooltip
+###  **STEP.4** Image Page Creator – Applying the Tooltip
 
 In addition to linking a link banner to an image page, I'll also show you how to apply the tooltip.
 
@@ -367,7 +367,7 @@ Go to the MakerV3 screen
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP.5** Editing the Image Page (How to Modify)
+### **STEP.5** Editing the Image Page (How to Modify)
 
 Modifying a template is the same as going to the App MakerV3 – Select \[Page Templates] under the Page design option-> When you hover your mouse cursor over the template page, you'll see different buttons-> Click on \[More] button-> Click on \[Update] button.&#x20;
 

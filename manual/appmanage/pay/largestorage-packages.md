@@ -6,7 +6,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Large Storage Package?**</mark>
+###  <mark style="color:blue;">**01. What is a Large Storage Package?**</mark>
 
 The Large Storage Package consists of a one-year Swing2App Basic Paid App type pass + 30GB of additional storage + a Play Store Upload ticket + an App Store Upload ticket as a package
 
@@ -40,7 +40,7 @@ It is a product that can be used as a package at a lower price than purchasing i
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02. How to purchase and use the Large Storage Package**</mark>
+###  <mark style="color:blue;">**02. How to purchase and use the Large Storage Package**</mark>
 
 1\) Please complete the test after final production of the app.
 
@@ -82,7 +82,7 @@ Please check the store registration policy and usage policy in advance.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for using Large Storage Packages**</mark>
+###  <mark style="color:blue;">**03. Guidelines and precautions for using Large Storage Packages**</mark>
 
 ​**\* Large Storage Package products are recommended for long-term operation of many apps, commercialization of stores, or when you need to use a lot of app capacity.**
 

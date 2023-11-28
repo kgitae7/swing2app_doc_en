@@ -34,7 +34,7 @@ App production completed.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Buy Mobile Web Upload Ticket**</mark>
+###  <mark style="color:blue;">**1. Buy Mobile Web Upload Ticket**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG1.png)
 
@@ -60,7 +60,7 @@ If you pay for one year, you can also use the mobile website for one year.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Apply for the mobile web registration**</mark>
+###  <mark style="color:blue;">**2. Apply for the mobile web registration**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/10/IMG-2-1.png)
 
@@ -96,7 +96,7 @@ Please check the image size (72\*72) and attach the image.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
+###  <mark style="color:blue;">**3. Mobile Web Registration Completed**</mark>
 
 <figure><img src="../../../.gitbook/assets/IMG-4-50h3x1024.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ Select \[Confirm Mobile Web Registration].
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**4. Run the mobile web**</mark>
+###  <mark style="color:blue;">**4. Run the mobile web**</mark>
 
 <figure><img src="../../../.gitbook/assets/IMG-5-473x102b4.png" alt=""><figcaption></figcaption></figure>
 

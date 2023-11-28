@@ -40,7 +40,7 @@ Please operate it by referring to this point.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Apply digital product purchase completion page to the app**</mark>
+###  <mark style="color:blue;">**STEP.1 Apply digital product purchase completion page to the app**</mark>
 
 Maker(V2) Page → Move to Step 3 Page Menu
 
@@ -56,7 +56,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP. 2 Digital product purchase completion page App execution screen**</mark>
+###  <mark style="color:blue;">**STEP. 2 Digital product purchase completion page App execution screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-1769@3x.png)
 

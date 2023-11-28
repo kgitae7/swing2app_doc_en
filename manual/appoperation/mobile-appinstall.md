@@ -26,7 +26,7 @@ Please check how to use.&#x20;
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)<mark style="color:blue;">**1. Access the mobile Swing2App site**</mark>
+### <mark style="color:blue;">**1. Access the mobile Swing2App site**</mark>
 
 Access the Swing2App website at https://support.swing2app.com/ on your mobile (Android phone).
 

@@ -24,7 +24,7 @@ It can be used on the Swing page, and the page can be applied together when usin
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.1 Basic information setting**</mark>
+###  <mark style="color:blue;">**STEP.1 Basic information setting**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-412.png)
 
@@ -86,7 +86,7 @@ When the basic information setting input is complete, you will be directed to th
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.2 Applying the shopping mall information menu to the app**</mark>
+###  <mark style="color:blue;">**STEP.2 Applying the shopping mall information menu to the app**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/03/%EA%B5%B4%EB%A1%9C%EB%B2%8C3.png)
 
@@ -104,7 +104,7 @@ Maker(V2) Page → Move to Step 3 Page Menu
 
 &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**STEP.3 App execution screen**</mark>
+###  <mark style="color:blue;">**STEP.3 App execution screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-422@3x.png)
 

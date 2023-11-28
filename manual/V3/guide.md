@@ -4,7 +4,7 @@ description: MakerV3 App Creation Guide Manual
 
 # Manual on How to Create an App In MakerV3 Screen
 
-### ![](../../.gitbook/assets/단락1-1.png) STEP1 Basic Information
+###  STEP1 Basic Information
 
 **Step 1 \[Basic Information] is the step of entering the basic information required to create the app. In this step, you need to register the app name, icon image, splash screen image, etc.**
 
@@ -71,7 +71,7 @@ To get the best results, be sure to design and apply the image as per the guide.
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../.gitbook/assets/단락1-1.png) **STEP2** Prototype
+###  **STEP2** Prototype
 
 **\[STEP2 Prototype]** is the step of determining the overall design and style of the app's UI design and color.
 
@@ -113,7 +113,7 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../.gitbook/assets/단락1-1.png) **STEP3 Page**
+###  **STEP3 Page**
 
 **\[STEP3 PAGE] is a step to create categories and menus for the app.**
 
@@ -225,7 +225,7 @@ Like this, you can change the position of menus, from a sub to a top menu and vi
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../.gitbook/assets/단락1-1.png) STEP4 Creating an App
+###  STEP4 Creating an App
 
 Once you've finished building your app, complete the process by clicking on the \[App creation] button.
 
@@ -249,7 +249,7 @@ So complete app production and preview it on your mobile without worrying about 
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../.gitbook/assets/단락1-1.png) **STEP5** Complete App Creation&#x20;
+###  **STEP5** Complete App Creation&#x20;
 
 
 

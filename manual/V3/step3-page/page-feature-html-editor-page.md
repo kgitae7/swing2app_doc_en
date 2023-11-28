@@ -32,7 +32,7 @@ It's an HTML editor page applied to the official Swing2App app.
 
 We'll refer to the editor page above to make the production the same style.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.1** Creating an HTML Editor Page
+###  **STEP.1** Creating an HTML Editor Page
 
 ![](<../../../.gitbook/assets/1.. (15).png>)
 
@@ -48,7 +48,7 @@ Clicking \[+] Add new page button will redirect you to the HTML Editor Page edit
 
 Below I'll show you how to create an editor page and how to apply it to your app after it's built.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png)**STEP2.** Creating an HTML Editor Page
+### **STEP2.** Creating an HTML Editor Page
 
 #### \*\*\*1.\*\*HTML Editor Page Editor
 
@@ -222,7 +222,7 @@ When the editor page is finished creating, press the Save button and exit.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.3** Applying HTML Editor Page to App
+###  **STEP.3** Applying HTML Editor Page to App
 
 ![](<../../../.gitbook/assets/1.. (26).png>)
 
@@ -256,7 +256,7 @@ You can also apply a page to a menu.
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP4.** HTML Editor Page Creation TIP
+###  **STEP4.** HTML Editor Page Creation TIP
 
 Here are a few more features you need to create!
 
@@ -296,7 +296,7 @@ With the Quick Insert button, selecting it gives you quick access to frequently 
 
 ***
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **STEP.5** Editing HTML Editor Pages (How to Modify**)**
+###  **STEP.5** Editing HTML Editor Pages (How to Modify**)**
 
 The same can be done by going into the App MakerV3 screen– HTML Editor \[Modify] button.
 

@@ -32,7 +32,7 @@ Below we will show you how to register an icon image in the menu.
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../../.gitbook/assets/단락1-1.png) Registering a menu icon image
+###  Registering a menu icon image
 
 The menu icon image can be applied in step STEP 3 of the page.
 
@@ -84,7 +84,7 @@ However, when using images taken from external sites, please be careful if they 
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../../.gitbook/assets/단락1-1.png) App launch screen) to check the icon image
+###  App launch screen) to check the icon image
 
 ![](../../../.gitbook/assets/메뉴아이콘2.png)
 

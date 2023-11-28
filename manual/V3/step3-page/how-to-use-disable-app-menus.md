@@ -14,7 +14,7 @@ It's very simple to use, so please check the manual below to find out how to use
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../../.gitbook/assets/단락1-1.png) **Menu settings: How to use the Hiding function**
+###  **Menu settings: How to use the Hiding function**
 
 ​The menu disable function is available in the App Maker V3 - STEP3 page step.
 
@@ -34,7 +34,7 @@ You don't need to re-create the app, just save it, exit the app, and relaunch it
 
 ![](<../../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](../../../.gitbook/assets/단락1-1.png)App launch screen - check to Hiding menu
+### App launch screen - check to Hiding menu
 
 ![](../../../.gitbook/assets/메뉴비활성화2.png)
 

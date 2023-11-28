@@ -16,7 +16,7 @@ I’ll tell you how to re-enroll a user who has withdrawn from membership throug
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**1. Leave the app membership**</mark>
+###  <mark style="color:blue;">**1. Leave the app membership**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/05/Group-2838@3x.png)
 
@@ -38,7 +38,7 @@ If you try to re-register with the same ID again, as you can see on the screen, 
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
+###  <mark style="color:blue;">**2. Member Views: Deleting a member**</mark>
 
 Next, the administrator will tell you how to delete the member from the member inquiry page of the web dashboard.&#x20;
 
@@ -64,7 +64,7 @@ Therefore, if you need to re-register with the same ID, you must delete the memb
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
+###  <mark style="color:blue;">**3. Re-register the app with the same ID**</mark>
 
 <div align="center">
 

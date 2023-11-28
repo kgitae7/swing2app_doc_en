@@ -6,7 +6,7 @@
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**01. What is a Swing2App Budget Package product?**</mark>
+###  <mark style="color:blue;">**01. What is a Swing2App Budget Package product?**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2021/06/Group-2848.png)
 
@@ -36,7 +36,7 @@ So cheaper! speedily! This is a package product that can be used.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**02.How to use the Budget Package**</mark>
+###  <mark style="color:blue;">**02.How to use the Budget Package**</mark>
 
 **1) Please complete the test after final production of the app.**
 
@@ -78,7 +78,7 @@ Please check the store registration policy and usage policy in advance.
 
 
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) <mark style="color:blue;">**03. Guidelines and precautions for use of a Budget Package**</mark>  &#x20;
+###  <mark style="color:blue;">**03. Guidelines and precautions for use of a Budget Package**</mark>  &#x20;
 
 **\*It’s a voucher for converting apps to a paid version, and it’s a packaged product that’s cheaper than purchasing a single product.**
 

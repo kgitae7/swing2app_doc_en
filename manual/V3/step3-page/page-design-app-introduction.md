@@ -14,7 +14,7 @@ The home screen is of course! In addition to the app introduction page, you can 
 
 **Go to the HomeScreen Authoring Manual :** <mark style="color:blue;">https://wp. swing2app. co.kr/ documentation/ v3manual/home/</mark> &#x20;
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **1.** Apply \[App Introduction Page] to your app
+###  **1.** Apply \[App Introduction Page] to your app
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
@@ -46,7 +46,7 @@ Move the app creation screen
 In the manual, we proceeded without any input, and please apply additional if necessary when creating the app.
 {% endhint %}
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **2.** App launch screen: Check the app introduction page
+###  **2.** App launch screen: Check the app introduction page
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%ED%99%94%EB%A9%B4.png)
 
@@ -64,7 +64,7 @@ You can decorate your home screen with a variety of different menus to create.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_06\_02\_16\_18\_41\_940.gif)
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **03.** How to modify the app introduction menu and contents
+###  **03.** How to modify the app introduction menu and contents
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%95.png)
 
@@ -84,7 +84,7 @@ When you create your first app, you need to request that the app be created.
 
 When you make a modification back to an app you've created, it is automatically reflected in the app when you save it.
 
-### ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/04/%EB%8B%A8%EB%9D%BD1-1.png) **04.** App introduction content, how to delete buttons
+###  **04.** App introduction content, how to delete buttons
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2022/07/%EC%95%B1%EC%86%8C%EA%B0%9C%EC%88%98%EC%A0%952.png)
 
