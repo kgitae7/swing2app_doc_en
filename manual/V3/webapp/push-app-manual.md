@@ -1,8 +1,10 @@
-# Push-app manual
+---
+description: How to Create a Push App Manual
+---
 
-**App Maker V3 Version – How to Create a Push App Manual**
+# Pushapp manual
 
-
+**App Maker V3 Version –**&#x20;
 
 > **What is a push app?**
 >
@@ -14,7 +16,9 @@
 
 
 
-> ## **Start.** Get started with the App Creation Wizard
+***
+
+## **STEP1.** App Creation Wizard
 
 When you first create an app in a Swing2App or build additional apps, the App Creation Wizard splash screen (a pop-up window) pops up first.
 
@@ -35,8 +39,6 @@ Select the \[Next] button.
 <mark style="color:blue;">**2.Enter web app basic information**</mark>
 
 The next step is to enter the basic information, where you enter the basics needed to build a web app.
-
-
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Recoveghrred.png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +102,7 @@ Step by step, enter your content and you're done.
 
 **​**
 
-## **STEP1** Basic Information
+### Basic Information
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -166,123 +168,357 @@ The STEP3 page menu is automatically reflected in the app by simply modifying an
 
 
 
+***
+
+
+
 \
-**STEP4 Complete App Creation**
--------------------------------
+**STEP2. Purchase of vouchers and tickets**
+-------------------------------------------
 
-<figure><img src="../../../.gitbook/assets/RG2-Recovered.png" alt=""><figcaption></figcaption></figure>
+There are two types of products that can be purchased in the push app.
 
-​All steps have been entered. You can build apps.
+You can purchase the product you want from among the two.
 
-1\)Select the Create App button
-
-2\) Select the \[App Creation] button in the App Creation pop-up window.
-
-The Show Updates option doesn't affect your production by choosing anything. **The update window does not appear during the initial production.**
-
-So you just have to make it as checked.
-
-**\*Push App Update If your app is released on the Play Store/App Store, etc., you will need to upload a new version of the app to get the app updated through the Store.**
-
-If your app is for personal use that hasn't been released, launch the app and you'll see an update window. You can get the update by reinstalling it.
-
-The push app is built in less than 10 minutes.
-
-The finished app can be viewed by using the official Swing2App \[App Preview] or by downloading the e-mailed APK file from your Android phone.
-
-\*Webview and apps made with push can only be viewed on Android phones. \*You can't check it on your iPhone.
-
-Creating an app is simple, so you can easily follow it by looking at the manual.
-
-The production is free of charge without any extra charge.
-
-Therefore, **you need to apply a homepage of which you have proof that you created it with domain registration information, and a website (homepage) that can be verified by a business registration certificate if it is created by the company.**
+&#x20;
 
 
 
-**Q. If it's difficult to make it yourself, but I pay for the development, can I do the above in the Swing-to-App app?**
+**1. Swing2App Basic Pass (Purchase a 1-month pass monthly or purchase a pass for each desired period)**
 
-If you ask us to produce it, we will do it all for you.
+<div align="left">
 
-From designing icons and splash screen images to creating apps and uploading them to the store.
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-1.png" alt=""><figcaption></figcaption></figure>
 
-\*You can check the production agency fee on the Swing to App Custom Package product page. <mark style="color:blue;">**https://www.swing2app.com/view/payment\_list\_by\_recommend\_custom**</mark>
+</div>
 
-However, you will need to create your own Google developer account to upload to the Play Store and let us know your account.
+**-Information of purchase products**–
 
-The App Store requires that an Apple developer account be optional, but if you use your own account, you will need to create your own account and tell us about it.
+Manager → Online Stores → Go to the Vouchers & Tickets page. [https://support.swing2app.com/view/shop\_list](https://support.swing2app.com/view/shop\_list)
 
-Accounts are not created in the Swing2App app.
 
-**Q. Can I remove the toolbar that pops up in the push app or change the toolbar design?**
 
-Yes, you can remove the toolbar and modify the toolbar design.
+**▶ Swing Basic Ticket (1 month) $33 + Play Store upload ticket $5 + App Store upload ticket $20**
+
+\-Swing basic type (1 month) product has a 30-day period of use, and if you continue to operate the store app, you must purchase it every 1 month.
+
+\-The upload ticket is an optional product (the cost of uploading the user’s app to the store instead of the swing2app), so you only need to pay once at the time of initial registration.
+
+**\[Recommended pass]**
+
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/09/Artboard-%E2%80%93-6.png" alt=""><figcaption></figcaption></figure>
+
+If you purchase a 6 or 12 months long-term pass, you can use it at a lower price than purchasing a monthly pass.
+
+\-Swing basic pass (12 months) $290, 26% discount from monthly purchase
+
+\-Basic Swing Pass (6 months) $160, 19% discount from monthly purchase
+
+**or**
+
+
+
+**2. Push-only Lifetime Paid App (Unlimited use without period limit for one payment)**
+
+**-Purchase product information-**
+
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/09/Group-2036.png" alt=""><figcaption></figcaption></figure>
+
+Manager → Online Stores → Go to the Swing2App plug-in purchase page
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> Push-only Lifetime Paid App (Android + iPhone) $550 + Play Store upload ticket $10 + App Store upload ticket $20
+
+If you want to continue using the push app without a period of use, please purchase the ‘Push-only Lifetime Paid App’ product on the swing plugin purchase page.
+
+**Once purchased, no repurchase! No period limit! Unlimited!**
+
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Recommended tip**
+
+If you plan to run the app for a long period of time, and if you run the app without a period of use, we recommend purchasing the’Push-only unlimited paid app’ product.
+
+You can purchase products for each platform according to the launch of the Play Store and App Store, so you can use them reasonably.
+
+You can purchase each upload ticket in the same way.&#x20;
+
+Play Store upload ticket $10 + App Store upload ticket $20
+
+![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+
+**1) View product details**
+
+Before purchasing a voucher or ticket, be sure to check the product details!
+
+If you click the **\[Purchase]** button, you can check the service and usage information provided in the voucher in detail.
+
+Therefore, be sure to check the product before purchasing.
+
+If you are not sure about the contents, please leave an inquiry on the inquiry board. We will help you in detail. ^^
+
+&#x20;
+
+**2) Please check the upload ticket issue and product details.**
+
+\-The upload ticket is an optional product (the cost of uploading the user’s app to the store instead of the swing2app), so you only need to pay once at the time of initial registration.
+
+\*However, if there is an app update, you need to repurchase the upload ticket because you need to update the app on the store.
+
+\-It is up to the user to decide which store to launch, so if you only launch the App Store, you only need to purchase the App Store upload ticket.
+
+\-If the user can directly upload the Play Store, they only need to purchase a ticket and upload it directly. (You do not need to purchase an upload ticket.)
+
+\-Since the App Store is only available as an upload agent, if you plan to release it, be sure to purchase and apply for an App Store upload ticket.
+
+&#x20;
+
+**​3) Please register for Apple or Google developer account. (Before store registration)**
+
+\*0In addition to the cost to pay for Swing2App, the Apple developer account registration fee ($99 for 1 year).
+
+Google developer registration fee (25 dollars, lifetime use) must be made and paid by the user.
+
+\-Google must have a Google developer account in the user account to register
+
+\-Apple is optional for developer account: Select between user Apple developer account registration or Swing2App account proxy registration
+
+***
+
+&#x20;
+
+## **STEP3. Store upload application**
+
+If you purchased both the voucher and ticket above! You must apply for an upload to receive an upload application through Swing2App.
+
+\*After moving to the Manager → Manage Version → Production History menu, select the \[Play Store upload] or \[App store upload] button in the market registration column.
+
+<div align="left">
+
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/d2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+An application pop-up will appear, and you must fill in the contents according to the application form and apply for upload before the upload application is delivered to Swing2App.
+
+\*Please make sure to apply for upload after payment
+
+**☞** [**\[How to apply for play store upload\]**](https://support.swing2app.com/documentation/appmanage/version/playstore-upload/)
+
+**☞** [**\[App store upload application method\]**](https://support.swing2app.com/documentation/appmanage/version/appstore-upload/)
+
+&#x20;
+
+After purchasing all products such as use vouchers, please apply for upload to the Play Store or App Store, and we will act on your behalf to upload your app to the store.
+
+You must check the policies for each store.
+
+**\*Store registration**
+
+***
+
+&#x20;
+
+**STEP.5 Store launch complete (release after review)**
+
+<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/d3.png" alt=""><figcaption></figcaption></figure>
+
+When the application is completed, the Swing2App playstore uploader / Appstore uploader starts the upload process to upload your app to the store.
+
+\*Play Store Review Period: 7 days
+
+\*App store review period: 1 week to 2 weeks
+
+Since the review time is long for each store, you have to wait for the review period after applying for upload.
+
+**-When the upload process starts, we will send you an e-mail with information on policies and important notices for each store.**
+
+**-After the normal release, an e-mail and text message (if a user number is registered) will be sent.**
+
+**-If the screening is rejected, we will inform you of the reasons for refusal and actions to be taken, and re-examination will be done without any additional upload ticket fees.**
+
+<div align="left">
+
+<img src="https://support.swing2app.com/wp-content/uploads/2020/07/Group-201-1-e1596628274458.png" alt="">
+
+</div>
+
+When the store launch is complete, you can check the released apps on the Play Store and App Store.
+
+App Store is exposed when searching for the app name immediately after the app is released.
+
+In the Play Store, even when the app is released, the name search does not work right away.
+
+\*Google checks how actively the app is running and converts it into exposure to prevent indiscriminate release even after app release.
+
+Therefore, you need to install a lot of apps and manage reviews, ratings, etc. As time passes, the app name search will be exposed.
+
+Make sure to check the contents of the store policy so that there will be no problems when using the app release.
+
+**By all means! Please check.☞** [**\[Check the store terms and conditions\]**](https://support.swing2app.com/market-policy/)
+
+***
+
+&#x20;
+
+## **STEP5. Sending push from push app**
+
+&#x20;
+
+Push apps can send push messages to users who have installed the app!
+
+Therefore, if the app is created, check the push sending function and familiarize yourself with how to send a push.
+
+**\*Push can be sent from the Manager page → Push & Member → Send push page.**
+
+[https://support.swing2app.com/view/push](https://support.swing2app.com/view/push)
+
+&#x20;
+
+**Please check the manual below for how to send a push app.**
+
+**☞**[**Go to see how to send push in push app**](https://support.swing2app.com/documentation/appmanage/pushmember/pushapp-push/)
+
+***
+
+&#x20;
+
+## **STEP6.Precautions and push app production Q\&A**
+
+&#x20;
+
+**Q.The push app is said to be difficult to release on the App Store and Play Store. Is it correct?**
+
+**–Play Store–**
+
+Web view and push version apps (web apps that link the website) must submit supporting documents (prior notice documents) in accordance with the Google Web View policy.
+
+In order to prove that the site connected to the app is owned by you or the company (company), you must submit a prior notice document such as a business registration card or website domain registration confirmation.
+
+When submitting the documents, you can launch the web view app on the Play Store without any problems.
+
+**–App Store–**
+
+In fact, because Apple does not approve webview apps by policy, it is often rejected in the review and may not be released.
+
+However, there are some apps that are released, so the webview app must be reviewed before you can know whether it is released.
+
+We will appeal to you as much as possible to help launch the App Store, but please understand that we cannot determine whether the user will release the app or not!
+
+\* PC version web other than mobile web will be rejected. The website must be connected to the mobile web.
+
+\*Web apps that have only content for promotion or marketing on the web, have no content, or have restricted users’ participation will be rejected.
+
+\* Please note that even if the store launch is rejected, the fee for use and upload tickets are not refundable for apps that have been registered in the App Store.
+
+&#x20;
+
+**Q. Can I create a push app by connecting to any site?**
+
+When creating a push app, you must be careful, do not use other companies or famous brands’ sites as if you were creating them!
+
+You can only use the website operated by our company and the website you created (using a hosting company).
+
+There are many users who want to link their own Naver blog or Daum Cafe through web view or push.
+
+If these sites are linked to the app, errors or not working properly.
+
+\* These apps cannot be released on the Play Store or App Store. (Rejected due to copyright or brand imitation)
+
+And among web links, there are sites that do not work with the app, that is, embezzlement is prohibited.
+
+\*Portal sites such as Naver and Daum, sites provided by the portal (modoo, Storefarm Web, etc.), YouTube, and SNS sites (Instagram, KakaoTalk, Facebook) are representative sites that prohibit embedding!
+
+Therefore, you need to apply a website (homepage) that can prove that it is the site you created with domain registration information, or a website (homepage) that can be verified with a business registration card if it is made by the company.
+
+&#x20;
+
+**Q. It is difficult to make it yourself, but if you pay the development fee, can you do the above process in Swing2App?**
+
+Yes, if you request the production, we will make it all for you.
+
+From designing icons and standby screen images to creating apps and uploading to the store, we will do everything.
+
+Since app production costs and labor costs for the production agency are incurred separately, we will assist you with consultation if you request.
+
+However, you need to create a Google developer account that will be posted on the Play Store and tell the account.
+
+The Apple developer account is optional for the App Store, but if you use your own account, you must create your own account and tell us.
+
+Accounts are not created in Swing2App.
+
+&#x20;
+
+**Q. Can I remove the toolbar that appears on the push app or change the toolbar design?**
+
+Toolbar can be removed and design cannot be changed.
+
+If you want to change the design, you have to customize it, and you have to request the development of the design you want.
 
 **\[How to remove toolbar]**
 
-\*If you look at the STEP2 design step of the App Creation →, there is a 'Use toolbar' checkbox in the default style options item.
+\*If you look at the Maker(V2) → Design Theme stage, there is a check box for’Show Toolbar’.
 
-Use the toolbar and check 'No' and save it. Press the \[Update App] button.
+Check ‘Remove Toolbar’ and save it. Please press the app production request.
 
-If you update your app to the new version after creating the app, the toolbar will be available in the uninstalled version.
+If you update the app to a new version after making the app, you can use the version with the toolbar removed.
 
-**\[How to change the toolbar design]**
+&#x20;
 
-**\*In the App Authoring→STEP2 Design Step Advanced Style Options item, you can change the toolbar background color, menu list background color, and menu list text color.**
+**Q. Can I switch from push app to web view version or update from web view app to push app?**
 
-If you want to change the menus and icons that are displayed in the toolbar, you can modify them by selecting the toolbar menu in Step -MENU Settings on page STEP3.
+Yes it is possible. \* Change the prototype to ‘Web View’ in the Maker(V2) → design theme stage, then save and request to create the app again.
 
-Icons can also be changed as you modify the menu.
+When you receive an update to a new version, you can check the prototype changed.
 
-Please edit it and save it. Press the \[Update App] button.
+If the app is released on the Play Store or App Store, you can update it to the newly created version as well.
 
-If you update your app to the new version after creating the app, the toolbar will be available in the uninstalled version.
+However, among web view app users, users who use the web view unlimited plug-in cannot be changed to push app.
 
-\*However, the toolbar design will not be visible in previous versions of V2 as it was updated on 06/07/2022.
+&#x20;
 
-You'll need to switch from V2 to V3 and work on the V3 version.
+**Q. How do I change the web link address after creating a push app?**
 
-**Q. Can I switch from a push app to a webview version or update from a webview app to a push app?**
+Changing the web link address applied to the app is the same.
 
-Yes you can. \*During the App Creation →STEP2 design phase, please change the prototype to 'WebView' and save and update the app again.
+**Maker(V2) → Page Menu Step**
 
-If you update to the new version, the prototype will be changed and you will be able to see it.
+**1) Enter the URL address in the web link field → 2) Apply button → 3) Select the save button**
 
-If your app has been released on the Play Store, App Store, etc., you can update it to the newly created version as well.
+\*Editing the web link address is automatically reflected in the app by pressing the save button.
 
-\*However, users who use push unlimited products should not be changed.
+\*If you run the app again after closing, it will be applied to the changed website.
 
-**Q. How do I change the weblink address after creating a push app?**
+&#x20;
 
-The same goes for changing the weblink address applied to your app.
+**Q. Will it change from a push app to a generic prototype?**
 
-A**pp Creation→ STEP3 Page Menu 1)Enter the URL Address in the Website Address field → 2)Select the Save button**
+After making a push-only prototype → It cannot be changed to a normal prototype (slide, top, footer, drop-down list, drop-down box).
 
-\*Modifying the web link address is automatically reflected in the app by simply pressing the Save button.
+\*If you need to change from a push-based to another prototype, you need to create and create an app.
 
-\*If you exit the app and relaunch it, it will be applied to the changed website.
+&#x20;
 
-\*However, users of Push Unlimited Paid App Subscription will need to save and re-create the app. You will need to update to the new version to be reflected.
+**Q. Can I apply for free commercial use of push apps?**
 
-**Q. Will the push app change to a normal prototype?**
+The application for the free commercial version can only be applied for apps created with a general prototype, and web view and push version apps are not available.
 
-**After being built as a push-only prototype, → cannot be changed to a regular prototype (slide, top, footer, drop-down list, drop-down box).**
+&#x20;
 
-\*If you need to change from a push-based to a different prototype, you'll need to create a new app.
+**Q. In the push app, do the changes or updates on the website are immediately reflected in the app?**
 
-**Q. Will the push app reflect what is being modified or updated on the website right away?**
+Since yes, web apps are applications that are driven by a website, the screen displayed on the website is reflected in the app as well.
 
-Because your web app is a website-linked application, the screen you see on your website is reflected in the app as well.
+Updates on the web are automatically reflected in the app even if you don’t do anything in the app.
 
-Even if you don't have to do anything extra in the app, updates from the web are automatically reflected in the app as well.
+&#x20;
 
-**Q. Can the functions that work normally on the mobile web not be available in the app?**
+**Q. Can functions that operate normally on the mobile web not be available in the app?**
 
-If there's no problem on the web, the app won't have the problem either. However, technical errors can occur at any time.
+If there is no problem on the web, the problem does not occur in the app. However, technical errors may occur at any time.
 
-So, if you have anything problematic while testing your app before launch, please leave it to us at Swing2App help.
+Therefore, if you have any problems while testing before launching the app, please leave it as an inquiry board.
 
-We are here to help by identifying your symptoms.
+We are helping you by checking the symptoms.
+
+
 
 
 
