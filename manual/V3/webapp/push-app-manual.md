@@ -358,7 +358,7 @@ Make sure to check the contents of the store policy so that there will be no pro
 
 &#x20;
 
-## **STEP5. Sending push from push app**
+## **STEP4. Sending push from push app**
 
 &#x20;
 
@@ -380,7 +380,7 @@ Therefore, if the app is created, check the push sending function and familiariz
 
 &#x20;
 
-## **STEP6.Precautions and push app production Q\&A**
+## **STEP5.Precautions and push app production Q\&A**
 
 &#x20;
 
