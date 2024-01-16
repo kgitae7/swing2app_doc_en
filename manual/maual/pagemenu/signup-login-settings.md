@@ -120,7 +120,7 @@ Administrator login is a function that allows you to log in from the app as an a
 
 You can find out how to use the function in detail by checking the link in the manual below.
 
-**☞**[**Go to see how to use the app manager menu**](../../../appguide/appoperation/app-administratormenu.md)
+**☞**[**Go to see how to use the app manager menu**](../../appoperation/app-administratormenu.md)
 
 <mark style="color:red;">**\*Important guidance**</mark>
 

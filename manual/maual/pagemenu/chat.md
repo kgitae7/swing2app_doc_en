@@ -124,7 +124,7 @@ App administrator login allows admins to talk to members in the app.
 
 ,**\*You can also chat with members in the app. Please check it!**
 
-**☞** [**\[View how to use the Admin App menu\]**](../../../appguide/appoperation/appmaster-chat.md)
+**☞** [**\[View how to use the Admin App menu\]**](../../appoperation/appmaster-chat.md)
 
 ### <mark style="color:blue;">**4. New alarm push notification – administrators, members**</mark>
 

@@ -262,4 +262,4 @@ When the production is complete, the **APK file** (the file that you can downloa
 
 \*APK files can only be installed on Android phones. (iPhones are not supported.)
 
-[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../../appguide/swingpreview.md)
+[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../swingpreview.md)

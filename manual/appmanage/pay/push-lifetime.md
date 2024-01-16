@@ -85,7 +85,7 @@ You can check the completed app by using the Swing2App official app \[App Previe
 
 \*Please check the manual below for how to install the app and download it to your Android phone.
 
-[https://support.swing2app.com/documentation/appoperation/appinstall/](../../../appguide/appoperation/appinstall.md)
+[https://support.swing2app.com/documentation/appoperation/appinstall/](../../appoperation/appinstall.md)
 
 Since creating an app is simple, you can easily follow it by looking at the manual.
 

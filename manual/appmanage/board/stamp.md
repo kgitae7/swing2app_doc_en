@@ -162,7 +162,7 @@ The user’s stamp is registered by executing QR code on the app manager menu �
 
 App Manager Menu – Stamp registration method can be found in the details below.
 
-[**\[App Manager Menu: Go to Stamp Registration Manual\]**](../../../appguide/appoperation/appadministrator-stamp.md)
+[**\[App Manager Menu: Go to Stamp Registration Manual\]**](../../appoperation/appadministrator-stamp.md)
 
 ### <mark style="color:blue;">**STEP.4 How to delete a stamp**</mark>
 

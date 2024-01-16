@@ -94,6 +94,6 @@ If the app is released on the App Store, iPhone users can also share it. (You ca
 
 **★Please check the following link posted for App sharing, bulletin board, and post sharing manual.**
 
-[**\[View how to use the app sharing manual\]**](../../../appguide/appoperation/appshare.md)
+[**\[View how to use the app sharing manual\]**](../../appoperation/appshare.md)
 
-[**\[View how to use the Bulletin Post Sharing Manual\]**](../../../appguide/appoperation/bulletinboard-share.md)
+[**\[View how to use the Bulletin Post Sharing Manual\]**](../../appoperation/bulletinboard-share.md)
