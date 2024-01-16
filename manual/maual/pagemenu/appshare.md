@@ -16,23 +16,19 @@ You can share the app with a variety of application paths installed on your phon
 * iPhone can not share the free version of the app, only apps released on the App Store can be shared.
 * When you share an app, if the app is released to the App Store or Play Store, you will be taken to the store launch link (URL).
 
-
-
 ### <mark style="color:blue;">**01. Apply \[Share Apps]**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/%EC%95%B1%EA%B3%B5%EC%9C%A01.png)
 
 Go to **Maker(V2)**
 
-1. Click on **Add a Category.** A new item with be added to the menu items.&#x20;
+1. Click on **Add a Category.** A new item with be added to the menu items.
 2. Change the name of the new item added from in **Menu Name** option.
-3. &#x20;Select **Swing2App** from **Menu Type.**
+3. Select **Swing2App** from **Menu Type.**
 4. Click on the **Link Wizard icon**(pencil icon).
 5. Select **Share** from the **Swing Function** tab. Click **Reflect**.
 6. Click **Apply.**
 7. Click **Save** at the top of the page.
-
-
 
 ### <mark style="color:blue;">**02. Launch App Screen: Share App**</mark>
 
@@ -44,13 +40,9 @@ Select \[Share app] in the menu to open a list of apps that can be shared.
 
 \*The first window will display the representative application, and you can select other applications by selecting Share Others.
 
-
-
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/%EC%95%B1%EA%B3%B5%EC%9C%A03-1.png)
 
 Select \[Share Others] to see a list of various apps.
-
-
 
 <mark style="color:orange;">**▶Email App Sharing**</mark>
 
@@ -64,12 +56,9 @@ Selecting the link will take you to the app install window as shown above.
 
 How to launch and install an app is the same as the kakao talk sharing method described above, and you can run and download the app depending on whether the user installs the app or not.
 
-
-
 ### <mark style="color:blue;">**03. Menu Settings: Sharing Apps**</mark>
 
-\
-
+\\
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/%EC%95%B1%EA%B3%B5%EC%9C%A06-1.png)
 
@@ -84,8 +73,6 @@ Settings are pages where you can sign up for basic information, notification set
 As a result, the App Sharing feature is also available as a default feature in the Menu Settings.
 
 **And in addition to sharing apps, you can share bulletin boards, posts, and images.**
-
-
 
 \[App sharing instructions-including app sharing, bulletin board, post sharing]
 
@@ -105,10 +92,8 @@ Apps created in the free version does not support sharing on the iPhone.
 
 If the app is released on the App Store, iPhone users can also share it. (You can download the app by going to the App Store when sharing).
 
+**★Please check the following link posted for App sharing, bulletin board, and post sharing manual.**
 
+[**\[View how to use the app sharing manual\]**](../../../appguide/appoperation/appshare.md)
 
-**★Please check the following link posted for App sharing, bulletin board, and post sharing manual.**&#x20;
-
-[**\[View how to use the app sharing manual\]**](../../appoperation/appshare.md)
-
-[**\[View how to use the Bulletin Post Sharing Manual\]**](../../appoperation/bulletinboard-share.md)
+[**\[View how to use the Bulletin Post Sharing Manual\]**](../../../appguide/appoperation/bulletinboard-share.md)

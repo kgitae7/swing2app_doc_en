@@ -10,9 +10,9 @@
 2. Push app is a web app style created by moving the website as it is, and can send push messages to users who have installed the app.
 3. **It is an integrated application for Android + iPhone, and you can use the app with unlimited (limited period X) without paying monthly fees.**
 4. **Push can be sent an unlimited number of times without any restrictions on the number of members or sending.**
-5. &#x20;Push-only unlimited paid app products cost $550(tax included).
+5. Push-only unlimited paid app products cost $550(tax included).
 6. Apps can be released on the Play Store and App Store.\
-   **If the cost of using the paid app that you have to pay monthly is a burden, you can use the app without any burden when you need to use the app for a long period of time.**&#x20;
+   **If the cost of using the paid app that you have to pay monthly is a burden, you can use the app without any burden when you need to use the app for a long period of time.**
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Prototype: What is Push?**
 
@@ -23,8 +23,6 @@ Swing2App provides several styles of UI design-prototype.
 If you enter the website (homepage) URL without any other production function, it will be linked to the app and produced, and a push toolbar will be created at the bottom of the app.
 
 Additionally, the push app can send push messages to users who have installed the app. \*Unlimited pushes are also sent.
-
-
 
 * The first thing you should do is create a push version app, right? I’ll tell you how to make an app!
 
@@ -51,22 +49,18 @@ Please see the production guideline manual first for the icon and standby screen
 
 The modification of basic app information is reflected only when you update to a new version by pressing the \[App Creation Request] button.
 
-
-
 **Step 2: Design theme**
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/09/gdhye.png)
 
 1. Prototype selection: Select’Push Only’
 
-&#x20; 2\. Select whether to display the toolbar\
-&#x20;   \-Select whether to use toolbar or remove toolbar
+2\. Select whether to display the toolbar\
+\-Select whether to use toolbar or remove toolbar
 
-&#x20; 3\. \[Save] button&#x20;
+3\. \[Save] button
 
-&#x20; 4\. Select the \[Next] button.
-
-
+4\. Select the \[Next] button.
 
 **Step 3: Page menu**
 
@@ -75,11 +69,11 @@ The modification of basic app information is reflected only when you update to a
 1. Enter site address: Enter the URL address of the link you want to apply to the app.\
    \*When entering a link, be sure to enter the hyperlink http://
 
-&#x20; 2\. \[Save] button
+2\. \[Save] button
 
-&#x20; 3\. \[App production request] button
+3\. \[App production request] button
 
-&#x20; 4\. Select the \[Create] button to complete.
+4\. Select the \[Create] button to complete.
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
 
@@ -91,13 +85,11 @@ You can check the completed app by using the Swing2App official app \[App Previe
 
 \*Please check the manual below for how to install the app and download it to your Android phone.
 
-[https://support.swing2app.com/documentation/appoperation/appinstall/](../../appoperation/appinstall.md)
+[https://support.swing2app.com/documentation/appoperation/appinstall/](../../../appguide/appoperation/appinstall.md)
 
 Since creating an app is simple, you can easily follow it by looking at the manual.
 
 Production and operation are available for free at no extra cost, so first create an app for free, make it, and test it!
-
-
 
 ### <mark style="color:blue;">**2. How to purchase and use push-only unlimited paid apps**</mark>
 
@@ -137,7 +129,7 @@ Please apply for upload to the store you want to release, such as the Play Store
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/d2.png)
 
-(1) Online Stores → Purchase a store upload ticket from the Vouchers & Tickets page [ ](https://swing2app.com/view/shop\_list)
+(1) Online Stores → Purchase a store upload ticket from the Vouchers & Tickets page
 
 [**https://swing2app.com/view/shop\_list**](https://swing2app.com/view/shop\_list)
 
@@ -149,23 +141,19 @@ Click the \[Play Store Upload] or \[App Store Upload] button to complete the app
 
 **\*The app store cannot be uploaded directly, and uploading can only be released through Swing.**
 
-
-
 **\[Notes on store upload]**
 
 1\) Store upload tickets are not included in push-only unlimited paid app products.
 
 Store upload agency can apply for upload by purchasing \[Play Store upload ticket ($5), App store upload ticket ($20)].
 
-[**\[Purchase Play Store upload tickets\]**](https://swing2app.com/view/order\_info\_action?product\_id=4) **,**  [**\[Purchase App Store upload tickets\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3)
+[**\[Purchase Play Store upload tickets\]**](https://swing2app.com/view/order\_info\_action?product\_id=4) **,** [**\[Purchase App Store upload tickets\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3)
 
 **2) To upload the Play Store, you must create your Google developer account (registration fee of 25$) in advance** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=4)
 
-**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account..** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3)&#x20;
+**3) You can create a developer account in the App Store or register as an agency with Hustay, our Swing2App company account..** [**\[View product details\]**](https://www.swing2app.com/view/order\_info\_action?product\_id=3)
 
 \*Please check the purchase page for details of each uploaded ticket.
-
-
 
 ### <mark style="color:blue;">**3. Caution**</mark>
 

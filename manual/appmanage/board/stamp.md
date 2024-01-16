@@ -26,8 +26,6 @@ If you run the app provided by the company without the hassle of carrying a coup
 
 ***
 
-&#x20;
-
 **Select the \[Create Bulletin] button to open the \[Bulletin Board and Features Setting] window.**
 
 Select the stamp in the window and save it.
@@ -65,8 +63,6 @@ If you want to change the permissions in the detailed setup, please follow the i
 
 The second way is to use the various options provided by the bulletin board.\
 If you want to use the default setting without using the option, you can apply it first.
-
-
 
 <mark style="color:blue;">**3. Stamp bulletin board setting**</mark>
 
@@ -117,7 +113,7 @@ If you made a stamp on the bulletin board, it should be applied to the app. Go t
 We will show you how to put stamps on the app members.
 
 1. Go to **Manager** and select **Posts.**
-2. Click on the Stamp bulletin board.&#x20;
+2. Click on the Stamp bulletin board.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b80.png)
 
@@ -139,7 +135,7 @@ We will show you how to put stamps on the app members.
 
 If you are unable to verify your membership number right away, you can register using the second method-**Find Member.**\
 If you click on the **Find Member** button, a list of members registered for the app will open.\
-Search for a username, select the member, and register a stamp.&#x20;
+Search for a username, select the member, and register a stamp.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp.png)
 
@@ -166,9 +162,7 @@ The user’s stamp is registered by executing QR code on the app manager menu �
 
 App Manager Menu – Stamp registration method can be found in the details below.
 
-[**\[App Manager Menu: Go to Stamp Registration Manual\]**](../../appoperation/appadministrator-stamp.md)
-
-
+[**\[App Manager Menu: Go to Stamp Registration Manual\]**](../../../appguide/appoperation/appadministrator-stamp.md)
 
 ### <mark style="color:blue;">**STEP.4 How to delete a stamp**</mark>
 
@@ -196,8 +190,6 @@ When you add a stamp, the stamp is added as a quantity, just as the stamp in the
 The stamp image is also displayed as the image registered in the bulletin board function – detail setting.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/14@3x.png)
-
-
 
 <mark style="color:orange;">**★Please check the image added to the stamp.**</mark>
 

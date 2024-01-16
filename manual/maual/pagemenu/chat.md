@@ -13,8 +13,7 @@ Like Kakao Talk or Messenger, you can exchange conversations in real-time, so it
 
 Please check how to use the administrator chat (1:1 chat) through the manual.
 
-\
-
+\\
 
 ### <mark style="color:blue;">**1. Apply admin chat to your app**</mark>
 
@@ -22,7 +21,7 @@ Please check how to use the administrator chat (1:1 chat) through the manual.
 
 **The admin chat function is provided in the – Swing2App page of the app production page. Please apply for a chat room in the app.**
 
-1. Click on **Add a Category.** A new item with be added to the menu items.&#x20;
+1. Click on **Add a Category.** A new item with be added to the menu items.
 2. Change the name of the new item added from in **Menu Name** option.
 3. Select **Swing2App Page** from **Menu Type.**
 4. Click on the **Link Wizard icon**(pencil icon).
@@ -33,7 +32,7 @@ Please check how to use the administrator chat (1:1 chat) through the manual.
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/Admin\_Chat\_up.png)
 
-&#x20;<mark style="color:orange;">**▶Completed Chat Rooms**</mark>
+<mark style="color:orange;">**▶Completed Chat Rooms**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Screenshot-2020-04-14-at-01.51.01.png)
 
@@ -41,23 +40,17 @@ You can see the admin chat page (1:1 chat) is applied to the app.
 
 So when the app members contact the administrator, you can enter the menu and start the conversation.
 
-
-
 ### <mark style="color:blue;">**2. App Launch Screen: Chat room screen**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/06/%EC%98%81%EC%96%B4%EA%B4%80%EB%A6%AC%EC%9E%90%EC%B1%84%ED%8C%85.png)
 
 When you view the app launch screen, you will receive messages entered by the administrator in the chat room, and the app members can send and receive texts.
 
-
-
 <mark style="color:blue;">**How can administrators chat with app members?**</mark>
 
 <mark style="color:purple;">**Administrators can chat by selecting members from the member inquiry menu provided on the Swing2App web(app operation page).**</mark>
 
 Check out how the admin chats with app members below.
-
-
 
 ### <mark style="color:blue;">**3. How administrators chat with app members**</mark>
 
@@ -67,23 +60,17 @@ Check out how the admin chats with app members below.
 
 Move to the swing2app homepage app operation page → push & membership → member inquiry menu.
 
-
-
 <mark style="color:orange;">**2)Choose a member to talk to and chat with**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Chat3.png)
 
-**You can check the **<mark style="color:orange;">**\[Private Conversations], \[Public Conversations]**</mark>** buttons on the Member’s Inquiry page.**
+**You can check the \[Private Conversations], \[Public Conversations]**\*\* buttons on the Member’s Inquiry page.\*\*
 
 **On the member inquiry page, select a member to chat with and then click the corresponding chat button to start chatting.**
-
-
 
 **What is Private and Public Conversation?**
 
 The conversation option doesn’t matter to app members. This is the chat option administrators can choose.
-
-
 
 <mark style="color:orange;">**▶Private Conversation**</mark>
 
@@ -127,8 +114,6 @@ So if you need to talk to someone you’ve chatted with before, you can continue
 
 **☞** [**\[View how to use the admin chat page\]**](../../appmanage/service/chatlist.md)
 
-
-
 <mark style="color:red;">**★ Wait!!**</mark>
 
 **Administrators can chat on the web (Swing2App homepage) or in the app.**
@@ -139,17 +124,13 @@ App administrator login allows admins to talk to members in the app.
 
 ,**\*You can also chat with members in the app. Please check it!**
 
-**☞** [**\[View how to use the Admin App menu\]**](../../appoperation/appmaster-chat.md)
-
-
+**☞** [**\[View how to use the Admin App menu\]**](../../../appguide/appoperation/appmaster-chat.md)
 
 ### <mark style="color:blue;">**4. New alarm push notification – administrators, members**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png)
 
 When you chat, app administrators and app members can all receive chat message notification pushes.
-
-
 
 <mark style="color:red;">**\*Instructions**</mark>
 

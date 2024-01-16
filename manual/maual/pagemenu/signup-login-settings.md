@@ -7,10 +7,7 @@
 Swing2App Page is a menu that provides app essentials provided by Swing2App.\
 Signing up, logging in, and setting up are typical app functions.\
 In addition to this function, you can select various functions on the swing page and apply them to the app.\
-I will tell you how to apply the membership, login, and setup page provided by the swing page to the app and the app execution screen.\
-
-
-
+I will tell you how to apply the membership, login, and setup page provided by the swing page to the app and the app execution screen.\\
 
 ### <mark style="color:blue;">**1. Swing2App Page: Sign-up**</mark>
 
@@ -45,8 +42,6 @@ You can check the details of the member registration form setting when checking 
 
 **☞**[**Setting up the membership form**](../../appmanage/service/signup-id.md)
 
-
-
 ### <mark style="color:blue;">**2. Swing2App Page: Login**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/10/ksuem.png)
@@ -79,15 +74,11 @@ The ID and password entry screen will be displayed.
 
 The login screen also displays the membership function.
 
-
-
 <mark style="color:orange;">**▶ When login is complete, the login menu changes to ‘Logout’.**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/10/isnld@3x.png)
 
 When you finish logging in after signing in, the login listed in the menu name is automatically changed to **→Logout.**
-
-
 
 ### <mark style="color:blue;">**3. Swing2App Page: Settings**</mark>
 
@@ -129,9 +120,7 @@ Administrator login is a function that allows you to log in from the app as an a
 
 You can find out how to use the function in detail by checking the link in the manual below.
 
-**☞**[**Go to see how to use the app manager menu**](../../appoperation/app-administratormenu.md)
-
-
+**☞**[**Go to see how to use the app manager menu**](../../../appguide/appoperation/app-administratormenu.md)
 
 <mark style="color:red;">**\*Important guidance**</mark>
 

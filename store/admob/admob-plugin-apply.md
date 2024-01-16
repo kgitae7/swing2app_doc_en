@@ -4,8 +4,6 @@ description: How to set up AdMob plugin ads
 
 # How to apply AdMob plug-in
 
-
-
 ***
 
 You can create an ad-profit app by applying Google AdMob advertisement to an app produced by Swing2App.
@@ -42,8 +40,6 @@ The app can be modified and updated continuously in the future, so even if you a
 
 ***
 
-
-
 ## **2. Purchase AdMob plug-in products or package products**
 
 ### <mark style="color:blue;">1) Purchase plug-in products with Google AdMob (single product)</mark>
@@ -52,7 +48,7 @@ The app can be modified and updated continuously in the future, so even if you a
 
 \*[Manager → Online Stores → Swing2App Plug-in](https://www.swing2app.com/view/new\_product\_list\_by\_plugin) Please pay $220 on the Swing Plug-in purchase page.
 
-AdMob plug-in products are also available in the free version of the app.&#x20;
+AdMob plug-in products are also available in the free version of the app.
 
 You can purchase a paid app coupon after setting up the advertisement.
 
@@ -72,7 +68,7 @@ You can also purchase the **\[AdMob Power Package]** package.
 
 <figure><img src="../../.gitbook/assets/애드몹(en)2.png" alt=""><figcaption></figcaption></figure>
 
-\*[Manager → Online Stores → Swing Package Product ](https://www.swing2app.com/view/new\_product\_list\_by\_package) Please pay $420 for **\[AdMob Power Package]**.
+\*[Manager → Online Stores → Swing Package Product ](https://www.swing2app.com/view/new\_product\_list\_by\_package)Please pay $420 for **\[AdMob Power Package]**.
 
 The AdMob Power Package is a cheaper package product that combines ad-mob and voucher.
 
@@ -84,8 +80,6 @@ So if you’re going to use the app for a long time, it’s much cheaper to buy 
 
 ***
 
-
-
 ## **3. Create the ID required to subscribe to AdMob sites and set up ads**
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/10/ad51.png)
@@ -95,8 +89,6 @@ So if you’re going to use the app for a long time, it’s much cheaper to buy 
 2\)Add apps to create advertising unit IDs and check app IDs.
 
 3\) Please add all payment information so that it is not omitted.
-
-
 
 To set ad-mob ads on the app, you need the information below.
 
@@ -112,8 +104,6 @@ Please check the manual below for how to sign up for ad mobs, create advertising
 
 ***
 
-
-
 ## **4. Set up ads in AdMob plug-in settings**
 
 <div align="left">
@@ -125,8 +115,6 @@ Please check the manual below for how to sign up for ad mobs, create advertising
 After signing up for an ad-mob, if you’ve made all the advertising unit IDs, now I’m going to use the app! Let’s set up the ad.
 
 **Manager → Services → AdMob Plug-in Settings**
-
-
 
 ### <mark style="color:blue;">**1) Ad unit ID setting**</mark>
 
@@ -141,8 +129,6 @@ After signing up for an ad-mob, if you’ve made all the advertising unit IDs, n
 \-Enter iPhone full-page ad, banner ad ID
 
 \-Android, enter iPhone app ID
-
-
 
 ### <mark style="color:blue;">**2) Setting up a pattern of ad exposure**</mark>
 
@@ -187,9 +173,7 @@ Example) If you set it up for 60 seconds, the advertisement will be exposed 60 s
 {% endhint %}
 
 {% hint style="danger" %}
-### <mark style="color:red;">**Important**</mark>
-
-
+#### <mark style="color:red;">**Important**</mark>
 
 Please be careful when setting up a full-page advertisement!
 
@@ -212,11 +196,7 @@ You’re free to modify it at any time! Please re-produce the app only during th
 After that, you just need to modify it and save it. If you exit and re-run the app, it will be reflected in the changed advertising settings.
 {% endhint %}
 
-
-
 ***
-
-
 
 ## **5. App Creation Request (App Update)**
 
@@ -240,11 +220,7 @@ Therefore, it is not allowed to produce ‘Do not display updates’ so that onl
 
 If you make any further modifications, just save it and it will be reflected in the app. (If you re-run after the app is closed, it will be reflected in the changed advertising settings.)
 
-
-
 ***
-
-
 
 ## **6. Set ad app production completed (app test)**
 
@@ -304,11 +280,7 @@ All of these must be checked directly by the operator on the ad-mob site and man
 If you can’t proceed with the content, the actual app advertisement can be delayed even if you complete the ad-mob advertisement.
 {% endhint %}
 
-
-
 ***
-
-
 
 ## 7. Registering the Store
 
@@ -338,17 +310,13 @@ The application pop-up will be displayed, and you will need to fill out the appl
 
 **☞**[**\[How to apply for a App Store upload\]**](../../manual/appmanage/version/appstore-upload.md)
 
-
-
 If you apply for upload of Play Store and App Store, we will upload your app on your behalf.
 
 You must check the policies for each store.
 
-\*Store registration policy:  [https://support.swing2app.com/market-policy/](https://support.swing2app.com/market-policy/)
+\*Store registration policy: [https://support.swing2app.com/market-policy/](https://support.swing2app.com/market-policy/)
 
 ***
-
-
 
 ## **8. Advice on operation of AdMob (user confirmation)**
 
@@ -359,16 +327,12 @@ So please make sure you have a previous account before joining the ad-mob.\
 If you accidentally created a duplicate account, you should request the account to be closed.\
 **If you have a duplicate account, the advertisement will not be posted, and even if you request the cancellation of the duplicate account, it may take a long time for the account to be restored.**
 
-
-
 **2) AdMob ads must be checked and managed by the operator.**
 
 If you created an advertising unit ID by adding an app for the first time, you should check if there are any unsupervised or blocked ads in the advertising management.\
 You need to check it from time to time, not just from the beginning.\
 If there is an unreviewed advertisement, the advertisement does not appear on the user’s phone, so the operator should always check it and change it to a review advertisement.\
 **If you don’t manage your ads properly, the ads can suddenly go down or stop posting even if the ads are posted well at first.**
-
-
 
 **3) Please be aware of invalid traffic and negative clicks!**
 
@@ -379,28 +343,22 @@ Not only the operator, but also the users of the app choose to advertise artific
 If there is any suspicious behavior, the advertisement may be suspended due to invalid traffic.\
 **=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
 
-
-
 **4) App ad publishing may be interrupted if traffic is low.**
 
 Just by setting up an ad mob on the app, you don’t get the advertising revenue right away.\
 Google is sending out ads to see if the app is reliable.\
 **If the operator’s app installation is poor or the users’ use of the app is poor, the app is judged to be unreliable and the advertisement is stopped.**\
 Therefore, it’s not just about creating an app and setting up an ad mob, but it’s about time to continue marketing activities such as promoting the app so that more users can use it.\
-\
-
+\\
 
 **5) Make sure to register the payment profile on the ad-mob.**
 
 If the payment information is not registered in the ad mob, the advertisement will not be posted.\
 Google opens the advertisement only when the payment profile is confirmed, so please complete the registration of payment information when you sign up.\
 \= If you apply without entering payment information, the AdMob advertisement will be delayed that much.\
-\*After setting up the ad mob, you have to manage all of the ads yourself, so you must check and check the operation parts.\
-
+\*After setting up the ad mob, you have to manage all of the ads yourself, so you must check and check the operation parts.\\
 
 ***
-
-
 
 ## **9. Precautions**
 
@@ -444,8 +402,6 @@ There are many conditions, and we need to get publicity and users to install man
 
 ***
 
-
-
 ## **10.Refund guidance**
 
 1\) Refund is possible when applying within 3 days of purchase, but if the ad mob setting is completed, no refund is possible.
@@ -456,5 +412,4 @@ There are many conditions, and we need to get publicity and users to install man
 
 4\) Please check the swing refund policy.
 
-\[Use policy-Checking refund regulations] &#x20;
-
+\[Use policy-Checking refund regulations]

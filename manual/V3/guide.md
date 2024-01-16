@@ -4,7 +4,7 @@ description: MakerV3 App Creation Guide Manual
 
 # Manual on How to Create an App In MakerV3 Screen
 
-###  STEP1 Basic Information
+### STEP1 Basic Information
 
 **Step 1 \[Basic Information] is the step of entering the basic information required to create the app. In this step, you need to register the app name, icon image, splash screen image, etc.**
 
@@ -18,7 +18,7 @@ When you finish entering the information in the app creation wizard screen, the 
 
 **3. App icon:** Register the app icon image <mark style="color:red;">**(1024x1024px)**</mark>
 
-**4. Standby screen:** Register a splash screen image that will be displayed for 1-2 seconds when the app is launched. <mark style="color:red;">**(2282x2282px)**</mark>&#x20;
+**4. Standby screen:** Register a splash screen image that will be displayed for 1-2 seconds when the app is launched. <mark style="color:red;">**(2282x2282px)**</mark>
 
 **5. Save:** After you are satisfied with your app creation, click on, the \[Save] button to save the work.
 
@@ -40,8 +40,7 @@ Icon image size: **1024px\*1024px**
 
 (2)Select the Upload Image button in the file attachment window.
 
-(3)After registering the image, click on the Apply button.\
-
+(3)After registering the image, click on the Apply button.\\
 
 **2)Upload the splash screen image**
 
@@ -63,15 +62,13 @@ Also, for more details, check out the splash screen creation guide.
 
 To get the best results, be sure to design and apply the image as per the guide.
 
-
-
 [<mark style="color:blue;">**Go to the icon image creation guide**</mark>](../maual/appbasic/appicon.md)
 
 [<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>](../maual/appbasic/apploading.md)
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **STEP2** Prototype
+### **STEP2** Prototype
 
 **\[STEP2 Prototype]** is the step of determining the overall design and style of the app's UI design and color.
 
@@ -100,7 +97,7 @@ This is not a required setting, users can modify it if they want to.
 **​**
 
 {% hint style="warning" %}
-<mark style="color:orange;">What if none of the combined colors present in the preset are as per your interest? In that case,  please use the detailed settings.</mark>
+<mark style="color:orange;">What if none of the combined colors present in the preset are as per your interest? In that case, please use the detailed settings.</mark>
 {% endhint %}
 
 ![](../../.gitbook/assets/가이드2-2.png)
@@ -113,17 +110,15 @@ In addition to the fixed color combinations, the detailed color setting is an op
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **STEP3 Page**
+### **STEP3 Page**
 
 **\[STEP3 PAGE] is a step to create categories and menus for the app.**
 
-The Home option is to set the main home screen of the app.&#x20;
+The Home option is to set the main home screen of the app.
 
 On the left area, you can set the menus of the app.
 
 We'll show you how to apply the home screen and menus of the app.
-
-
 
 ### **1.** How to apply the home screen
 
@@ -145,8 +140,6 @@ Click on the \<Home> option from the menu category on the left side of the Maker
 
 \*Since you don't have any template created, you must first go to the Page Template Creator to create a template page.
 
-
-
 <mark style="color:green;">**\[Template Page Editor Tool]**</mark>
 
 ![](../../.gitbook/assets/가이드3-템플릿.png)
@@ -154,8 +147,6 @@ Click on the \<Home> option from the menu category on the left side of the Maker
 To learn how to create a template page, please check out the production manual below!
 
 **☞** [<mark style="color:blue;">**Find out how to create and operate a template page**</mark>](../maual/pagemenu/template-page.md)
-
-
 
 ![](../../.gitbook/assets/가이드3-템플릿2.png)
 
@@ -165,11 +156,9 @@ To learn how to create a template page, please check out the production manual b
 
 4\)Hover your cursor over the template, **\<preview, apply, manage>** options will pop up
 
-If you want to check how the template looks before applying it to the app, select the 'Preview' button, select the 'Apply' option to apply the created template to the app and choose the 'Manage' option if you wish to modify your created template. &#x20;
+If you want to check how the template looks before applying it to the app, select the 'Preview' button, select the 'Apply' option to apply the created template to the app and choose the 'Manage' option if you wish to modify your created template.
 
 5\)Click on the \[Save] button and check the template applied to the home screen on the virtual machine screen.
-
-
 
 ### **2.** Menu Management
 
@@ -185,11 +174,9 @@ When you hover your mouse over the menu, the trash can-shaped icon and the \[+] 
 
 <mark style="color:red;">**\*Delete menu: Select the trash can icon**</mark>
 
-<mark style="color:red;">**\*Add menu: Select \[+] icon**</mark>&#x20;
+<mark style="color:red;">**\*Add menu: Select \[+] icon**</mark>
 
 Like this, you can easily delete and add menus.
-
-
 
 <mark style="color:green;">**2)Menu Customization**</mark>
 
@@ -209,9 +196,7 @@ Click on the UI KIT option-> Select Board-> Select the board style you want to a
 
 (5)Click on the Save button to save all the changes.
 
-You can cross-check on the virtual machine to see if everything is applied properly.&#x20;
-
-
+You can cross-check on the virtual machine to see if everything is applied properly.
 
 <mark style="color:green;">**3)Change the Placement of the menu**</mark>
 
@@ -225,7 +210,7 @@ Like this, you can change the position of menus, from a sub to a top menu and vi
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  STEP4 Creating an App
+### STEP4 Creating an App
 
 Once you've finished building your app, complete the process by clicking on the \[App creation] button.
 
@@ -233,7 +218,7 @@ Once you've finished building your app, complete the process by clicking on the 
 
 Even after you finish the app creation process, you can freely modify your app at any time.
 
-So complete app production and preview it on your mobile without worrying about any incomplete menu as you can modify and update your app unlimited times.&#x20;
+So complete app production and preview it on your mobile without worrying about any incomplete menu as you can modify and update your app unlimited times.
 
 ![](../../.gitbook/assets/가이드4.png)
 
@@ -245,43 +230,36 @@ So complete app production and preview it on your mobile without worrying about 
 
 <mark style="color:red;">\*User can select Update type and update notification display option.</mark>
 
-<mark style="color:red;">Since this is your first time building an app, we recommend you go with the default setting of update.</mark>&#x20;
+<mark style="color:red;">Since this is your first time building an app, we recommend you go with the default setting of update.</mark>
 
 ![](<../../.gitbook/assets/구분선 (1) (1) (1).PNG>)
 
-###  **STEP5** Complete App Creation&#x20;
-
-
+### **STEP5** Complete App Creation
 
 ![](../../.gitbook/assets/make12.png)
 
-Once you click on the \[App creation] button, you'll get redirected to the App Production History page on the  Manager page.
+Once you click on the \[App creation] button, you'll get redirected to the App Production History page on the Manager page.
 
-The status of each platform will be marked as 'Pending Production Order', and it'll change to Complete after 5-10 minutes. Then you'll receive apk file of your app via registered mail.&#x20;
+The status of each platform will be marked as 'Pending Production Order', and it'll change to Complete after 5-10 minutes. Then you'll receive apk file of your app via registered mail.
 
 ![](../../.gitbook/assets/make14.png)
 
-On this screen, a \[Swing2App Preview] pop-up window will appear.&#x20;
+On this screen, a \[Swing2App Preview] pop-up window will appear.
 
 It's a feature that allows you to preview the app through a swing2app preview screen before it is reached its final stage of creation.
 
 \*View on the web: Select the \[Watch directly on the web] button to preview apps created on virtual machines on the web.
 
-\*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing2app account or scan the QR code shown in the pop-up window and you can preview the app on your phone!&#x20;
-
-
+\*Preview on your phone: After downloading the official Swing2App app – App Preview menu – log in with your swing2app account or scan the QR code shown in the pop-up window and you can preview the app on your phone!
 
 ![](../../.gitbook/assets/make13.png)
 
-After 5-10 minutes, the platform-specific status will change to "App Creation Complete!"&#x20;
+After 5-10 minutes, the platform-specific status will change to "App Creation Complete!"
 
 When the production is complete, the **APK file** (the file that you can download your app from) will be sent to you via Swing2App subscription email.
-
-
 
 **​**\*APK files can't be opened on your PC, so make sure to check it on your phone.
 
 \*APK files can only be installed on Android phones. (iPhones are not supported.)
 
-[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../swingpreview.md)
-
+[<mark style="color:blue;">**See how to install apps created using app preview on your phone**</mark>](../../appguide/swingpreview.md)
