@@ -10,7 +10,7 @@ description: >-
 
 We'll walk you through the basic style options and advanced style options that you can set when you create a webview app.
 
-![](../../.gitbook/assets/Untitled-2-Reefred.png)
+![](../../../.gitbook/assets/Untitled-2-Reefred.png)
 
 Prototype: Select WebView Only, you can see the basic style options and the advanced style options in the STEP2 design step.
 
@@ -28,7 +28,7 @@ I'll introduce you below to the Apply App with this feature screen.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Untitled-2-Rsrgged.png" alt="" width="323">
+<img src="../../../.gitbook/assets/Untitled-2-Rsrgged.png" alt="" width="323">
 
 </div>
 
@@ -36,7 +36,7 @@ I'll introduce you below to the Apply App with this feature screen.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Swing Web Pushv - Copy (1).gif" alt="" width="375">
+<img src="../../../.gitbook/assets/Swing Web Pushv - Copy (1).gif" alt="" width="375">
 
 </div>
 
@@ -54,7 +54,7 @@ Unused and the refresh is not available in the app upon check.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Untitled-2-Rdffd.png" alt="" width="323">
+<img src="../../../.gitbook/assets/Untitled-2-Rdffd.png" alt="" width="323">
 
 </div>
 
@@ -62,7 +62,7 @@ Unused and the refresh is not available in the app upon check.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Screenrecorder-2023-08-29-02-09-37-626.gif" alt="" width="375">
+<img src="../../../.gitbook/assets/Screenrecorder-2023-08-29-02-09-37-626.gif" alt="" width="375">
 
 </div>
 
@@ -84,7 +84,7 @@ If you check Yes, the top button will be shown as duplicate.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Untitled-2-efged.png" alt="" width="323">
+<img src="../../../.gitbook/assets/Untitled-2-efged.png" alt="" width="323">
 
 </div>
 
@@ -108,7 +108,7 @@ If you don't use the system font, it will be automatically set to the default in
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Untitled-2-esged.png" alt="" width="323">
+<img src="../../../.gitbook/assets/Untitled-2-esged.png" alt="" width="323">
 
 </div>
 

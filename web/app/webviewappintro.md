@@ -38,7 +38,11 @@ description: Introducing a web app connected to a website - the WebView app.
 
 <figure><img src="../../.gitbook/assets/소개5_EN.png" alt=""><figcaption></figcaption></figure>
 
+If you want to see the entire process of creating and launching a WebView app in the store at a glance
+
+You can check more details about the Swing2App WebView app creation method in the manual below.
+
+{% embed url="https://documentation.swing2app.com/web/app/webview" %}
 
 
-If you want to see the entire process of creating and launching a WebView app in the store at a glance? You can check more details about the Swing2App WebView app creation method in the manual below. Manual for the Entire Process of WebView App
 

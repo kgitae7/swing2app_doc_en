@@ -44,9 +44,7 @@ If you want to see the entire process of creating and launching a Push app in th
 
 You can check more details about the Swing2App Push app creation method in the manual below.
 
-Manual for the Entire Process of Push App
-
-
+{% embed url="https://documentation.swing2app.com/web/app/pushapp" %}
 
 
 

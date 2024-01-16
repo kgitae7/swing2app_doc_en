@@ -46,7 +46,7 @@ However, if you modify the toolbar design during the STEP2 design phase, the app
 
 ## **​\*\*\*\*1.** How to use the Toolbar
 
-<figure><img src="../../.gitbook/assets/Untitled-2-Recoverthed-Recovered.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recoverthed-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 PushApp STEP3 Page Steps
 
@@ -70,7 +70,7 @@ In addition to the basic functionality of the toolbar, page design can additiona
 
 <mark style="color:blue;">**–Applying the Refresh Toolbar Menu**</mark>
 
-<figure><img src="../../.gitbook/assets/Untitled-2-Recovegrred-Recovered (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovegrred-Recovered (1).png" alt=""><figcaption></figcaption></figure>
 
 1\)Add toolbar menu + Select icon to add
 
@@ -86,9 +86,9 @@ Changes can be checked in real-time on the right Preview Window (virtual machine
 
 \*\*-- \*\*<mark style="color:blue;">**Basic functions provided by the toolbar**</mark>
 
-<figure><img src="../../.gitbook/assets/Untitled-2-Recovered-d (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recovered-d (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/Untitled-2-Recovered-RecovDFered (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-Recovered-RecovDFered (1).png>)
 
 > <mark style="color:blue;">Pages: Bookmark List, Menus, Notification List, Settings</mark>
 >
@@ -104,7 +104,7 @@ The toolbar is provided as a default setting, so you can customize the toolbar y
 
 ### How to modify a menu list
 
-<figure><img src="../../.gitbook/assets/Untitled-2-Recover (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled-2-Recover (1).png" alt=""><figcaption></figcaption></figure>
 
 The menu list provided by the toolbar can be found in 'Menu' under the Toolbar menu.
 
@@ -116,7 +116,7 @@ Menus registered in the menu list can also be easily modified by the app creator
 
 ## **2.** Add or remove toolbar menus
 
-![](<../../.gitbook/assets/Untitled-2-Recove (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-Recove (1).png>)
 
 To add a toolbar menu, select the + **icon to the right of the toolbar to add a new menu.**
 
@@ -126,9 +126,9 @@ Removing the toolbar menu is deleted by **selecting the trash can-shaped icon.**
 
 ## **3.** Move the toolbar menu
 
-![](<../../.gitbook/assets/Untitled-2-Recawdvered (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-Recawdvered (1).png>)
 
-![](<../../.gitbook/assets/Untitled-2-GRred (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-GRred (1).png>)
 
 You can change the order of the toolbar menus.
 
@@ -150,7 +150,7 @@ We'll show you how to upload an image with an icon.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Untitled-2-Rrgd (1).png" alt="">
+<img src="../../../.gitbook/assets/Untitled-2-Rrgd (1).png" alt="">
 
 </div>
 
@@ -160,7 +160,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ### <mark style="color:blue;">**-**</mark><mark style="color:blue;">Uploading toolbar icon images</mark>
 
-![](<../../.gitbook/assets/Untitled-2-ReEF (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-ReEF (1).png>)
 
 1\)Select the toolbar menu to apply icons
 
@@ -174,7 +174,7 @@ In addition to the default icons provided when you create your app, as you can s
 
 ​
 
-![](<../../.gitbook/assets/Untitled-2-RecEed (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-RecEed (1).png>)
 
 The icon application is complete.
 
@@ -196,7 +196,7 @@ Check out the Basic style options, Advanced style options.
 
 ### <mark style="color:blue;">**1)**</mark><mark style="color:blue;">Basic Options – Toolbar Enabled, Auto-Hide Function</mark>
 
-![](<../../.gitbook/assets/Untitled-2-RSGRed (1).png>)
+![](<../../../.gitbook/assets/Untitled-2-RSGRed (1).png>)
 
 STEP2 Design Steps
 
@@ -222,7 +222,7 @@ In the advanced style options, you can set the toolbar-specific colors.
 
 **(1)Toolbar background color**
 
-![](../../.gitbook/assets/Untitled-2-ReSD.png)
+![](../../../.gitbook/assets/Untitled-2-ReSD.png)
 
 You can select a toolbar background color and apply it to any color you want. (Default: Set to white)
 

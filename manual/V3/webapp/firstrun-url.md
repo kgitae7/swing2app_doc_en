@@ -24,7 +24,7 @@ Or, if you have important instructions and must-see things to do when installing
 
 ## How to use the first run address
 
-![](../../.gitbook/assets/Untitled-2-fasd.png)
+![](../../../.gitbook/assets/Untitled-2-fasd.png)
 
 The first launch address is only available in the webview app and the push only app.
 
@@ -52,7 +52,7 @@ After reinstalling (updating) the app to the new version, you need to launch the
 
 ## Check the app\_ Check the video of the first launch address
 
-![](../../.gitbook/assets/Screenrecorder-2023-08-29-01-35-19-871.gif)
+![](../../../.gitbook/assets/Screenrecorder-2023-08-29-01-35-19-871.gif)
 
 This is the screen where you applied the first launch address and then launched the app after installation.
 
@@ -62,7 +62,7 @@ When you launch the app, you will notice that the Swing2App Blog – V3 App Crea
 
 ### <mark style="color:blue;">**-**</mark><mark style="color:blue;">After exiting the app, relaunch the screen</mark>
 
-![](https://postfiles.pstatic.net/MjAyMjA2MTZfMjQ0/MDAxNjU1MzYzNDY0NDcy.9iV6jt5XJj-dhzmQJ5VvLFBabTUOyRYp9qtnkWLoByMg.i5w5w9p64enW7uUegmJfrxN9zYLTSylJu8RxZ6F961Eg.GIF.swing2app/%EB%85%B9%ED%99%94\_2022\_06\_16\_16\_10\_48\_11.gif?type=w966) ![](../../.gitbook/assets/Screenrecorder-2023-08-29-01-30-42-250.gif)
+![](https://postfiles.pstatic.net/MjAyMjA2MTZfMjQ0/MDAxNjU1MzYzNDY0NDcy.9iV6jt5XJj-dhzmQJ5VvLFBabTUOyRYp9qtnkWLoByMg.i5w5w9p64enW7uUegmJfrxN9zYLTSylJu8RxZ6F961Eg.GIF.swing2app/%EB%85%B9%ED%99%94\_2022\_06\_16\_16\_10\_48\_11.gif?type=w966) ![](../../../.gitbook/assets/Screenrecorder-2023-08-29-01-30-42-250.gif)
 
 And when you exit the app and launch the app again, it's the website you originally applied to the webview app.
 
@@ -70,7 +70,7 @@ You'll be shown a direct link to the Swing2App homepage.
 
 ​
 
-![](../../.gitbook/assets/GVG-1.png)
+![](../../../.gitbook/assets/GVG-1.png)
 
 In the manual I introduced, I put a link to my blog, but if you have created a separate page for introduction, we recommend that you enter a link to that page.
 
