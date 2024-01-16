@@ -18,13 +18,21 @@ When you use the newly added \<Android push icon> function, a push icon is sent 
 
 Please check the manual to see how to register a push icon image!
 
-![](../../../.gitbook/assets/Urgg-1.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Urgg-1.png" alt="">
+
+</div>
 
 ***
 
 ### Push icon image
 
-![](../../../.gitbook/assets/gesd-1.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/gesd-1.png" alt="">
+
+</div>
 
 As you can see on the app launch screen, you can see that in the same application, two different icon images are applied for each push message.
 
@@ -42,7 +50,7 @@ As you can see on the app launch screen, you can see that in the same applicatio
 
 ### Setting up a push icon image
 
-![](../../../.gitbook/assets/Untitled-2-Rzrgd.png)
+![](../../.gitbook/assets/Untitled-2-Rzrgd.png)
 
 1\) On the MakerV3 app creation screen
 

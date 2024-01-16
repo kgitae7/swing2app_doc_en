@@ -24,11 +24,11 @@ Simply enter the step-by-step information in the App Creation Wizard to create a
 
 **1.In the Start App Creation Wizard pop-up – Select a webview app prototype based on the website and select the \[Next] button**
 
-![](<../../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
 
 **2.Enter the web app basic information.**
 
-![](<../../../.gitbook/assets/Untitled-2-Recoveghrred (1).png>)
+![](<../../.gitbook/assets/Untitled-2-Recoveghrred (1).png>)
 
 **1)Website address**
 
@@ -56,7 +56,7 @@ So make sure you set it to match your app's style. Check the default setting as 
 
 **3.Register the app name, icon, and splash screen image.**
 
-![](<../../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
 
 1\)Enter the app name
 
@@ -68,7 +68,7 @@ So make sure you set it to match your app's style. Check the default setting as 
 
 <mark style="color:green;">**–> How to register app icon and splash screen image**</mark>
 
-![](<../../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
 
 On the app icon, the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -82,13 +82,13 @@ When the image uploading is complete, select the \[Apply] button.
 
 **4.The registration of the basic information to enter the push app is completed.**
 
-![](../../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
+![](../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
 
 Selecting the \[Done] button opens the App Maker screen.
 
 ### \[App Maker]
 
-![](<../../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
 
 If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP3 Page.
 
@@ -98,7 +98,7 @@ The app ID must be at least 6 characters long, including English + numbers, and 
 
 <mark style="color:red;">\*The app ID is the unique identifier of the app and cannot be changed after setting.</mark>
 
-![](../../../.gitbook/assets/Untitled-2-Recoverdvvcovered.png)
+![](../../.gitbook/assets/Untitled-2-Recoverdvvcovered.png)
 
 Step by step, enter your content and you're done.
 
@@ -140,7 +140,7 @@ Changing the weblink address applied to your app is the same as the App Maker me
 
 ### Push App (App Launchscreen)
 
-![](<../../../.gitbook/assets/sfcacled-1 (1).png>)
+![](<../../.gitbook/assets/sfcacled-1 (1).png>)
 
 It is a push-only app created by applying the Swing2App homepage (website) weblink to the app as it is.
 
@@ -174,11 +174,11 @@ Simply enter the step-by-step information in the App Creation Wizard to create a
 
 **1.App Creation Wizard pop-up: Select a web app style based on the website and select the \[Next] button.**
 
-![](<../../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-RecovIered (2).png>)
 
 **2. Enter the web app's basic information.**
 
-![](../../../.gitbook/assets/Untitled-2-Recdrhred-Recovered.png)
+![](../../.gitbook/assets/Untitled-2-Recdrhred-Recovered.png)
 
 **1)Website address**
 
@@ -198,7 +198,7 @@ Since we will be creating it as a webview app, please check the push function as
 
 **3.Register the app name, icon, and splash screen image.**
 
-![](<../../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Regcovered (2).png>)
 
 1\)Enter the app name
 
@@ -210,7 +210,7 @@ Since we will be creating it as a webview app, please check the push function as
 
 <mark style="color:green;">**–> How to register App icon and splash screen image**</mark>
 
-![](<../../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Recovejuhred (2).png>)
 
 On the app icon and the splash screen, select the \[Upload] button and the file attachment window will open.
 
@@ -224,13 +224,13 @@ When the registration is complete, select the \[Done] button.
 
 **4.The registration of basic information for the webview app has been completed.**
 
-![](../../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
+![](../../.gitbook/assets/Untitled-2-Recovered-Govered.png)
 
 Selecting the \[FINISH] button opens the App Maker screen.
 
 ### \*\*\[\*\*App Maker]
 
-![](<../../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Reddecovered (2).png>)
 
 If you look at the app creation process on the left, you can see the steps on the STEP1 Basic Information, STEP2 Design, and STEP3 Page.
 
@@ -242,7 +242,7 @@ The app ID must be at least 6 Alphanumeric characters long (including English le
 
 Step-by-step, enter your content and you're done.
 
-![](../../../.gitbook/assets/Untitled-2-dhrRecovered.png)
+![](../../.gitbook/assets/Untitled-2-dhrRecovered.png)
 
 \*When the STEP progress reaches 100%, all steps are completed.
 
@@ -288,7 +288,7 @@ It can be changed during the general subscription.
 
 ### **W**ebview app - app launch screen
 
-![](../../../.gitbook/assets/sfcacled-1.png)
+![](../../.gitbook/assets/sfcacled-1.png)
 
 The WebView prototype also converts mobile websites into a webview app by linking the URL, and the app is exactly the same as the website.
 
@@ -298,7 +298,7 @@ As you can see in the image, the mobile web and the webview app you create are t
 
 ### Push App, Webview App Creation Guide
 
-![](<../../../.gitbook/assets/Untitled-2-Recoegrvered (2).png>)
+![](<../../.gitbook/assets/Untitled-2-Recoegrvered (2).png>)
 
 When creating a webview app or push app, after entering the website address, you can see that the preview window (virtual machine) displays the message "Please check after installing the app on your mobile phone" or "Refused to connect".
 
