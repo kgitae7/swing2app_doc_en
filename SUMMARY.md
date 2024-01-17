@@ -250,8 +250,8 @@
   * [WebviewApp basic settings and advanced setting options](manual/V3/webapp/webviewapp-options.md)
   * [Push App Toolbar - Introduction: How to Use and Functions](manual/V3/webapp/pushapp-toolbar.md)
   * [Registering a Push Notification Icon Image](manual/V3/webapp/push-icon.md)
-  * [Progress Bar Color Settings](web/app/progressbar.md)
-  * [Remove progress bar (not in use)](web/app/progressbar2.md)
+  * [Progress Bar Color Settings](web/app/progress-bar-color-settings.md)
+  * [Remove progress bar (not in use)](page-1.md)
 
 ## App Guide <a href="#appguide" id="appguide"></a>
 

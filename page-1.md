@@ -12,7 +12,7 @@ description: How to not display the progress bar
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/[두]프로그레스바-제거.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/[두]프로그레스바-제거.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ With the addition of the progress bar removal feature, checking 'Not in Use' wil
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/[en]프로그레스색상.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/[en]프로그레스색상.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,13 +46,15 @@ The progress bar can be seen in web apps connected to mobile websites - WebView,
 
 Please refer to the help guide for the method of changing the color.
 
+{% embed url="https://documentation.swing2app.com/web/app/progressbar" %}
+
 ***
 
 
 
 ## 2. Usage Method
 
-<figure><img src="../../.gitbook/assets/[en]프로그레스바제거2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/[en]프로그레스바제거2.png" alt=""><figcaption></figcaption></figure>
 
 1. Maker(V3)
 2. Select 'Advanced Settings'.

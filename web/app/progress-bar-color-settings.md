@@ -90,7 +90,9 @@ For the initial app creation, please select the \[Create App] button.
 
 3\)The progress bar color setting feature is available in web apps connected to websites – WebView, and in push apps.
 
+4\)You can also remove the progress bar.&#x20;
 
+If you want to modify it to not be displayed in the app, please check the guide below.
 
-
+{% embed url="https://documentation.swing2app.com/web/app/progressbar2" %}
 
