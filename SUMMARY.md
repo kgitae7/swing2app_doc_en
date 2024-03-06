@@ -329,5 +329,5 @@
 ## Policy
 
 * [Store Policy](policy/store-policy.md)
-* [Limit on the Number of Devices for Free User](policy/limit-on-the-number-of-devices-for-free-user.md)
+* [Limit on the Number of Devices for Free User](policy/mau.md)
 * [Swing Store Terms and Conditions](manual/swingstore/policy.md)
