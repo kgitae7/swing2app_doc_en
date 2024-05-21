@@ -10,75 +10,26 @@ This API is available to users of paid apps.
 
 * API Specification
 
-{% swagger method="post" path="" baseUrl="https://www.swing2app.com/swapi/push_send" summary="API for sending push notification to Swing2App application" %}
-{% swagger-description %}
-<mark style="color:orange;"><mark style="color:orange;">\*\*\*<mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">App ID and API KEY that need to be issued can be issued upon request to the customer center.</mark> <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="color:orange;">\*\*<mark style="color:orange;"></mark>
-{% endswagger-description %}
+## API for sending push notification to Swing2App application
 
-{% swagger-parameter in="body" name="app_id" required="true" type="" %}
-APP\_ID provided by Swing2App
-{% endswagger-parameter %}
+<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_send`
 
-{% swagger-parameter in="body" name="api_user" required="true" type="" %}
-Swing2app user account (email address)
-{% endswagger-parameter %}
+<mark style="color:orange;">\*\*\* App ID and API KEY that need to be issued can be issued upon request to the customer center. \*\*</mark>
 
-{% swagger-parameter in="body" name="api_key" required="true" %}
-API KEY provided by Swing2App
-{% endswagger-parameter %}
+#### Request Body
 
-{% swagger-parameter in="body" name="send_target_list" required="true" %}
-Send destination type setting items When sending to indiviUser ID to send to user\_id in single dispatch When sending multiple messages, separate them with “,” \
-Ex:) user\_id1,user\_id2 Enter -1 \
-\[When sending all ]\
-Ex:) -1
-{% endswagger-parameter %}
+| Name                                                       | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| app\_id<mark style="color:red;">\*</mark>                  |        | APP\_ID provided by Swing2App                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| api\_user<mark style="color:red;">\*</mark>                |        | Swing2app user account (email address)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| api\_key<mark style="color:red;">\*</mark>                 | String | API KEY provided by Swing2App                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>Send destination type setting items When sending to indiviUser ID to send to user_id in single dispatch When sending multiple messages, separate them with “,”<br>Ex:) user_id1,user_id2 Enter -1<br>[When sending all ]<br>Ex:) -1</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all.<br>enter 'ALL_TARGET'<br>[When sending to 2 specific users] Ex:) MEMBER, MEMBER<br>[When sending to all]<br>Ex:) ALL_TARGET\</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| send\_type<mark style="color:red;">\*</mark>               | String | Enter the send type. Enter "push" in case of push delivery                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| message\_json<mark style="color:red;">\*</mark>            | String | <p>* Enter the following variables according to the JSON format string\</p><p>messageTitle: Title,</p><p>messageContent: Content</p><p>messageLinkUrl: Link Address</p><p>messageImageUrl: Image Url</p><p>*Can be omitted if there is no link address and image address<br><br>Ex:)</p><p>[In case of sending title, content, link, image]</p><p>{“messageTitle" : "title" , "messageContent" : "content" , "messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl":"https://www.swing2app.com/abc.png"}\</p><p>[In case of sending only the title, content, and image]</p><p>{“messageTitle" : "title" , "messageContent" : "content" , "messageImageUrl":"http://www.swing2app.com/abc.png"}\</p><p>[In case of sending only the title, content]</p><p>{“messageTitle" : "title" , "messageContent" : "content" }</p> |
 
-{% swagger-parameter in="body" name="send_target_type_list" required="true" %}
-Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all. \
-enter 'ALL\_TARGET'\
-\[When sending to 2 specific users] Ex:) MEMBER, MEMBER \
-\[When sending to all] \
-Ex:) ALL\_TARGET\
-
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="send_type" required="true" %}
-Enter the send type. Enter "push" in case of push delivery
-{% endswagger-parameter %}
-
-{% swagger-parameter in="body" name="message_json" required="true" %}
-\* Enter the following variables according to the JSON format string\
-
-
-messageTitle: Title,
-
-messageContent: Content
-
-messageLinkUrl: Link Address
-
-messageImageUrl: Image Url
-
-\*Can be omitted if there is no link address and image address\
-\
-Ex:)
-
-\[In case of sending title, content, link, image]
-
-{“messageTitle" : "title" , "messageContent" : "content" , "messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl":"https://www.swing2app.com/abc.png"}\
-
-
-\[In case of sending only the title, content, and image]
-
-{“messageTitle" : "title" , "messageContent" : "content" , "messageImageUrl":"http://www.swing2app.com/abc.png"}\
-
-
-\[In case of sending only the title, content]
-
-{“messageTitle" : "title" , "messageContent" : "content" }
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="" %}
+{% tabs %}
+{% tab title="200: OK " %}
 ```javascript
 {
     // Response
@@ -88,8 +39,8 @@ Ex:)
     isPaymentSms : F
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 * Code example
 
@@ -170,8 +121,6 @@ Refer to the Postman link below for examples of usage for each language.
 [https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f](https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f)
 {% endtab %}
 {% endtabs %}
-
-
 
 <mark style="color:blue;">\[JavaScript Implementation Example – Send All]</mark>
 

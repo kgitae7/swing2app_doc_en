@@ -1,6 +1,8 @@
-# webview app manual
+---
+description: App Maker V3 Version – Webview App Creation Manual
+---
 
-**App Maker V3 Version – Webview App Creation Manual**
+# webview app manual
 
 > **What is a Swing2App webview app?**
 >
@@ -8,17 +10,21 @@
 >
 > Because the website works with the app as it is, you can create the same app as the web.
 
-## **Start.** Get started with the App Creation Wizard
 
-**​**
 
-**When you first create an app in a Swing2App or build additional apps, the App Creation Wizard screen (a pop-up window) pops up first.**
+***
 
-**Here, you choose what type of app you want to build, then enter the basic information and you'll be taken to the authoring maker.**
+## **STEP1.** App Creation Wizard
 
-**​**
 
-1. <mark style="color:blue;">**How to create: Select a web app type based on the website**</mark>
+
+### <mark style="color:blue;">**Start.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Get started with the App Creation Wizard</mark>
+
+When you first create an app in a Swing2App or build additional apps, the App Creation Wizard screen (a pop-up window) pops up first.
+
+Here, you choose what type of app you want to build, then enter the basic information and you'll be taken to the authoring maker.
+
+<mark style="color:purple;">**How to create: Select a web app type based on the website**</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-RecovIered (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,9 +36,7 @@ Select the \[Next] button.
 
 **​**
 
-**​**
-
-<mark style="color:blue;">**2. Enter web app basic information**</mark>
+<mark style="color:purple;">**2. Enter web app basic information**</mark>
 
 The next step is to enter the basic information, where you enter the basic details needed to build a web app.
 
@@ -56,7 +60,9 @@ These additional settings can be modified again in the App Maker, so you can che
 
 Select the \[Next] button.
 
-<mark style="color:blue;">**3. App name, icon, splash screen image upload**</mark>
+
+
+<mark style="color:purple;">**3. App name, icon, splash screen image upload**</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Regcovered (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +100,7 @@ Step by step, enter your content and you're done.
 
 **​**
 
-## **STEP1** Basic
+### <mark style="color:blue;">**STEP1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Basic</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Reddecovered (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -118,15 +124,11 @@ If you want to modify the app icon, splash screen image, or upload a new one, yo
 
 **\*App icon image, splash screen image: Please create an image according to the size listed on the screen first, and then upload it.**
 
-**For icons and splash screens, please first look at the Production Guidelines Manual and create them accordingly!**
+For icons and splash screens, please first look at the Production Guidelines Manual and create them accordingly!
 
-**​**<mark style="color:blue;">**Go to the icon image creation guide**</mark>
+\*App name, app icon, and splash screen images, except for the app ID, can be modified and updated without any limitation.
 
-<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>
-
-**\*App name, app icon, and splash screen images, except for the app ID, can be modified and updated without any limitation.**
-
-**When modifying the App basic information, you need to press the \[App Update ] button to update to the new version.**
+When modifying the App basic information, you need to press the \[App Update ] button to update to the new version.
 
 <mark style="color:red;">**\*Information**</mark>
 
@@ -136,7 +138,9 @@ For example, if you changed the name of your app, save → after the change → 
 
 If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 
-## STEP2 Design
+
+
+### <mark style="color:blue;">STEP2 Design</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-RecoGRSvered.png" alt=""><figcaption></figcaption></figure>
 
@@ -185,7 +189,9 @@ For example, if you changed the toolbar background color, save → after the cha
 
 If it's released on the App Store or Play Store, you'll need to resubmit updates to that Store as an updated version of the app.
 
-## STEP3 Page
+
+
+### <mark style="color:blue;">STEP3 Page</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Recovesred.png" alt=""><figcaption></figcaption></figure>
 
@@ -207,9 +213,15 @@ Check 'No' if you don't use it, or 'Yes' if you don't use it. Please include the
 
 The STEP3 page menu is automatically reflected in the app by simply modifying and saving it. You don't need to update the app (recreate the app)
 
-## **STEP4 Complete App Creation**
 
-![](../../../.gitbook/assets/Untitled-2-Rawfrd.png)
+
+### <mark style="color:blue;">**STEP4 Complete App Creation**</mark>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/spaces_y6EfxfjJ6wzTyBtue1Kt_uploads_git-blob-aeee5172af537a1562f6f1922b8db2906c017e78_Untitled-2-Receffeovered.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 All steps have been entered. You can build apps.
 
@@ -224,7 +236,7 @@ So you just have to check any option.
 
 If your app is for personal use and hasn't been released, you'll need to delete the existing app and reinstall it as an updated version.
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2019/04/%EC%A4%84%EB%9D%BC%EC%9D%B8.png)
+
 
 The webview app is built in less than 10 minutes.
 
@@ -236,23 +248,21 @@ Creating an app with Swing2App is simple, you just have to follow the steps in t
 
 The App production is free of charge, no extra charges are applied.
 
+***
+
 ​
 
-## **STEP5** Download the app to your Android phone to view it
+## &#x20;2.Download the app to your Android phone to view it
 
-**​**
+<figure><img src="../../../.gitbook/assets/02_PC_미리보기앱_En.png" alt=""><figcaption></figcaption></figure>
 
 \*Webview and apps made with push can only be viewed on Android phones. (You can't check it on your iPhone)
 
 Swing2App Official App – Download the app created by \[App Preview] to check it out.
 
-<figure><img src="../../../.gitbook/assets/Untitled-2-Receffeovered.png" alt=""><figcaption></figcaption></figure>
-
 **1) Download the official 'Swing2App' app from the Play Store. \*If the app is already installed, please update to the latest version.**
 
-<mark style="color:blue;">**PlayStore launch link (URL)**</mark>
-
-**​**
+[<mark style="color:blue;">**PlayStore launch link (URL)**</mark>](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf\&hl=ko\&gl=US)
 
 **2) After launching the app, select the \[App Preview] menu at the top of the → category and login with your Swing2App website subscription account (ID, password).**
 
@@ -262,13 +272,15 @@ Swing2App Official App – Download the app created by \[App Preview] to check i
 
 It's not an account signed up for in the official Swing2App app!
 
-**​**
+
 
 **3) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.**
 
 **4) You can install the app on your phone by pressing the \[Download App] button.**
 
 **\*The webview app is only available on Android phones. (iPhone not available)**
+
+
 
 <mark style="color:green;">**▶ App launch: App preview- Download app**</mark>
 
@@ -310,7 +322,9 @@ If the app still refuses to connect, please contact the Swing2App Help.
 
 **\*However, the URL for internal use and the site address used by the company's internal server cannot be connected or be created as a web app.**
 
-## Webview app creation instructions
+
+
+#### <mark style="color:red;">\*Webview app creation instructions</mark>
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-Recoegrvered.png" alt=""><figcaption></figcaption></figure>
 
@@ -332,11 +346,97 @@ If the app also refuses to connect, please contact the Swing2App Help.
 
 **\*However, the URL for internal use and the site address used by the company's internal server cannot be connected and cannot be created as a web app.**
 
-​
+
+
+***
 
 ​
 
-## Precautions and Webview App Creation Q\&A
+## **3.Purchase of vouchers and tickets**
+
+<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
+
+Payment Page
+
+[Manager > Online Stores > recommended deal](https://www.swing2app.com/view/payment\_list\_by\_recommend\_voucher)
+
+Please select the product that matches the platform you wish to purchase for, then click the&#x20;
+
+\[Buy Now] button.
+
+
+
+***
+
+
+
+## **4.Store upload application**
+
+If you purchased both the voucher and ticket above! You must apply for an upload to receive an upload application through Swing2App.
+
+\*After moving to the [Manager → Manage Version → Production History menu](https://www.swing2app.com/view/app\_work\_history), select the \[Play Store upload] or \[App store upload] button in the market registration column.
+
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+An application pop-up will appear, and you must fill in the contents according to the application form and apply for upload before the upload application is delivered to Swing2App.
+
+\*Please make sure to apply for upload after payment
+
+**☞** [**\[How to apply for play store upload\]**](https://documentation.swing2app.com/manual/appmanage/version/playstore-upload)
+
+**☞** [**\[App store upload application method\]**](https://documentation.swing2app.com/manual/appmanage/version/appstore-upload)
+
+After purchasing all products such as use vouchers, please apply for upload to the Play Store or App Store, and we will act on your behalf to upload your app to the store.
+
+You must check the policies for each store.
+
+{% embed url="https://documentation.swing2app.com/policy/store-policy" %}
+
+***
+
+
+
+## **5.Store launch complete (release after review)**
+
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+When the application is completed, the Swing2App playstore uploader / Appstore uploader starts the upload process to upload your app to the store.
+
+\*Play Store Review Period: 7 days
+
+\*App store review period: 7 days
+
+Since the review time is long for each store, you have to wait for the review period after applying for upload.
+
+**-When the upload process starts, we will send you an e-mail with information on policies and important notices for each store.**
+
+**-After the normal release, an e-mail and text message (if a user number is registered) will be sent.**
+
+**-If the screening is rejected, we will inform you of the reasons for refusal and actions to be taken, and re-examination will be done without any additional upload ticket fees.**
+
+
+
+When the store launch is complete, you can check the released apps on the Play Store and App Store.
+
+App Store is exposed when searching for the app name immediately after the app is released.
+
+In the Play Store, even when the app is released, the name search does not work right away.
+
+\*Google checks how actively the app is running and converts it into exposure to prevent indiscriminate release even after app release.
+
+Therefore, you need to install a lot of apps and manage reviews, ratings, etc. As time passes, the app name search will be exposed.
+
+Make sure to check the contents of the store policy so that there will be no problems when using the app release.
+
+**By all means! Please check.**
+
+{% embed url="https://documentation.swing2app.com/policy/store-policy" %}
+
+***
+
+
+
+## 6.Precautions and Webview App Creation Q\&A
 
 **​**
 
