@@ -18,7 +18,7 @@ description: How to Create a Push App Manual
 
 ***
 
-## **STEP1.** App Creation Wizard
+## **1.** App Creation Wizard
 
 When you first create an app in a Swing2App or build additional apps, the App Creation Wizard splash screen (a pop-up window) pops up first.
 
@@ -35,6 +35,8 @@ For push apps, please select the 2nd method of creation, "Web App Based on Websi
 This is a style that creates a website by applying it to the app as it is.
 
 Select the \[Next] button.
+
+
 
 <mark style="color:blue;">**2.Enter web app basic information**</mark>
 
@@ -122,22 +124,15 @@ If you modify the app icon, splash screen image, or register a new one, you can 
 
 5\) Select \[Save] button
 
-**​**
+{% hint style="success" %}
+\*App icon image, splash screen image: Please create an image according to the size listed on the screen first, and then register.
 
-**\*App icon image, splash screen image: Please create an image according to the size listed on the screen first, and then register.**
+\*App name, icon, and splash screen images, except for the app ID, can be modified and updated without limitation.
 
-**For icons and splash screens, please first look at the Production Guidelines Manual and create them!**
+When modifying the app basic information, you need to press the \[App Update] button to update to the new version.
+{% endhint %}
 
-<mark style="color:blue;">**Go to the icon image creation guide**</mark>
-
-<mark style="color:blue;">**Go to the splash screen image creation guide**</mark>
-
-**\*App name, icon, and splash screen images, except for the app ID, can be modified and updated without limitation.**
-
-**When modifying the app basic information, you need to press the \[App Update] button to update to the new version**.
-
-**​**
-
+{% hint style="danger" %}
 <mark style="color:red;">**\*Information**</mark>
 
 If you modify the STEP1 Basic Information menu again after the app is created, you will need to update the app again before the app will reflect the changes.
@@ -160,89 +155,64 @@ Check 'No' if you don't use it, or 'Yes' if you don't use it. Please include a c
 
 3\)Select the Save button
 
-​
+
 
 <mark style="color:red;">**\*Information**</mark>
 
 The STEP3 page menu is automatically reflected in the app by simply modifying and saving it. You don't need to update the app (recreate the app).
+{% endhint %}
 
+***
 
+\
+2.Download the app to your Android phone to view it
+---------------------------------------------------
+
+<figure><img src="https://documentation.swing2app.com/~gitbook/image?url=https%3A%2F%2F2942842367-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fy6EfxfjJ6wzTyBtue1Kt%252Fuploads%252F8B7r7ZadrIC8YtXi23wH%252F02_PC_%25EB%25AF%25B8%25EB%25A6%25AC%25EB%25B3%25B4%25EA%25B8%25B0%25EC%2595%25B1_En.png%3Falt%3Dmedia%26token%3Dc58400f5-a825-487f-809a-9056d2ab3e1c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=46301118bd5be4ad3afc5433d35f3432464d84c9368f77c83337f5f75ab1a06f" alt=""><figcaption></figcaption></figure>
+
+\*Webview and apps made with push can only be viewed on Android phones. (You can't check it on your iPhone)
+
+Swing2App Official App – Download the app created by \[App Preview] to check it out.
+
+**1) Download the official 'Swing2App' app from the Play Store. \*If the app is already installed, please update to the latest version.**
+
+[**PlayStore launch link (URL)**](https://play.google.com/store/apps/details?id=com.hustay.swing.pbf061408642545519fc0306f1985d1bf\&hl=ko\&gl=US)
+
+**2) After launching the app, select the \[App Preview] menu at the top of the → category and login with your Swing2App website subscription account (ID, password).**
+
+\*Easy Login User: If you used to log in with Easy Login when you signed up for Swing2App, please select the Naver, Google, and Facebook icons to log in.
+
+\*Note: To log in, you must enter the account you signed up for in the https://www.swing2app.com of the Swing2App homepage. https://www.swing2app.com/
+
+It's not an account signed up for in the official Swing2App app!
+
+**3) Once you're done signing in, the app preview page will open, where you can see a list of apps you've created.**
+
+**4) You can install the app on your phone by pressing the \[Download App] button.**
+
+**\*The webview app is only available on Android phones. (iPhone not available)**
 
 ***
 
 
 
-\
-**STEP2. Purchase of vouchers and tickets**
--------------------------------------------
+## 3**. Purchase of vouchers and tickets**
 
 There are two types of products that can be purchased in the push app.
 
-You can purchase the product you want from among the two.
+<figure><img src="../../../.gitbook/assets/캡처2.PNG" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+Payment Page
 
+[Manager > Online Stores > recommended deal](https://www.swing2app.com/view/payment\_list\_by\_recommend\_voucher)
 
+Please select the product that matches the platform you wish to purchase for, then click the
 
-**1. Swing2App Basic Pass (Purchase a 1-month pass monthly or purchase a pass for each desired period)**
-
-<div align="left">
-
-<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/Artboard-%E2%80%93-1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-**-Information of purchase products**–
-
-Manager → Online Stores → Go to the Vouchers & Tickets page. [https://support.swing2app.com/view/shop\_list](https://support.swing2app.com/view/shop\_list)
+\[Buy Now] button.
 
 
 
-**▶ Swing Basic Ticket (1 month) $33 + Play Store upload ticket $5 + App Store upload ticket $20**
-
-\-Swing basic type (1 month) product has a 30-day period of use, and if you continue to operate the store app, you must purchase it every 1 month.
-
-\-The upload ticket is an optional product (the cost of uploading the user’s app to the store instead of the swing2app), so you only need to pay once at the time of initial registration.
-
-**\[Recommended pass]**
-
-<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/09/Artboard-%E2%80%93-6.png" alt=""><figcaption></figcaption></figure>
-
-If you purchase a 6 or 12 months long-term pass, you can use it at a lower price than purchasing a monthly pass.
-
-\-Swing basic pass (12 months) $290, 26% discount from monthly purchase
-
-\-Basic Swing Pass (6 months) $160, 19% discount from monthly purchase
-
-**or**
-
-
-
-**2. Push-only Lifetime Paid App (Unlimited use without period limit for one payment)**
-
-**-Purchase product information-**
-
-<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/09/Group-2036.png" alt=""><figcaption></figcaption></figure>
-
-Manager → Online Stores → Go to the Swing2App plug-in purchase page
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> Push-only Lifetime Paid App (Android + iPhone) $550 + Play Store upload ticket $10 + App Store upload ticket $20
-
-If you want to continue using the push app without a period of use, please purchase the ‘Push-only Lifetime Paid App’ product on the swing plugin purchase page.
-
-**Once purchased, no repurchase! No period limit! Unlimited!**
-
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Recommended tip**
-
-If you plan to run the app for a long period of time, and if you run the app without a period of use, we recommend purchasing the’Push-only unlimited paid app’ product.
-
-You can purchase products for each platform according to the launch of the Play Store and App Store, so you can use them reasonably.
-
-You can purchase each upload ticket in the same way.&#x20;
-
-Play Store upload ticket $10 + App Store upload ticket $20
-
-![](https://wp.swing2app.co.kr/wp-content/uploads/2020/09/%EC%BA%A1%EC%B2%9833.png)
+\---------------
 
 **1) View product details**
 
@@ -284,11 +254,11 @@ Google developer registration fee (25 dollars, lifetime use) must be made and pa
 
 &#x20;
 
-## **STEP3. Store upload application**
+## **4. Store upload application**
 
 If you purchased both the voucher and ticket above! You must apply for an upload to receive an upload application through Swing2App.
 
-\*After moving to the Manager → Manage Version → Production History menu, select the \[Play Store upload] or \[App store upload] button in the market registration column.
+\*After moving to the [Manager → Manage Version → Production History menu](https://www.swing2app.com/view/app\_work\_history), select the \[Play Store upload] or \[App store upload] button in the market registration column.
 
 <div align="left">
 
@@ -300,9 +270,9 @@ An application pop-up will appear, and you must fill in the contents according t
 
 \*Please make sure to apply for upload after payment
 
-**☞** [**\[How to apply for play store upload\]**](https://support.swing2app.com/documentation/appmanage/version/playstore-upload/)
+**☞** [**\[How to apply for play store upload\]**](https://documentation.swing2app.com/manual/appmanage/version/playstore-upload)
 
-**☞** [**\[App store upload application method\]**](https://support.swing2app.com/documentation/appmanage/version/appstore-upload/)
+**☞** [**\[App store upload application method\]**](https://documentation.swing2app.com/manual/appmanage/version/appstore-upload)
 
 &#x20;
 
@@ -312,11 +282,13 @@ You must check the policies for each store.
 
 **\*Store registration**
 
+{% embed url="https://documentation.swing2app.com/policy/store-policy" %}
+
 ***
 
 &#x20;
 
-**STEP.5 Store launch complete (release after review)**
+## **5. Store launch complete (release after review)**
 
 <figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/d3.png" alt=""><figcaption></figcaption></figure>
 
@@ -324,7 +296,7 @@ When the application is completed, the Swing2App playstore uploader / Appstore u
 
 \*Play Store Review Period: 7 days
 
-\*App store review period: 1 week to 2 weeks
+\*App store review period: 7 days
 
 Since the review time is long for each store, you have to wait for the review period after applying for upload.
 
@@ -352,13 +324,15 @@ Therefore, you need to install a lot of apps and manage reviews, ratings, etc. A
 
 Make sure to check the contents of the store policy so that there will be no problems when using the app release.
 
-**By all means! Please check.☞** [**\[Check the store terms and conditions\]**](https://support.swing2app.com/market-policy/)
+**By all means! Please check**
+
+{% embed url="https://documentation.swing2app.com/policy/store-policy" %}
 
 ***
 
 &#x20;
 
-## **STEP4. Sending push from push app**
+## **6. Sending push from push app**
 
 &#x20;
 
@@ -366,21 +340,19 @@ Push apps can send push messages to users who have installed the app!
 
 Therefore, if the app is created, check the push sending function and familiarize yourself with how to send a push.
 
-**\*Push can be sent from the Manager page → Push & Member → Send push page.**
+**\*Push can be sent from the** [**Manager → Push & Member → Send push**](https://www.swing2app.com/view/push) **page.**
 
-[https://support.swing2app.com/view/push](https://support.swing2app.com/view/push)
+Please check the manual below for how to send a push app.
 
-&#x20;
+Go to see how to send push in push app
 
-**Please check the manual below for how to send a push app.**
-
-**☞**[**Go to see how to send push in push app**](https://support.swing2app.com/documentation/appmanage/pushmember/pushapp-push/)
+{% embed url="https://documentation.swing2app.com/manual/appmanage/pushmember/push" %}
 
 ***
 
 &#x20;
 
-## **STEP5.Precautions and push app production Q\&A**
+## **7. Precautions and push app production Q\&A**
 
 &#x20;
 
