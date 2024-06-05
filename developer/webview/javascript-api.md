@@ -10,7 +10,7 @@ Common js file Please include the following js file in your HTML file
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2023_01_16_001/js/swing_app_on_web.js"></script>
+<script src="https://pcdn2.swing2app.co.kr/swing_public_src/v3/2024_02_28_002/js/swing_app_on_web.js"></script>
 ```
 {% endcode %}
 
@@ -18,7 +18,9 @@ Common js file Please include the following js file in your HTML file
 
 ## Webview Control Related Methods
 
-* #### Webview Backwards
+
+
+#### • **Webview Backwards** <a href="#back-webview" id="back-webview"></a>
 
 To Move to the previous page in the webview app. Same style as the back function in the web browser
 
@@ -28,7 +30,9 @@ swingWebViewPlugin.app.webview.back();
 ```
 {% endcode %}
 
-* #### Webview Forward
+
+
+#### • **Webview Forward** <a href="#forward-webview" id="forward-webview"></a>
 
 Move to the front page in the webview app. Same style as the forward function in the web browser
 
@@ -38,7 +42,7 @@ swingWebViewPlugin.app.webview.forward();
 ```
 {% endcode %}
 
-* #### Go to Webview Home
+#### • Go to Webview Home <a href="#go-to-home" id="go-to-home"></a>
 
 Ability to navigate from the webview app to the home page (set initial page) set in the Swing2App.
 
@@ -48,9 +52,49 @@ swingWebViewPlugin.app.navigateToHome()
 ```
 {% endcode %}
 
+
+
+#### • **Clean Web Cache** <a href="#webview-clear-cache" id="webview-clear-cache"></a>
+
+Command to Clear Cache in WebView&#x20;
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+swingWebViewPlugin.app.webview.clearCache()
+```
+{% endcode %}
+
+## Controlling the Toolbar methods
+
+#### • Enabling the Toolbar <a href="#toolbar-setting" id="toolbar-setting"></a>
+
+You can control the Toolbar via API in a push-only prototype.
+
+You can hide, enable, and set the auto-hide option for the toolbar while the app is running.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+{% code lineNumbers="true" %}
+```javascript
+// toolbar active , autohide inactive
+// swingWebViewPlugin.app.webview.updateToolbar(true,false)
+// toolbar active , autohide active 
+// swingWebViewPlugin.app.webview.updateToolbar(true,true)
+// toolbar inactive , autohide inactive
+// swingWebViewPlugin.app.webview.updateToolbar(false,false)
+swingWebViewPlugin.app.webview.updateToolbar(false,false)
+```
+{% endcode %}
+
+
+
 ## Application-related methods
 
-* #### Get platform information
+
+
+#### • **Get platform information** <a href="#get-platform-info" id="get-platform-info"></a>
 
 Functions for getting platform information from the web
 
@@ -71,7 +115,9 @@ else
 ```
 {% endcode %}
 
-* #### Get version and device information
+
+
+#### • **Get version and device information** <a href="#get-version-device-info" id="get-version-device-info"></a>
 
 A function that gets the version of the app and the H/W and S/W information of the device
 
@@ -100,7 +146,9 @@ swingWebViewPlugin.app.methods.getAppVersion(function(value){
 ```
 {% endcode %}
 
-* #### Ability to close the app
+
+
+#### • **Close application** <a href="#how-to-exit-app" id="how-to-exit-app"></a>
 
 Command to terminate a running app
 
@@ -110,7 +158,7 @@ swingWebViewPlugin.app.methods.doExitApp();
 ```
 {% endcode %}
 
-* #### Run a URL with an external browser
+#### • **Run a URL with an external browser** <a href="#open-external-browser-specific-url" id="open-external-browser-specific-url"></a>
 
 If you want to open a specific page with the default browser of an app such as Chrome or Safari, you can use the following function.
 
@@ -120,7 +168,9 @@ swingWebViewPlugin.app.methods.doExternalOpen('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### Run URLs with the embedded browser
+
+
+#### • **Run URLs with the embedded browser** <a href="#open-browser-specific-url" id="open-browser-specific-url"></a>
 
 Run using Android and iOS's own built-in browser.
 
@@ -132,7 +182,7 @@ swingWebViewPlugin.app.methods.openBrowser('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### Share the current page
+#### • **Share the current page** <a href="#share-current-page" id="share-current-page"></a>
 
 Run the code below for the current Web page-sharing feature
 
@@ -142,7 +192,7 @@ swingWebViewPlugin.app.methods.doShareCurrentPage();
 ```
 {% endcode %}
 
-* #### Share a custom URL
+#### • **Share a custom URL** <a href="#share-specific-url" id="share-specific-url"></a>
 
 If you want to share the specified URL, run the code as shown below.
 
@@ -152,7 +202,9 @@ swingWebViewPlugin.app.methods.doShareWithUrl('https://www.swing2app.com');
 ```
 {% endcode %}
 
-* #### Checking the notification setting status of the application
+
+
+#### • **Checking the notification setting status of the application** <a href="#set-notification" id="set-notification"></a>
 
 Ability to check the status of push alarm settings in the application.
 
@@ -202,7 +254,7 @@ swingWebViewPlugin.app.methods.isNotificationEnabled(function (result) {
 ```
 {% endcode %}
 
-* #### Alarm Settings
+
 
 Ability to move alarm settings of applications or systems
 
@@ -230,7 +282,9 @@ Please refer to the information below to use the ads.
 This command only works for apps with ad mob enabled
 {% endhint %}
 
-* #### Show banner ads
+
+
+#### • **Show banner ads** <a href="#show-admob-banner" id="show-admob-banner"></a>
 
 Commands to display AdMob banner ads in applications
 
@@ -244,7 +298,7 @@ swingWebViewPlugin.app.admob.showBanner('ca-app-pub-3940256099942544/6300978111'
 ```
 {% endcode %}
 
-* #### End banner ads
+* **End banner ads**
 
 Command to stop AdMob banner ads in the application
 
@@ -254,7 +308,7 @@ swingWebViewPlugin.app.admob.closeBanner();
 ```
 {% endcode %}
 
-* #### Show interstitial ads
+* **Show interstitial ads**
 
 Commands to display AdMob interstitial ads in applications
 
