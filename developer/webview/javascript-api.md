@@ -1,4 +1,4 @@
-# Javascript Integration API Documentation
+# Javascript API Documentation
 
 It is a javascript API that allows you to control the web view and the push-only prototype app provided by Swing2App.
 
@@ -202,8 +202,6 @@ swingWebViewPlugin.app.methods.doShareWithUrl('https://www.swing2app.com');
 ```
 {% endcode %}
 
-
-
 #### • **Checking the notification setting status of the application** <a href="#set-notification" id="set-notification"></a>
 
 Ability to check the status of push alarm settings in the application.
@@ -270,7 +268,191 @@ swingWebViewPlugin.app.methods.goToNotificationSetting('app');
 swingWebViewPlugin.app.methods.goToNotificationSetting('system');
 ```
 
-##
+#### • Saving Text to Clipboard <a href="#clipboard-write" id="clipboard-write"></a>
+
+A feature that allows you to save text to the clipboard.
+
+Due to security issues, the `window.navigator.clipboard.writeText` API does not function properly in WebView.
+
+In Swing2App WebView, you can use the following API to save text to the clipboard.
+
+```javascript
+swingWebViewPlugin.app.methods.copyToClipboard("copyToClipboard Text test");
+```
+
+#### • Activate Push Notification <a href="#active-push" id="active-push"></a>
+
+API to active push notification
+
+```javascript
+swingWebViewPlugin.app.methods.activePush();
+```
+
+#### • Inactivate Push Notification <a href="#inactive-push" id="inactive-push"></a>
+
+API to inactive push notification
+
+```javascript
+swingWebViewPlugin.app.methods.inactivePush();
+```
+
+#### • Saving Variables on the Device <a href="#save-localstorage" id="save-localstorage"></a>
+
+Saving Storage Variables within the App
+
+If you have data you want to store in the app's storage, you can use the following function to save it.
+
+You can utilize this feature to easily implement automatic website login.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.methods.setVariable('id','test');
+```
+
+#### • Retrieving Saved Variables on the Device <a href="#load-localstorage" id="load-localstorage"></a>
+
+Fetching Stored Variable Values within the App
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.methods.getVariable('id',function(value) {
+    console.log(JSON.parse(value).value);
+    // 출력예시 : test
+});
+```
+
+#### • Playing TTS (Premium Feature) - Customization Required <a href="#speak-tts" id="speak-tts"></a>
+
+Function to enable the TTS feature that converts text to speech
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.methods.speakOutViaTTS('안녕하세요');
+```
+
+#### • Checking First App Launch <a href="#check-first-run" id="check-first-run"></a>
+
+API to check if the app is being launched for the first time, a function to determine the first launch of the app
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.methods.isFirstRun(function (value) {
+    if (JSON.parse(value).result) 
+    {
+        console.log('First App Launching');
+    }
+});
+```
+
+
+
+## Methods for Controlling App UI
+
+#### • Setting Background Color for iOS <a href="#change-ios-backcolor" id="change-ios-backcolor"></a>
+
+An option to set the SafeArea region and main color due to the device notch and home bar UI on iOS.
+
+Please input the color as a hex value without the # symbol.&#x20;
+
+This setting only works on iOS.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.ui.setIosBackColor('00ff00');
+```
+
+
+
+## Method for Controlling App Screen
+
+#### • Navigating to Settings Screen <a href="#go-to-setting" id="go-to-setting"></a>
+
+API command to navigate to the settings screen.
+
+You can move to the settings screen without using the toolbar or menu bar.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.screen.setting.show();
+```
+
+#### • Navigating to Notification List Screen <a href="#go-to-notification-list" id="go-to-notification-list"></a>
+
+API command to navigate to the notification list screen.
+
+You can move to the notification list screen without using the toolbar or menu bar.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.screen.notificationList.show();
+```
+
+#### • Navigating to Menu Screen <a href="#go-to-menu" id="go-to-menu"></a>
+
+API command to navigate to the menu screen.
+
+You can move to the menu screen without using the toolbar.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.screen.menu.show();
+```
+
+#### • Navigating to Bookmark List Screen <a href="#go-to-bookmark-list" id="go-to-bookmark-list"></a>
+
+API command to navigate to the bookmark list screen.
+
+You can move to the bookmark list screen without using the menu or toolbar.
+
+<mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
+
+```javascript
+swingWebViewPlugin.app.screen.bookmarkList.show();
+```
+
+
+
+## Application Event
+
+Commands to manage the app's native events.
+
+#### • Adding WebView Navigation Event for Android App Back Key <a href="#add-event-exit-app" id="add-event-exit-app"></a>
+
+When you add an exit event to the app's Back button, the back navigation function triggered by the Back button will not work.
+
+Therefore, if you add a backEvent, you need to implement the back navigation function yourself, as it will not work when the WebView navigation goes back due to the Back key.
+
+```javascript
+swingWebViewPlugin.event.addEvent('backEvent' , function() {
+    // Android back event 
+    swingWebViewPlugin.app.webview.back(); // webview back navigation code
+})
+```
+
+#### • Adding Exit Event for Android App Back Key <a href="#add-event-back-key" id="add-event-back-key"></a>
+
+When you add an exit event to the app's back button, the app will not exit when the back button is pressed.
+
+Therefore, if you add a backExitEvent, you need to implement the exit functionality directly within the callback function.
+
+```javascript
+swingWebViewPlugin.event.addEvent('backExitEvent' , function() {
+    // Implementing App Exit Logic Directly
+    swingWebViewPlugin.app.methods.doExitApp();    // Exit App 
+});
+```
+
+
+
+
 
 ## Methods related to AdMob
 
