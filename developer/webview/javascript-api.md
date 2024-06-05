@@ -330,7 +330,7 @@ Function to enable the TTS feature that converts text to speech
 <mark style="color:blue;">\*Available from js lib version 2024\_02\_28\_002</mark>
 
 ```javascript
-swingWebViewPlugin.app.methods.speakOutViaTTS('안녕하세요');
+swingWebViewPlugin.app.methods.speakOutViaTTS('hello');
 ```
 
 #### • Checking First App Launch <a href="#check-first-run" id="check-first-run"></a>
