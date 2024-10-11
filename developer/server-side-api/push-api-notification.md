@@ -121,7 +121,7 @@ echo $response;
 {% tab title="ETC" %}
 Refer to the Postman link below for examples of usage for each language.
 
-[https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f](https://documenter.getpostman.com/view/14364369/2s83zdxSKf#b79b93a1-9f46-4d1c-a961-33afa5bfde3f)
+[https://documenter.getpostman.com/view/14364369/2sAXxS6qk1#32767ede-ba32-4ba2-a01b-785eca829b88](https://documenter.getpostman.com/view/14364369/2sAXxS6qk1#32767ede-ba32-4ba2-a01b-785eca829b88)
 {% endtab %}
 {% endtabs %}
 
