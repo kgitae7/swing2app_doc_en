@@ -12,21 +12,22 @@ This API is available to users of paid apps.
 
 ## API for sending push notification to Swing2App application
 
-<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_send`
+<mark style="color:green;">`POST`</mark> `https://www.swing2app.com/swapi/push_api_send_message`
 
 <mark style="color:orange;">\*\*\* App ID and API KEY that need to be issued can be issued upon request to the customer center. \*\*</mark>
 
 #### Request Body
 
-| Name                                                       | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| app\_id<mark style="color:red;">\*</mark>                  |        | APP\_ID provided by Swing2App                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| api\_user<mark style="color:red;">\*</mark>                |        | Swing2app user account (email address)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| api\_key<mark style="color:red;">\*</mark>                 | String | API KEY provided by Swing2App                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| send\_target\_list<mark style="color:red;">\*</mark>       | String | <p>Send destination type setting items When sending to indiviUser ID to send to user_id in single dispatch When sending multiple messages, separate them with “,”<br>Ex:) user_id1,user_id2 Enter -1<br>[When sending all ]<br>Ex:) -1</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| send\_target\_type\_list<mark style="color:red;">\*</mark> | String | <p>Send destination type setting items When sending to individual users, input MEMBER as many as the number, separate them with ‘,’ If sending to all.<br>enter 'ALL_TARGET'<br>[When sending to 2 specific users] Ex:) MEMBER, MEMBER<br>[When sending to all]<br>Ex:) ALL_TARGET\</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| send\_type<mark style="color:red;">\*</mark>               | String | Enter the send type. Enter "push" in case of push delivery                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| message\_json<mark style="color:red;">\*</mark>            | String | <p>* Enter the following variables according to the JSON format string\</p><p>messageTitle: Title,</p><p>messageContent: Content</p><p>messageLinkUrl: Link Address</p><p>messageImageUrl: Image Url</p><p>*Can be omitted if there is no link address and image address<br><br>Ex:)</p><p>[In case of sending title, content, link, image]</p><p>{“messageTitle" : "title" , "messageContent" : "content" , "messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl":"https://www.swing2app.com/abc.png"}\</p><p>[In case of sending only the title, content, and image]</p><p>{“messageTitle" : "title" , "messageContent" : "content" , "messageImageUrl":"http://www.swing2app.com/abc.png"}\</p><p>[In case of sending only the title, content]</p><p>{“messageTitle" : "title" , "messageContent" : "content" }</p> |
+| Name                                                 | Type   | Description                                                                                                                                                                                                                                |
+| ---------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| app\_id<mark style="color:red;">\*</mark>            |        | APP\_ID provided by Swing2App                                                                                                                                                                                                              |
+| app\_api\_key<mark style="color:red;">\*</mark>      | String | API KEY provided by Swing2App                                                                                                                                                                                                              |
+| send\_target\_list<mark style="color:red;">\*</mark> | String | <p>Send destination type setting items When sending to indiviUser ID to send to user_id in single dispatch When sending multiple messages, separate them with “,”<br>Ex:) user_id1,user_id2 Enter -1<br>[When sending all ]<br>Ex:) -1</p> |
+| send\_type<mark style="color:red;">\*</mark>         | String | Enter the send type. Enter "push" in case of push delivery                                                                                                                                                                                 |
+| message\_title<mark style="color:red;">\*</mark>     | String | message title                                                                                                                                                                                                                              |
+| message\_content<mark style="color:red;">\*</mark>   | String | message content                                                                                                                                                                                                                            |
+| message\_image\_url                                  | String | image url (Optional)                                                                                                                                                                                                                       |
+| message\_link\_url                                   | String | link url (Optional)                                                                                                                                                                                                                        |
 
 {% tabs %}
 {% tab title="200: OK " %}
@@ -49,15 +50,16 @@ This API is available to users of paid apps.
 ```javascript
 var form = new FormData();
 form.append("app_id", "app_id");
-form.append("api_user", "UserAccount");
-form.append("api_key", "api_key");
+form.append("app_api_key", "api_key");
 form.append("send_target_list", "test");
-form.append("send_target_type_list", "MEMBER");
 form.append("send_type", "push");
-form.append("message_json", "{\"messageTitle\" : \"push title\" , \"messageContent\" : \"push content\" , \"messageLinkUrl\" : \"http://www.swing2app.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}");
+form.append("message_title", "title");
+form.append("message_content", "content");
+form.append("message_image_url", "https://www.swing2app.com/assets/images/logo.png");
+form.append("message_link_url", "https://www.swing2app.com/");
 
 var settings = {
-  "url": "https://www.swing2app.com/swapi/push_send",
+  "url": "https://www.swing2app.com/swapi/push_api_send_message",
   "method": "POST",
   "timeout": 0,
   "processData": false,
@@ -75,15 +77,16 @@ $.ajax(settings).done(function (response) {
 {% tab title="Java" %}
 ```java
 Unirest.setTimeouts(0, 0);
-HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/push_send")
+HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/push_api_send_message")
   .multiPartContent()
   .field("app_id", "app_id")
-  .field("api_user", "UserAccount")
-  .field("api_key", "api_key")
+  .field("app_api_key", "api_key")
   .field("send_target_list", "test")
-  .field("send_target_type_list", "MEMBER")
   .field("send_type", "push")
-  .field("message_json", "{\"messageTitle\" : \"push title\" , \"messageContent\" : \"push content\" , \"messageLinkUrl\" : \"http://m.naver.com\" , \"messageImageUrl\":\"http://www.swing2app.com/abc.png\"}")
+  .field("message_title", "title")
+  .field("message_content", "content")
+  .field("message_image_url", "https://www.swing2app.com/assets/images/logo.png")
+  .field("message_link_url", "https://www.swing2app.com/")
   .asString();
 
 ```
@@ -96,7 +99,7 @@ HttpResponse<String> response = Unirest.post("https://www.swing2app.com/swapi/pu
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'https://www.swing2app.com/swapi/push_send',
+  CURLOPT_URL => 'https://www.swing2app.com/swapi/push_api_send_message',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
@@ -104,7 +107,7 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
-  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','api_user' => 'UserAccount','api_key' => 'api_key','send_target_list' => 'test','send_target_type_list' => 'MEMBER','send_type' => 'push','message_json' => '{"messageTitle" : "push title" , "messageContent" : "push content" , "messageLinkUrl" : "http://www.swing2app.com" , "messageImageUrl":"http://www.swing2app.com/abc.png"}'),
+  CURLOPT_POSTFIELDS => array('app_id' => 'app_id','app_api_key' => 'api_key','send_target_list' => 'test','send_type' => 'push','message_title' => 'title','message_content' => 'content','message_image_url' => 'https://www.swing2app.com/assets/images/logo.png','message_link_url' => 'https://www.swing2app.com/'),
 ));
 
 $response = curl_exec($curl);
@@ -125,27 +128,24 @@ Refer to the Postman link below for examples of usage for each language.
 <mark style="color:blue;">\[JavaScript Implementation Example – Send All]</mark>
 
 ```javascript
-var apiUserId = "help@swing2app.com";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "push title" , "messageContent" : "push content" , 
-"messageLinkUrl" : "https://www.swing2app.com" , "messageImageUrl" : "https://www.swing2app.com/abc.png" }';
 var sendTargetList = '-1';
-var sendTargetTypeList = "ALL_TARGET";
 $.ajax({
-    url: "https://www.swing2app.co.kr/swapi/push_send",
+    url: "https://www.swing2app.co.kr/swapi/push_api_send_message",
     type: "post",
     dataType: "json",
     data : {
         app_id : appId,
         send_target_list : sendTargetList,
-        send_target_type_list : sendTargetTypeList,
         send_type : 'push' ,
-        message_json : messageJson,
-        api_user : apiUserId,
-        api_key : apiKey
+        message_title:'title',
+        message_content:'content',
+        message_image_url: 'https://www.swing2app.com/assets/images/logo.png',
+        message_link_url: 'https://www.swing2app.com/',
+        app_api_key : apiKey
     },
-    success: function (rModel) {
+    success: function (model) {
         console.log("success");
 
     }
@@ -155,26 +155,24 @@ $.ajax({
 <mark style="color:blue;">\[JavaScript Implementation Example – Individual Push notification]</mark>
 
 ```javascript
-var apiUserId = "help@swing2app.co.kr";
 var apiKey = "test_api_key";
 var appId = "test_app_id";
-var messageJson = '{ "messageTitle" : "push title" , "messageContent" : "push content"}';
 var sendTargetList = 'user_id';
-var sendTargetTypeList = "MEMBER";
 $.ajax({
-    url: "https://www.swing2app.co.kr/swapi/push_send",
+    url: "https://www.swing2app.co.kr/swapi/push_api_send_message",
     type: "post",
     dataType: "json",
     data : {
         app_id : appId,
         send_target_list : sendTargetList,
-        send_target_type_list : sendTargetTypeList,
         send_type : 'push' ,
-        message_json : messageJson,
-        api_user : apiUserId,
-        api_key : apiKey
+        message_title:'title',
+        message_content:'message',
+        message_image_url: 'https://www.swing2app.com/assets/images/logo.png',
+        message_link_url: 'https://www.swing2app.com/',
+        app_api_key : apiKey
     },
-    success: function (rModel) {
+    success: function (model) {
         console.log("success");
 
     }
