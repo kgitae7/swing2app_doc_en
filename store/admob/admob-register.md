@@ -1,21 +1,21 @@
 # How to join AdMobs, create an Ad Unit ID
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/admob\_signup.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/admob_signup.png)
 
 **How to sign up for AdMob and how to create an AdMob Ad Unit ID**
 
-**▶ **<mark style="color:blue;">**What is Google AdMob?**</mark>
+\*\*▶ \*\*<mark style="color:blue;">**What is Google AdMob?**</mark>
 
 AdMob is an advertising platform provided by Google that allows you to place ads in your app.
 
 You can monetize your ads by applying the ad platform to your app.
 
-**▶ **<mark style="color:blue;">**How do I apply AdMob to my app?**</mark>
+\*\*▶ \*\*<mark style="color:blue;">**How do I apply AdMob to my app?**</mark>
 
 In the ad mob plug-in settings provided by Swing to App, the app operator can set up the advertisement with the app that I created.\
 \*AdMob setting is available only when you purchase an AdMob Plug-in product or AdMob Power Package.
 
-**▶ **<mark style="color:blue;">**What should the user do?**</mark>
+\*\*▶ \*\*<mark style="color:blue;">**What should the user do?**</mark>
 
 1\)Please subscribe to the Google ad-mob official website. (Login in if you have an account)
 
@@ -47,11 +47,9 @@ This allows users to create their ad unit IDs and apply them to the app to make 
 
 **+iPhone banner, front ad ID**
 
-\+**Android App ID,  iPhone App ID**
++**Android App ID, iPhone App ID**
 
 Find out how to sign up on the Google AdMob site and how to create an app ad unit ID.
-
-
 
 ### <mark style="color:blue;">**STEP.1 Sign up for AdMob**</mark>
 
@@ -82,11 +80,9 @@ Find out how to sign up on the Google AdMob site and how to create an app ad uni
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ad45.png)
 
 \
-**※ Almost all of the information (policy, method of use, google AdMob related information) will be sent to the user’s email when using AdMob.**\
+&#xNAN;**※ Almost all of the information (policy, method of use, google AdMob related information) will be sent to the user’s email when using AdMob.**\
 **Therefore, all of the above items should be checked in “Yes”.**\
 If you check ‘No’, you will not receive the relevant information, so please receive it by email and refer to the operation of AdMob.
-
-
 
 ### <mark style="color:blue;">**STEP.2 Subscription completed. Get started with AdMob**</mark>
 
@@ -97,8 +93,7 @@ If you check ‘No’, you will not receive the relevant information, so please 
 **Admob subscription is complete. Signing up is very simple, right?**\
 It’s not particularly difficult. You only need to proceed like the above instructions.\
 This will bring up the AdMob management page as shown in the image above.\
-Let’s create an ad unit ID in the app by selecting the \[Start] button on the page.\
-
+Let’s create an ad unit ID in the app by selecting the \[Start] button on the page.\\
 
 ### <mark style="color:blue;">**STEP.3 Set up a new app**</mark>
 
@@ -111,8 +106,7 @@ At this point, **you will be asked if you have published (launched) the app to t
 <mark style="color:blue;">–</mark><mark style="color:blue;">**If you are a user here, and if your app is released to the store! Check “Yes”**</mark>
 
 <mark style="color:blue;">**-If you just created it and haven’t released it yet, please check “No”.**</mark>\
-\
-
+\\
 
 As explained above, we will show you how to create an ad unit by checking ‘No’.\
 If your app hasn’t been released to the Store yet, please select ‘No’.
@@ -143,8 +137,6 @@ Select the banner and the front side in order.
 
 First, let’s choose a banner and make it.
 
-
-
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ad52.png)
 
 **1) Select your banner ad**
@@ -153,13 +145,9 @@ First, let’s choose a banner and make it.
 
 **3) Select the Create Ad Unit button.**
 
-
-
 This allows you to create your ad units by selecting the same banner and front ad.
 
 From this point, proceed as described above.
-
-
 
 ### <mark style="color:blue;">**STEP.4 Check your ad units**</mark>
 
@@ -167,10 +155,7 @@ From this point, proceed as described above.
 
 Once you’ve created your ad unit ID, you can check it on the admin page.
 
-You can select the ad unit ID you created by selecting \[Ad unit] from the left menu of the AdMob management page. \
-
-
-
+You can select the ad unit ID you created by selecting \[Ad unit] from the left menu of the AdMob management page. \\
 
 <mark style="color:blue;">**Copy app ID**</mark>
 
@@ -190,8 +175,6 @@ Android and iPhone app IDs will be created, so please check each app ID and past
 <mark style="color:orange;">**You can check the ad-mob plug-in setting advertisement setting in detail if you look at the post below.**</mark>
 
 **☞** [**Go to see how to set ad-mob plug-in ads**](admob-plugin-apply.md)
-
-
 
 ### <mark style="color:blue;">**STEP.5 Operation of AdMob’s**</mark>
 
@@ -239,8 +222,6 @@ Once you’ve entered your payment information, make sure there are no un-review
 
 From the left menu, go to the \[Manage Block] menu.
 
-
-
 <mark style="color:blue;">**1) Un-reviewed ads**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/01/ad5-1.png)
@@ -260,8 +241,6 @@ By selecting the \[Reviewed Ads] menu, you’ll see that previously un-reviewed 
 \*\*If there are ads that have not been reviewed, AdMob ads will not be posted to the app.
 
 Therefore, you should tap the un-reviewed ad menu to check that there are no un-reviewed ads.
-
-
 
 <mark style="color:blue;">**2) Blocked ads**</mark>
 
@@ -285,13 +264,13 @@ If you need to add another app to create an ad ID during operation, check out th
 
 **+ If you select \[App] in the left menu, you can check other apps. You can add and run another app.**
 
-**+ And if you need to create more ad units in the app, you can add another ad ID by pressing the \[Add ad unit] button.**  \
+**+ And if you need to create more ad units in the app, you can add another ad ID by pressing the \[Add ad unit] button.**\
 \
 <mark style="color:red;">**AdMob ads are only set up in the swing2app app, so you’ll need to take care of both management and operations.**</mark>
 
 <mark style="color:red;">**Please be sure to read and operate AdMob notices and policies.**</mark>
 
-**\*Especially if you keep clicking on the advertising banner on your phone, Google may suspect that it is suspicious and may drop your ad.**&#x20;
+**\*Especially if you keep clicking on the advertising banner on your phone, Google may suspect that it is suspicious and may drop your ad.**
 
 Please do not continue to select ads even for testing.
 

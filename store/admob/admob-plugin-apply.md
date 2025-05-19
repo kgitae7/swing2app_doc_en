@@ -46,7 +46,7 @@ The app can be modified and updated continuously in the future, so even if you a
 
 <figure><img src="../../.gitbook/assets/애드몹(en)1.png" alt=""><figcaption></figcaption></figure>
 
-\*[Manager → Online Stores → Swing2App Plug-in](https://www.swing2app.com/view/new\_product\_list\_by\_plugin) Please pay $220 on the Swing Plug-in purchase page.
+\*[Manager → Online Stores → Swing2App Plug-in](https://www.swing2app.com/view/new_product_list_by_plugin) Please pay $220 on the Swing Plug-in purchase page.
 
 AdMob plug-in products are also available in the free version of the app.
 
@@ -54,11 +54,7 @@ You can purchase a paid app coupon after setting up the advertisement.
 
 <mark style="color:red;">\* Plug-in with AdMob is a single product, and after purchasing the product, you must purchase a swing paid app ticket and store upload ticket separately.</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/캡처dd.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/캡처dd.PNG" alt=""><figcaption></figcaption></figure></div>
 
 or
 
@@ -68,7 +64,7 @@ You can also purchase the **\[AdMob Power Package]** package.
 
 <figure><img src="../../.gitbook/assets/애드몹(en)2.png" alt=""><figcaption></figcaption></figure>
 
-\*[Manager → Online Stores → Swing Package Product ](https://www.swing2app.com/view/new\_product\_list\_by\_package)Please pay $420 for **\[AdMob Power Package]**.
+\*[Manager → Online Stores → Swing Package Product ](https://www.swing2app.com/view/new_product_list_by_package)Please pay $420 for **\[AdMob Power Package]**.
 
 The AdMob Power Package is a cheaper package product that combines ad-mob and voucher.
 
@@ -106,11 +102,7 @@ Please check the manual below for how to sign up for ad mobs, create advertising
 
 ## **4. Set up ads in AdMob plug-in settings**
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/10/nfjd.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/10/nfjd.png" alt=""></div>
 
 After signing up for an ad-mob, if you’ve made all the advertising unit IDs, now I’m going to use the app! Let’s set up the ad.
 
@@ -118,25 +110,17 @@ After signing up for an ad-mob, if you’ve made all the advertising unit IDs, n
 
 ### <mark style="color:blue;">**1) Ad unit ID setting**</mark>
 
-<div align="left">
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/10/345.png" alt=""></div>
 
-<img src="https://support.swing2app.com/wp-content/uploads/2020/10/345.png" alt="">
+-Enter Android Full Ad, Banner Ad ID
 
-</div>
+-Enter iPhone full-page ad, banner ad ID
 
-\-Enter Android Full Ad, Banner Ad ID
-
-\-Enter iPhone full-page ad, banner ad ID
-
-\-Android, enter iPhone app ID
+-Android, enter iPhone app ID
 
 ### <mark style="color:blue;">**2) Setting up a pattern of ad exposure**</mark>
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/10/ef.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/10/ef.png" alt=""></div>
 
 Please check both front and banner ads with ‘Use’ exposure.
 
@@ -153,21 +137,21 @@ You can choose an exposure pattern for a full-page advertisement.
 
 1\)Exposure of advertisements when launching the app for the first time
 
-\->Full advertisements are exposed when the app is first launched.
+->Full advertisements are exposed when the app is first launched.
 
 2\) When switching to the app for the first time is in progress.
 
-\->After launching the app, a pop-up advertisement will appear once the screen is switched by selecting the first menu or page.
+->After launching the app, a pop-up advertisement will appear once the screen is switched by selecting the first menu or page.
 
 3\)Exposure of advertisements by number of screen transitions
 
-\->You can set the number of ad exposures that appear as the screen transitions.
+->You can set the number of ad exposures that appear as the screen transitions.
 
 When setting to ‘Example’5’, full-page advertisements are exposed when the screen is switched 5 times.
 
 4\) Expose advertisements every scheduled time
 
-\->If you set a schedule time, the full-page advertisement will be exposed after that time.
+->If you set a schedule time, the full-page advertisement will be exposed after that time.
 
 Example) If you set it up for 60 seconds, the advertisement will be exposed 60 seconds after the app is launched. (Expose ad every 60 seconds)
 {% endhint %}
@@ -200,11 +184,7 @@ After that, you just need to modify it and save it. If you exit and re-run the a
 
 ## **5. App Creation Request (App Update)**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/앱업데이트(en) (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/앱업데이트(en) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 \*You have to update the app to apply the advertisement setting.
 
@@ -228,23 +208,15 @@ Please install the new version of the app on your Android phone to see if the ad
 
 Download and check the app you created on Swing to App Official App – \[App Preview].
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/02\_PC\_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%95%B1\_En.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/02_PC_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EC%95%B1_En.png)
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Check GIFs) See how to download apps**
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/10/%EB%85%B9%ED%99%94_2020_10_14_14_05_26_450.gif" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/10/%EB%85%B9%ED%99%94_2020_10_14_14_05_26_450.gif" alt=""></div>
 
 <img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line"> **Check if the advertisement is working well after launching the app!**
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/10/%EB%85%B9%ED%99%94_2020_10_14_14_06_59_671.gif" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/10/%EB%85%B9%ED%99%94_2020_10_14_14_06_59_671.gif" alt=""></div>
 
 We used banner ad exposure to the app’s advertisement setting.
 
@@ -300,7 +272,7 @@ Please refer to the below for instructions on how to apply for upload.
 
 ![](https://support.swing2app.com/wp-content/uploads/2020/08/d2.png)
 
-\*[Manager → Manage Version → Go to Production History](https://www.swing2app.com/view/app\_work\_history) menu and select the Play Store Upload or App Store Upload button in the market registration box.
+\*[Manager → Manage Version → Go to Production History](https://www.swing2app.com/view/app_work_history) menu and select the Play Store Upload or App Store Upload button in the market registration box.
 
 The application pop-up will be displayed, and you will need to fill out the application form and apply for the upload to be delivered to Swing2App.
 
@@ -341,7 +313,7 @@ Advertisements run from the moment they are set up in the app.\
 If an ad touch is found on a particular model (phone), Google will drop the ad without notice.\
 Not only the operator, but also the users of the app choose to advertise artificially.\
 If there is any suspicious behavior, the advertisement may be suspended due to invalid traffic.\
-**=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
+&#xNAN;**=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
 
 **4) App ad publishing may be interrupted if traffic is low.**
 

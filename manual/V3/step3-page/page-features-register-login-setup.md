@@ -14,9 +14,9 @@ We'll show you how to apply the sign-up, login, and settings pages provided by t
 
 ![](<../../../.gitbook/assets/1.. (1).png>)
 
-Go to the MakerV3 screen.&#x20;
+Go to the MakerV3 screen.
 
-1\)Go to the STEP3 page&#x20;
+1\)Go to the STEP3 page
 
 2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
 
@@ -32,7 +32,7 @@ Go to the MakerV3 screen.&#x20;
 
 \*Even after applying, you can still see how the page is applied to the app through the virtual machine.
 
-#### **▶**App launch screen) Registration
+#### **▶**&#x41;pp launch screen) Registration
 
 ![](../../../.gitbook/assets/Untitledvzd-1.png)
 
@@ -54,9 +54,9 @@ You can find out more about how to set up the membership form by checking the ma
 
 ![](<../../../.gitbook/assets/1.. (2).png>)
 
-Go to the MakerV3 screen.&#x20;
+Go to the MakerV3 screen.
 
-1\)Go to the STEP3 page&#x20;
+1\)Go to the STEP3 page
 
 2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
 
@@ -96,9 +96,9 @@ After registering and completing the login, the login listed in the menu name wi
 
 ![](<../../../.gitbook/assets/1.. (3).png>)
 
-Go to the MakerV3 screen.&#x20;
+Go to the MakerV3 screen.
 
-1\)Go to the STEP3 page&#x20;
+1\)Go to the STEP3 page
 
 2\)If you don't have any default menus, please create a new one by clicking on the \[+] Add button
 
@@ -145,7 +145,7 @@ It is only applicable to app menus (categories), so please use it only as a menu
 
 Or use the 'Settings' menu that comes with the registration and login menu.
 
-3\) The membership registration form can be modified on the [<mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark>](https://www.swing2app.com/view/app\_policy) of the \[Subscription Settings] page, and when the ID form is modified, it is reflected on the login screen.
+3\) The membership registration form can be modified on the [<mark style="color:blue;">http://www.swing2app.co.kr/view/app\_policy</mark>](https://www.swing2app.com/view/app_policy) of the \[Subscription Settings] page, and when the ID form is modified, it is reflected on the login screen.
 
 4\)Since the settings page is provided with a fixed content UX, the item cannot be modified like registering.
 

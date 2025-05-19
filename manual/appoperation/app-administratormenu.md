@@ -1,6 +1,6 @@
 # How to use the App Administrator menu
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/app\_admin.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/app_admin.png)
 
 **\[What is app administrator menu?]**
 
@@ -20,7 +20,7 @@ In addition, functions such as user permission changes and member information no
 <figure><img src="../../.gitbook/assets/m3g@3x.png" alt=""><figcaption></figcaption></figure>
 
 **After launching the app, \[Settings]> \[Administrator Login]> \[Log in with Swing2App Account]> Administrator menu will be created.**\
-**\*In the previous versions of the app, the Admin login menu is not visible in the Settings menu. (Apps created before September 22, 2017 must be re-created)**\
+&#xNAN;**\*In the previous versions of the app, the Admin login menu is not visible in the Settings menu. (Apps created before September 22, 2017 must be re-created)**\
 Therefore, please re-create the app and check the new version.\
 Apps created after the update will automatically have an admin login menu in the Settings menu.
 
@@ -58,6 +58,6 @@ Please check how to use the coupon in the list posted below!
 1. If you want to leave the admin menu, please log out from the app.
 2. In the previous version, the administrator login menu is not displayed. Please update the app to the new version.
 3. Except for the \[Add a Stamp with QR Code] function among the functions provided in the App Manager menu, all functions are available equally on the swing2app site (homepage).\
-   \-Scanning of QR code is only available in the app because you need to use the app’s built-in reader.\
-   \-When adding a stamp on the site, please enter the stamp number to use.
+   -Scanning of QR code is only available in the app because you need to use the app’s built-in reader.\
+   -When adding a stamp on the site, please enter the stamp number to use.
 4. We will add a manual through the blog on how to use the App Administrator menu.

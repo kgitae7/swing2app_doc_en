@@ -11,8 +11,7 @@ description: How to use the calendar of swing2app
 You can easily register important events on your calendar, and you can record your reservation status by date and time at companies that require reservation management.
 
 You can also write important news and announcements.\
-\
-
+\\
 
 <mark style="color:orange;">**▶ Features provided by the calendar of swing2app**</mark>
 
@@ -21,9 +20,8 @@ You can also write important news and announcements.\
 * Can add multiple events
 * Different schedules can be divided into text and backgrounds of different colors
 * Important announcements can be made as announcements
-* Schedule creation is the same as post HTML editor (image attachment, link, video attachment can be done)&#x20;
-* Go to ‘View detailed schedule’ post when selecting a schedule\
-
+* Schedule creation is the same as post HTML editor (image attachment, link, video attachment can be done)
+* Go to ‘View detailed schedule’ post when selecting a schedule\\
 
 <mark style="color:orange;">**▶ How to use the calendar of swing2app**</mark>
 
@@ -38,9 +36,9 @@ You can also write important news and announcements.\
 
 **2) Create an event on your calendar**
 
-The calendar is a bulletin board function, so you can use it the same as entering a post.&#x20;
+The calendar is a bulletin board function, so you can use it the same as entering a post.
 
-After saving the calendar board from above, you can enter the event below steps:&#x20;
+After saving the calendar board from above, you can enter the event below steps:
 
 1. Go to **Manager.**
 2. Select **Posts.**
@@ -65,14 +63,13 @@ Go to **Maker(V2)** and click on **Page Menu.**
 1. Go to **Manager.** Select **Services** and click on **Bulletin Board** from the list.
 2. Either click on **Create Bulletin Board** to create a new board or click on **Settings** to edit the existing board.
 3. Select **Calendar.**
-4. Select **Calendar.**&#x20;
+4. Select **Calendar.**
 5. Click on **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b69-e1587044127166-1.png)
 
 **\*Calendar is a bulletin board function, so you can edit and use the detailed settings**.\
-If you select ‘Custom’ in Service Purpose, the fixed grey shaded area will be solved. By selecting ‘Calendar’ again in the UI and function selection, you can edit the detail setting-writing permission, list view, and detail view permission. \
-
+If you select ‘Custom’ in Service Purpose, the fixed grey shaded area will be solved. By selecting ‘Calendar’ again in the UI and function selection, you can edit the detail setting-writing permission, list view, and detail view permission. \\
 
 ***
 
@@ -86,8 +83,7 @@ If you select ‘Custom’ in Service Purpose, the fixed grey shaded area will b
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b65.png)
 
-You can check the newly added calendar page.\
-
+You can check the newly added calendar page.\\
 
 The calendar is displayed based on the month.
 
@@ -135,8 +131,6 @@ If you have multiple schedules in one day, you can add more events with the Add 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b67.png)
 
-
-
 <mark style="color:blue;">**4) Create Notification**</mark>
 
 Important announcements can be made by selecting the **Notification Form** button.
@@ -151,8 +145,6 @@ This created calendar will be applied to the app.
 ***
 
 ### <mark style="color:blue;">**3. Apply the calendar to the app**</mark>
-
-
 
 Apply the calendar to the app.
 
@@ -182,8 +174,6 @@ If you don't have a calendar created, it won't appear on the screen and can't be
 
 \*Icons are optional, please select only when applying an icon in front of the menu.
 
-
-
 **2)When using app production V2 version**
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -208,11 +198,7 @@ Days with a scheduled date are marked.\
 If you select the date, the events saved under the calendar are displayed.\
 Once you have made an announcement, the announcement will appear as a fixed message on the calendar screen.
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/25@3x-1.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/25@3x-1.png" alt=""></div>
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -223,7 +209,7 @@ Calendar events can also be created in the app.
 1. Go to **Manager.** Select **Services** and click on **Bulletin Board** from the list.
 2. Either click on **Create Bulletin Board** to create a new board or click on **Settings** to edit the existing board.
 3. Select **Customize.**
-4. Select **Calendar.**&#x20;
+4. Select **Calendar.**
 5. Set the permission for the board.
 6. Click on **Save.**
 
@@ -239,7 +225,7 @@ Calendar events can also be created in the app.
 >    <mark style="color:orange;">**☞ Write permission, detail view permission, list view permission: select ‘user’ for all**</mark>
 > 3. My schedule cannot be seen by other people other than me (When using the calendar for personal use)\
 >    <mark style="color:orange;">**☞ Write permission: Select user, Detail view permission: Select user, List view permission: Select administrator**</mark>\
->    **\*If you set permissions like the secret bulletin board (1:1 Customer Center), the user can check only his or her writings, and other users cannot see the writings of others. However, administrators can see the posts of all users**.
+>    &#xNAN;**\*If you set permissions like the secret bulletin board (1:1 Customer Center), the user can check only his or her writings, and other users cannot see the writings of others. However, administrators can see the posts of all users**.
 
 ***
 
@@ -281,18 +267,13 @@ This way, you can create events and share calendar events in the app!
 
 Since the calendar is also a bulletin board function, a user who creates an event can edit and delete his or her schedule.
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/34@3x.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/34@3x.png" alt=""></div>
 
 ***
 
 {% hint style="danger" %}
 <mark style="color:red;">**Notice**</mark>
 
-1. You can create a calendar, create an event, and manage everything on the web (swing2app homepage-Manager), and you can also create it in the app by setting the bulletin board permissions**.**
+1. You can create a calendar, create an event, and manage everything on the web (swing2app homepage-Manager), and you can also create it in the app by setting the bulletin board permissions\*\*.\*\*
 2. If you add, edit, delete a calendar event on the web and save it, the app will be automatically reflected.
 {% endhint %}
-

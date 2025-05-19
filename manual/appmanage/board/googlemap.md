@@ -9,26 +9,22 @@ In addition to the general location registration board that works with the follo
 <mark style="color:red;">**\*For Google Maps, you will need to apply on a separate Google Map platform and use it.**</mark>
 
 > 1. Google Maps is not a free service, but a service provided by Google’s own platform for a fee.
-> 2. In order to integrate Google Maps into your own apps, you need to sign up at the Google Maps platform site and get a key value called API. (Enter the API key value into the Swing2App Google Map board to link it). Only then can users use Google Maps normally.&#x20;
-> 3. Because Google Maps is a paid service, you must pay a fee to the Google Maps platform.&#x20;
+> 2. In order to integrate Google Maps into your own apps, you need to sign up at the Google Maps platform site and get a key value called API. (Enter the API key value into the Swing2App Google Map board to link it). Only then can users use Google Maps normally.
+> 3. Because Google Maps is a paid service, you must pay a fee to the Google Maps platform.
 >
-> &#x20;\*It is a pay-as-you-go plan, and you are only billed for what you use.
+> \*It is a pay-as-you-go plan, and you are only billed for what you use.
 
 **Please check the post on how to get a Google Map API key.**
 
 **☞** [**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
 
-
-
-&#x20;<mark style="color:blue;">**App execution screen-map board**</mark>&#x20;
+<mark style="color:blue;">**App execution screen-map board**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Group-2484.png)
 
 Please check how the map bulletin board looks through the app execution screen.
 
 Below, we will tell you all about the process of creating a map board and applying it to the app!
-
-
 
 ## STEP1. Create Google Map Board
 
@@ -37,7 +33,7 @@ Below, we will tell you all about the process of creating a map board and applyi
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google1-e1587041850350-1.png)
 
 1. Go to **Manager.** Select **Services.** Click on **Bulletin Board** from the drop-down list.
-2. If you need to create a new board on the board management page, click on  **Create Bulletin Board** button. If a bulletin board is created, click the **Settings** button on the bulletin board.
+2. If you need to create a new board on the board management page, click on **Create Bulletin Board** button. If a bulletin board is created, click the **Settings** button on the bulletin board.
 3. Select **Google map** in **Bulletin Board and Features settings.**
 4. Click on **About Google Map** tab.
 5. Fill **Google Map API Key.**
@@ -63,44 +59,31 @@ If you want to show it to all app users, set it as ‘Guest’.
 
 <mark style="color:orange;">\*Please select the manual link below for details on the authority to designate the bulletin board.</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](broken-reference)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](broken-reference/)
 
 6\) When all contents are entered, click the \[Save] button.
 
-> * Map board does not enter the function description text.\
->
-> * If you need to set the permission to view the map (add option), select ‘Custom’ in the service purpose and the fixed grey area will be released.\
->
-> * After selecting ‘Location registration (Google Map)’ in + UI and function selection, you can use the options such as permission setting and permission to specify. \
->
-> * If you want to use the existing map board, select \[Register location]. (Next map)&#x20;
+> * Map board does not enter the function description text.\\
+> * If you need to set the permission to view the map (add option), select ‘Custom’ in the service purpose and the fixed grey area will be released.\\
+> * After selecting ‘Location registration (Google Map)’ in + UI and function selection, you can use the options such as permission setting and permission to specify. \\
+> * If you want to use the existing map board, select \[Register location]. (Next map)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%BA%A122.jpg)
 
-### <mark style="color:orange;">**2. About Google Map**</mark>&#x20;
+### <mark style="color:orange;">**2. About Google Map**</mark>
 
-<div align="left">
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%903_%EC%98%81%EB%AC%B8.png" alt=""></div>
 
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%903_%EC%98%81%EB%AC%B8.png" alt="">
-
-</div>
-
-Unlike the existing map board, **Google Map bulletin board should go to \[Google Map Information] and put the Google Map API key value.**&#x20;
+Unlike the existing map board, **Google Map bulletin board should go to \[Google Map Information] and put the Google Map API key value.**
 
 **Please check the post on how to get a Google Map API key.**\
-**☞**[**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
+&#xNAN;**☞**[**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
 
 Paste the copied API key and select Save.
 
-
-
 ### <mark style="color:orange;">**3. Advanced**</mark>
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%902_%EC%98%81%EB%AC%B8.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/11/%EC%A7%80%EB%8F%84%EA%B2%8C%EC%8B%9C%ED%8C%902_%EC%98%81%EB%AC%B8.png" alt=""></div>
 
 You can set additional items by selecting the 3rd menu, Advanced Settings.
 
@@ -120,11 +103,9 @@ You can just enter the Google Map API key and save it, and you can edit several 
 
 (3) Location setting: Enter a specific location by entering latitude and longitude.
 
-3\) Initial display format: When you open the map board, you can select whether to show the screen as a map or as a satellite screen.&#x20;
+3\) Initial display format: When you open the map board, you can select whether to show the screen as a map or as a satellite screen.
 
 Then, we will register the location on the Google Map bulletin board!
-
-
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -132,26 +113,21 @@ Then, we will register the location on the Google Map bulletin board!
 
 1. Go to **Manager.**
 2. Select **Posts.**
-3. Click on the Google maps bulletin board created.\
+3. Click on the Google maps bulletin board created.\\
 
-
-To register a location, use the search toolbar above to enter an address or search by business name (keyword).&#x20;
+To register a location, use the search toolbar above to enter an address or search by business name (keyword).
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google2-e1587041891963.png)
 
 ### <mark style="color:blue;">**1. Location registration**</mark>
 
-1. Enter the address or search by company name (keyword) in the search box at the top of Google Maps.&#x20;
+1. Enter the address or search by company name (keyword) in the search box at the top of Google Maps.
 2. When the location is created from the address. Click on the Red Tag marked on Map.
 3. Click on the **Add** button and enter the information and details about the location.
 
 \*Search for Tiffany & Co. and add them to my location so you can show them in Google Maps.
 
 <figure><img src="https://support.swing2app.com/wp-content/uploads/2018/09/google3.png" alt=""><figcaption></figcaption></figure>
-
-
-
-&#x20;
 
 ### <mark style="color:blue;">**2. Location Registration – Enter Details**</mark>
 
@@ -172,14 +148,9 @@ To register a location, use the search toolbar above to enter an address or sear
 
 <mark style="color:red;">★ If you do not have a homepage, phone number, photos you do not need to enter. Only the items entered are displayed on the bulletin board.</mark>
 
-<mark style="color:red;">★ If you register only one location, you do not need to enter a priority.</mark>\
+<mark style="color:red;">★ If you register only one location, you do not need to enter a priority.</mark>\\
 
-
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/google5.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/google5.png" alt=""></div>
 
 **Location registration is complete.**
 
@@ -188,15 +159,11 @@ Google Map board can add location by address and a keyword like this.
 
 You can edit and delete the location, and if you have an app that manages multiple businesses, you can register by adding addresses from multiple businesses.
 
-
-
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP3. Apply the Map Board to the App
 
-
-
-### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using app production V3 version</mark>
+### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;">When using app production V3 version</mark>
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -224,9 +191,7 @@ You can edit and delete the location, and if you have an app that manages multip
 
 In this manual, it was done without input, and please apply it additionally if necessary when creating the app.
 
-
-
-### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">When using app production V2 version</mark>
+### <mark style="color:blue;">**2.**</mark> <mark style="color:blue;">When using app production V2 version</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google6-e1587041928317.png)
 
@@ -240,32 +205,18 @@ Go to **Maker(V2)** and select the **Page Menu.**
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
 
-
-
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## STEP4. App Launch screen
 
 Let’s open the app and see how the Google Maps bulletin board looks like.
 
-**If** you select **\[Open List]**, the locations registered on the bulletin board are shown in a list.&#x20;
+**If** you select **\[Open List]**, the locations registered on the bulletin board are shown in a list.
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-2484.png" alt="">
-
-</div>
-
-
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/Group-2484.png" alt=""></div>
 
 Select the ‘Tiffany and Co.’ from saved locations.
 
 Click on the **Directions** button, it will take you to the Google Maps page and guides you through the directions.
 
-&#x20;&#x20;
-
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/ezgif.com-gif-maker-13.gif" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/ezgif.com-gif-maker-13.gif" alt=""></div>

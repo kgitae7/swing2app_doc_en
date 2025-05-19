@@ -1,21 +1,17 @@
 # How to use the App Store Customer Center
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/appstore\_help.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/appstore_help.png)
 
 **How to use the Apple App Store Customer Center**
-
-
-
-
 
 <mark style="color:blue;">**How to use the App Store Customer Center**</mark>
 
 \
-**☞**[**Go to App Store Customer Service Center**](https://developer.apple.com/contact/#!/topic/select)
+&#xNAN;**☞**[**Go to App Store Customer Service Center**](https://developer.apple.com/contact/#!/topic/select)
 
-If you select the shortcut above, you’ll be taken to the App Store Customer Service Center. \
+If you select the shortcut above, you’ll be taken to the App Store Customer Service Center.\
 \
-**★ You must have an Apple account to use the Contact page. (Please login with your Apple account)**
+&#xNAN;**★ You must have an Apple account to use the Contact page. (Please login with your Apple account)**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad62.png)
 
@@ -26,8 +22,6 @@ In the Contact Us menu, select the inquiry you want to find.
 Apple can choose between **phone support and email answers**.\
 You can leave a phone number and the person in charge will be asked to call you, or you can receive a reply by email.\
 You can call us between 9 AM to 5 PM.
-
-
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-05-05-at-17.59.32.png)
 

@@ -30,7 +30,7 @@ After you select a new app style (type), the app makerV3 screen will pop up and 
 
 ## \*\*\*\* **2.** Mobile version – Create additional apps
 
-**Did you know, In addition to the PC version of the site, the Swing2App can also be used on mobile to create an app!**&#x20;
+**Did you know, In addition to the PC version of the site, the Swing2App can also be used on mobile to create an app!**
 
 **We'll also show you how to use \[Add App] to create a new app on your mobile.**
 
@@ -60,7 +60,7 @@ You can see all apps created by you in your account.
 
 To switch from one app to another, simply select the app from the list and it will take you to its app creation screen.
 
-### **▶**Manage your apps
+### **▶**&#x4D;anage your apps
 
 <figure><img src="../../../.gitbook/assets/Untitled-2-RecoveHRred.png" alt=""><figcaption></figcaption></figure>
 

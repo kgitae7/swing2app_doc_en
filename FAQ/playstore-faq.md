@@ -66,7 +66,7 @@ You can also manage your own apps while checking your own app installations and 
 
 Google can be used by editing the name of the first developer.\
 Access the Google Developer Console site ([https://play.google.com/apps/publish/)](https://play.google.com/apps/publish/)\
-**→ Select Settings in the left category → You can edit the developer’s name on the developer profile page and save it.**\
+&#xNAN;**→ Select Settings in the left category → You can edit the developer’s name on the developer profile page and save it.**\
 \*Developer name is not reflected immediately after editing.\
 It may take up to 7 days with Google’s approval, so if you need to change your name, please save it in advance.
 
@@ -121,10 +121,10 @@ Please purchase a Play Store upload request ticket ($5 per request) and reapply 
 However, Play Store has all the developer accounts of the user, so you can update them yourself. You don’t have to buy an upload ticket if you do it yourself, and you can update it from time to time.
 
 Updating a new version of your app to the Play Store is easy.\
-\-Login to the Google Developer Console site and register a new version of the app in the APK menu.\
-\-Then it is automatically updated to the new version after the 3-4 hour review period.\
+-Login to the Google Developer Console site and register a new version of the app in the APK menu.\
+-Then it is automatically updated to the new version after the 3-4 hour review period.\
 \
-**\*Store registration information can also be edited.**\
+&#xNAN;**\*Store registration information can also be edited.**\
 Uploaded to the store – When you change the app description, screenshot image, category, etc., the Submit Update button at the top is activated.\
 Unlike uploading APK files, if you edit the store settings, the update will be processed only by pressing the corresponding button.\
 The same will be reflected after the 3-4 hour review period.

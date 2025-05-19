@@ -196,7 +196,7 @@ Please go to the Apple iTunes site and log in with your Developer account to che
 if the contract has expired, you will be prompted to renew your membership on the main page.
 
 Please renew your membership at the Apple Developer website. [https://developer.apple.com/](https://developer.apple.com/)\
-**\*Apple Developer Fees; $129 per year.**
+&#xNAN;**\*Apple Developer Fees; $129 per year.**
 
 </details>
 

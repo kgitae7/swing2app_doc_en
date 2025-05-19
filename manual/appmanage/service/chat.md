@@ -24,7 +24,7 @@ Go to **Maker(V2)** and click on **Page Menu.** To create Admin chat function in
 
 **The admin chat function is provided in the – Swing2App page of the app production page. Please apply for a chat room in the app.**
 
-![](https://support.swing2app.com/wp-content/uploads/2019/06/Admin\_Chat\_up.png)
+![](https://support.swing2app.com/wp-content/uploads/2019/06/Admin_Chat_up.png)
 
 <mark style="color:orange;">**▶Chat Room Applied**</mark>
 
@@ -34,7 +34,7 @@ You can see the admin chat page (1:1 chat) is applied to the app. Then when the 
 
 ### <mark style="color:blue;">**2. App Launch Screen: Chat Room Screen**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/menu\_3-copy.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/menu_3-copy.png)
 
 When you see the app launch screen, you will receive messages entered by the administrator in the chat room, and the app members can send and receive texts.
 
@@ -89,7 +89,7 @@ On the chat list page, you can check the chat list of all the members you had a 
 So if you need to talk to someone you’ve had chat with before, you can continue chatting again by selecting a member from the chat list page.
 
 \
-**\*Please refer to the manual on how to use the chat administrator page**
+&#xNAN;**\*Please refer to the manual on how to use the chat administrator page**
 
 **☞** [**\[See how to use the chat administrator page\]**](chatlist.md)
 
@@ -99,7 +99,7 @@ So if you need to talk to someone you’ve had chat with before, you can continu
 
 App administrator login allows an administrator to talk to members in the app.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/menu\_2.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/menu_2.png)
 
 **\*You can also chat with members in the app. Please check!**
 
@@ -107,7 +107,7 @@ App administrator login allows an administrator to talk to members in the app.
 
 ### <mark style="color:blue;">**4. New alarm push notification – Administrator and member**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8\_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8_%EC%B1%84%ED%8C%85%ED%99%94%EB%A9%B4.png)
 
 When you chat, app administrators – app members can all receive chat message notification pushes.
 

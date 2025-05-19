@@ -1,6 +1,6 @@
 # Check Play Store App Installs
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_install.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app_install.png)
 
 **How to check the number of apps installs released to the Play Store**
 
@@ -8,15 +8,13 @@ Statistics show how many users have downloaded your app, how many times it’s i
 
 This manual will tell you how to check the number of Google Play Store app installs.
 
-
-
 ### <mark style="color:blue;">**1. Access Google Developer Console site**</mark>
 
 **▶ The Google Developer console site allows you to register your app and see a variety of information related to your app.**\
 **Please refer to swing2app posts on how to register Google developers ☞** [**\[See how to register Google Developers Account\]**](google-developer.md)\
-**▶ Google developer registration costs $25 (lifetime) and if you have a developer account, you can use it to launch your app to the Play Store without any restrictions.**
+&#xNAN;**▶ Google developer registration costs $25 (lifetime) and if you have a developer account, you can use it to launch your app to the Play Store without any restrictions.**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%841.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%841.png)
 
 \
 \* Go to the [**Google Developer Console site**](https://play.google.com/apps/publish/) and log in with your Google Developer account.
@@ -25,29 +23,23 @@ This manual will tell you how to check the number of Google Play Store app insta
 You can easily check the number of installations.\
 \
 You can check it out in detail.\
-\*When you select a number, you’ll be taken to the dashboard detail page.&#x20;
-
-
-
-
+\*When you select a number, you’ll be taken to the dashboard detail page.
 
 ### <mark style="color:blue;">**2. Dashboard page**</mark>
 
 You can select the app from the main page, or if you select the number of installs, you’ll be taken to the dashboard page.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%843.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%843.png)
 
 The dashboard shows your app’s data for a given period.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%842.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%842.png)
 
 In addition to the number of app installs, you can see a variety of information at a glance, including user app, uninstalls, the number of installs on your device, ratings, and revenue.
 
 **+ If you select the “?” question mark icon, you’ll be able to learn more about the description of the topic.**
 
-**+ View details to learn more about the metrics.**&#x20;
-
-
+**+ View details to learn more about the metrics.**
 
 ### <mark style="color:blue;">**3. Statistics page**</mark>
 
@@ -55,7 +47,7 @@ In addition to the number of app installs, you can see a variety of information 
 
 ▶ You can compare metrics, set periods, view data by dimension, and download reports.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8\_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%844-1.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%844-1.png)
 
 <mark style="color:orange;">**1) Set the duration**</mark>
 

@@ -1,14 +1,14 @@
 # Delete or Mark as Read Push Notifications
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/Push\_notif.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/Push_notif.png)
 
 **Delete push notifications, mark as read**
 
 You can delete a list that has been pushed, or process it as a read.
 
 **–Push list \[change to read]**\
-**–Push List \[Individual Delete]**\
-**–Push List \[Delete All]**
+&#xNAN;**–Push List \[Individual Delete]**\
+&#xNAN;**–Push List \[Delete All]**
 
 There are three ways to tell you in this manual.
 
@@ -20,7 +20,7 @@ Delete all notifications from the list of push notifications, processing as a re
 
 General guests who do not register can check the list of incoming push notifications but can delete them individually.
 
-<mark style="color:red;">**The ability to delete and read notifications entirely is not available.**</mark> &#x20;
+<mark style="color:red;">**The ability to delete and read notifications entirely is not available.**</mark>
 
 ***
 

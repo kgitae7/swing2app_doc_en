@@ -1,10 +1,10 @@
 # Online Stores – Coupon
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/redeem\_coup.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/redeem_coup.png)
 
 We will show you how to redeem your offer from the checkout menu.\
 \
-**▶What is a coupon?**
+&#xNAN;**▶What is a coupon?**
 
 Coupons are used in the Online Stores menu\
 \*Services – Coupons management (create a coupon and distribute it to app users) menu and other services.
@@ -19,8 +19,6 @@ When you receive a coupon by e-mail, you can apply a coupon such as a ticket to 
 
 Check the coupon number, enter the number in the coupon use menu, and use it.
 
-
-
 ### <mark style="color:blue;">**1. We will send a coupon to your swing2app subscription account (email).**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%98%81%EB%AC%B82.png)
@@ -34,8 +32,6 @@ The coupon that was sent contains the coupon number, brand name, and expiration 
 **If** you press the **\[Use Coupon]** button, you will be redirected to the swing2app homepage using the coupon page.
 
 <mark style="color:red;">\*You need to know the coupon number to use. Please copy the coupon number from the e-mail and paste it on the notepad.</mark>
-
-
 
 ### <mark style="color:blue;">**2. Use Coupon**</mark>
 
@@ -55,8 +51,6 @@ Please click ‘OK’ in the coupon use a pop-up window to complete the applicat
 
 **If you manage multiple apps in one account, make sure you are sure that the app you want to apply for the voucher coupon is correct.**
 
-
-
 ### <mark style="color:blue;">**3. My payment status**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%BF%A0%ED%8F%B0%EC%98%81%EB%AC%B84.png)
@@ -65,9 +59,7 @@ Should you make sure your coupon is used well?
 
 If you apply for a paid app voucher coupon, you can see that the usage period has been added at the top of the operation page mainboard.
 
-**\*If you go to Online Stores → Payment Status, you can check the voucher received by coupon.**&#x20;
-
-
+**\*If you go to Online Stores → Payment Status, you can check the voucher received by coupon.**
 
 <mark style="color:red;">**\[Guide]**</mark>
 
@@ -75,4 +67,4 @@ If you apply for a paid app voucher coupon, you can see that the usage period ha
 
 \*Please check whether the app you want to apply the coupon for has been selected well.
 
-\*Coupon has an expiration date, so please use it within this period.&#x20;
+\*Coupon has an expiration date, so please use it within this period.

@@ -90,7 +90,7 @@ You can upload an image here and apply it.
 
 \- Icon image size: **1024px\*1024px**
 
-\-Standby screen image size: **2282px\*2282px**
+-Standby screen image size: **2282px\*2282px**
 
 When the image upload is complete, select the \[Apply] button.
 
@@ -196,7 +196,7 @@ It's not an account signed up for in the official Swing2App app!
 
 
 
-## 3**. Purchase of vouchers and tickets**
+## &#x33;**. Purchase of vouchers and tickets**
 
 There are two types of products that can be purchased in the push app.
 
@@ -204,7 +204,7 @@ There are two types of products that can be purchased in the push app.
 
 Payment Page
 
-[Manager > Online Stores > recommended deal](https://www.swing2app.com/view/payment\_list\_by\_recommend\_voucher)
+[Manager > Online Stores > recommended deal](https://www.swing2app.com/view/payment_list_by_recommend_voucher)
 
 Please select the product that matches the platform you wish to purchase for, then click the
 
@@ -228,15 +228,15 @@ If you are not sure about the contents, please leave an inquiry on the inquiry b
 
 **2) Please check the upload ticket issue and product details.**
 
-\-The upload ticket is an optional product (the cost of uploading the user’s app to the store instead of the swing2app), so you only need to pay once at the time of initial registration.
+-The upload ticket is an optional product (the cost of uploading the user’s app to the store instead of the swing2app), so you only need to pay once at the time of initial registration.
 
 \*However, if there is an app update, you need to repurchase the upload ticket because you need to update the app on the store.
 
-\-It is up to the user to decide which store to launch, so if you only launch the App Store, you only need to purchase the App Store upload ticket.
+-It is up to the user to decide which store to launch, so if you only launch the App Store, you only need to purchase the App Store upload ticket.
 
-\-If the user can directly upload the Play Store, they only need to purchase a ticket and upload it directly. (You do not need to purchase an upload ticket.)
+-If the user can directly upload the Play Store, they only need to purchase a ticket and upload it directly. (You do not need to purchase an upload ticket.)
 
-\-Since the App Store is only available as an upload agent, if you plan to release it, be sure to purchase and apply for an App Store upload ticket.
+-Since the App Store is only available as an upload agent, if you plan to release it, be sure to purchase and apply for an App Store upload ticket.
 
 &#x20;
 
@@ -246,9 +246,9 @@ If you are not sure about the contents, please leave an inquiry on the inquiry b
 
 Google developer registration fee (25 dollars, lifetime use) must be made and paid by the user.
 
-\-Google must have a Google developer account in the user account to register
+-Google must have a Google developer account in the user account to register
 
-\-Apple is optional for developer account: Select between user Apple developer account registration or Swing2App account proxy registration
+-Apple is optional for developer account: Select between user Apple developer account registration or Swing2App account proxy registration
 
 ***
 
@@ -258,13 +258,9 @@ Google developer registration fee (25 dollars, lifetime use) must be made and pa
 
 If you purchased both the voucher and ticket above! You must apply for an upload to receive an upload application through Swing2App.
 
-\*After moving to the [Manager → Manage Version → Production History menu](https://www.swing2app.com/view/app\_work\_history), select the \[Play Store upload] or \[App store upload] button in the market registration column.
+\*After moving to the [Manager → Manage Version → Production History menu](https://www.swing2app.com/view/app_work_history), select the \[Play Store upload] or \[App store upload] button in the market registration column.
 
-<div align="left">
-
-<figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/d2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://support.swing2app.com/wp-content/uploads/2020/08/d2.png" alt=""><figcaption></figcaption></figure></div>
 
 An application pop-up will appear, and you must fill in the contents according to the application form and apply for upload before the upload application is delivered to Swing2App.
 
@@ -306,11 +302,7 @@ Since the review time is long for each store, you have to wait for the review pe
 
 **-If the screening is rejected, we will inform you of the reasons for refusal and actions to be taken, and re-examination will be done without any additional upload ticket fees.**
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2020/07/Group-201-1-e1596628274458.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2020/07/Group-201-1-e1596628274458.png" alt=""></div>
 
 When the store launch is complete, you can check the released apps on the Play Store and App Store.
 

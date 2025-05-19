@@ -14,8 +14,6 @@ You can set different search options for each app.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/32@3x.png)
 
-
-
 **▶ How to use hash-tags**
 
 1\. Create a hash-tag search option\
@@ -29,8 +27,6 @@ When entering a post, enter a search term in the hash-tag item.
 
 3\. Apply the bulletin board to the app.\
 Maker(V2) → Page menu → Apply the created hash-tag bulletin board to the app and save.
-
-
 
 <mark style="color:blue;">**Board Management-Move hash-tag search option**</mark>
 
@@ -46,8 +42,6 @@ In **Advanced style,** select the post settings as per your requirement and sele
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b83.png)
 
-
-
 ### <mark style="color:blue;">**1. Create a hash-tag search option**</mark>
 
 In the hash-tag search option, select
@@ -62,16 +56,12 @@ In the hash-tag search option, select
 <mark style="color:orange;">\*Option name – The name to classify the search term in the app</mark>\ <mark style="color:orange;">\*Option value-Enter the search term to be searched by hash-tag</mark>\
 \*When you enter an option value, the hashtag area is specified when you enter after entering the search term.
 
-
-
 **▶ App Launch Screen – Hash-tag**
 
 If you move the board with hash-tag on the mobile app, you will see a banner called **Tags**(name you used in add options) at the top.\
 When you select the banner, you’ll see the option value (hash-tag search term) you entered above below the banner.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/33@3x.png)
-
-
 
 ### <mark style="color:blue;">**2. Hash-tag Operator**</mark>
 
@@ -80,22 +70,19 @@ If you run multiple hash-tag options, you can use the hash-tag operator to set t
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b87.png)
 
-
-
 \
-**★What is a hash-tag operator?**\
+&#xNAN;**★What is a hash-tag operator?**\
 The options feature allows you to set the value that is retrieved when you add several hash-tag search options.\
 You can use the hash-tags ‘AND’ and ‘OR’ operators.
 
-> **\*AND: Shows only posts that meet the intersection and search terms.** \
-> **\*OR: Shows all posts including unions and search terms.**
+> **\*AND: Shows only posts that meet the intersection and search terms.**\
+> &#xNAN;**\*OR: Shows all posts including unions and search terms.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b85.png)
 
 Two options have been added here, Job Search and Local Search.\
-**-Use ‘OR’ if you want to search and show both business and region selections**\
-**-Use ‘AND’ if you want only selected regions from the business categories to be shown.**\
-
+&#xNAN;**-Use ‘OR’ if you want to search and show both business and region selections**\
+&#xNAN;**-Use ‘AND’ if you want only selected regions from the business categories to be shown.**\\
 
 **▶ App Launch screen \_ Apply hashtag operator (AND)**
 
@@ -105,20 +92,16 @@ Therefore, if the hash-tag operator has created multiple search options,\
 And If you want to see all the values you choose, select ‘OR’.\
 If you want to filter out the values that correspond to the condition, you can select ‘AND’.
 
-
-
 ### <mark style="color:blue;">**3. How to add a hash-tag search option. Checking with gif images**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_08\_16\_57\_55\_295.gif)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_08_16_57_55_295.gif)
 
 **If you applied the hash-tag feature on the board, you will need to go to that post and enter the hash-tag.**\
 **The hash-tags of posts and bulletin boards must be entered to match each other then the only search is possible.**
 
-
-
 ### <mark style="color:blue;">**4. Entering hash-tag search terms in posts**</mark>
 
-Hash-tags are different from regular posts, so entering the same search terms in the body of a post doesn’t make it searchable.&#x20;
+Hash-tags are different from regular posts, so entering the same search terms in the body of a post doesn’t make it searchable.
 
 It is a feature that helps you search for tags. <mark style="color:red;">You need to enter a word to find your search as a hash-tag query.</mark>
 
@@ -128,11 +111,9 @@ It is a feature that helps you search for tags. <mark style="color:red;">You nee
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b82.png)
 
-If you look at the bottom of the post, you can see the \[Hash-tag] icon.&#x20;
+If you look at the bottom of the post, you can see the \[Hash-tag] icon.
 
 As you typed the hash-tag option value, and you enter the same keyword and hit enter, the hash-tag is applied.
-
-
 
 **▶ If you add or edit a hash-tag on an existing post**
 
@@ -143,8 +124,6 @@ If you want to add a hash-tag to the existing post only.
 3. Click **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/hashtag.png)
-
-
 
 ### <mark style="color:blue;">**5. Apply hash-tags to the app**</mark>
 

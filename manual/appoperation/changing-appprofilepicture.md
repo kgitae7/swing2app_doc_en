@@ -7,8 +7,8 @@
 We will show you how to register and edit your profile image.
 
 **+ When you sign up in the app, all your profile pictures are set to the app icon image by default.**\
-**+ Therefore, you can register your profile image with the image you want when you register.**\
-**+ Members can easily edit and use app members profile picture.**
+&#xNAN;**+ Therefore, you can register your profile image with the image you want when you register.**\
+&#xNAN;**+ Members can easily edit and use app members profile picture.**
 
 ▶Register profile image – Register when signing up for the app.
 
@@ -111,8 +111,8 @@ You can edit the member information, push notifications (on / off), check the no
 
 **How to register and change your profile image again!**\
 \
-**\*Profile image registration method: Profile image registration is possible upon registration.**\
-**\*Profile image change method: Change image in ‘Setting’ menu, change image in ‘Settings-Edit member’.**\
+&#xNAN;**\*Profile image registration method: Profile image registration is possible upon registration.**\
+&#xNAN;**\*Profile image change method: Change image in ‘Setting’ menu, change image in ‘Settings-Edit member’.**\
 **Images can be uploaded directly from the album in the phone or by taking a picture directly with the camera.**\
 \
 **Changing the profile picture is only available to registered user accounts. (Non-members cannot access it)**

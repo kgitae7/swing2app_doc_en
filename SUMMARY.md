@@ -306,7 +306,7 @@
   * [Delete apps from the App Store](store/appstore/appstore-delete.md)
   * [AppStore App Rejection Cases](store/appstore/appstore-rejectioncases.md)
   * [App Store TestFlight](store/appstore/appstore-testflight.md)
-  * [How to invite Swing2App account on App Store Connect and share information on App Store Upload form](store/appstore/how-to-invite-swing2app-account-on-app-store-connect-and-share-information-on-app-store-upload-form.md)
+  * [How to invite Swing2App account on App Store Connect](store/appstore/how-to-invite-swing2app-account-on-app-store-connect-and-share-information-on-app-store-upload-form.md)
 * [AdMob (Google AdMob Ads)](store/admob/README.md)
   * [Admob Banner Ad Frequency Settings](store/admob/admob-frequencysettings.md)
   * [Admob Operation Precautions](store/admob/admob-operation.md)

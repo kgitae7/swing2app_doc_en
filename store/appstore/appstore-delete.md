@@ -1,10 +1,8 @@
 # Delete apps from the App Store
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_del.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app_del.png)
 
-**We’ll show you how to stop (delete) apps that are released in the App Store.**&#x20;
-
-
+**We’ll show you how to stop (delete) apps that are released in the App Store.**
 
 ### <mark style="color:blue;">**STEP.1 Access to Apple iTunes Connect site**</mark>
 
@@ -12,10 +10,8 @@
 
 Like the Google developer console site, Apple has a separate administrator site that allows you to register your app.\
 It is called iTunes connect.**☞**[**Go to the iTunes site**](https://itunesconnect.apple.com/)\
-**+Just go to the site and log in with your Apple Developer account.**\
-**+Please select \[My App].**
-
-
+&#xNAN;**+Just go to the site and log in with your Apple Developer account.**\
+&#xNAN;**+Please select \[My App].**
 
 ### <mark style="color:blue;">**STEP.2 Select the Apps to Delete**</mark>
 
@@ -27,20 +23,15 @@ Please select an app to discontinue the sale here.
 <mark style="color:red;">**★ Precautions**</mark>\
 Some apps are on sale, while some apps have been rejected.\
 **Only apps marked as ready for sale can be deleted.**\
-**Please note that apps that are declined and are not released will not be deleted.**&#x20;
+**Please note that apps that are declined and are not released will not be deleted.**
 
-
-
-### <mark style="color:blue;">**STEP.3  Select Price and Availability**</mark>
+### <mark style="color:blue;">**STEP.3 Select Price and Availability**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad55.png)
 
-Please select **\[price and availability]** from the left category.\
+Please select **\[price and availability]** from the left category.\\
 
-
-
-
-### <mark style="color:blue;">**STEP.4  Select \[Discontinue] and Save**</mark>
+### <mark style="color:blue;">**STEP.4 Select \[Discontinue] and Save**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad56.png)
 
@@ -48,11 +39,8 @@ If you look at availability, the app you’re launching will be checked in ‘Al
 Please check **‘Discontinued’** below.\
 Press the **‘Save’** button on the top to complete the deletion.\
 \
-**\*\* Like the Google Play Store, Apple doesn’t immediately disappear from the market if it deletes the app.**\
-**The app will stop selling in the App Store until it is reflected up to a day later.** \
-
-
-
+&#xNAN;**\*\* Like the Google Play Store, Apple doesn’t immediately disappear from the market if it deletes the app.**\
+**The app will stop selling in the App Store until it is reflected up to a day later.** \\
 
 <mark style="color:red;">**\[Instructions]**</mark>\
 1\. App Store app deletion is just to drop the app that was released, but not the app itself created by the swing2app.\

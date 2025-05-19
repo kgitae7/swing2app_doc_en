@@ -1,6 +1,6 @@
 # Issuing Google Maps API Key
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/g\_map.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/g_map.png)
 
 **How to issue Google Map API**
 
@@ -14,37 +14,29 @@ After receiving the API key – Swing2App Manager Page – Please enter the key 
 
 **\* Instructions**
 
-**1)Google Maps is a paid platform for pay-as-you-go plans.**&#x20;
+**1)Google Maps is a paid platform for pay-as-you-go plans.**
 
 **2)To use Google Maps, first register on the Google Maps platform site, and register your payment card. (Post payment)**
 
 **3)Google Maps will be provided as a free trial ($300) for the first 12 months and will be charged to the registered card as long as you continue using it after the free trial ends.**
 
-
-
 **★ On how to use the Google Maps board please refer to the relevant post.**
 
 **☞** [**\[See how to use the Google Map Board\]**](../../manual/appmanage/board/googlemap.md)
 
+**1. Access the Google Maps platform site and log in with your Google account.**
 
-
-**1. Access the Google Maps platform site and log in with your Google account.**&#x20;
-
-&#x20;[**https://cloud.google.com/maps-platform/**](https://cloud.google.com/maps-platform/)
+[**https://cloud.google.com/maps-platform/**](https://cloud.google.com/maps-platform/)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Picture39-1.png)
 
 Select the **\[Get Started]** button on the home page.
 
-
-
-**2. On the platform setting window, check ‘Yes’  for the agreement and then select \[Agree and Continue].**
+**2. On the platform setting window, check ‘Yes’ for the agreement and then select \[Agree and Continue].**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/gmap1.png)
 
 Receiving the notification by email is optional, so please check ‘Yes’ if you want to receive it or ‘No’ if you don’t want to receive it.
-
-
 
 **3. Enter your customer information, payment method, and select \[Start Free Trial]**.
 
@@ -56,8 +48,6 @@ Receiving the notification by email is optional, so please check ‘Yes’ if yo
 \*Card must be an international payment card.\
 4\)Please select \[Start Free Trial].
 
-
-
 **\*When you enter your payment card, you will get a text saying that your card has been withdrawn.**
 
 You will see a text saying that your payment card was debited.
@@ -66,27 +56,21 @@ This is a test to check if normal payment can be done through the card.
 
 Please don’t worry, there’s a disapproved letter right after a while.
 
-
-
 **4.Enable Google Maps Platform**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8-%EA%B5%AC%EA%B8%80api1.png)
 
 Check <mark style="color:blue;">Maps, Places,</mark> and click the \[Continue] button.
 
-
-
-**5.   API usage settings.**
+**5. API usage settings.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8-%EA%B5%AC%EA%B8%80api23.png)
 
 Select <mark style="color:blue;">**\[USE SETTINGS]**</mark>in the API usage settings.
 
+\*\*6. API key issuance \*\*<mark style="color:blue;">**complete**</mark>
 
-
-**6. API key issuance **<mark style="color:blue;">**complete**</mark>
-
-**Copy the API key by selecting the copy icon from YOUR API KEY.**&#x20;
+**Copy the API key by selecting the copy icon from YOUR API KEY.**
 
 Please save the copied key by pasting it into a notepad.
 
@@ -100,7 +84,7 @@ If you do this, the API key issuance will be completed.
 
 <mark style="color:blue;">**\[Enter API Key on Swing2App Google Map Board]**</mark>
 
-After receiving the API key, please move to the **Swing2App Manager page → Services  →  Bulletin bBoard management page**.
+After receiving the API key, please move to the **Swing2App Manager page → Services → Bulletin bBoard management page**.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/google1-e1587041850350.png)
 
@@ -109,8 +93,6 @@ Select the Create Bulletin button.
 1\)Select ‘Location registration (Google Map)’ for service in the basic setting window.
 
 2\) After selecting the bulletin board, go to \[Google Map Information] and paste the copied API key and select Save.
-
-
 
 <mark style="color:red;">**\*More information**</mark>
 
@@ -122,4 +104,4 @@ It’s a pay-as-you-go fee, so you only have to pay for what you use.
 
 \
 For more information about Google Maps pricing, please check the offers provided by the platform.\
-**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)
+&#xNAN;**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)

@@ -6,15 +6,11 @@ description: Terms And Conditions Of Play Store And App Store
 
 ***
 
-
-
 **Terms of Use related to Play Store and App Store Uploads**
 
 Swing2App service operated by Swing2App Co., Ltd. will proceed with the Play Store and App Store upload agency when requesting a store upload application after creating an app.
 
 In this regard, we will inform you of the terms and conditions related to the use of Google Play Store and Apple App Store.
-
-
 
 **App Store and Play Store Upload Requirements**
 
@@ -30,15 +26,9 @@ In this regard, we will inform you of the terms and conditions related to the us
 10. Tickets for App Store and Play Store upload are only available on the paid version of the app. (You can use it together after paying for a paid app ticket, not available in the free version)
 11. The Play Store and the App Store review period takes 7 days.
 
-
-
 ***
 
-
-
 ## **Google Play Store Usage Policy**
-
-
 
 **1. How to Launch the Play Store**
 
@@ -49,8 +39,6 @@ In this regard, we will inform you of the terms and conditions related to the us
    (Manager → Manage Version → Production History page → Click \[Play Store Upload Request] button to apply).
 3. If you apply after filling out the contents on the upload application, the person in charge of Google uploads will register it for you.
 4. It takes 7 days to review the Play Store app.
-
-
 
 **2. Play Store App Policy Violation (Reject Case)**
 
@@ -84,15 +72,13 @@ Costs can be provided after consultation.
 
 \*The reasons for refusal of the review above do not include all cases on the Play Store. This is a typical case, and more diverse contents may come out during the actual examination.
 
-
-
 **3. Play Store Policy Changes**
 
 1. **Change update settings\_2018.04 policy change**\
    Due to the Google policy change in April, the update window does not appear immediately in the app when updating, and it has been changed to receive updates through the Play Store.\
    – **Play Store does not support soft updates. Therefore, if you have updated the app, you must update to the corresponding version of the app in the Play Store.**\
-   **– On Android phones, even if the app downloaded from the Play Store is updated, a separate update guide window does not appear when running the app.**\
-   **– It is automatically updated on the user’s device according to the Google Play update settings set for each Android phone.**\
+   &#xNAN;**– On Android phones, even if the app downloaded from the Play Store is updated, a separate update guide window does not appear when running the app.**\
+   &#xNAN;**– It is automatically updated on the user’s device according to the Google Play update settings set for each Android phone.**\
    It is the user’s choice whether to update or not for each user, so the time to reflect the app update on the phone is also different.
 2. **Old version Android phone not supported\_2019.01 policy change**\
    Apps released on the Google Play Store cannot be used on mobile phones with Android version 4.3 or lower.\
@@ -133,23 +119,17 @@ Costs can be provided after consultation.
 
 ***
 
-
-
 ## **Apple App Store Usage Policy**
-
-
 
 **1. How to launch the app store**
 
-**To register an app in the App Store, you can create a developer account for your user account or register as a Swing2App account.**&#x20;
+**To register an app in the App Store, you can create a developer account for your user account or register as a Swing2App account.**
 
 **\*Apple developer registration fee is $99 for 1 year. \*The fee must be renewed every year.** [**\[How to create an Apple Developer account\]**](https://support.swing2app.com/knowledgebase/appledeveloper-registration/)
 
 The app store can’t be uploaded directly by the user and can only be uploaded by proxy on Swing2App.
 
 \*For Swing2App company account registration, please check the following.
-
-
 
 **2. Precautions for registering on behalf of the App Store**
 
@@ -159,14 +139,12 @@ If it is difficult to create an App Store Apple developer account, you can also 
 
 1. In the App Store, the name of the developer is listed as the company name of ‘Swing2App Co.Ltd’.
 2. Since the account is registered with Swing2App, the user cannot use the App Store Connect (developer) site.\
-   \* You cannot respond to comments or user comments running on the App Store, and app statistics cannot be checked.\
-
+   \* You cannot respond to comments or user comments running on the App Store, and app statistics cannot be checked.\\
 3. App Store does not provide the number of app downloads.
 4. As apps from other users work together in one account, if user violates the Apple policy and the app is stopped, the use of other apps may also be suspended.
 5. Due to sanctions in the App Store, the app may be deleted and the account may be deleted. In this case, the Swing2App is unable to respond or handle anything.
 6. If you request an account of the company or company in the app store after registering the app on your behalf, you must use your Apple developer account.
-7. If you sell a paid app, you must create a developer account for your users, and the price can only be set at the price point provided by Apple, so you must contact us in advance.\
-
+7. If you sell a paid app, you must create a developer account for your users, and the price can only be set at the price point provided by Apple, so you must contact us in advance.\\
 
 **3. How to Apply for App Store Upload**
 
@@ -174,13 +152,13 @@ If it is difficult to create an App Store Apple developer account, you can also 
 2. Apply by clicking the Manager → Manager Version → Production History page → \[App Store Upload Request] button.
 3. After entering the items in the market upload application and clicking the Apply button, the application will be delivered to the Swing2App iOS representative.\
    \* When applying for upload, if you have an Apple developer account, enter the developer ID and password / If you do not have an Apple developer account, please agree to the proxy registration for Swing to App.
-4. We will proceed to upload the App Store with the content. \_ Within 1  weeks of the examination period\
+4. We will proceed to upload the App Store with the content. \_ Within 1 weeks of the examination period\
    (Due to many cases where the screening is rejected, the time required for approval may be longer.)\
    \*Note: The App Store cannot be uploaded directly by the user, and can only be uploaded on behalf of the Swing2App. (The source required when registering the App Store, it cannot be accessed by anyone other than the app developer)
 
 **4. App Store App Policy Violation (Rejection Case)**
 
-\-The following cases are violations of Apple policy and issues related to release.-
+-The following cases are violations of Apple policy and issues related to release.-
 
 1.
    1. If it is judged that it violates the policies set by Apple, the upload request can be canceled with Swing2App’s authority.
@@ -194,9 +172,9 @@ If it is difficult to create an App Store Apple developer account, you can also 
    9. **Copyright/Intellectual Property Rights Violation** : In case of unauthorized use of the intellectual property rights of a third party or other company. In particular, if you upload third-party content or video and generate advertising revenue in the app, approval is not allowed.
    10. \*Important\* When making an app, **prototype -web-view and push-made apps** (web apps that connect websites such as home pages) need to go through a review before you can know whether they are released or not.\
        Although it is not unconditionally rejected because it is a web app, there are some apps that cannot be released due to such cases.\
-       **\* Apps created by linking web links owned by other brands (Naver, Daum, Instagram, etc.) other than the website owned by the user will not be approved.**\
-       **\* Non-mobile web versions of the PC version of the web will be rejected. The website must be connected to the mobile web.**\
-       **\* Please note that the upload ticket fee is not refundable for apps that have been registered in the App Store even if the store launch is rejected.**
+       &#xNAN;**\* Apps created by linking web links owned by other brands (Naver, Daum, Instagram, etc.) other than the website owned by the user will not be approved.**\
+       &#xNAN;**\* Non-mobile web versions of the PC version of the web will be rejected. The website must be connected to the mobile web.**\
+       &#xNAN;**\* Please note that the upload ticket fee is not refundable for apps that have been registered in the App Store even if the store launch is rejected.**
    11. Apps for internal use: Apps that are used only inside the company (used only by company employees) or that only specific users are allowed to use are difficult to launch in the App Store.
    12. Apps that do not use the functions required by the app: Apps that connect only external web links (URLs) or that do not have the content of the app are not approved by Apple because they determine that they do not use the app feature.
    13. Collection of personal information: When the app asks for the user’s gender, contact information, and address, which are not required. (If the information is not necessary to use the app at the time of membership registration, the review will be rejected)

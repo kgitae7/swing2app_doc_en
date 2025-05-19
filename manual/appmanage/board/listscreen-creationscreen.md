@@ -135,9 +135,9 @@ Administrators can check the article written Swing2App **Manager** page in **Pos
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/91@3x.png) ![](https://support.swing2app.com/wp-content/uploads/2018/09/90@3x-1.png)
 
 As you can see above, you can see the example of selecting a bulletin board creation screen.\
-**+You can use it for the member’s self-introduction bulletin board, application form, etc.**\
-**+When you select the bulletin board, you’ll immediately open the writing page, so you can write directly to users.**\
-**+Administrators can view the articles written by members on the web-app operation page.**
+&#xNAN;**+You can use it for the member’s self-introduction bulletin board, application form, etc.**\
+&#xNAN;**+When you select the bulletin board, you’ll immediately open the writing page, so you can write directly to users.**\
+&#xNAN;**+Administrators can view the articles written by members on the web-app operation page.**
 
 Please select the loading style of the bulletin board according to the purpose of the app operation.
 

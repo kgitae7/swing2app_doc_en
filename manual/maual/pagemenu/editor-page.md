@@ -1,6 +1,6 @@
 # How to create HTML editor page
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/html\_editor.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/html_editor.png)
 
 **What is the HTML Editor page?**
 
@@ -17,8 +17,6 @@ The biggest feature is that you can freely create the style you want.
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%8B%A8%EB%9D%BD1-1.png) **HTML Editor page Apply Step**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/EN-HTML.png)
-
-
 
 ### <mark style="color:blue;">**STEP.1 How to create HTML editor page**</mark>
 
@@ -53,17 +51,13 @@ You can work in the style you want on the Editor Page Creator site.
 
 > **You can attach images, videos, and animated images.**
 >
-> **And because you can decorate text, you can specify options such as font and color.**&#x20;
+> **And because you can decorate text, you can specify options such as font and color.**
 >
 > **You can apply various styles through the tool bar menu at the top.**
 
-
-
-**When the editor page is completed, press the save button.**&#x20;
+**When the editor page is completed, press the save button.**
 
 <mark style="color:red;">\*The page name is displayed as the screen title on the app launch screen.</mark>
-
-
 
 ### <mark style="color:blue;">**STEP.2 Apply to Editor Page App**</mark>
 
@@ -88,11 +82,11 @@ If you place a page in the menu, you can add a new menu by clicking the \[Add] b
 In this case, place the editor page on the home screen.
 
 1. **Select Home screen**
-2. **Select User Page**&#x20;
+2. **Select User Page**
 3. **Click Link Wizard button**
 4. **Select the newly added editor page in the User page window and select the ‘Apply’ button.**\
-   **(If you do not see the added editor page, refresh it.)**
-5. **Select the Apply button at the bottom and press the Save.**&#x20;
+   &#xNAN;**(If you do not see the added editor page, refresh it.)**
+5. **Select the Apply button at the bottom and press the Save.**
 
 <mark style="color:blue;">**You can check the editor page reflected through the app virtual machine.**</mark>
 
@@ -100,23 +94,19 @@ In this case, place the editor page on the home screen.
 
 Below, we’ll show you some examples of how to apply the editor’s page, so please check.
 
-
-
 ### <mark style="color:blue;">**STEP.3 Editor Page Application Screen**</mark>
 
 **1. Web page style**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/html\_cust@3x.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/html_cust@3x.png)
 
 You can even create a web page style by placing one large image.
 
 You can create a promotional image and register the image, and apply a web link (site URL) to set it to go to the linked site when you select the image.
 
-
-
 **2. Blog Style**
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/html\_air@3x.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/html_air@3x.png)
 
 You can freely arrange text and images like a blog style.
 
@@ -127,7 +117,7 @@ You can enter text and register an image to create it.
 You can also register your video.
 
 \
-**\[Editor page production]**
+&#xNAN;**\[Editor page production]**
 
 Editor pages can be customized to your style.
 

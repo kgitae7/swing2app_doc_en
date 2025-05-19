@@ -2,8 +2,7 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/76.png)
 
-<mark style="color:blue;">**▶ What is integrated notification settings?**</mark>\
-
+<mark style="color:blue;">**▶ What is integrated notification settings?**</mark>\\
 
 Integration Notifications is the ability to manage and set up push notifications related to the operation of your app.
 
@@ -27,15 +26,13 @@ The web notification service provides notification service only in the Internet 
 
 Please note that you will not receive notifications in the Internet Explorer (IE) browser.
 
-
-
 ### <mark style="color:blue;">**1. How to use integrated notification settings**</mark>
 
 **Integrated notifications do not require users to apply separately.**\
 **Receive notifications from Swing2App sites, which are provided by default.**\
 Therefore, you can receive various notifications on the web.\
-**+ If you want to receive different notifications for each item, go to the = Integrated Notifications page and set each item again.**\
-**+If you do not want to receive all web notifications, you can do so by selecting the bell icon at the bottom left of the homepage and selecting \[Cancel subscription].**
+&#xNAN;**+ If you want to receive different notifications for each item, go to the = Integrated Notifications page and set each item again.**\
+&#xNAN;**+If you do not want to receive all web notifications, you can do so by selecting the bell icon at the bottom left of the homepage and selecting \[Cancel subscription].**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/notify.png)
 
@@ -73,8 +70,6 @@ You can enter an email address to receive notifications or enter a phone number 
 
 4\) SMS: You can receive a notification by text message. **\* You must purchase an SMS voucher to be able to use it.**
 
-
-
 **When a user enters a comment in a post, an app push notification comes in.**
 
 **Mobile Web Notifications** \*Mobile **notifications** are available because there is a log record of your mobile access to your swing2app site.
@@ -85,16 +80,12 @@ You can enter an email address to receive notifications or enter a phone number 
 
 \*If your phone is not linked to your account, please check directly in your mailbox.
 
-
-
 ### <mark style="color:blue;">**2. Web Notification**</mark>
 
 If you check that you want to receive web notifications, **push notifications will be sent to your PC notifications whenever the features listed in the item are executed.**\
-**Web notifications are provided in the same style as chat PC notifications.** \
+**Web notifications are provided in the same style as chat PC notifications.**\
 **If users sign up, write posts, or create an app, they will be notified for every item they have set up.**\
 Select the notification window to go to the page.
-
-
 
 ### <mark style="color:blue;">**3. Manage Site Notifications**</mark>
 
@@ -104,10 +95,7 @@ Integrated notifications are set by default to receive site notifications for al
 
 **If you select the bell icon at the bottom of the site screen, it is checked as a subscription in the site notification management,**
 
-If you do not want to be notified, you can select \[Cancel subscription]. **– This is available only in chrome**\
-
-
-
+If you do not want to be notified, you can select \[Cancel subscription]. **– This is available only in chrome**\\
 
 <mark style="color:red;">**★ Information**</mark>
 

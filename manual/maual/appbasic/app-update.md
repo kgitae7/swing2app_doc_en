@@ -1,16 +1,16 @@
 # App Update Type And Method
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/update\_meth.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/update_meth.png)
 
 Instructions on how to update the app in Swing2App
 
 In Swing2App, you can freely modify and update the app design, content, etc.
 
-\-When modifying the basic information and design theme of the app, you can edit the content on the app production page, press the \[Save] button, and then press the \[App Creation Request] button to create the app with the new version.
+-When modifying the basic information and design theme of the app, you can edit the content on the app production page, press the \[Save] button, and then press the \[App Creation Request] button to create the app with the new version.
 
 If you press \[App Creation Request], you can use the update type and update display option items.
 
-\-The page menu and the contents of the app operation are automatically reflected in the app even if you save it.
+-The page menu and the contents of the app operation are automatically reflected in the app even if you save it.
 
 ### <mark style="color:blue;">**▶ Swing2App Important Update Information**</mark>
 
@@ -21,7 +21,7 @@ If you press \[App Creation Request], you can use the update type and update dis
 
 **2. Step 2 during the app creation phase \[design theme] – Change prototype, change skin color**\
 <mark style="color:purple;">**→Please re-create by pressing the \[App Creation Request] button. Please select \[Soft Update].**</mark>\
-**→Hard update is recommended for users who have released apps on Play Store, App Store, etc. (see below)**\
+&#xNAN;**→Hard update is recommended for users who have released apps on Play Store, App Store, etc. (see below)**\
 ★\[Soft Update] is displayed when the app is produced 3 or more times. Only 1 to 3 times can be updated hard.
 
 **3. Step 1 of the app creation phase \[app basic information]-Change the app name, standby screen image, icon image**\
@@ -39,7 +39,7 @@ Swing2App does not take responsibility for this option, so please check the cont
 
 ### <mark style="color:blue;">**▶ How to update an app**</mark>
 
-**★**In the Swing-to-App, you can edit and update the created app from time to time!!
+**★**&#x49;n the Swing-to-App, you can edit and update the created app from time to time!!
 
 If you edit the page menu content on the app creation page, just click the \[Save] button and it will be reflected directly in the app.
 
@@ -53,21 +53,21 @@ As the new version of the app is rebuilt, the existing app is updated.
 
 <mark style="color:blue;">**1.Update type**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_update.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app_update.png)
 
 <mark style="color:green;">**1) Hard Update**</mark>\
 A hard update is **a type of update that you download by reinstalling the updated app.**\
-**\*Hard update can be selected when editing the first-level app basics and second-level design theme.**\
+&#xNAN;**\*Hard update can be selected when editing the first-level app basics and second-level design theme.**\
 \
 <mark style="color:green;">**2) Soft Update**</mark>\
 Soft update does not require you to reinstall the app, it is an updated style that is automatically restarted and downloaded within the app.\
-**\*Soft Update – Can be used when editing the design theme and must be edited in the first step of the app basic information. You must choose a hard update.**
+&#xNAN;**\*Soft Update – Can be used when editing the design theme and must be edited in the first step of the app basic information. You must choose a hard update.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 
 <mark style="color:blue;">**2. Display Update Option**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_update1.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app_update1.png)
 
 The Display Updates option selects how the update display will look to the user.
 

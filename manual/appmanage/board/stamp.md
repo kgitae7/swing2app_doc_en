@@ -1,6 +1,6 @@
 # How to create and register a stamp
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/app\_stamp.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/app_stamp.png)
 
 **▶ What is the stamp function provided by Swing2App?**
 
@@ -86,13 +86,13 @@ If you don’t have any coupons, there will be no coupons to choose from.
 \*When the stamp is completed, the coupon issuance function is available with the new feature, which requires an app update.
 
 ​\
-**↓ Stamp setting completed**
+&#xNAN;**↓ Stamp setting completed**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp7-1.png)
 
 <mark style="color:orange;">**★ Please check how to make a stamp board with animated images**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_08\_16\_33\_34\_650.gif)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_05_08_16_33_34_650.gif)
 
 ### <mark style="color:blue;">**STEP.2 Apply Stamp Board to App**</mark>
 
@@ -170,11 +170,11 @@ If you entered the wrong stamp quantity or reset the registered stamp,
 
 You can press the **Delete** button to delete as many quantities as you like, or you can delete all stamps.
 
-\-If you press the **Delete** button next to the member list of the stamp board, the quantity input window to be deleted appears.
+-If you press the **Delete** button next to the member list of the stamp board, the quantity input window to be deleted appears.
 
-\-Enter the quantity to delete and press **OK.** The stamp will be deleted by that number.
+-Enter the quantity to delete and press **OK.** The stamp will be deleted by that number.
 
-\-If you want to initialize the stamp, you can enter the total stamp and delete it.
+-If you want to initialize the stamp, you can enter the total stamp and delete it.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/s11.png)
 
@@ -193,7 +193,7 @@ The stamp image is also displayed as the image registered in the bulletin board 
 
 <mark style="color:orange;">**★Please check the image added to the stamp.**</mark>
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94\_2020\_05\_08\_16\_41\_34\_526.gif)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/%EB%85%B9%ED%99%94_2020_05_08_16_41_34_526.gif)
 
 <mark style="color:blue;">**▶ A coupon was issued when the stamp was completed**</mark>
 

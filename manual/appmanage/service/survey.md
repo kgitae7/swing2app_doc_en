@@ -2,24 +2,23 @@
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Survey.png)
 
-**▶ Create a Survey Form**&#x20;
+**▶ Create a Survey Form**
 
 1. Click on the **Manager.**
 2. Select **Services.** A drop-down list will appear.
 3. Click on **Surveys.** The survey form screen will open.
 4. Click on **Add Survey.** The Survey screen will appear. Fill in the details like Survey name, time-period, etc.
-5. Click on **Add new survey item.** A pop up with survey form will open. Fill in the questions and answers for the survey.&#x20;
-6. Click on **Save.**\
-
+5. Click on **Add new survey item.** A pop up with survey form will open. Fill in the questions and answers for the survey.
+6. Click on **Save.**\\
 
 **▶ How to apply the form in the app?**\
 Go to on **Maker(V2).**
 
-1. Click on **Page Menu.**&#x20;
+1. Click on **Page Menu.**
 2. Click on **Add Category.** A new menu item will appear.
 3. Select the new menu item and change the name in **Menu Name.**
-4. Select the new menu item. Click on the **Link Wizard** icon. The **Link Wizard** pop-up window will open.&#x20;
-5. Click on **Swing Function.**&#x20;
+4. Select the new menu item. Click on the **Link Wizard** icon. The **Link Wizard** pop-up window will open.
+5. Click on **Swing Function.**
 6. Select a **Survey** from the list. Click on **Reflect**
 7. Click on **Apply.**
 8. Click on **Save.**
@@ -27,17 +26,15 @@ Go to on **Maker(V2).**
 **▶ Survey Participation in the App**\
 After running the app, you can participate in the survey.\
 You can take a survey by selecting the menu and touching the screen.\
-**\*Surveys are available for members who subscribe to the app-user ratings.** \
+&#xNAN;**\*Surveys are available for members who subscribe to the app-user ratings.**\
 **Please note that guests are not allowed.**\
 \
 \
-**▶ Checking the Survey Results Entered by Users**
+&#xNAN;**▶ Checking the Survey Results Entered by Users**
 
 1. Click on the **Manager.**
 2. Select **Services.** From the drop-down list click on **Survey.** The list of surveys will open.
 3. Click on the Participants’ number of the survey you wish to see. The list of participants will open.
-
-
 
 ### <mark style="color:blue;">**STEP.1 Create a Survey**</mark>
 
@@ -62,7 +59,7 @@ Fill in the mandatory details on the survey page.
 
 ​**Surveys can be set up as a push.**\
 **Select Push Settings, select the destination, and enter a title, content, and image to send a push.**\
-**If you need to notify a large audience with announcements, it’s a good idea to use push.** &#x20;
+**If you need to notify a large audience with announcements, it’s a good idea to use push.**
 
 **​**
 
@@ -94,19 +91,15 @@ Fill in the mandatory details on the survey page.
 
 **4) Create a single item**: In the case of a questionnaire filling the answer by selecting a view, you can add an item by clicking the **‘Create answer item’** icon.
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94\_2020\_05\_07\_13\_13\_38\_852.gif)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/%EB%85%B9%ED%99%94_2020_05_07_13_13_38_852.gif)
 
 ​**5) Save**: Press to save when all the input is completed.
-
-
 
 <mark style="color:blue;">**4. Complete the questionnaire!**</mark>
 
 Once you have completed the details of a survey like Survey name, Time-period, questionnaire, etc., click **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Survey4.png)
-
-
 
 ### <mark style="color:blue;">**STEP.2 Apply Survey Menu to App**</mark>
 
@@ -126,8 +119,6 @@ To apply **Survey,** please complete the survey form in the **Manager** screen, 
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/up2.png)
 
-
-
 ### <mark style="color:blue;">**STEP.3 App Launch screen**</mark>
 
 **Once you finish applying it to the app, let’s see how the survey will run in the actual app.**
@@ -146,15 +137,11 @@ Selecting this item will take you to the survey.
 
 It’s a single-choice item that lets you choose only one answer to your question.
 
-
-
 **-Multiple Choice**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Group-187@3x.png)
 
 This is a multiple-choice question with multiple answers.
-
-
 
 **-Descriptive Answer Item**
 
@@ -169,8 +156,6 @@ You can respond to surveys by answering these items.
 When the survey is complete, the survey results are sent to the administrator.
 
 These sent surveys can be viewed by administrators on the Manage Surveys page shown earlier.
-
-
 
 <mark style="color:blue;">**STEP.4 Check Survey Results & Survey Management**</mark>
 
@@ -192,8 +177,6 @@ These sent surveys can be viewed by administrators on the Manage Surveys page sh
 * You can edit the question by selecting the <mark style="color:blue;">**‘EDIT’**</mark> icon and delete it by <mark style="color:blue;">**‘DELETE’.**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/surveyup3.png)
-
-
 
 <mark style="color:orange;">**▶You can also share polls**</mark>
 

@@ -25,13 +25,11 @@ Go to the app operation page → Push\&Member → Permission Group Settings menu
 
 1\) If you select the \[Create permission group] button, the permission group setting window will appear.
 
-2\)Enter the group name and&#x20;
+2\)Enter the group name and
 
-3\) group description, and then press the&#x20;
+3\) group description, and then press the
 
 4\) Save button to complete the group creation.
-
-
 
 **STEP.2 Setting permission groups on the board**
 
@@ -42,8 +40,6 @@ App operation page → Service management → Board management menu
 3\)Basic information settings in the board and function setting window (board name, board UI selection, etc.)
 
 4\)Board permission setting items: writing permission, post detail view permission, list view permission setting
-
-
 
 **STEP.3 Apply Groups to Users**
 
@@ -78,14 +74,13 @@ Let’s add a member group with 8, 7, and 6 levels
 4. Number of members – After registering a group, you can see how many members belong to the group.
 5. Creation Date – Displays the group creation date.\
    \
-   **\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\
-
+   &#xNAN;**\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\\
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**STEP.2 Apply Member Levels**</mark>
 
-**If you’ve created a member group, why don’t you set up group permissions for each member who signed up for the app?** &#x20;
+**If you’ve created a member group, why don’t you set up group permissions for each member who signed up for the app?**
 
 1. Click on **Create Permission Group.**
 2. Enter the details in **Permission Group** like Group rating, group name, and description.
@@ -94,7 +89,7 @@ Let’s add a member group with 8, 7, and 6 levels
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b39-e1587042451127.png)
 
-**Move to push & member → member inquiry page of the app operation page.**&#x20;
+**Move to push & member → member inquiry page of the app operation page.**
 
 1. Go to **Push & Members** and click on **Member inquiries.**
 2. You can select multiple members.
@@ -111,15 +106,10 @@ If the member’s name alone cannot determine the level
 3. Change the current group of information group to the desired group, and
 4. Click the \[Change Group] button.\
    We will change to 2nd grade because it is the second year of the student’s registration.
-
-
-
-1. View Member Information – Click on the member name and member ID to go to the member information screen.
-2. Member Details – Displays the information entered during membership registration.\
+5. View Member Information – Click on the member name and member ID to go to the member information screen.
+6. Member Details – Displays the information entered during membership registration.\
    You can find out how to set up the membership form according to the app in the help book >[**\[Setting up a registration form\].**](../service/membership-form.md)
-3. Current Group Information – Groups are changed individually without changing the groups in a list.
-
-
+7. Current Group Information – Groups are changed individually without changing the groups in a list.
 
 ### <mark style="color:blue;">**STEP.3 Set Board Level Permissions**</mark>
 
@@ -130,7 +120,7 @@ Go to **Manager.** Select **Services.**
 3. Enter the board name
 4. Select **Customize** from **Service Purpose.**
 5. **Select the UI & Feature** for the board.
-6. Select **Set Board Permission.** After setting permission to write, detail view, and list view rights in detail setting (all set in 2nd grade-7 grade), select Used Designated permission.&#x20;
+6. Select **Set Board Permission.** After setting permission to write, detail view, and list view rights in detail setting (all set in 2nd grade-7 grade), select Used Designated permission.
 7. Click the **Save** button.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b75-1.png)
@@ -138,14 +128,8 @@ Go to **Manager.** Select **Services.**
 \*Closing Privilege Setting – If you set all privileges as corresponding privileges, only the upper group that includes them can use the menu.\
 \*Partial permission setting – You can specify only the writing permission as the corresponding permission, and by setting the detail view and list view permission as the lower permission, more members can view but restrict the writing.
 
-
-
 ### <mark style="color:blue;">**STEP.4 App Launch Screen**</mark>
 
 When a member accesses a second-year bulletin board, you can see that the first-grader cannot access the board as follows.
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/35@3x.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/35@3x.png" alt=""></div>
