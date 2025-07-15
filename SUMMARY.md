@@ -325,7 +325,7 @@
     * [Wix Website User Integration Guide](developer/webview/user-integration/wix-website-user-integration-guide.md)
     * [WordPress Website Member Integration Guide](developer/webview/user-integration/wordpress.md)
   * [Javascript API Documentation](developer/webview/javascript-api.md)
-  * [Deep Link Integration Guide](developer/webview/deep-link-integration-guide.md)
+  * [Deep Link Integration Guide](developer/webview/deep-link-integration.md)
 
 ## Policy
 
