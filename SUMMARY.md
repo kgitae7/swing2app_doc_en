@@ -59,6 +59,7 @@
     * [How to create an additional app](manual/V3/step4-complete-app-creation/how-to-create-an-additional-app.md)
     * [How to update an app](manual/V3/step4-complete-app-creation/how-to-update-an-app.md)
     * [App launch screen by update type](manual/V3/step4-complete-app-creation/app-launch-screen-by-update-type.md)
+  * [App Update](manual/v3/app-update.md)
 * [App production manual(V2)](manual/maual/README.md)
   * [App basics](manual/maual/appbasic/README.md)
     * [Guide to create an app](manual/maual/appbasic/app-manual.md)
