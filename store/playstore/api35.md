@@ -19,7 +19,7 @@ Please refer to the following guide on how to request a Play Store upload.
 {% hint style="info" %}
 ### \[How to Request a Play Store Upload]
 
-1.Go to the app creation screen and update your app first.
+1.Go to the 'Maker' screen and update your app first.
 
 [Refer to the App Update Guide.](https://documentation.swing2app.com/manual/v3/step4-complete-app-creation/how-to-update-an-app)
 
@@ -54,17 +54,17 @@ To reflect this update, users must rebuild their app and submit the new version 
 
 <figure><img src="../../.gitbook/assets/앱제작en.png" alt=""><figcaption></figcaption></figure>
 
-1\)Go to the **App Creation** screen.
+1\)Go to the 'Maker' screen.
 
 
 
 <figure><img src="../../.gitbook/assets/앱제작1en.png" alt=""><figcaption></figcaption></figure>
 
-2\)Click the **\[Update App]** button on the top right.
+2\)Click the **\[App Update]** button on the top right.
 
-3\)Check the "Update Notice Option" and click **\[Create]**.
+3\)Check the "No Update Message" and click **\[Make]**.
 
-<mark style="color:red;">For Push Apps: Select</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Do not show update notification"**</mark><mark style="color:red;">.</mark>
+<mark style="color:red;">For Push Apps: Select</mark> <mark style="color:red;"></mark><mark style="color:red;">**"No Update Message"**</mark><mark style="color:red;">.</mark>
 
 {% hint style="warning" %}
 **For WebView Apps: No popup appears during update, so no selection is needed.**
@@ -80,11 +80,11 @@ A. WebView apps do not show update popups in the app, so the option is not neces
 
 📢For **General Prototype Apps**:
 
+<figure><img src="../../.gitbook/assets/일반앱업데이트.png" alt=""><figcaption></figcaption></figure>
 
+-Update Type: Select **"Hard Update (App Re-install)"**.
 
-Update Type: Select **"Hard Update (App Reinstallation)"**.
-
-Update Notification Option: Select **"Do not show update"**.
+-Update Message Option: Select **"No Update Message"**.
 
 <figure><img src="../../.gitbook/assets/앱제작2en.png" alt=""><figcaption></figcaption></figure>
 
