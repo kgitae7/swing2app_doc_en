@@ -301,6 +301,7 @@
   * [How to restore Play Store app](store/playstore/restore-playstore-app.md)
   * [Update the Play Store App](store/playstore/update-playstore-1.md)
   * [How to Submit API 35 Version App Update to Google Play Store](store/playstore/api35.md)
+  * [How to Submit 16KB App Update to Google Play Store](store/playstore/16kb.md)
 * [App Store](store/appstore/README.md)
   * [App Store Apple Developer Account Registration](store/appstore/appledeveloper-registration.md)
   * [Check app store app downloads](store/appstore/appstore-appdownloads.md)
