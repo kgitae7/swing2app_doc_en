@@ -26,11 +26,11 @@ Go to on **Maker(V2).**
 **▶ Survey Participation in the App**\
 After running the app, you can participate in the survey.\
 You can take a survey by selecting the menu and touching the screen.\
-&#xNAN;**\*Surveys are available for members who subscribe to the app-user ratings.**\
+**\*Surveys are available for members who subscribe to the app-user ratings.**\
 **Please note that guests are not allowed.**\
 \
 \
-&#xNAN;**▶ Checking the Survey Results Entered by Users**
+**▶ Checking the Survey Results Entered by Users**
 
 1. Click on the **Manager.**
 2. Select **Services.** From the drop-down list click on **Survey.** The list of surveys will open.

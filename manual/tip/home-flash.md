@@ -44,14 +44,14 @@ Go to **Maker(V2)** page and click on the **Page menu.**
 If you select the **\[+ New]** button at the bottom, you can check the page tool types of various industries provided by Swing2App (10 industry templates available).\
 Select the desired page and press the \[Add] button.\
 \
-&#xNAN;**\*\* I have chosen the \[Details] page of the nail industry here.**\
+**\*\* I have chosen the \[Details] page of the nail industry here.**\
 There is no need to select the same page as the manual.\
 You can select the page you want to work with according to the design of your app.\\
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/Screenshot-2020-05-08-at-15.47.23.png)
 
 The nail-detail page has been opened.\
-&#xNAN;**\* The Web Template page is a tool for editing and applying images and text to the template tool provided by Swing2App.**\
+**\* The Web Template page is a tool for editing and applying images and text to the template tool provided by Swing2App.**\
 **You can check the page edits on the left side of the screen, and edit the image and text to match the app’s personality on the web edit screen on the right.**
 
 **2. Attach Images**\\
@@ -62,7 +62,7 @@ Before attaching an image, there is something you have to do first.\
 To work like the app home screen shown above, it’s called gif.
 
 You need to create a moving gif file first.\
-&#xNAN;**\*\*Can you see the header image size?**\\
+**\*\*Can you see the header image size?**\\
 
 <mark style="color:red;">Make sure to check the 1080 x 718-pixel size.</mark> \ <mark style="color:red;">If the size is not correct, the gif file will go into the regular picture file (png, jpg).</mark>\ <mark style="color:red;">Please work according to size beforehand.</mark>
 

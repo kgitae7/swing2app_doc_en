@@ -83,7 +83,7 @@ If the image is edited with the size editing tool, the icon image is registered 
 **–If the size does not match, please register the idle screen by adjusting the size through the image editing tool.**
 
 **Please refer to the post for the app icon creation guide.**\
-&#xNAN;**☞** [**\[Go to the app icon creation guide\]**](appicon.md)
+**☞** [**\[Go to the app icon creation guide\]**](appicon.md)
 
 **App Basics – App icon, in addition to the idle image.**
 
@@ -94,7 +94,7 @@ If the image is edited with the size editing tool, the icon image is registered 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/temp_edit.png)
 
 **How to use the Template Page**\
-&#xNAN;**\[Maker(V2) – Page menu – Import user page – Move template page creator – Select template]**\
+**\[Maker(V2) – Page menu – Import user page – Move template page creator – Select template]**\
 \
 Select the template page and select a button to attach an image.\
 (The above image is a background image of a restaurant template.)\

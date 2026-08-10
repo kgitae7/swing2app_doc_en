@@ -31,8 +31,8 @@ Please note that you will not receive notifications in the Internet Explorer (IE
 **Integrated notifications do not require users to apply separately.**\
 **Receive notifications from Swing2App sites, which are provided by default.**\
 Therefore, you can receive various notifications on the web.\
-&#xNAN;**+ If you want to receive different notifications for each item, go to the = Integrated Notifications page and set each item again.**\
-&#xNAN;**+If you do not want to receive all web notifications, you can do so by selecting the bell icon at the bottom left of the homepage and selecting \[Cancel subscription].**
+**+ If you want to receive different notifications for each item, go to the = Integrated Notifications page and set each item again.**\
+**+If you do not want to receive all web notifications, you can do so by selecting the bell icon at the bottom left of the homepage and selecting \[Cancel subscription].**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/notify.png)
 

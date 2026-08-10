@@ -23,7 +23,7 @@ Your app can also be created on this mobile website.
 **Then in the app production Swing2App, we will tell you how to use the mobile web and how to apply.**
 
 \
-&#xNAN;**★How to use mobile web registration (application)**
+**★How to use mobile web registration (application)**
 
 Completion of the app: Manager → Online Stores of Swing2app Vouchers & Tickets (select as you want) → purchase domain to register site (purchase separately) → mobile web registration ticket payment → mobile web upload application from version control-app production history page → after application Mobile website launch in 2 days.\
 <mark style="color:red;">★Mobile web registration is not available in the free version.</mark>

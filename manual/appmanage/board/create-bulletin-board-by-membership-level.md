@@ -74,7 +74,7 @@ Let’s add a member group with 8, 7, and 6 levels
 4. Number of members – After registering a group, you can see how many members belong to the group.
 5. Creation Date – Displays the group creation date.\
    \
-   &#xNAN;**\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\\
+   **\* Operation grade, general membership (members registered, the same as 9 grade), guest ratings can not be deleted by default.**\\
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 

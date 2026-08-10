@@ -21,7 +21,7 @@ If you press \[App Creation Request], you can use the update type and update dis
 
 **2. Step 2 during the app creation phase \[design theme] – Change prototype, change skin color**\
 <mark style="color:purple;">**→Please re-create by pressing the \[App Creation Request] button. Please select \[Soft Update].**</mark>\
-&#xNAN;**→Hard update is recommended for users who have released apps on Play Store, App Store, etc. (see below)**\
+**→Hard update is recommended for users who have released apps on Play Store, App Store, etc. (see below)**\
 ★\[Soft Update] is displayed when the app is produced 3 or more times. Only 1 to 3 times can be updated hard.
 
 **3. Step 1 of the app creation phase \[app basic information]-Change the app name, standby screen image, icon image**\
@@ -57,11 +57,11 @@ As the new version of the app is rebuilt, the existing app is updated.
 
 <mark style="color:green;">**1) Hard Update**</mark>\
 A hard update is **a type of update that you download by reinstalling the updated app.**\
-&#xNAN;**\*Hard update can be selected when editing the first-level app basics and second-level design theme.**\
+**\*Hard update can be selected when editing the first-level app basics and second-level design theme.**\
 \
 <mark style="color:green;">**2) Soft Update**</mark>\
 Soft update does not require you to reinstall the app, it is an updated style that is automatically restarted and downloaded within the app.\
-&#xNAN;**\*Soft Update – Can be used when editing the design theme and must be edited in the first step of the app basic information. You must choose a hard update.**
+**\*Soft Update – Can be used when editing the design theme and must be edited in the first step of the app basic information. You must choose a hard update.**
 
 ![](https://wp.swing2app.co.kr/wp-content/uploads/2018/09/%EC%A4%841.png)
 

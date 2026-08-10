@@ -7,11 +7,11 @@
 <mark style="color:blue;">**How to use the App Store Customer Center**</mark>
 
 \
-&#xNAN;**☞**[**Go to App Store Customer Service Center**](https://developer.apple.com/contact/#!/topic/select)
+**☞**[**Go to App Store Customer Service Center**](https://developer.apple.com/contact/#!/topic/select)
 
 If you select the shortcut above, you’ll be taken to the App Store Customer Service Center.\
 \
-&#xNAN;**★ You must have an Apple account to use the Contact page. (Please login with your Apple account)**
+**★ You must have an Apple account to use the Contact page. (Please login with your Apple account)**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/ad62.png)
 

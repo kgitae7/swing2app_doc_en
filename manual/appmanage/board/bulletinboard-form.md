@@ -6,7 +6,7 @@
 If there is a list of answers that all users should receive,\
 the administrator can provide the users with the questionnaire on the bulletin board in advance.\
 \
-&#xNAN;**▶How is it different from the bulletin board form?**\
+**▶How is it different from the bulletin board form?**\
 The filling form is an updated feature in the writing.\
 Like the article, the administrator sets the items to be answered.\
 The difference is since the bulletin board form is provided **a tool is created in the bulletin board and you can use it by adding an image or adding a calendar (date setting).**

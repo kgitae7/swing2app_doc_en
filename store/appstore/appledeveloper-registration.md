@@ -128,7 +128,7 @@ Please select the **\[Purchase]** button.
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EC%95%A0%ED%94%8C%EA%B0%9C%EB%B0%9C%EC%9E%9011.png)
 
 Simply enter your billing contact and address, and complete the payment.\
-&#xNAN;**\*When the payment is completed, registration of the developer account is completed.**\
+**\*When the payment is completed, registration of the developer account is completed.**\
 These days, payment is not immediately approved.\
 **It usually takes 48 hours to complete the payment.**\
 Therefore, the developer registration is completed only after payment is completed.
@@ -151,7 +151,7 @@ You can send an email by selecting the email D & B above.\
 \
 If you apply directly from the Apple site, you can get it for free.\
 Of course, it may take some time to issue.\
-&#xNAN;**\*\* When applying for a D-U-N-S number with Apple, please send it to the email address below with five details.**\\
+**\*\* When applying for a D-U-N-S number with Apple, please send it to the email address below with five details.**\\
 
 > \*E-mail address: appdeveloper@dnb.com\
 > 1\. Company name:\
@@ -171,9 +171,9 @@ If your company is not listed, you can submit your company information to Dun & 
 When you request a DUNS number using the [D‑U‑N‑S number lookup tool ](https://developer.apple.com/enroll/duns-lookup/)you will be asked to provide the following information.
 
 **-Corporate name**\
-&#xNAN;**-Head office address**\
-&#xNAN;**-Postal address**\
-&#xNAN;**-Company contact information**
+**-Head office address**\
+**-Postal address**\
+**-Company contact information**
 
 As part of the verification process, your D & B representative may contact you directly for additional information such as type of business and number of employees.
 

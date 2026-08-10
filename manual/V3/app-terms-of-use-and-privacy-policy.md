@@ -42,7 +42,7 @@ Because it is a mandatory registration, those who release apps to the Store must
 
 ***
 
-### ![](broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
+### ![](https://github.com/kgitae7/swing2app_doc_en/blob/main/manual/V3/broken-reference) **2.** Fill out the Terms of Service and Privacy Policy
 
 On the App Subscription Policy page, in addition to the terms of use, **you can edit your app's privacy and sign-up notice.**
 
@@ -136,7 +136,7 @@ When selected, the page created in the Swing2App App Subscription Policy – Ter
 
 **2) App Store**
 
-![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42\_20.04.png)
+![](https://wp.swing2app.co.kr/wp-content/uploads/2018/10/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B42_20.04.png)
 
 Apps released on the App Store can also be found in the **Information box – Privacy Policy menu.**
 

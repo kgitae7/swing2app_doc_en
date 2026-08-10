@@ -48,9 +48,9 @@ The items entered in the basic information will be displayed on the App – Stor
 ![](https://support.swing2app.com/wp-content/uploads/2018/11/Group-414.png)
 
 6\. Store detailed image: Please register the image to enter on the main page of the shopping mall. You can usually just put one representative image.\
-&#xNAN;**\*If you put multiple images, the main image will be displayed as the representative.**\
+**\*If you put multiple images, the main image will be displayed as the representative.**\
 **Shopping Mall Information Page – If you select the image icon, you can check the entire registered image.**\
-&#xNAN;**\[Customer Center Information 7-10]**\
+**\[Customer Center Information 7-10]**\
 7\. Phone number: Please enter the shopping mall customer center phone number.\
 8\. Email: Please enter the administrator’s email address\
 9\. KakaoTalk ID: KakaoTalk ID is currently not working. Please wait a little bit longer and we will add it.\

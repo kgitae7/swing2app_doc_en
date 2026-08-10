@@ -20,7 +20,7 @@ In addition, functions such as user permission changes and member information no
 <figure><img src="../../.gitbook/assets/m3g@3x.png" alt=""><figcaption></figcaption></figure>
 
 **After launching the app, \[Settings]> \[Administrator Login]> \[Log in with Swing2App Account]> Administrator menu will be created.**\
-&#xNAN;**\*In the previous versions of the app, the Admin login menu is not visible in the Settings menu. (Apps created before September 22, 2017 must be re-created)**\
+**\*In the previous versions of the app, the Admin login menu is not visible in the Settings menu. (Apps created before September 22, 2017 must be re-created)**\
 Therefore, please re-create the app and check the new version.\
 Apps created after the update will automatically have an admin login menu in the Settings menu.
 

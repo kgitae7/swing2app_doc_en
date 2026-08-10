@@ -7,8 +7,8 @@
 You can delete a list that has been pushed, or process it as a read.
 
 **–Push list \[change to read]**\
-&#xNAN;**–Push List \[Individual Delete]**\
-&#xNAN;**–Push List \[Delete All]**
+**–Push List \[Individual Delete]**\
+**–Push List \[Delete All]**
 
 There are three ways to tell you in this manual.
 

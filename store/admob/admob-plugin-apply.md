@@ -313,7 +313,7 @@ Advertisements run from the moment they are set up in the app.\
 If an ad touch is found on a particular model (phone), Google will drop the ad without notice.\
 Not only the operator, but also the users of the app choose to advertise artificially.\
 If there is any suspicious behavior, the advertisement may be suspended due to invalid traffic.\
-&#xNAN;**=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
+**=The only way to wait for an ad to be re-published by Google is to wait for it to be re-published if the ad has gone down with invalid traffic.**
 
 **4) App ad publishing may be interrupted if traffic is low.**
 

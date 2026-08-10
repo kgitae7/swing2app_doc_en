@@ -8,13 +8,13 @@ This ticket can be used to send phone number verification and text messages to a
 
 \
 \
-&#xNAN;**▶Where can I use 1,000 SMS vouchers tickets?**
+**▶Where can I use 1,000 SMS vouchers tickets?**
 
 * Sign Up: Set up your phone number ID
 * Send text messages to app members\\
 
 \
-&#xNAN;**▶How do I use it?**
+**▶How do I use it?**
 
 1,000 SMS Tickets on the Swing2App payment page is automatically reflected in the admin page when you purchase products that can be used immediately.
 

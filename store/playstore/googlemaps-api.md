@@ -104,4 +104,4 @@ It’s a pay-as-you-go fee, so you only have to pay for what you use.
 
 \
 For more information about Google Maps pricing, please check the offers provided by the platform.\
-&#xNAN;**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)
+**☞**[ ](https://cloud.google.com/maps-platform/pricing/?hl=ko)[**\[Go to Google Map Pricing\]**](https://cloud.google.com/maps-platform/pricing/?hl=en)

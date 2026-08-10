@@ -39,11 +39,11 @@ When the saving is completed, you can see that the user John Doe member has been
 **Log into the swing2app homepage** [**https://swing2app.com**](https://www.swing2app.com/) **and log in as an associate administrator.**
 
 Select \[Associate Administrator] on the login screen.\
-&#xNAN;**\*App ID: Enter the ID set when the administrator created the app.**\
+**\*App ID: Enter the ID set when the administrator created the app.**\
 → App ID refers to the ID entered by the administrator when creating an app.\
 We will explain what ID to enter below.\
-&#xNAN;**\*Associate-admin ID: Enter the ID that the associate administrator registered in the app.**\
-&#xNAN;**\*Password: Enter the password set when the sub-administrator registered for the app.**\
+**\*Associate-admin ID: Enter the ID that the associate administrator registered in the app.**\
+**\*Password: Enter the password set when the sub-administrator registered for the app.**\
 Press the login button after input is completed.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Associate_Admin-copy.png)

@@ -77,7 +77,7 @@ As you can see in the image, you can place it neatly into this area.
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EB%8C%80%EA%B8%B0%ED%99%94%EB%A9%B43.png)
 
 When you’re done working on the image, delete the background and area colors you’ve put in earlier.\
-&#xNAN;**\* If you remove the background color altogether, it will be transparent. It can be white or any other color you want!**
+**\* If you remove the background color altogether, it will be transparent. It can be white or any other color you want!**
 
 ### <mark style="color:blue;">**STEP.4 Upgrading Background Image**</mark>
 
@@ -97,7 +97,7 @@ If you look at the atmospheric screen guidelines and create an image, it will ne
 
 **I registered the idle screen image created above.**\
 **Obviously we made it square but it fits very well into the rectangular cell phone screen.**\
-&#xNAN;**\*\*Please create an idle screen image in this way.**
+**\*\*Please create an idle screen image in this way.**
 
 <mark style="color:blue;">**▶Create Idle Screen Image with Paint!!**</mark>
 

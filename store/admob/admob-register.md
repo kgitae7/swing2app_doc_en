@@ -80,7 +80,7 @@ Find out how to sign up on the Google AdMob site and how to create an app ad uni
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/ad45.png)
 
 \
-&#xNAN;**※ Almost all of the information (policy, method of use, google AdMob related information) will be sent to the user’s email when using AdMob.**\
+**※ Almost all of the information (policy, method of use, google AdMob related information) will be sent to the user’s email when using AdMob.**\
 **Therefore, all of the above items should be checked in “Yes”.**\
 If you check ‘No’, you will not receive the relevant information, so please receive it by email and refer to the operation of AdMob.
 

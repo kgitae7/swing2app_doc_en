@@ -225,7 +225,7 @@ Calendar events can also be created in the app.
 >    <mark style="color:orange;">**☞ Write permission, detail view permission, list view permission: select ‘user’ for all**</mark>
 > 3. My schedule cannot be seen by other people other than me (When using the calendar for personal use)\
 >    <mark style="color:orange;">**☞ Write permission: Select user, Detail view permission: Select user, List view permission: Select administrator**</mark>\
->    &#xNAN;**\*If you set permissions like the secret bulletin board (1:1 Customer Center), the user can check only his or her writings, and other users cannot see the writings of others. However, administrators can see the posts of all users**.
+>    **\*If you set permissions like the secret bulletin board (1:1 Customer Center), the user can check only his or her writings, and other users cannot see the writings of others. However, administrators can see the posts of all users**.
 
 ***
 

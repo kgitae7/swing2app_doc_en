@@ -59,7 +59,7 @@ If you want to show it to all app users, set it as ‘Guest’.
 
 <mark style="color:orange;">\*Please select the manual link below for details on the authority to designate the bulletin board.</mark>
 
-<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](broken-reference/)
+<img src="https://s.w.org/images/core/emoji/11/svg/25b6.svg" alt="▶" data-size="line">[ **\[Check the detailed manual on how to use the bulletin board designated authority\]**](https://github.com/kgitae7/swing2app_doc_en/blob/main/manual/appmanage/board/broken-reference/README.md)
 
 6\) When all contents are entered, click the \[Save] button.
 
@@ -77,7 +77,7 @@ If you want to show it to all app users, set it as ‘Guest’.
 Unlike the existing map board, **Google Map bulletin board should go to \[Google Map Information] and put the Google Map API key value.**
 
 **Please check the post on how to get a Google Map API key.**\
-&#xNAN;**☞**[**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
+**☞**[**\[Go to Google Map API key issuing method\]**](https://support.swing2app.com/knowledgebase/googlemaps-api/)
 
 Paste the copied API key and select Save.
 

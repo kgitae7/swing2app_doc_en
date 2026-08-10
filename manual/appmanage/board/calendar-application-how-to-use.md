@@ -107,9 +107,9 @@ If you go to the detail page in the schedule list, you can check who wrote the a
 2. Either click on **Create Bulletin Board** to create a new board or click on **Settings** to edit the existing board.
 3. Select **Customize.**
 4. Select **Calendar**. Set the permission for the board.\
-   &#xNAN;**–Write permission: user**\
-   &#xNAN;**–View detail permissions: User**\
-   &#xNAN;**–View List Permissions: User**
+   **–Write permission: user**\
+   **–View detail permissions: User**\
+   **–View List Permissions: User**
 5. Click on **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/b73-e1587044375657-1.png)
@@ -142,9 +142,9 @@ If you go to the detail page in the schedule list, you can see the details of th
 2. Either click on **Create Bulletin Board** to create a new board or click on **Settings** to edit the existing board.
 3. Select **Customize.**
 4. Select **Calendar**. Set the permission for the board.\
-   &#xNAN;**–Write permission: administrator**\
-   &#xNAN;**–View detail permissions: User**\
-   &#xNAN;**–View List Permissions: User**
+   **–Write permission: administrator**\
+   **–View detail permissions: User**\
+   **–View List Permissions: User**
 5. Click on **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/b73-e1587044375657-1.png)
@@ -173,9 +173,9 @@ You can check the shop notice and the day when the reservation is possible and t
 2. Either click on **Create Bulletin Board** to create a new board or click on **Settings** to edit the existing board.
 3. Select **Customize.**
 4. Select **Calendar**. Set the permission for the board.\
-   &#xNAN;**–Write permission: administrator**\
-   &#xNAN;**–View detail permissions: User**\
-   &#xNAN;**–View List Permissions: User**
+   **–Write permission: administrator**\
+   **–View detail permissions: User**\
+   **–View List Permissions: User**
 5. Click on **Save.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/02/b73-e1587044375657-1.png)

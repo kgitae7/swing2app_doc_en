@@ -86,7 +86,7 @@ If you don’t have any coupons, there will be no coupons to choose from.
 \*When the stamp is completed, the coupon issuance function is available with the new feature, which requires an app update.
 
 ​\
-&#xNAN;**↓ Stamp setting completed**
+**↓ Stamp setting completed**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/stamp7-1.png)
 

@@ -10,8 +10,8 @@
 
 Like the Google developer console site, Apple has a separate administrator site that allows you to register your app.\
 It is called iTunes connect.**☞**[**Go to the iTunes site**](https://itunesconnect.apple.com/)\
-&#xNAN;**+Just go to the site and log in with your Apple Developer account.**\
-&#xNAN;**+Please select \[My App].**
+**+Just go to the site and log in with your Apple Developer account.**\
+**+Please select \[My App].**
 
 ### <mark style="color:blue;">**STEP.2 Select the Apps to Delete**</mark>
 
@@ -39,7 +39,7 @@ If you look at availability, the app you’re launching will be checked in ‘Al
 Please check **‘Discontinued’** below.\
 Press the **‘Save’** button on the top to complete the deletion.\
 \
-&#xNAN;**\*\* Like the Google Play Store, Apple doesn’t immediately disappear from the market if it deletes the app.**\
+**\*\* Like the Google Play Store, Apple doesn’t immediately disappear from the market if it deletes the app.**\
 **The app will stop selling in the App Store until it is reflected up to a day later.** \\
 
 <mark style="color:red;">**\[Instructions]**</mark>\

@@ -4,7 +4,7 @@
 
 Payment status can be checked for all payments, such as the history of payment for Swing2App paid products and the history of using coupons.\
 \
-&#xNAN;**▶ Services offered**
+**▶ Services offered**
 
 1\. **Provide basic payment information** \[ Product name, payment type, payment amount, status, payment date, refund application, receipt].
 

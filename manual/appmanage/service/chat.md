@@ -89,7 +89,7 @@ On the chat list page, you can check the chat list of all the members you had a 
 So if you need to talk to someone you’ve had chat with before, you can continue chatting again by selecting a member from the chat list page.
 
 \
-&#xNAN;**\*Please refer to the manual on how to use the chat administrator page**
+**\*Please refer to the manual on how to use the chat administrator page**
 
 **☞** [**\[See how to use the chat administrator page\]**](chatlist.md)
 

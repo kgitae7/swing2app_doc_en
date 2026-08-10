@@ -33,7 +33,7 @@ Changes to the Terms and Conditions, Privacy Policy can be made.
 
 In addition to the Terms and Conditions, the App Subscription Policy page allows you to edit your app’s visibility and sign-up text.\
 \*App subscription policy: For information on how to create a private app, how to edit the registration text, etc., please refer to the relevant posts.\
-&#xNAN;**☞** [**Check how to use the app subscription policy**](app-subscriptionpolicy.md)
+**☞** [**Check how to use the app subscription policy**](app-subscriptionpolicy.md)
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/Policy13.png)
 
@@ -56,7 +56,7 @@ The basic set-up of which apps are available varies from service to service, so 
 **In particular, the last \[personal information officer or person’s name, contact information] was written as an example, so please edit it as a real administrator and enter it.**
 
 **After editing the content on the page, press the Save button to save it.**\
-&#xNAN;**★ If you are creating an app for the first time, you must tap the Setting policy to reflect the policy.**
+**★ If you are creating an app for the first time, you must tap the Setting policy to reflect the policy.**
 
 > **★ Mobile applications must also provide a privacy policy per party.**\
 > **This is the official policy of the Korea Internet & Security Agency and the Korea Communications Commission.**\

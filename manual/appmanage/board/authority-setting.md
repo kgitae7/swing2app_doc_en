@@ -47,7 +47,7 @@ Generally, the rating is provided by setting as a guest, user, or administrator.
 
 **\* Administrators can create additional ratings if more user ratings are required.**\
 Please check the posted link below on how to create a membership level.\
-&#xNAN;**☞**[ **View Membership Class Post**](../pushmember/member-group.md)
+**☞**[ **View Membership Class Post**](../pushmember/member-group.md)
 
 > And you can see the item **‘Allow the use of designated authority’**.\
 > This feature is available if you want to use only designated level permissions.\
@@ -56,7 +56,7 @@ Please check the posted link below on how to create a membership level.\
 > Therefore, if you want to use the bulletin board only at a certain level, check the Allow use of designated authority function.\
 > Board designated authority using methods, Please check the following links posted.
 >
-> **☞**[**View how to use the authority to designate a bulletin board**](broken-reference/)\\
+> **☞**[**View how to use the authority to designate a bulletin board**](https://github.com/kgitae7/swing2app_doc_en/blob/main/manual/appmanage/board/broken-reference/README.md)\\
 >
 > \
 > Otherwise, use it with normal privileges.\
@@ -89,6 +89,6 @@ By setting permissions on the bulletin board, you can operate the bulletin board
 
 We hope that the manual was helpful in the app operation.\
 \
-&#xNAN;**☞**[**Go to the bulletin board manual**](create-bulletinboard.md)
+**☞**[**Go to the bulletin board manual**](create-bulletinboard.md)
 
 **☞** [**Go to the bulletin board input method**](post-write.md)

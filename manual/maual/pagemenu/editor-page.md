@@ -85,7 +85,7 @@ In this case, place the editor page on the home screen.
 2. **Select User Page**
 3. **Click Link Wizard button**
 4. **Select the newly added editor page in the User page window and select the ‘Apply’ button.**\
-   &#xNAN;**(If you do not see the added editor page, refresh it.)**
+   **(If you do not see the added editor page, refresh it.)**
 5. **Select the Apply button at the bottom and press the Save.**
 
 <mark style="color:blue;">**You can check the editor page reflected through the app virtual machine.**</mark>
@@ -117,7 +117,7 @@ You can enter text and register an image to create it.
 You can also register your video.
 
 \
-&#xNAN;**\[Editor page production]**
+**\[Editor page production]**
 
 Editor pages can be customized to your style.
 

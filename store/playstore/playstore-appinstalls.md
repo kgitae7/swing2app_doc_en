@@ -12,7 +12,7 @@ This manual will tell you how to check the number of Google Play Store app insta
 
 **▶ The Google Developer console site allows you to register your app and see a variety of information related to your app.**\
 **Please refer to swing2app posts on how to register Google developers ☞** [**\[See how to register Google Developers Account\]**](google-developer.md)\
-&#xNAN;**▶ Google developer registration costs $25 (lifetime) and if you have a developer account, you can use it to launch your app to the Play Store without any restrictions.**
+**▶ Google developer registration costs $25 (lifetime) and if you have a developer account, you can use it to launch your app to the Play Store without any restrictions.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/%EC%98%81%EB%AC%B8_%EA%B5%AC%EA%B8%80-%ED%86%B5%EA%B3%841.png)
 

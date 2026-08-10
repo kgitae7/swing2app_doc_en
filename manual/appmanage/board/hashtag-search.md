@@ -71,18 +71,18 @@ If you run multiple hash-tag options, you can use the hash-tag operator to set t
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/b87.png)
 
 \
-&#xNAN;**★What is a hash-tag operator?**\
+**★What is a hash-tag operator?**\
 The options feature allows you to set the value that is retrieved when you add several hash-tag search options.\
 You can use the hash-tags ‘AND’ and ‘OR’ operators.
 
 > **\*AND: Shows only posts that meet the intersection and search terms.**\
-> &#xNAN;**\*OR: Shows all posts including unions and search terms.**
+> **\*OR: Shows all posts including unions and search terms.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2019/01/b85.png)
 
 Two options have been added here, Job Search and Local Search.\
-&#xNAN;**-Use ‘OR’ if you want to search and show both business and region selections**\
-&#xNAN;**-Use ‘AND’ if you want only selected regions from the business categories to be shown.**\\
+**-Use ‘OR’ if you want to search and show both business and region selections**\
+**-Use ‘AND’ if you want only selected regions from the business categories to be shown.**\\
 
 **▶ App Launch screen \_ Apply hashtag operator (AND)**
 

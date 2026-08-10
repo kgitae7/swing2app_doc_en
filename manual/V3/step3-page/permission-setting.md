@@ -42,9 +42,7 @@ Through the manual, we will show you how to apply each access permission feature
 
 ​
 
-> #### 1.Set permissions: **Full Disclosure**
-
-
+> **1.Set permissions: Full Disclosure**
 
 <figure><img src="../../../.gitbook/assets/Untitled-1-Recrovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,11 +64,11 @@ You can also see the applied screen on the virtual machine on the right to check
 
 When you set the permissions to 'Full disclosure', everyone who has installed the app can access it, irrespective of their membership status.
 
-If you launch the app as a guest, you can see that the logged-in user has access to the same menu as the guest.&#x20;
+If you launch the app as a guest, you can see that the logged-in user has access to the same menu as the guest.
 
 ​
 
-> #### **2.**Permission setting: **Permission Group Disclosure**
+> **\*\*2.\*\*Permission setting: Permission Group Disclosure**
 
 ​\*\*_-Select Specific Members_\*
 
@@ -112,13 +110,13 @@ For instructions on how to create a group, please refer to the manual below.
 
 ![](../../../.gitbook/assets/gessgvered.png)
 
-If you have selected the Assigned Permissions only for Level 2 members, this is how users will see your app while accessing the menu.&#x20;
+If you have selected the Assigned Permissions only for Level 2 members, this is how users will see your app while accessing the menu.
 
 As you can see, only members of Level 2 will have access to the menu, and users who are not at that level will notice that the menu is not visible in the app.
 
 ***
 
-> #### **3.**Permission setting: Member-only selection
+> **\*\*3.\*\*Permission setting: Member-only selection**
 
 <figure><img src="../../../.gitbook/assets/Untitled-1-RecDCBovered.png" alt=""><figcaption></figcaption></figure>
 
@@ -139,7 +137,7 @@ If you select 'Private' for the access right, the menu will be accessible to all
 {% hint style="warning" %}
 <mark style="color:red;">**\[Instructions]**</mark>
 
-1\)Permission settings can be freely modified at any time after the app is created.&#x20;
+1\)Permission settings can be freely modified at any time after the app is created.
 
 \*No updates required.
 

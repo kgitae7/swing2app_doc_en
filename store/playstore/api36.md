@@ -1,8 +1,12 @@
-# How to Submit API 35 Version App Update to Google Play Store
+# How to Submit API 36 Version App Update to Google Play Store
 
 ***
 
-This guide explains how to update your app to target API level 35 on the Google Play Store.
+This guide explains how to update your app to target API level 36 on the Google Play Store.
+
+<mark style="color:red;">**API Level 36 applies only to apps built or updated on or after August 5, 2026.**</mark>
+
+<mark style="color:red;">**Apps built before this date will not have API Level 36 applied, so please make sure to update your app on or after August 5, 2026.**</mark>
 
 **Important:**
 
@@ -47,9 +51,13 @@ If not, simply click "Submit" to proceed.
 {% hint style="success" %}
 Please update your app via the Swing2App creation system.
 
-The Swing2App platform now supports API level 35.
+The Swing2App platform now supports API level 36.
 
 To reflect this update, users must rebuild their app and submit the new version to the Play Store.
+
+<mark style="color:red;">\*API Level 36 applies only to apps built or updated on or after August 5, 2026.</mark>
+
+<mark style="color:red;">Apps built before this date will not have API Level 36 applied, so please make sure to update your app on or after August 5, 2026.</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/앱제작en.png" alt=""><figcaption></figcaption></figure>
@@ -126,8 +134,6 @@ Go to the [Google Play Console](https://play.google.com/console/u/0/developers)
 
 <figure><img src="../../.gitbook/assets/앱제작2en.png" alt=""><figcaption></figcaption></figure>
 
-
-
 * Go to  [**Manager>Manage Version> Product History**](https://www.swing2app.com/view/app_work_history)**.** and click **\[Get AAB File]**.
 
 {% hint style="danger" %}
@@ -138,14 +144,14 @@ Go to the [Google Play Console](https://play.google.com/console/u/0/developers)
   The update file type must match the original release format (APK or AAB).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/36타켓1.png" alt=""><figcaption></figcaption></figure>
 
 5\)In the **App Bundle** section, click **\[Upload]** and select your AAB file.
 
 After uploading, check that:
 
 * **API Level** is listed as **21 or higher**
-* **Target SDK** is listed as **35**
+* **Target SDK** is listed as **36**
 
 Then click **Next**.
 
@@ -197,19 +203,17 @@ Please review the Google rejection message and take the necessary actions.
 
 
 
-## **3.API 35 Policy Violation Resolved Message**
+## **3.API 36 Policy Violation Resolved Message**
 
-<div align="left"><figure><img src="../../.gitbook/assets/APIen.png" alt=""><figcaption></figcaption></figure></div>
-
-<figure><img src="../../.gitbook/assets/API2en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/api36_영문.PNG" alt=""><figcaption></figcaption></figure>
 
 After your app is updated, you should see a message indicating the policy issue is resolved.
 
 Check for the message:
 
-> _"Your app must target Android 15 (API level 35) or higher – Issue resolved."_
+> _"Your app must target Android 16 (API level 36) or higher – Issue resolved."_
 
-This confirms that the API 35 compliance has been properly processed.
+This confirms that the API 36 compliance has been properly processed.
 
 > Note: This message may take up to 24 hours to appear after the update.\
 > If it doesn’t appear immediately, please wait a day and check again.

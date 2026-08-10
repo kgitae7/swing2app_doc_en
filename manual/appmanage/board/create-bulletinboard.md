@@ -8,9 +8,7 @@ description: Guide to entire process of creating a board and adding it to the ap
 
 ## STEP1. Create Bulletin board
 
-
-
-### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Create a board</mark>
+### <mark style="color:blue;">**1.**</mark> <mark style="color:blue;">Create a board</mark>
 
 To create a Bulletin board, follow the below step:
 
@@ -22,15 +20,11 @@ To create a Bulletin board, follow the below step:
 4. Click **Create Bulletin Board** on the top right corner of the Bulletin Board page.
 5. **Bulletin Board and Feature Settings** window will open
 
-
-
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b2-e1587040209175.png)
 
-> \*User list of bulletin board already present in the system. These are default bulletin boards provided by Swing2App. User may use these boards or can delete them.&#x20;
+> \*User list of bulletin board already present in the system. These are default bulletin boards provided by Swing2App. User may use these boards or can delete them.
 >
 > \*User can create bulletin board by either creating a new board from **Create Bulletin Board** or by clicking on **Settings** of default bulletin board.
-
-
 
 ### <mark style="color:blue;">**2. Bulletin Board and feature setting: Basic Setting**</mark>
 
@@ -46,11 +40,7 @@ Please follow the below steps:
 8. Select Designated permission(This option is to select whether to use the bulletin board only for a specific member group designated by the administrator).
 9. Click **Save.**
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b4.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/b4.png" alt=""></div>
 
 **NOTE:**
 
@@ -65,9 +55,7 @@ Please follow the below steps:
 
 **☞** [**Go to Board Setting Permission**](board-permission.md)
 
-**☞** [**Use Board Authority**](broken-reference)
-
-
+**☞** [**Use Board Authority**](https://github.com/kgitae7/swing2app_doc_en/blob/main/manual/appmanage/board/broken-reference/README.md)
 
 ### <mark style="color:blue;">**3. Board and function setting: Advanced style**</mark>
 
@@ -75,11 +63,7 @@ Please follow the below steps:
 
 <mark style="color:red;">**Go to the Advanced Style item at the top.**</mark>
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b5.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/b5.png" alt=""></div>
 
 9\) **Advanced Style** Options Posts Settings​
 
@@ -95,8 +79,6 @@ Please check and edit the necessary items according to the app operation.
 
 10\) Click the **Save** button to complete the board creation.
 
-
-
 <mark style="color:orange;">**\[Created board]**</mark>
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b3.png)
@@ -111,15 +93,11 @@ In this way, you can continue to add as many boards as you need.
 
 \*Paid version app: Basic) 100, Expandable) 300, Premium) Unlimited production available
 
-
-
 Create a bulletin board, and do not worry because you can freely edit it for your desired style and use.
 
 You can just create it your way.
 
 See how it looks in your app and edit it to your desired style.
-
-
 
 A lot of the various functions used to generate a regular bulletin board in addition.​
 
@@ -127,19 +105,15 @@ All of these functions are provided in a manual, so please check them together w
 
 <mark style="color:red;">**\*TIP:**</mark> Next to each menu is Blue **?** icon(question mark) icons are listed. If you press the button, you will be taken to the manual.
 
-
-
 ### ​<mark style="color:blue;">4. Learn about other bulletin board features</mark>
 
 In addition to creating general bulletin boards, there are many functions of bulletin boards. All of these functions are provided in the manual, so please check them together when operating!
-
-
 
 <mark style="color:orange;">**1. Set Post**</mark>
 
 **1)Writing**
 
-If there is a list of answers that all users should receive the same, the administrator can provide the users with the questionnaire on the bulletin board in advance.&#x20;
+If there is a list of answers that all users should receive the same, the administrator can provide the users with the questionnaire on the bulletin board in advance.
 
 **▶** [**How to write a bulletin board**](bulletinboard-form.md)
 
@@ -149,11 +123,7 @@ If there is a list of answers that all users should receive the same, the admini
 
 **▶**[**How to create a bulletin board**](filling-form.md)
 
-<div align="left">
-
-<img src="https://support.swing2app.com/wp-content/uploads/2018/09/b6.png" alt="">
-
-</div>
+<div align="left"><img src="https://support.swing2app.com/wp-content/uploads/2018/09/b6.png" alt=""></div>
 
 <mark style="color:orange;">**2. Admin Settings**</mark>
 
@@ -203,17 +173,15 @@ You can set different search options for each app.
 
 **▶** [**\[Details on how to use hash tags\]**](hashtag-search.md)
 
-![](https://support.swing2app.com/wp-content/uploads/2018/09/ad\_style.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/09/ad_style.png)
 
 ***
-
-
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 ## **STEP2. Apply the bulletin board created in the app**
 
-&#x20;<mark style="color:blue;">**If you create a bulletin board, should you apply the bulletin board to the app?**</mark>
+<mark style="color:blue;">**If you create a bulletin board, should you apply the bulletin board to the app?**</mark>
 
 1\. When using the App MakerV3 version
 
@@ -229,21 +197,17 @@ You can set different search options for each app.
 
 5\. Select \[Bulletin Board].
 
-6\. Check the board to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)&#x20;
+6\. Check the board to register, and then select the \[Apply] button. (Hover over the mouse cursor on the page to open the Apply button)
 
 <mark style="color:red;">\*I didn't create a bulletin board, but I can see that there is a bulletin board. This is a board that is provided as a sample in the Swing2App. Therefore, before using the board, please create only the board to be used in \*App Operation-Service Management-Board Management, and delete the board that you do not use. After cleaning up the operation of the board, please register the board to be applied to the app.</mark>
 
 7\. Press the \[Save] button at the top of the screen to apply it to the app.
 
-
-
-
-
-### 2.When using the app production V2 Version&#x20;
+### 2.When using the app production V2 Version
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/b10-e1587040361800.png)
 
-On the Swing2App Maker(V2), go to the Page menu.&#x20;
+On the Swing2App Maker(V2), go to the Page menu.
 
 1. From the menu set by default, click the **Add a category** to add a new menu.
 2. Edit the name of the added item in **Menu Name.**
@@ -252,8 +216,6 @@ On the Swing2App Maker(V2), go to the Page menu.&#x20;
 5. Select the board from the list of Bulletin Boards in the Link Wizard window.
 6. Click on **Reflect.**
 7. Click on **Apply** and then **Save.**
-
-
 
 The bulletin board you have created must be applied to the app menus on the app production page so that it is reflected in the app.
 
@@ -267,19 +229,15 @@ For more information on how to enter a post please refer to the relevant post.
 
 ## STEP3.App launch screen- Bulletin board application screen
 
-<div align="left">
+<div align="left"><img src="../../../.gitbook/assets/rgrhh-2.png" alt=""></div>
 
-<img src="../../../.gitbook/assets/rgrhh-2.png" alt="">
-
-</div>
-
-Since bulletin boards provide various UI styles, each board is displayed in the app in a different style.&#x20;
+Since bulletin boards provide various UI styles, each board is displayed in the app in a different style.
 
 When you select a board linked to the menu, the \[List View] screen is displayed, and tapping the post title or image moves the → to \[Post Details View].
 
 <figure><img src="../../../.gitbook/assets/구분선 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
-## STEP4.  Notice Board&#x20;
+## STEP4. Notice Board
 
 1\) If you are new on Swing2App, you do not have to create a bulletin board.
 
@@ -295,7 +253,7 @@ When specifying a thumbnail image for a post, be sure to select \[Attach photo] 
 
 If you attached an image into the text (body), the image is recognized as text and cannot be specified as a thumbnail.
 
-**Therefore, when you specify a thumbnail image in the post, please register as an attached image.**&#x20;
+**Therefore, when you specify a thumbnail image in the post, please register as an attached image.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/09/bb3.png)
 
@@ -312,6 +270,3 @@ If you attached an image into the text (body), the image is recognized as text a
 If you upload a large number of images, the capacity will be counted accordingly.
 
 \*You can check the usage of the app on the <mark style="color:purple;">**Manager → Services → Resources**</mark>
-
-
-

@@ -32,7 +32,7 @@ In the app sign-up policy, set the scope of the App Privacy to **Private(Availab
 <mark style="color:blue;">**▶App Launch Screen**</mark>
 
 When you run the private app you won’t have direct access to the app.\
-&#xNAN;**‘This is a Private app. Please log in.’** Message appears.\
+**‘This is a Private app. Please log in.’** Message appears.\
 Also, if the user is not authorized to even after registering **‘Unauthenticated user. Contact Administrator for authentication’** message appears.
 
 Therefore, <mark style="color:red;">**even if a user registers for the private app, the app can not be used without the administrator’s approval. Users can use the app after admin approval.**</mark>\

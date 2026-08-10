@@ -4,7 +4,7 @@
 
 We will show you how to redeem your offer from the checkout menu.\
 \
-&#xNAN;**▶What is a coupon?**
+**▶What is a coupon?**
 
 Coupons are used in the Online Stores menu\
 \*Services – Coupons management (create a coupon and distribute it to app users) menu and other services.
