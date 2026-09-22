@@ -1,6 +1,6 @@
 # How to apply for Google Play Store Upload
 
-![](https://support.swing2app.com/wp-content/uploads/2018/10/play\_up.png)
+![](https://support.swing2app.com/wp-content/uploads/2018/10/play_up.png)
 
 **How to Apply for Google Play Store Upload**
 
@@ -16,6 +16,8 @@ Then the app will go to the market… Think about it!
 
 **\[Apply for Play Store upload] can be registered in the market after the representative checks the app.**
 
+
+
 <mark style="color:blue;">**Q. Where and how do I apply for upload?**</mark>
 
 Application for upload goes to the swing2app Manager page → Manage Version → Production History.
@@ -26,23 +28,50 @@ Pressing the corresponding button brings up the application form window.
 
 **Please fill out the form and the representative will upload the app to the Play Store.**
 
+
+
 <mark style="color:blue;">**Q. When I upload, will the app be released to the Play Store immediately?**</mark>
 
-We will upload the app to the Play Store on behalf of Swing2App.
+Swing2App will upload your app to the Google Play Store on your behalf.
 
-It will not be released immediately but will be first reviewed by Google Apps.
+However, the app will not be released immediately after the upload. It must first go through Google’s app review process.
 
-**Google app review takes 1 to 3 days. Therefore, uploading does not mean that your app will be released immediately.**
+**The Google Play review process may take up to 10 days.**
 
-**If there are no issues after the review, we will launch to the store normally after the review period.**
+**\*For new developer accounts, the review may take longer than 10 days.**
 
-However, the release time may be longer because it may be rejected.
+Therefore, uploading the app does not mean that it will be available on the Google Play Store immediately.
+
+If no issues are found during the review, the app will be published on the Google Play Store once the review is completed.
+
+However, if the app is rejected during the review process, additional changes and re-submission may be required.&#x20;
+
+In such cases, it may take longer for the app to be released.
+
+
+
+<mark style="color:$primary;">**Q.A Google Developer account is required to register and publish an app on the Google Play Store.**</mark>
+
+<mark style="color:$primary;">**How do I create a Google Developer account?**</mark>
+
+To publish an app on Google Play, you must have your own Google Developer account.
+
+**For developer accounts created after November 2023, you must select “Organization” as the account type.**
+
+Apps cannot be published using a newly created Personal Developer account.\
+_&#x50;ersonal Developer accounts created before November 2023 may still be eligible for app publishing._
+
+[View the guide on how to create a Google Developer Organization account](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
+
+
 
 **\*Before applying to upload Play Store, please make sure you have a Google Developer account**.
 
-The Play Store requires a user’s Google Developer account to register.&#x20;
+The Play Store requires a user’s Google Developer account to register.
 
 If you do not have a developer account, please make a $25 payment through [https://play.google.com/apps/publish/](https://play.google.com/apps/publish/) Developer Console site.
+
+
 
 <mark style="color:orange;">**★ Please refer to the manual on how to upload the App Store!!**</mark>
 
@@ -58,7 +87,7 @@ If you do not have a developer account, please make a $25 payment through [https
 
 Complete the purchase of the Swing2App paid app voucher and app store upload ticket.
 
-**Move to Manager Page → Manage Version → Production History page and press the \[Play Store Upload Request] button.**
+Move to [Manager Page → Manage Version → Production History ](https://www.swing2app.com/view/app_work_history)page and press the \[Play Store Upload Request] button.
 
 ***
 
@@ -66,28 +95,28 @@ Complete the purchase of the Swing2App paid app voucher and app store upload tic
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/playstore.png)
 
-If you press the upload application button, the upload application popup window will appear. &#x20;
+If you press the upload application button, the upload application popup window will appear.
 
 Please enter the items.
 
-&#x20;**\*** Items marked in <mark style="color:red;">**red**</mark> are required.
+**\*** Items marked in <mark style="color:red;">**red**</mark> are required.
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/%EC%98%81%EB%AC%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%85%EB%A1%9C%EB%93%9C1.png)
 
-&#x20;Select the <mark style="color:blue;">**question ‘ ? ’ mark**</mark> icon to see the guidelines!
+Select the <mark style="color:blue;">**question ‘ ? ’ mark**</mark> icon to see the guidelines!
 
-Please indicate how the item appears in the Play Store.&#x20;
+Please indicate how the item appears in the Play Store.
 
 ***
 
 ### <mark style="color:blue;">**3. Guidelines for Filling Out the Play Store Upload Application**</mark>
 
-**The guidelines will explain how to fill out an upload application.**&#x20;
+**The guidelines will explain how to fill out an upload application.**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/h15.png)
 
 1. Market Launch App Name: Please enter the name of the app that will be released on the Play Store.\
-   <mark style="color:red;">\*\* If you write your app name and released the app name differently, it will be listed as the release name in the Play Store.</mark>&#x20;
+   <mark style="color:red;">\*\* If you write your app name and released the app name differently, it will be listed as the release name in the Play Store.</mark>
 2. Brief description: Please enter a brief introduction to the app. (Less than 80 characters)\
    <mark style="color:red;">Caution: Please do not put the app reviews, keywords repeatedly (dogs, dogs, pets, dogs, dogs …)</mark>\ <mark style="color:red;">Since it is a Google policy, please register after entering the relevant information.</mark>
 3. Detailed description: Please provide a detailed description of the app. (4000 characters or less)\
@@ -108,8 +137,7 @@ To edit the usage policy, such as the Privacy Policy, you can press the <mark st
 8\. **Target layers and Content**\
 **This item is checked under Google’s policy to ensure that the app is safe for children.**\
 Choose whether your app attracts children’s attention or not.\
-Because the final decision is made by Google review, the review may be rejected if the answer you checked is incorrect.\
-
+Because the final decision is made by Google review, the review may be rejected if the answer you checked is incorrect.\\
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/playup.png)
 
@@ -135,31 +163,37 @@ Because the final decision is made by Google review, the review may be rejected 
 
 You don’t have to give your Google Developer account – username and password with Swing2App.
 
-If you invite Swing2App’s developer account (swing2app.developer@gmail.com) from the Google Developers Console, we can register your app with your account after accepting the invitation.
+If you invite Swing2App’s developer account (swing2appdev@gmail.com) from the Google Developers Console, we can register your app with your account after accepting the invitation.
+
+
+
+**You can use your Google Developer account after paying Google’s one-time registration fee of USD 25.**
+
+**Please make sure to register as an “Organization” developer account. Swing2App’s app registration service is available only for Organization developer accounts.**
+
+{% embed url="https://documentation.swing2app.com/store/playstore/create-a-google-developer-business-account" %}
 
 So if you apply for upload in this way,
 
-\-You do not need to expose your password.
+-You do not need to expose your password.
 
-\-Even if your login is blocked because of your Google identity, it can be prevented!
-
-
+-Even if your login is blocked because of your Google identity, it can be prevented!
 
 **10) Swing Store Release and Marketing Information Agreement (optional)**
 
 ![](https://support.swing2app.com/wp-content/uploads/2018/10/markrev.png)
 
-**▶ What are the terms of the **<mark style="color:orange;">**use of marketing information?**</mark>
+**▶ What are the terms of the** \*\*<mark style="color:orange;">**use of marketing information?**</mark>
 
 In the upload form, there is a View Marketing Terms and Conditions button.
 
 Select the button and check the contents.
 
-\-If you agree, your app will be introduced to the marketing channel of Swing2App, and the swing store will be released.
+-If you agree, your app will be introduced to the marketing channel of Swing2App, and the swing store will be released.
 
 As a thank you, you will receive a free Play Store upload ticket.
 
-\-If you do not want to be introduced to the marketing channel, please check the ‘I do not agree’.
+-If you do not want to be introduced to the marketing channel, please check the ‘I do not agree’.
 
 \* You can use the Play Store Upload for free if you participate in the event, even if you do not purchase the Play Store Upload Ticket after purchasing the ticket only.
 
@@ -173,7 +207,7 @@ If you agree to the use of marketing information, and later withdraw your market
 
 Please check it out!
 
-**If you have already used a free Play Store upload ticket, you will have to pay a $5 ticket.**
+**If you have already used a free Play Store upload ticket, you will have to pay a $20 ticket.**
 
 Please check the details before proceeding.
 
@@ -193,7 +227,7 @@ When the upload request comes in, our Market Upload team will register the app w
 
 The Play Store has a review time, the app will not be launched immediately after uploading.
 
-**There is a minimum screening period of 1 to 3 days, so please feel free to apply!**
+**The Google Play review process may take up to 10 days.**
 
 \* If you apply for uploading within the working hours, we will proceed immediately within the same day, but if you apply for uploading outside of the working hours and on weekends, it will not be checked on the same day and will be processed in order during weekdays.
 
@@ -201,16 +235,63 @@ Please note that when applying for uploading.
 
 ***
 
-<mark style="color:red;">**\[Guide]**</mark>
+### 5. Important Information
 
-1. **A $5 upload ticket is a one-time fee.**\
-   If you update the released app and upload it again, or if you edit the app description or screenshot image in the store, you must re-apply the upload after purchasing the upload ticket.\
-   \*Updates also have reviewing time, and app updates usually take a few hours.
-2. Google does not need to purchase an upload ticket, but users can directly access the Google Console site and edit it freely. (You can register directly because you have a Google Developer account)
-3. The Play Store review period is from **1** **to 3 days**. If there are no issues with the review, they will be released after the review period.\
-   \-If you apply for upload outside of business hours and on weekends, you will not be able to review on the same day.\
-   If you refuse to upload, we will send you an email with your rejection and action. \* Re-examination will be conducted at no additional cost.\
-   \-If you receive an email, you must reply to the action to proceed with the review. If you do not reply within a week, the upload will be placed on hold. (If you have any pending registration, please contact us again and we will proceed with the review)
-4. Please make sure to create your own Google Developer account before applying for Play Store upload. (Google developer registration fee is $25)
-5. We do not pay your Google Developer account on behalf of Swing2App, and you can only use your account.
-6. Unused tickets are 100% refundable, but **ticket refunds are not available for apps that have already been registered, even if they have already been used as an upload application or the review is rejected and not released normally.**
+**1) The upload ticket fee of $20 is charged per upload request.**
+
+If you need to update an app that has already been released, or modify information on the store such as the app description or screenshots, you must purchase another upload ticket and submit a new upload request.
+
+_App updates are also subject to review. The update process usually takes approximately 1–3 days._
+
+**2) For Google Play, you can make changes directly in the Google Play Console without purchasing an upload ticket.**
+
+Since the app is registered under your own Google Developer account, you may log in to the Google Play Console and update the app information yourself at any time.
+
+**3) The Google Play review process may take up to 10 days.**
+
+If no issues are found during the review, the app will be released after the review is completed.
+
+* Upload requests submitted on weekends or outside business hours cannot be processed on the same day. Requests are handled sequentially during regular business hours on weekdays.
+* If the app is rejected during review, we will send you an email explaining the reason for rejection and the required actions.
+* Re-submission after a rejection is provided at no additional cost.
+* Once you receive the email, you must reply after completing the requested actions so that we can proceed with the re-submission.
+* If we do not receive a response within one week, the upload request will be placed on hold. You may contact us again later to resume the review process.
+
+**4) Before submitting a Google Play upload request, you must create your own Google Developer account in advance.**
+
+A one-time Google Developer registration fee of USD 25 applies.
+
+[View the guide for creating a Google Developer Organization account](https://documentation.swing2app.co.kr/knowledgebase/playstore/google-businessdeveloper)
+
+**5) Swing2App does not make Google Developer account payments on behalf of users.**
+
+You must create and use your own individual Google Developer account.
+
+**6) Swing2App does not provide upload services for paid apps on Google Play.**
+
+Our Google Play upload service is available only for apps that are distributed for free.
+
+We do not provide upload assistance for paid app releases.
+
+**7) Unused upload tickets are eligible for a 100% refund.**
+
+However, once a ticket has been used to submit an upload request, it cannot be refunded.
+
+This also applies if the app is rejected during review or is ultimately not released successfully. Once the app registration process has been initiated using the ticket, the ticket is considered used and is non-refundable.
+
+**8) Even after an app is successfully released on Google Play, it may not immediately appear in search results when searching by the app name.**
+
+To help prevent indiscriminate app publishing, Google may evaluate factors such as app activity and installation volume before making an app more visible in search results.
+
+Therefore, if your app does not appear immediately when searching by its name, this does not necessarily indicate a problem.
+
+Please allow some time for the app to become searchable. Increasing the number of installations and receiving user ratings and reviews may also help improve the app's visibility.
+
+
+
+
+
+
+
+
+
